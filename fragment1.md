@@ -415,7 +415,7 @@ body { overflow-x: hidden }
 
 I'd like to thank you all for your attendance. I understand your time is precious, ladies and gentlemen, so I'll do my best to make this -- oh, well? Right to it. First slide, please?
 
-　紳士淑女の皆様がた、ご出席に感謝します。貴重なお時間を拝借しますので、私もこの発表を--　　--いえ、本題に入りましょうか。　それじゃ、最初のスライドいただける？
+　紳士淑女の皆様がた、ご出席に感謝いたします。貴重なお時間を拝借しますので、私もこの発表を--　　--いえ、本題に入りましょうか。　それじゃ、最初のスライドいただける？
 
 So! Consider the cognitohazard agent as traditionally employed by the Foundation to protect both its documents and its facilities. How exactly is it that they work? Next slide.
 
@@ -427,15 +427,15 @@ In terms of visual cognitohazards, it's not as simple as targeting the lateral g
 
 Though there's been good work done over the years, insofar that we have agents that can influence behavior, render viewers unconscious, or outright induce a grand mal seizure, visual cognitohazards have their limits.
 
-　長年の素晴らしい研究の結果、われわれは視覚を通じて様々な認識災害を起こすことができます。行動に影響を及ぼしたり、失神させたり、あるいは問答無用で大発作を引き起こしたり。どれも大変結構ですが、従来の視覚的認識災害にはやはり限界があります。
+　長年の素晴らしい研究の結果、われわれは視覚を通じて様々な認識災害を起こすことができます。行動に影響を及ぼしたり、失神させたり、あるいは問答無用の大発作を引き起こしたり。どれも大変結構です。が、従来の視覚的認識災害にはやはり限界があります。
 
 By a show of hands, are any of you familiar with Sumerian cuneiform?
 
-　皆様の中にシュメールの楔形文字がわかる方はおられますか？　手を挙げてくださるかしら？
+　皆様の中にシュメールの楔形文字がわかる方は--　　--手を挙げてくださる？
 
 Excellent. Next slide, please?
 
-　素晴らしい。では次のスライドを--　　--
+　素晴らしいですわ。では次のスライドを。
 
 [[div class="scp-image-block block-center" style="width: 100%"]]
 [[image https://scp-wiki.wikidot.com/local--files/9000contestpanloque/remember_us_cuneiform.webp]]
@@ -443,13 +443,19 @@ Excellent. Next slide, please?
 
 Haha! Bit of a jumpscare for some of you, huh? You must be read-in to the SCP this cognitohazard protects, and I'm sure the wheels are beginning to turn. For our more stone-faced members: the cuneiform you see in the upper-right quadrant of this image, in normal circumstances, would say "remember us" in English bordered on either side by ellipses.
 
-　
+　ごめんあそばせ！　ちょっと驚かせちゃったかしら？　これが保護しているSCPをよく読み込んでおられる方なら、もうピンと来てることでしょう。ですが何が何やらという方のために、少し補足させてもらいます。この画像の右上あたりにある楔形文字は、英語で言うところの「remember us」という意味で、このフレーズは両側を三点リーダで挟まれています。
 
 Yes? Ah! No, don't worry -- if that were the case, it'd be an infohazard. Don't worry about intentionally picturing it in one's mind's eye; imagination is merely simulation, and an imperfect one at that. You'd need to directly visually process it in totality for it to be effective. **That** is our limitation.
 
+　はい？　いいえ、ご心配なさらず。もしそれがそうであるとしたら、これは情報災害です。もし元の画像を心の中で描いてしまったとしても、大丈夫です。想像とは模擬にすぎません。それゆえに不完全なのです。この効果を発揮するためには、直に視認しなければならないのです。これこそが、われわれの限界です。
+
 Even in cases where text does not contribute to the presentation of the cognitohazard, one still has to account for identity, for culture. This is all to say: perception is inherently subjective, and thus there is no //objective// means through which to effectively convey a cognitohazard.
 
+　テキストが認識災害の発現に関わらない場合も、われわれは対象のアイデンティティや、文化的背景を考慮しなければなりません。つまるところこうです。認識とは、本質的に主観的であり、客観的な認識災害をもたらす手法は存在しない……。
+
 Until today. Next slide, please.
+
+　ですが、それも今日までです。次のスライドを。
 
 [[div class="scp-image-block block-center" style="width: 100%"]]
 [[image https://scp-wiki.wikidot.com/local--files/9000contestpanloque/langfordfractal.webp]]
@@ -457,13 +463,23 @@ Until today. Next slide, please.
 
 Everyone, please! Please! It's alright. Director? Director, please, calm down. Look around you -- everyone is unharmed. Let's get off this slide.
 
+　皆さま！　大丈夫！　大丈夫ですから！　管理官？　どうぞ冷静になって。誰も傷ついていませんよ。さっさと次のスライドに行きましょう。
+
 What you just saw was a visualization from a fractal mathematical set, an image that instills in its viewers a mild sense of dizziness. I understand this in itself is not impressive, but what is notable is its versatility. This image achieves a 100% efficacy rate amongst human volunteers, vastly outperforming the previous 61% record. It has even expressed its effects to some degree in animal testing. This is the real deal.
+
+　たった今皆さまがご覧になったのは、数学におけるフラクタル集合を視覚化したものです。これを視認した者は、少し目眩のような感覚を覚えるはずです。この効果自体は、大したものではありません。真に特筆すべきは、万能性です。人間の志願者に対して、この画像が100%の有効性を示しました。これまでの最高記録記録であった61%など、もはや比較にもなりません。動物に対する試験においてさえも、一定の効果を示しています。どうですか。モノが違うでしょう。
 
 Future memeticists need not be concerned with trivialities such as //'context'// and //'culture'// -- mathematics is absolute. Think of it: fractals are a universal component of nature, underpinning reality itself! From the infinitesimal expression of bacterial proteins to the macroscopic ordered chaos of the universe itself, it all comes down to the complex interplay of numbers and figures; the interdimensionality of fractal systems. The language of the universe.
 
+　未来のミーム学者は、もはや「文脈」や「文化」などという些事に囚われwう必要はないのです。数学こそが絶対です。考えてもみてください。フラクタルは、自然の普遍的構成要素です。現実そのものの基礎となっているのですよ！　細菌タンパクなどのミクロの世界から、宇宙全体の秩序ある混沌といったマクロ世界まで、全て結局は数字と図形の複雑な相互作用--　　--つまりフラクタルの多次元性であって、それこそが宇宙の言語なのです。
+
 What you've seen today is much, much less than a mere tip of the iceberg. The fractal space is infinite, and we've barely begun exploring it -- and I'm looking for computer science expert collaborators to help me explore it even faster.
 
+皆さまが本日目撃したものは、氷山の一角のさらに隅にすぎません。フラクタル空間は無限です。そしてわれわれは、その中に立ち入ったばかりです。そして私はいま、共同研究者に計算機科学の専門家を求めています。フラクタル空間の探索を、より早めるために。
+
 Today you have //felt// the utility of my work. We have only scraped the surface, ladies and gentlemen. Together, let us discover its depths.
+
+本日、皆さまはこの研究の実用性を肌で感じたことでしょう。ですが、これは極めて表層的なものです。紳士淑女の皆さまがたと共に、その深みまで行けることを期待しております。
 [[/div]]
 
 -----
@@ -471,18 +487,18 @@ Today you have //felt// the utility of my work. We have only scraped the surface
 [[table style="border: none; width: 100%;"]]
 [[row]]
 [[cell]]
-[[size 125%]]**Item #:** SCP-9001[[/size]]
+[[size 125%]]**アイテム番号:** SCP-9001[[/size]]
 [[/cell]]
 [[cell style="text-align: right;"]]
-[[size 125%]]###990000|**Level 4/9001**##[[/size]]
+[[size 125%]]###990000|**レベル4/9001**##[[/size]]
 [[/cell]]
 [[/row]]
 [[row]]
 [[cell]]
-[[size 125%]]**Object Class:** Thaumiel[[/size]]
+[[size 125%]]**オブジェクトクラス:** Thaumiel[[/size]]
 [[/cell]]
 [[cell style="text-align: right;"]]
-[[size 125%]]###990000|**Classified**##[[/size]]
+[[size 125%]]###990000|**機密**##[[/size]]
 [[/cell]]
 [[/row]]
 [[/table]]
@@ -490,13 +506,16 @@ Today you have //felt// the utility of my work. We have only scraped the surface
 [[div class="scp-image-block block-center" style="width:100%;"]]
 [[image https://scp-wiki.wikidot.com/local--files/9000contestpanloque/controlroom.webp alt=""]]
 [[div class="scp-image-caption"]]
-SCP-9001 production centre, Site Romero-5.
+サイト・ロメロ-5。SCP-9001の生産拠点。
 [[/div]]
 [[/div]]
 
 -----
 
 **Special Containment Procedures:** Once per quarter, Fractal Cognitohazardous Images (FCI) produced through SCP-9001 are to be forwarded via dedicated secure fiber-optic cable to Protected Site-7. All FCIs must be transmitted alongside research data describing the effects of each image. These packages are to be analyzed by second-generation [[span class="hoverlink"]][[[aiad-homescreen|AIC]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]Artificially Intelligent Conscripts[[/span]][[span class="hoverlink-text"]]Sentient digital agents developed by the Artificial Intelligence Applications Division (AIAD). AICs operate by a loose set of Standard Principles that ensures they adhere to Foundation protocol and work in the interest of the organisation at all times. [[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/aiad-homescreen/itlogo3.png/small.jpg)"]]-[[/span]][[/span]][[/span]] to corroborate their stated effects and catalogue according to their intensity.
+
+**特別収容プロトコル:** 四半期に一度、SCP-9001によって生成されたフラクタル認識災害画像(FCI)は、各画像の効果を記述した研究データと共に、専用かつセキュアな光ファイバケーブルを通じて、プロテクション・サイト-7へ転送されます。
+これらのパッケージは、第二世代[[span class="hoverlink"]][[[aiad-homescreen|AIC]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]人工知能徴募員[[/span]][[span class="hoverlink-text"]]人工知能適用課(AIAD)によって開発された、知能をもつデジタル・エージェント。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/aiad-homescreen/itlogo3.png/small.jpg)"]]-[[/span]][[/span]][[/span]
 
 Catalogued FCIs and their innoculants, if any, are to be individually contained on isolated external hard drives in Protected Site-7's Secure Data Storage. Third-Order and Second-Order FCIs may be requisitioned by personnel with Level 3 clearance for research, testing, field use, and D-Class procurement.
 
