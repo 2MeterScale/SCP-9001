@@ -443,7 +443,7 @@ Excellent. Next slide, please?
 
 Haha! Bit of a jumpscare for some of you, huh? You must be read-in to the SCP this cognitohazard protects, and I'm sure the wheels are beginning to turn. For our more stone-faced members: the cuneiform you see in the upper-right quadrant of this image, in normal circumstances, would say "remember us" in English bordered on either side by ellipses.
 
-　ごめんあそばせ！　ちょっと驚かせちゃったかしら？　これが保護しているSCPをよく読み込んでおられる方なら、もうピンと来てることでしょう。ですが何が何やらという方のために、少し補足させてもらいます。この画像の右上あたりにある楔形文字は、英語で言うところの「remember us」という意味で、このフレーズは両側を三点リーダで挟まれています。
+　ごめんあそばせ！　ちょっと驚かせちゃったかしら？　これが保護しているSCPに対するアクセス権をお持ちの方なら、もうピンと来てることでしょう。ですが何が何やらという方のために、少し補足させてもらいます。この画像の右上あたりにある楔形文字は、英語で言うところの「remember us」という意味で、このフレーズは両側を三点リーダで挟まれています。
 
 Yes? Ah! No, don't worry -- if that were the case, it'd be an infohazard. Don't worry about intentionally picturing it in one's mind's eye; imagination is merely simulation, and an imperfect one at that. You'd need to directly visually process it in totality for it to be effective. **That** is our limitation.
 
@@ -515,15 +515,25 @@ Today you have //felt// the utility of my work. We have only scraped the surface
 **Special Containment Procedures:** Once per quarter, Fractal Cognitohazardous Images (FCI) produced through SCP-9001 are to be forwarded via dedicated secure fiber-optic cable to Protected Site-7. All FCIs must be transmitted alongside research data describing the effects of each image. These packages are to be analyzed by second-generation [[span class="hoverlink"]][[[aiad-homescreen|AIC]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]Artificially Intelligent Conscripts[[/span]][[span class="hoverlink-text"]]Sentient digital agents developed by the Artificial Intelligence Applications Division (AIAD). AICs operate by a loose set of Standard Principles that ensures they adhere to Foundation protocol and work in the interest of the organisation at all times. [[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/aiad-homescreen/itlogo3.png/small.jpg)"]]-[[/span]][[/span]][[/span]] to corroborate their stated effects and catalogue according to their intensity.
 
 **特別収容プロトコル:** 四半期に一度、SCP-9001によって生成されたフラクタル認識災害画像(FCI)は、各画像の効果を記述した研究データと共に、専用かつセキュアな光ファイバケーブルを通じて、プロテクション・サイト-7へ転送されます。
-これらのパッケージは、第二世代[[span class="hoverlink"]][[[aiad-homescreen|AIC]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]人工知能徴募員[[/span]][[span class="hoverlink-text"]]人工知能適用課(AIAD)によって開発された、知能をもつデジタル・エージェント。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/aiad-homescreen/itlogo3.png/small.jpg)"]]-[[/span]][[/span]][[/span]
+これらのパッケージは、第二世代[[span class="hoverlink"]][[[aiad-homescreen|AIC]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]人工知能徴募員[[/span]][[span class="hoverlink-text"]]人工知能適用課(AIAD)によって開発された、意識をもつデジタル・エージェント。AICは、緩やかに定められた一連の「標準原則」に基づいて稼働する。この原則は、彼らが常に財団のプロトコルを遵守し、組織の利益に沿って行動することを保証するものである。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/aiad-homescreen/itlogo3.png/small.jpg)"]]-[[/span]][[/span]][[/span]によって分析され、記述された効果を実際に確かめた後、その強度に応じてカタログ化されます。
 
 Catalogued FCIs and their innoculants, if any, are to be individually contained on isolated external hard drives in Protected Site-7's Secure Data Storage. Third-Order and Second-Order FCIs may be requisitioned by personnel with Level 3 clearance for research, testing, field use, and D-Class procurement.
 
+カタログされたFCI、およびそのワクチンは、プロテクション・サイト-7のセキュアなデータ・ストレージ内の、隔離された外付けハードドライブに保管されます。
+第三級及び第二級FCIは、レベル3以上のクリアランスを持つ職員による請求のもと、研究、実験、実地使用、及びDクラス職員の調達を目的として利用されます。。
+
 First Order FCIs require Level 5 clearance with additional authorization from no fewer than three signatories, including the director of RAISA and at least two members of the O5 Council. All personnel read-in to SCP files and Top Secret documents protected by First Order FCI are to be given access to the necessary innoculants. FCIs are not to be handled by any personnel with a CRV[[footnote]] "Cognitive Resistance Value" - The metric which determines one's ability to withstand exposure to mind-altering sensory effects.[[/footnote]] rating of less than 9.5.
+
+第一級FCIの利用には、レベル5クリアランスに加え、RAISA長官及び2名以上のO5評議会メンバを含む、三名以上の署名による追加の認可を必要とします。第一級FCIによって保護されているSCPファイル及び最高機密文書へのアクセス権を持つすべての職員に対して、必要なワクチンが提供されます。
+また、CRV[[footnote]]「認知抵抗値」--　　--ある人物の、[[/footnote]]が9.5以下の職員は、FCIを扱うことが禁じられています。
 
 To prevent unauthorized viewing, distribution, or theft, FCIs are to be stored with quantum-proof encryption (currently AES-256) viewable only through a dedicated file-embedded module or standalone window application. Each encrypted FCI is to be uniquely keyed (currently with NIST FIPS 203, ML-KEM-1024) to be viewable only in its corresponding per-file embed or per-user window. The modules and windows employ protections against copy-pasting, screenshotting, and other capture methods. Analog printing or reproduction of FCI requires approval from the O5 Council, registration, and tracking.
 
+不正な閲覧、配布、盗難を防ぐため、FCIは耐量子暗号化(現在はAES-256を使用)を施した上で保管され、専用の埋め込み型モジュールまたはスタンドアロン・ウィンドウ・アプリケーションを通してのみ閲覧可能とされます。暗号化された各FCIは、対応するファイルごとの埋め込み、またはユーザごとのウィンドウにおいてのみ閲覧可能となるよう、一意なキー設定(現在はNIST FIPS 203, ML-KEM-1024を使用)がされます。
+
 Per Ethics Committee mandate, files containing First Order FCI are each to be preceded by a warning regarding their presence. Due to the internal prevalence of their colloquial terminology in the wake of Incident-9001-1, such warnings are to refer to First Order FCI in common parlance: "Berryman-Langford Kill Agents".
+
+倫理委員会の指定に基づき、第一級FCIを含むすべてのファイルは、その存在に関する警告を冒頭に付与される必要があります。インシデント9001-1を受け、財団内部においては第一級FCIを指す口語的用語が普及しました。そのため、当該警告文においては、その通俗的な表現である「ベリーマン=ラングフォード・ミーム殺害エージェント」という呼称を使用してください。
 
 [[div class="emergency-update"]]
 
@@ -531,6 +541,8 @@ Per Ethics Committee mandate, files containing First Order FCI are each to be pr
 + ATTENTION
 
 Special Operatives and Task Force Agents assigned to the ongoing SCP-9001-A crisis are advised to continue through to the second page of this file.
+
+現在進行中のSCP-9001-A変乱にアサインされている特殊工作員および任務部隊員は、このファイルの2ページ目まで閲覧することを推奨されています。
 
 [[/=]]
 [[/div]]
@@ -554,6 +566,7 @@ Special Operatives and Task Force Agents assigned to the ongoing SCP-9001-A cris
 [[/html]]
 [[div class="scp-image-caption"]]
 Visual traversal of a dead region within SCP-9001 exhibiting no anomalous effects.
+SCP-9001の失活領域の実例。この領域は異常な効果を示さない。
 [[/div]]
 [[/div]]
 
@@ -566,6 +579,16 @@ Visual traversal of a dead region within SCP-9001 exhibiting no anomalous effect
 * Fatal [First Order]:
  * Imagery which triggers intracranial aneurysms leading to immediate death.
 
+**説明:** SCP-9001は、ベリーマン=ラングフォード集合です。これは数学的に健全かつ比較的単純なアルゴリズムでありながら、視覚的な認識災害をもたらす能力を持ちます。コンピュータを用いて描画されたとき、SCP-9001はマンデルブロ集合に類似した自己相似図形を示します。
+SCP-9001の異常性は、その描画の中に含まれる、種々の異常な効果を示す無数の点や静止画において発現します。以下に、その異常な効果の例を挙げます。
+
+* 識閾下 [第三級]
+ * 行動を強制するために、神経伝達物質に影響を与える画像。
+* 有害 [第二級]
+ * 吐き気、発作、意識喪失などの身体的効果を誘発する画像。
+* 致死 [第一級]
+ * 即死に至る頭蓋内動脈瘤を誘起する画像。
+
 [[div class="blockquote"]]
 In more detailed terms, the human visual system can be expressed as the abstract equation [[$ f(x)=y $]], where [[$ x $]] is an image matrix (cone and rod cells in the eye, analogous to pixels for a computer), [[$ f $]] is a function that takes [[$ x $]] as input which expresses the brain's internal processing, and [[$ y $]] is the output of how the brain interprets the image. SCP-9001 is the result of a convex optimization searching over the field of possible images for an [[$ x $]] to produce a target neural output [[$ y $]] resulting in a desirable effect.
 [[>]]
@@ -573,9 +596,26 @@ In more detailed terms, the human visual system can be expressed as the abstract
 [[/>]]
 [[/div]]
 
+[[div class="blockquote"]]
+より専門的な語を用いてみよう。抽象的にいえば、人間の視覚システムは[[$ f(x)=y $]]なる関数として表現することができる。このとき[$ x $]]は画像行列(ディスプレイのピクセルに類似する、眼球内の錐体細胞および桿体細胞)、[[$ f $]]は[$ x $]]を入力として受け取る関数(脳内における処理)、[$ y $]]は脳がその画像をどう解釈したかの出力である。
+望ましい効果をもたらす標的ニューラル出力[$ y $]]を生成するための[$ x $]]を、可能な画像の領域にわたって探索する「凸最適化」こそが、SCP-9001である。
+[[>]]
+//ハイドラ計画上席研究員、ラングフォード博士//
+[[/>]]
+[[/div]]
+
 Beyond the intricate geometric patterns found within visual depictions of typical fractal sets (including swirls, intersecting lines, and self-similar shapes), FCIs derived from the Berryman-Langford set have multiple points that form markers and superstructures visually implying the presence of biological features (such as tendrils, feathers, scales and faces) despite the mathematical purity of the generation procedure. The implications of this remain unknown, but the prevailing theory is that this can be accounted for as simple pareidolia.
 
+一般的なフラクタル集合の視覚的描写に含まれる複雑な幾何学的パターン(渦巻、交差線、自己相似図形など)に加え、ベリーマン=ラングフォード集合から派生したFCIには、数学的に純粋な手段によって生成されているにも関わらず、生物学的な特徴(触手、羽毛、鱗、顔など)の存在を視覚的に示唆するマーカーや上位構造を形成する、複数の「点」が存在します。
+詳細な原因は不明なものの、最も有力な仮説において、この現象は単純なパレイドリアによるものであるとされています。
+
 While SCP-9001 was adopted with a focus on human subjects, FCIs have produced results with non-human animals. Third and Second Order FCIs show less utility due to simpler brain function, but First Order FCIs have proven efficacy in all primates and most mammals, as well as many species of arachnids.
+
+SCP-9001は、人間の被験者に焦点を当てて採用された一方で、FCIは人間以外の動物に対しても有効性を示しています。人間以外の動物を対象とした場合、その脳機能の単純さにより、第三級及び第二級のFCIは期待された効果を示さない傾向にあるものの、第一級FCIは、すべての霊長類とほとんどの哺乳類、ならびに多くのクモ類の種において有効性が認められました。
+
+
+
+
 
 
 
@@ -586,7 +626,7 @@ While SCP-9001 was adopted with a focus on human subjects, FCIs have produced re
 
 
 [[=]]
-+++ __History__
++++ __歴史__
 [[/=]]
 
 [[div class="classified-banner"]]
@@ -597,15 +637,15 @@ While SCP-9001 was adopted with a focus on human subjects, FCIs have produced re
 [[div class="classified-banner__text"]]
 SCP-9001
 
-The following series of files relates to the
-[[size 133%]]Department of Analytics **Project HYDRA**[[/size]]
-and is level **3/HYDRA** classified.
+以下のファイル群は
+[[size 133%]]分析部門**ハイドラ計画**[[/size]]
+に関連し、閲読には**3/HYDRA**クリアランスを要す。
 
-Unauthorized access is forbidden.
+無許可のアクセスを禁じる。
 [[/div]]
 [[/div]] [!-- .classified-banner --]
 
-+++ 2007, April
++++ 2007年、4月
 
 On 2007-04-17, Dr. Ava Berryman led a presentation on the cognitohazard production aspect of Project HYDRA to a much wider range of staff than had previously been aware of it, with the intention of attracting personnel to the project with the skillset necessary for its advancement.
 
