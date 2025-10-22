@@ -9,7 +9,7 @@
     background: Highlight; color: HighlightText;
 }
 :root {
-  --lgurl: url(https://scp-wiki.wikidot.com/local--files/9000contestpanloque/analytics_dept_animated.svg);
+  --lgurl: url(https://scp-wiki.wikidot.com/local--files/scp-9001/analytics_dept_animated.svg);
 }
 #header h1 a::before { -webkit-text-stroke-width: 3px }
 #header h2 span::before { -webkit-text-stroke-width: 2px }
@@ -66,7 +66,7 @@ div.scp-image-block { border: solid 1px #666; box-shadow: 0px 1px 6px rgba(0, 0,
 }
 
 #header-extra-div-1, #header-extra-div-2 {
-  background-image: url(https://scp-wiki.wikidot.com/local--files/9000contestpanloque/thread.webp);
+  background-image: url(https://scp-wiki.wikidot.com/local--files/scp-9001/thread.webp);
   display: block;
   position: absolute;
   height: 10rem;
@@ -438,7 +438,7 @@ Excellent. Next slide, please?
 　素晴らしいですわ。では次のスライドを。
 
 [[div class="scp-image-block block-center" style="width: 100%"]]
-[[image https://scp-wiki.wikidot.com/local--files/9000contestpanloque/remember_us_cuneiform.webp]]
+[[image https://scp-wiki.wikidot.com/local--files/scp-9001/remember_us_cuneiform.webp]]
 [[/div]]
 
 Haha! Bit of a jumpscare for some of you, huh? You must be read-in to the SCP this cognitohazard protects, and I'm sure the wheels are beginning to turn. For our more stone-faced members: the cuneiform you see in the upper-right quadrant of this image, in normal circumstances, would say "remember us" in English bordered on either side by ellipses.
@@ -458,12 +458,12 @@ Until today. Next slide, please.
 　ですが、それも今日までです。次のスライドを。
 
 [[div class="scp-image-block block-center" style="width: 100%"]]
-[[image https://scp-wiki.wikidot.com/local--files/9000contestpanloque/langfordfractal.webp]]
+[[image https://scp-wiki.wikidot.com/local--files/scp-9001/langfordfractal.webp]]
 [[/div]]
 
 Everyone, please! Please! It's alright. Director? Director, please, calm down. Look around you -- everyone is unharmed. Let's get off this slide.
 
-　皆さま！　大丈夫！　大丈夫ですから！　管理官？　どうぞ冷静になって。誰も傷ついていませんよ。さっさと次のスライドに行きましょう。
+　皆さま！　大丈夫！　大丈夫ですから！　管理官？　どうぞ冷静になって。誰も傷ついていませんよ。さっさと次のスライドに行きましょう。こんなもの見てられませんからね……
 
 What you just saw was a visualization from a fractal mathematical set, an image that instills in its viewers a mild sense of dizziness. I understand this in itself is not impressive, but what is notable is its versatility. This image achieves a 100% efficacy rate amongst human volunteers, vastly outperforming the previous 61% record. It has even expressed its effects to some degree in animal testing. This is the real deal.
 
@@ -471,15 +471,15 @@ What you just saw was a visualization from a fractal mathematical set, an image 
 
 Future memeticists need not be concerned with trivialities such as //'context'// and //'culture'// -- mathematics is absolute. Think of it: fractals are a universal component of nature, underpinning reality itself! From the infinitesimal expression of bacterial proteins to the macroscopic ordered chaos of the universe itself, it all comes down to the complex interplay of numbers and figures; the interdimensionality of fractal systems. The language of the universe.
 
-　未来のミーム学者は、もはや「文脈」や「文化」などという些事に囚われwう必要はないのです。数学こそが絶対です。考えてもみてください。フラクタルは、自然の普遍的構成要素です。現実そのものの基礎となっているのですよ！　細菌タンパクなどのミクロの世界から、宇宙全体の秩序ある混沌といったマクロ世界まで、全て結局は数字と図形の複雑な相互作用--　　--つまりフラクタルの多次元性であって、それこそが宇宙の言語なのです。
+　未来のミーム学者は、もはや「文脈」や「文化」などという些事に囚われる必要はないのです。数学こそが絶対です。考えてもみてください。フラクタルは、自然の普遍的構成要素です。現実そのものの基礎となっているのですよ！　細菌タンパクなどのミクロの世界から、宇宙全体の秩序ある混沌といったマクロ世界まで、全て結局は数字と図形の複雑な相互作用--　　--つまりフラクタルの多次元性であって、それこそが宇宙の言語なのです。
 
 What you've seen today is much, much less than a mere tip of the iceberg. The fractal space is infinite, and we've barely begun exploring it -- and I'm looking for computer science expert collaborators to help me explore it even faster.
 
-皆さまが本日目撃したものは、氷山の一角のさらに隅にすぎません。フラクタル空間は無限です。そしてわれわれは、その中に立ち入ったばかりです。そして私はいま、共同研究者に計算機科学の専門家を求めています。フラクタル空間の探索を、より早めるために。
+皆さまが本日目撃したものは、氷山の一角のさらに隅にすぎません。フラクタル空間は無限です。そしてわれわれは、その中に立ち入ったばかりです。そして私はいま、共同研究者として計算機科学の専門家を求めています。フラクタル空間の探索を、より早めるために。
 
 Today you have //felt// the utility of my work. We have only scraped the surface, ladies and gentlemen. Together, let us discover its depths.
 
-本日、皆さまはこの研究の実用性を肌で感じたことでしょう。ですが、これは極めて表層的なものです。紳士淑女の皆さまがたと共に、その深みまで行けることを期待しております。
+本日、皆さまはこの研究の実用性を肌で感じたことでしょう。ですが、これは極めて表層的なものです。ここにおられる紳士淑女の皆さまがたと共に、その深みまで行けることを期待しております。
 [[/div]]
 
 -----
@@ -504,7 +504,7 @@ Today you have //felt// the utility of my work. We have only scraped the surface
 [[/table]]
 -----
 [[div class="scp-image-block block-center" style="width:100%;"]]
-[[image https://scp-wiki.wikidot.com/local--files/9000contestpanloque/controlroom.webp alt=""]]
+[[image https://scp-wiki.wikidot.com/local--files/scp-9001/controlroom.webp alt=""]]
 [[div class="scp-image-caption"]]
 サイト・ロメロ-5。SCP-9001の生産拠点。
 [[/div]]
@@ -515,7 +515,7 @@ Today you have //felt// the utility of my work. We have only scraped the surface
 **Special Containment Procedures:** Once per quarter, Fractal Cognitohazardous Images (FCI) produced through SCP-9001 are to be forwarded via dedicated secure fiber-optic cable to Protected Site-7. All FCIs must be transmitted alongside research data describing the effects of each image. These packages are to be analyzed by second-generation [[span class="hoverlink"]][[[aiad-homescreen|AIC]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]Artificially Intelligent Conscripts[[/span]][[span class="hoverlink-text"]]Sentient digital agents developed by the Artificial Intelligence Applications Division (AIAD). AICs operate by a loose set of Standard Principles that ensures they adhere to Foundation protocol and work in the interest of the organisation at all times. [[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/aiad-homescreen/itlogo3.png/small.jpg)"]]-[[/span]][[/span]][[/span]] to corroborate their stated effects and catalogue according to their intensity.
 
 **特別収容プロトコル:** 四半期に一度、SCP-9001によって生成されたフラクタル認識災害画像(FCI)は、各画像の効果を記述した研究データと共に、専用かつセキュアな光ファイバケーブルを通じて、プロテクション・サイト-7へ転送されます。
-これらのパッケージは、第二世代[[span class="hoverlink"]][[[aiad-homescreen|AIC]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]人工知能徴募員[[/span]][[span class="hoverlink-text"]]人工知能適用課(AIAD)によって開発された、意識をもつデジタル・エージェント。AICは、緩やかに定められた一連の「標準原則」に基づいて稼働する。この原則は、彼らが常に財団のプロトコルを遵守し、組織の利益に沿って行動することを保証するものである。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/aiad-homescreen/itlogo3.png/small.jpg)"]]-[[/span]][[/span]][[/span]によって分析され、記述された効果を実際に確かめた後、その強度に応じてカタログ化されます。
+これらのパッケージは、第二世代[[span class="hoverlink"]][[[aiad-homescreen|AIC]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]人工知能徴募員[[/span]][[span class="hoverlink-text"]]人工知能適用課(AIAD)によって開発された、意識をもつデジタル・エージェント。AICは、緩やかに定められた一連の「標準原則」に基づいて稼働する。この原則は、彼らが常に財団のプロトコルを遵守し、組織の利益に沿って行動することを保証するものである。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/aiad-homescreen/itlogo3.png/small.jpg)"]]-[[/span]][[/span]][[/span]]によって分析され、記述された効果を実際に確かめた後、その強度に応じてカタログ化されます。
 
 Catalogued FCIs and their innoculants, if any, are to be individually contained on isolated external hard drives in Protected Site-7's Secure Data Storage. Third-Order and Second-Order FCIs may be requisitioned by personnel with Level 3 clearance for research, testing, field use, and D-Class procurement.
 
@@ -551,9 +551,9 @@ Special Operatives and Task Force Agents assigned to the ongoing SCP-9001-A cris
 
 [[div class="scp-image-block block-right" style="width: 300px"]]
 [[html]]
-<video autoplay muted loop width="300" playsinline poster="https://scp-wiki.wikidot.com/local--files/9000contestpanloque/fractal-pentazoom-fallback.webp">
-<source src="https://scp-wiki.wikidot.com/local--files/9000contestpanloque/fractal-pentazoom-vp8.webm" type="video/webm">
-<img src="https://scp-wiki.wikidot.com/local--files/9000contestpanloque/fractal-pentazoom-fallback.webp" width="300" style="display: block">
+<video autoplay muted loop width="300" playsinline poster="https://scp-wiki.wikidot.com/local--files/scp-9001/fractal-pentazoom-fallback.webp">
+<source src="https://scp-wiki.wikidot.com/local--files/scp-9001/fractal-pentazoom-vp8.webm" type="video/webm">
+<img src="https://scp-wiki.wikidot.com/local--files/scp-9001/fractal-pentazoom-fallback.webp" width="300" style="display: block">
 </video>
 <script>
   const video = document.querySelector("video")
@@ -597,8 +597,8 @@ In more detailed terms, the human visual system can be expressed as the abstract
 [[/div]]
 
 [[div class="blockquote"]]
-より専門的な語を用いてみよう。抽象的にいえば、人間の視覚システムは[[$ f(x)=y $]]なる関数として表現することができる。このとき[$ x $]]は画像行列(ディスプレイのピクセルに類似する、眼球内の錐体細胞および桿体細胞)、[[$ f $]]は[$ x $]]を入力として受け取る関数(脳内における処理)、[$ y $]]は脳がその画像をどう解釈したかの出力である。
-望ましい効果をもたらす標的ニューラル出力[$ y $]]を生成するための[$ x $]]を、可能な画像の領域にわたって探索する「凸最適化」こそが、SCP-9001である。
+より専門的な語を用いてみよう。抽象的にいえば、人間の視覚システムは[[$ f(x)=y $]]なる関数として表現することができる。このとき[[$ x $]]は画像行列(ディスプレイのピクセルに類似する、眼球内の錐体細胞および桿体細胞)、[[$ f $]]は[[$ x $]]を入力として受け取る関数(脳内における処理)、[[$ y $]]は脳がその画像をどう解釈したかの出力である。
+望ましい効果をもたらす標的ニューラル出力[[$ y $]]を生成するための[[$ x $]]を、可能な画像の領域にわたって探索する「凸最適化」こそが、SCP-9001である。
 [[>]]
 //ハイドラ計画上席研究員、ラングフォード博士//
 [[/>]]
@@ -606,7 +606,7 @@ In more detailed terms, the human visual system can be expressed as the abstract
 
 Beyond the intricate geometric patterns found within visual depictions of typical fractal sets (including swirls, intersecting lines, and self-similar shapes), FCIs derived from the Berryman-Langford set have multiple points that form markers and superstructures visually implying the presence of biological features (such as tendrils, feathers, scales and faces) despite the mathematical purity of the generation procedure. The implications of this remain unknown, but the prevailing theory is that this can be accounted for as simple pareidolia.
 
-一般的なフラクタル集合の視覚的描写に含まれる複雑な幾何学的パターン(渦巻、交差線、自己相似図形など)に加え、ベリーマン=ラングフォード集合から派生したFCIには、数学的に純粋な手段によって生成されているにも関わらず、生物学的な特徴(触手、羽毛、鱗、顔など)の存在を視覚的に示唆するマーカーや上位構造を形成する、複数の「点」が存在します。
+一般的なフラクタル集合の視覚的描写に含まれる複雑な幾何学的パターン(渦巻、交差線、自己相似図形など)に加え、数学的に純粋な手段によって生成されているにも関わらず、ベリーマン=ラングフォード集合から派生したFCIには、生物学的な特徴(触手、羽毛、鱗、顔など)の存在を視覚的に示唆するマーカーや上位構造を形成する、複数の「点」が存在します。
 詳細な原因は不明なものの、最も有力な仮説において、この現象は単純なパレイドリアによるものであるとされています。
 
 While SCP-9001 was adopted with a focus on human subjects, FCIs have produced results with non-human animals. Third and Second Order FCIs show less utility due to simpler brain function, but First Order FCIs have proven efficacy in all primates and most mammals, as well as many species of arachnids.
@@ -631,7 +631,7 @@ SCP-9001は、人間の被験者に焦点を当てて採用された一方で、
 
 [[div class="classified-banner"]]
 [[div class="classified-banner__dept"]]
-[[image https://scp-wiki.wikidot.com/local--files/9000contestpanloque/analytics_dept_animated.svg]]
+[[image https://scp-wiki.wikidot.com/local--files/scp-9001/analytics_dept_animated.svg]]
 [[/div]]
 
 [[div class="classified-banner__text"]]
@@ -649,12 +649,14 @@ SCP-9001
 
 On 2007-04-17, Dr. Ava Berryman led a presentation on the cognitohazard production aspect of Project HYDRA to a much wider range of staff than had previously been aware of it, with the intention of attracting personnel to the project with the skillset necessary for its advancement.
 
-Amongst attendees was one Dr. Robert Langford, a computer science researcher within the Department of Analytics, who at the time was working on the detection of cognitohazards via machine learning as part of [[span class="hoverlink"]][[[scp-3334|Project CIRCE]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]Project CIRCE[[/span]][[span class="hoverlink-text"]]A Department of Analytics effort to use AI techniques to detect visual cognitohazards. Project CIRCE leveraged convolutional neural networks, an architecture modeled off the human vision system. After advances in reinforcement learning and natural language processing, it was succeeded by Project MEDUSA in order to unify efforts to classify visual memetic hazards as well.[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wikidot.com/local--files/9000contestpanloque/circe.webp)"]]-[[/span]][[/span]][[/span]]. Several days later, he proposed to meet Dr. Berryman to offer his expertise, and would be flown to Site Romero-5 to meet with her.
+2007年4月17日、エイヴァ・ベリーマン博士は
+
+Amongst attendees was one Dr. Robert Langford, a computer science researcher within the Department of Analytics, who at the time was working on the detection of cognitohazards via machine learning as part of [[span class="hoverlink"]][[[scp-3334|Project CIRCE]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]Project CIRCE[[/span]][[span class="hoverlink-text"]]A Department of Analytics effort to use AI techniques to detect visual cognitohazards. Project CIRCE leveraged convolutional neural networks, an architecture modeled off the human vision system. After advances in reinforcement learning and natural language processing, it was succeeded by Project MEDUSA in order to unify efforts to classify visual memetic hazards as well.[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wikidot.com/local--files/scp-9001/circe.webp)"]]-[[/span]][[/span]][[/span]]. Several days later, he proposed to meet Dr. Berryman to offer his expertise, and would be flown to Site Romero-5 to meet with her.
 
 [[div class="blockquote" style="margin-bottom: 1rem"]]
 
 [[include component:image-block
-| name=https://scp-wiki.wikidot.com/local--files/9000contestpanloque/langford.webp
+| name=https://scp-wiki.wikidot.com/local--files/scp-9001/langford.webp
 | caption=Dr. Langford photographed in Dr. Berryman's lab.
 | width=300px
 ]]
@@ -813,7 +815,7 @@ z_{n+1}=z_n^2+c
 
 [[include :scp-wiki:component:image-block
 | align=center
-| name=https://scp-wiki.wikidot.com/local--files/9000contestpanloque/romero5.webp
+| name=https://scp-wiki.wikidot.com/local--files/scp-9001/romero5.webp
 | caption=Site Romero-5.
 | width=450px
 ]]
@@ -969,21 +971,21 @@ Although Dr. Langford had not yet derived the underlying equations, improving co
 [[/div]]
 
 [[div class="samples__image"]]
-[[image https://scp-wiki.wikidot.com/local--files/9000contestpanloque/logbox3.webp]]
+[[image https://scp-wiki.wikidot.com/local--files/scp-9001/logbox3.webp]]
 [[/div]]
 [[div class="samples__desc"]]
 Thin filament structured in Lichtenberg pattern. Viewer becomes acutely aware of their breathing patterns for a short period.
 [[/div]]
 
 [[div class="samples__image"]]
-[[image https://scp-wiki.wikidot.com/local--files/9000contestpanloque/logbox1.webp]]
+[[image https://scp-wiki.wikidot.com/local--files/scp-9001/logbox1.webp]]
 [[/div]]
 [[div class="samples__desc"]]
 Branching fractal in greyscale with seven arms. Dead region.[[footnote]]**{{DATA LOST}}**[[/footnote]] No effects noted within the image.
 [[/div]]
 
 [[div class="samples__image"]]
-[[image https://scp-wiki.wikidot.com/local--files/9000contestpanloque/logboxblue1.webp]]
+[[image https://scp-wiki.wikidot.com/local--files/scp-9001/logboxblue1.webp]]
 [[/div]]
 [[div class="samples__desc"]]
 Serpentine swirl in blue tones and receding into two separate points. Induces mild sense of anxiety regarding an upcoming personal event or task that the viewer has neglected.
@@ -1173,21 +1175,21 @@ As of the end of 2012, after curation, Site Romero-5 was submitting an average o
 [[/div]]
 
 [[div class="samples__image"]]
-[[image https://scp-wiki.wikidot.com/local--files/9000contestpanloque/logbox2.webp]]
+[[image https://scp-wiki.wikidot.com/local--files/scp-9001/logbox2.webp]]
 [[/div]]
 [[div class="samples__desc"]]
 Innumerable wisps of pale orange strands which converge into a complex, many-pointed star. Viewer may experience quickened heart rate for a brief duration, coupled with an implaceable feeling of growing dread.
 [[/div]]
 
 [[div class="samples__image"]]
-[[image https://scp-wiki.wikidot.com/local--files/9000contestpanloque/logbox5.webp]]
+[[image https://scp-wiki.wikidot.com/local--files/scp-9001/logbox5.webp]]
 [[/div]]
 [[div class="samples__desc"]]
 Greyscale snailshell spiral receding into a single point in the center-left. Minute effect on spatial reasoning: sets of right angles enclosed within a space composed of right angles (e.g. a closed caption bar displayed on a television) appear skewed.
 [[/div]]
 
 [[div class="samples__image"]]
-[[image https://scp-wiki.wikidot.com/local--files/9000contestpanloque/logboxblue2.webp]]
+[[image https://scp-wiki.wikidot.com/local--files/scp-9001/logboxblue2.webp]]
 [[/div]]
 [[div class="samples__desc"]]
 Many colorful whorls bordering the edge of a dark region, from which emerges many strands of Lichtenberg filament. Viewer becomes skeptical of recently-learned information.
@@ -1201,7 +1203,7 @@ This unit has pored over accompanying research data and has come to the conclusi
 
 [[div class="classified-banner rotate"]]
 [[div class="classified-banner__dept"]]
-[[image https://scp-wiki.wikidot.com/local--files/9000contestpanloque/analytics_dept_duo_animated.svg]]
+[[image https://scp-wiki.wikidot.com/local--files/scp-9001/analytics_dept_duo_animated.svg]]
 [[/div]]
 
 [[div class="classified-banner__text"]]
@@ -1354,7 +1356,7 @@ The assessment will be offered to various Sites with high numbers of reality ben
 I have compiled a set of 38 cognitohazards into a publication, the Reality Bending Aptitude Assessment (RBAA), and it is currently in print at the Foundation Press.
 
 [[include :scp-wiki:component:image-block
-| name=https://scp-wiki.wikidot.com/local--files/9000contestpanloque/berrymans-tests-for-reality-bending-aptitude-2019-hardcover.webp
+| name=https://scp-wiki.wikidot.com/local--files/scp-9001/berrymans-tests-for-reality-bending-aptitude-2019-hardcover.webp
 | caption=Cover of 'Reality Bending Aptitude Assessment', hardback, Dr. Berryman.
 ]]
 
@@ -1392,7 +1394,7 @@ Evidence would suggest that attempting to convince further Sites to integrate th
 
 [[div class="overwatch-order"]]
 [[div_ class="overwatch-order__logo"]]
-[[image https://scp-wiki.wikidot.com/local--files/9000contestpanloque/overwatch-command-logo-1.webp alt=""]]
+[[image https://scp-wiki.wikidot.com/local--files/scp-9001/overwatch-command-logo-1.webp alt=""]]
 [[/div]]
 
 [[div class="overwatch-order__content"]]
@@ -1562,7 +1564,7 @@ The Ethics Committee received an anonymous whistleblower report regarding Site R
 
 [[div class="ethics"]]
 [[div_ class="ethics__header"]]
-[[image https://scp-wiki.wikidot.com/local--files/9000contestpanloque/ethics-committee-logo.webp alt="" style="filter: invert(1); max-width: 10rem; max-height: 10rem; aspect-ratio: 1;"]]
+[[image https://scp-wiki.wikidot.com/local--files/scp-9001/ethics-committee-logo.webp alt="" style="filter: invert(1); max-width: 10rem; max-height: 10rem; aspect-ratio: 1;"]]
 **ETHICS COMMITTEE MEMORANDUM**
 [[/div]]
 
@@ -1630,7 +1632,7 @@ Case number HX-68396 is closed.
 
 [[div class="overwatch-order"]]
 [[div_ class="overwatch-order__logo"]]
-[[image https://scp-wiki.wikidot.com/local--files/9000contestpanloque/overwatch-command-logo-1.webp alt=""]]
+[[image https://scp-wiki.wikidot.com/local--files/scp-9001/overwatch-command-logo-1.webp alt=""]]
 [[/div]]
 
 [[div class="overwatch-order__content"]]
@@ -1693,7 +1695,7 @@ The following footage was recorded during the Project NIETZSCHE Schedule Alignme
 **Dr. Langford:** As you know, we've already mastered visual cognitohazards via -- if you'll excuse the name -- the Langford set, an algorithm that, represented visually, produces fractal imagery that can be tuned to have psychoactive effects. We call this technique Fractal Cognitohazardous Imagery, and Site Romero-5 is responsible for production and distribution of FCIs to the entire Foundation. For demonstration purposes, here's one you're all familiar with...
 
 [[div class="scp-image-block block-center" style="width: 300px"]]
-[[image https://scp-wiki.wikidot.com/local--files/9000contestpanloque/langfordfractal.webp]]
+[[image https://scp-wiki.wikidot.com/local--files/scp-9001/langfordfractal.webp]]
 [[/div]]
 
 **Dr. Langford:** This is a Third Order FCI that should have elicited a mild sense of dizziness. Do we have any reality benders in the room?
@@ -1896,21 +1898,21 @@ Following the initial turmoil and investigation, an All-Clear notice was declare
 [[/div]]
 
 [[div class="samples__image"]]
-[[image https://scp-wiki.wikidot.com/local--files/9000contestpanloque/fractalwarning.webp]]
+[[image https://scp-wiki.wikidot.com/local--files/scp-9001/fractalwarning.webp]]
 [[/div]]
 [[div class="samples__desc"]]
 Undulating branches in a chaotic weave, colored in orange hues. Writhing, squirming, twisting in a specific pattern in varying shades of reaching a pattern. No effects noted within the image.
 [[/div]]
 
 [[div class="samples__image"]]
-[[image https://scp-wiki.wikidot.com/local--files/9000contestpanloque/fractalwarning2.webp]]
+[[image https://scp-wiki.wikidot.com/local--files/scp-9001/fractalwarning2.webp]]
 [[/div]]
 [[div class="samples__desc"]]
 Fear is a negative emotional response to active/perceived threats or impending danger, suspected to have arisen as a form of survival mechanism (e.g. conditioning living organisms to avoid heights).
 [[/div]]
 
 [[div class="samples__image"]]
-[[image https://scp-wiki.wikidot.com/local--files/9000contestpanloque/logboxblue3.webp]]
+[[image https://scp-wiki.wikidot.com/local--files/scp-9001/logboxblue3.webp]]
 [[/div]]
 [[div class="samples__desc"]]
 Dead region.[[footnote]]This unit is unable to ascertain the specifics of this image.[[/footnote]] Dead region.[[footnote]]This unit is unwilling to process this image further.[[/footnote]]
@@ -1935,7 +1937,7 @@ Satellite imagery of the Site grounds would reveal the presence of additional fa
 
 Site Romero-5 has been designated SCP-9001-A and has been assigned Keter Class. For more information, proceed.
 
-**[[[/9000contestpanloque/offset/1|SCP-9001-A.doc]]]**
+**[[[/scp-9001/offset/1|SCP-9001-A.doc]]]**
 
 [[/=]]
 [[/div]]
