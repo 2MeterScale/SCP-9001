@@ -519,13 +519,13 @@ Today you have //felt// the utility of my work. We have only scraped the surface
 
 Catalogued FCIs and their innoculants, if any, are to be individually contained on isolated external hard drives in Protected Site-7's Secure Data Storage. Third-Order and Second-Order FCIs may be requisitioned by personnel with Level 3 clearance for research, testing, field use, and D-Class procurement.
 
-カタログされたFCI、およびそのワクチンは、プロテクション・サイト-7のセキュアなデータ・ストレージ内の、隔離された外付けハードドライブに保管されます。
+カタログされたFCI、およびそれに対する免疫となる画像は、プロテクション・サイト-7のセキュアなデータ・ストレージ内の、隔離された外付けハードドライブに保管されます。
 第三級及び第二級FCIは、レベル3以上のクリアランスを持つ職員による請求のもと、研究、実験、実地使用、及びDクラス職員の調達を目的として利用されます。。
 
 First Order FCIs require Level 5 clearance with additional authorization from no fewer than three signatories, including the director of RAISA and at least two members of the O5 Council. All personnel read-in to SCP files and Top Secret documents protected by First Order FCI are to be given access to the necessary innoculants. FCIs are not to be handled by any personnel with a CRV[[footnote]] "Cognitive Resistance Value" - The metric which determines one's ability to withstand exposure to mind-altering sensory effects.[[/footnote]] rating of less than 9.5.
 
-第一級FCIの利用には、レベル5クリアランスに加え、RAISA長官及び2名以上のO5評議会メンバを含む、三名以上の署名による追加の認可を必要とします。第一級FCIによって保護されているSCPファイル及び最高機密文書へのアクセス権を持つすべての職員に対して、必要なワクチンが提供されます。
-また、CRV[[footnote]]「認知抵抗値」--　　--ある人物の、[[/footnote]]が9.5以下の職員は、FCIを扱うことが禁じられています。
+第一級FCIの利用には、レベル5クリアランスに加え、RAISA長官及び2名以上のO5評議会メンバを含む、三名以上の署名による追加の認可を必要とします。第一級FCIによって保護されているSCPファイル及び最高機密文書へのアクセス権を持つすべての職員に対して、必要な防疫措置が提供されます。
+また、CRV[[footnote]]「認知抵抗値」--　　--精神に変容をきたす効果への暴露に対し、個々人が持つ耐性を測定するための指標。[[/footnote]]が9.5以下の職員は、FCIを扱うことが禁じられています。
 
 To prevent unauthorized viewing, distribution, or theft, FCIs are to be stored with quantum-proof encryption (currently AES-256) viewable only through a dedicated file-embedded module or standalone window application. Each encrypted FCI is to be uniquely keyed (currently with NIST FIPS 203, ML-KEM-1024) to be viewable only in its corresponding per-file embed or per-user window. The modules and windows employ protections against copy-pasting, screenshotting, and other capture methods. Analog printing or reproduction of FCI requires approval from the O5 Council, registration, and tracking.
 
@@ -600,7 +600,7 @@ In more detailed terms, the human visual system can be expressed as the abstract
 より専門的な語を用いてみよう。抽象的にいえば、人間の視覚システムは[[$ f(x)=y $]]なる関数として表現することができる。このとき[[$ x $]]は画像行列(ディスプレイのピクセルに類似する、眼球内の錐体細胞および桿体細胞)、[[$ f $]]は[[$ x $]]を入力として受け取る関数(脳内における処理)、[[$ y $]]は脳がその画像をどう解釈したかの出力である。
 望ましい効果をもたらす標的ニューラル出力[[$ y $]]を生成するための[[$ x $]]を、可能な画像の領域にわたって探索する「凸最適化」こそが、SCP-9001である。
 [[>]]
-//ハイドラ計画上席研究員、ラングフォード博士//
+//HYDRA計画上席研究員、ラングフォード博士//
 [[/>]]
 [[/div]]
 
@@ -638,7 +638,7 @@ SCP-9001は、人間の被験者に焦点を当てて採用された一方で、
 SCP-9001
 
 以下のファイル群は
-[[size 133%]]分析部門**ハイドラ計画**[[/size]]
+[[size 133%]]分析部門**HYDRA計画**[[/size]]
 に関連し、閲読には**3/HYDRA**クリアランスを要す。
 
 無許可のアクセスを禁じる。
@@ -649,202 +649,355 @@ SCP-9001
 
 On 2007-04-17, Dr. Ava Berryman led a presentation on the cognitohazard production aspect of Project HYDRA to a much wider range of staff than had previously been aware of it, with the intention of attracting personnel to the project with the skillset necessary for its advancement.
 
-2007年4月17日、エイヴァ・ベリーマン博士は
+2007年4月17日、エイヴァ・ベリーマン博士はHYDRA計画における「認識災害生成」についてのプレゼンテーションを行なった。このプレゼンテーションは、計画の実行に必要な技能を持つ人材を発掘することを目的としていた。本計画の存在を把握していないスタッフも、多数出席した。
 
 Amongst attendees was one Dr. Robert Langford, a computer science researcher within the Department of Analytics, who at the time was working on the detection of cognitohazards via machine learning as part of [[span class="hoverlink"]][[[scp-3334|Project CIRCE]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]Project CIRCE[[/span]][[span class="hoverlink-text"]]A Department of Analytics effort to use AI techniques to detect visual cognitohazards. Project CIRCE leveraged convolutional neural networks, an architecture modeled off the human vision system. After advances in reinforcement learning and natural language processing, it was succeeded by Project MEDUSA in order to unify efforts to classify visual memetic hazards as well.[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wikidot.com/local--files/scp-9001/circe.webp)"]]-[[/span]][[/span]][[/span]]. Several days later, he proposed to meet Dr. Berryman to offer his expertise, and would be flown to Site Romero-5 to meet with her.
+
+その出席者たちの中に、一人の男がいた。ロバート・ラングフォード博士は解析部門に所属する、計算機科学の研究者であった。当時は[[span class="hoverlink"]][[[scp-3334|CIRCE計画]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]CIRCE計画[[/span]][[span class="hoverlink-text"]]解析部門による、AI技術を用いた視覚的認識災害の検出を目的とした試み。本計画においては、人間の視覚システムをモデルとしたアーキテクチャである「畳み込みニューラルネットワーク」を活用していた。強化学習および自然言語処理の発展を受け、視覚的ミーム災害の分類も目的とすることになったため、MEDUSA計画が本計画を引き継いだ。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wikidot.com/local--files/scp-9001/circe.webp)"]]-[[/span]][[/span]][[/span]].の一環として、機械学習による認識災害の検出に取り組んでいた。
 
 [[div class="blockquote" style="margin-bottom: 1rem"]]
 
 [[include component:image-block
 | name=https://scp-wiki.wikidot.com/local--files/scp-9001/langford.webp
-| caption=Dr. Langford photographed in Dr. Berryman's lab.
+| caption=ラングフォード博士。ベリーマン博士の研究室にて撮影。
 | width=300px
 ]]
 
-**VIDEO TRANSCRIPT 9001-1**
+**映像記録9001-1**
 
-**PARTIES PRESENT:**
-* Senior Researcher Ava Berryman, Site Romero-5 neuroscientist and memeticist
-* Researcher Robert Langford, Department of Analytics Project CIRCE, AI researcher
+**関係者:**
+* エイヴァ・ベリーマン上席研究員(神経学者、ミーム学者。サイト・ロメロ-5所属)
+* ロバート・ラングフォード研究員(AI研究者。解析部門所属、CIRCE計画メンバー)
 
-**FOREWORD:** Initial conversation regarding the project that would become SCP-9001.
+**はしがき:** のちにSCP-9001となるプロジェクトに関する、初期の会話。
 
-**<BEGIN TRANSCRIPT>**
+**〈記録開始〉**
 
 //Dr. Langford enters Dr. Berryman's office. Dr. Berryman is watering a substantial collection of flower bouquets and a leafless bonsai tree on some wooden cabinets. She turns to greet him.//
 
+ラングフォード博士がベリーマン博士のオフィスへ入る。ベリーマン博士は、木製のキャビネットの上に置かれた多数の花束と、葉の落ちた盆栽に水をやっている。彼女は振り向いて、ラングフォード博士に挨拶をした。
+
 **Dr. Berryman:** Dr. Langford, how do you do?
+
+**ベリーマン博士:** ごきげんよう、ラングフォード博士。
 
 **Dr. Langford:** Um, well.
 
+**ラングフォード博士:** あ……どうも。
+
 //They shake hands.//
+
+両名は握手をする。
 
 **Dr. Berryman:** Why don't you have a seat, my dear fellow. I'm glad we could find time for this conversation. I quite enjoyed your and Dr. Reddy's presentation on the use of neocognitrons[[footnote]]Archaic term for convolutional neural networks, used for AI computer vision.[[/footnote]] for detecting cognitohazards.
 
+**ベリーマン博士:** ささ、どうぞお座りになって。こうやってお互いにお話しできる時間がうまいこと見つかってくれて嬉しいわ。ネオコグニトロン[[footnote]]畳み込みニューラルネットワークのことを指す、古い用語。AIコンピュータを展望する際に用いられた。[[/footnote]]を用いた認識災害の検知についてのプレゼン、あれは面白かったわね。あなたがレディ博士と一緒にやったやつ。
+
 **Dr. Langford:** Thank you, Dr. Berryman. I've watched a few of your lectures myself, including your latest, and I'd also have to say they're quite groundbreaking. I'm honored that you liked mine and Dr. Reddy's so much -- although really, to give credit where it's due, Dr. Reddy was the brains behind the work. I've only been here for a few years.
+
+**ラングフォード博士:** ありがとうございます、ベリーマン博士。ぼくもあなたの講義を何件か拝見しました。もちろん、例のやつも。本当に画期的な内容だと思いますよ。それから、レディ博士とぼくの講演も気に入ってくださって嬉しいです。ですが実際、あれの功績はレディ博士に帰すべきです。彼女こそがあの研究のブレインですから。ぼくなんか、ここに来てまだ数年ですし。
 
 **Dr. Berryman:** Talent and experience are fungible to a degree. I admire Dr. Reddy, but she's… she has her own ideas about things, let's just say.
 
+**ベリーマン博士:** 才能と経験は可換よ。ある程度はね。レディ博士は確かに凄い人だけれど……まあ、人には人の考え方があるってことね。あんまり強くは言えないけど。
+
 //Dr. Langford does not immediately respond. Dr. Berryman hovers her fingers over the cluster of tiny white flowers pinned to her hair.//
+
+ラングフォード博士は返答に詰まる。ベリーマン博士は、彼女の髪に挿さっている小さな白い花の束に軽く触れた。
 
 **Dr. Berryman:** I see these have caught your attention, Dr. Langford.
 
+**ベリーマン博士:** どうしてもこのお花が気になるようね。ラングフォード博士？
+
 **Dr. Langford:** Um… yes. My apologies.
+
+**ラングフォード博士:** ええ、少々……失礼しました。
 
 **Dr. Berryman:** It's only natural. Carrot flowers, or as the Yankees call them, Queen Anne's Lace. They grew on the estate where I was raised. To me, their most interesting feature is that they grow in recursive layers of flower shapes: each flower grows in a flower-shaped bunch, and the bunches themselves form a larger flower shape. That self-similarity carries a fractal structure, like my research. But ah, where's my manners? Allow me to offer you a drink first before we get into the weeds.
 
+**ベリーマン博士:** 当たり前の反応ね。これは人参の花。アメリカじゃこれを「アン女王のレース」なんて呼ぶらしいわ。小さい頃に住んでた場所に、よくこれが生えてたの。私にとって一番面白いのは、この花が同じ形を繰り返しながら咲くこと。一輪一輪が集まって花の形をした房になって、さらに大きい目で見てやると、房自体もさらに大きい花の一部になっている。つまり自己相似構造を持っているということ。わたしの研究のようにね。あらやだ。私ったらとんだ無作法ね。小難しい話を始める前に、まずは一杯どう？
+
 //Dr. Berryman retrieves a bottle of scotch, two glasses, and some ice cubes from a drawer. She pours out the two glasses and reaches over to place one in Dr. Langford's hand.//
+
+ベリーマン博士は、机の引き出しからスコッチの瓶と二つのグラス、それに幾つかの氷を取り出した。彼女はグラスに酒を注ぎ、うち一つをラングフォード博士に手渡した。
 
 **Dr. Langford:** I'm quite alright, Dr. Berryman.
 
+**ラングフォード博士:** ぼくは大丈夫です。ベリーマン博士。
+
 **Dr. Berryman:** Please, I insist. We both work with mind-altering phenomena far worse than this. Humans think their beans so secure, ensconced in their thick skulls, when all it takes to throw it off balance is just a little drink, a little smack, perhaps just the right kind of little picture…
+
+**ベリーマン博士:** お願い。ぜひ飲んで。私たちこんなものよりずっと酷い精神変容現象を扱ってるんだから。脳みそって頭蓋の中にあるから安全だって、人間はそう思ってるみたいだけど、ちょっと飲んだり、ちょっとどついたり、あるいはちょうどいい画像なんか見せたら、あっという間にバランスを崩しちゃうんだから……
 
 //Dr. Langford hesitates, then takes a sip.//
 
+ラングフォード博士は躊躇い、そして一口飲む。
+
 **Dr. Berryman:** No, not yet!
+
+**ベリーマン博士:** まだ。まだダメよ！
 
 **Dr. Langford:** But you told me--
 
+**ラングフォード博士:** でもあなたが飲めって--　　--
+
 **Dr. Berryman:** This is quality Macallan, you need to aerate it and... oh, dear, I'm so sorry. You've not tried scotch before, have you?
+
+**ベリーマン博士:** これ、ちゃんとしたマッカランよ。まずは空気に触れさせて--　　--あら、ごめんなさいね。スコッチは初めてだったかしら？
 
 //Dr. Langford nods.//
 
+ラングフォード博士は頷く。
+
 **Dr. Berryman:** Well, cultural context //is// everything, I suppose -- as I'm sure you remember, actually. There have always been plenty of "non-anomalous" cognitohazards: war photography, political propaganda, pornography. So far, most prior work, and my colleagues', have focused on this avenue, engaging the higher functions of the brain's temporal lobe to make anomalously emotional, anomalously disgusting, anomalously meaningful cognitohazards… but it never works on everyone in the same way to the same degree.
+
+**ベリーマン博士:** 文化的背景こそが全てなのよ。つまり--　　--あなたも知っているはずだけれど、非異常の認識災害なら山ほどあるでしょう？　戦争写真とか、政治プロパガンダとか、ポルノグラフィとか……。これまでの研究も、私の同僚も、この方向性でやってきたのよ。つまり側頭葉の高次機能を刺激して、異常に感情的にしたり、異常なほど嫌な気分にさせたり、異常な意味を感じさせる認識災害だったり……でも、これが全員に同じように、同じ程度に効くことは決してないのよね。
 
 **Dr. Langford**: Because non-universality of human experience is the one universal.
 
+**ラングフォード博士:** 経験の非普遍性こそが、唯一普遍のものですから。
+
 **Dr. Berryman:** Absolutely, Dr. Langford, and I'm so glad that you can recognize this stumbling block so quickly when so many of my colleagues can't… but anyway, I personally think there is another approach. There is another potential universal: everyone sees -- well, at least tautologically, those who //can// see. Everyone can detect edges, recognize rough and smooth surfaces, outline curves. We all must share //some// universal features at the lowest levels of the visual cortex. The optic nerve is a direct chain into the brain that we can //yank//, and the closer to the eye the less tangled it is.
+
+**ベリーマン博士:** その通りよ、ラングフォード博士。こんなにも早く、この障害に気づいてくれて嬉しいわ。私の同僚なんか、ほとんど気にも留めてくれないのに……。ともかく、別のアプローチがあると思うの。普遍的になりうるもの--　　--それは見ることよ。けったるい言い方になるけど、見ることができる人は見ることができるじゃない？　何かの端っこを認識して、表面がざらついてるか滑らかかもわかって、曲線を描くことだって、誰もができる。視覚野の奥底に、我々誰もが持つ共通の何かがあるに違いないわ。視神経って、直接脳に繋がってるでしょ。そこをぐいっと行くのよ。目に近ければ近いほど、単純だし。
 
 **Dr. Berryman:** We already know it's possible! In epileptics, high-frequency flashes translate directly into high-frequency electrical neuron signals directly into seizures. But, alas, it doesn't work on everyone. Images that trigger an extreme end-state in the brain, the principle, is there, if only we knew how to trigger it more generally. I've mapped the whole house, and just need to find the door -- so, Dr. Langford, tell me: can you help me?
 
+**ベリーマン博士:** それが可能だってことはもうわかってるの！　てんかん患者がいい例ね。高周波のストロボは、そのまま高周波の電気信号となって発作を引き起こすの。でも残念なことに、これも全員に効くわけじゃない。脳の極端な終末状態を引き起こすような画像は、少なくともその原理は確かに存在してるのよ。ただ、それを普遍的に引き起こす方法がわからないだけで……家の間取りはわかってるけど、ドアの場所がわからないみたいな状況ね。ねえ、ラングフォード博士。教えてちょうだい。あなたは、私を助けてくれる？
+
 **Dr. Langford:** Hmmm, well, my first thought is that your issue is fundamentally something akin to data compression. The brain and its billions of neurons are such a high-dimensional object. Trying to cram the trigger for a specific brain-state into a small image would be Herculean.
+
+**ラングフォード博士:** ええと……ああ。まず最初に、データの圧縮が根本的な問題だと思いました。そもそも脳は数十億のニューロンが集まってできている、非常に高次元な物体です。画像を見せるだけで、脳の特定の状態を引き起こすと言うのは、途方もないことですよ。
 
 **Dr. Berryman:** There is a way to compress the infinite into the finite.
 
+**ベリーマン博士:** 無限を非有限に圧縮する方法は、あるはずだけど。
+
 **Dr. Langford:** Not as a compression algorithm, in my experience. Are you thinking of a mathematical function or a generator instead, perhaps?
+
+**ラングフォード博士:** ぼくの経験上、圧縮アルゴリズムでそれをやるのは無理です。なにか数学的な関数か、生成器のようなものをお考えなのですか？
 
 **Dr. Berryman:** Yes, but we're looking to convey something visual. Something even denser, even more intricate.
 
+**ベリーマン博士:** そうね。でも我々は、視覚的な何かを伝達しようとしているのよ。もっと緻密で、複雑な何かを。
+
 //Dr. Berryman picks up a writepad from her desk and writes an equation on it.//
+
+ベリーマン博士はデスクからメモ帳を取り、そこに方程式を書き込む。
+
 [[math]]
 z_{n+1}=z_n^2+c
 [[/math]]
 
 **Dr. Langford:** This is the Mandelbrot set in the complex plane, isn't it? One of the first fractals.
 
+**ラングフォード博士:** 複素平面における、マンデルブロ集合を表した式ですね？　最初期のフラクタルだ。
+
 **Dr. Berryman:** Well said, Dr. Langford. An entire universe of infinite detail, infinite complexity, encoded into a single equation of three terms. A well with no bottom, an ocean with no floor, a fall with no end. Even our physical universe has an end, a minimum, a digital pixelation: the Planck length. In some deep sense, a fractal is more real than reality.
+
+**ベリーマン博士:** 正解よ、ラングフォード博士。たった三項の短い方程式に、宇宙そのものの無限のディテールと無限の複雑さが詰まっているの。さながら、底なき井戸、奈落の海、永遠の落下……。この宇宙にすら、プランク長という終わりが、最小単位が、デジタルなピクセル化があるというのにね。フラクタルは現実よりももっと「本物」なのよ。
 
 **Dr. Langford:** I'll grant you that's intriguing, but humans are more visual than explicitly mathematical. Even anoraks like us don't actually calculate fractals in our heads.
 
+**ラングフォード博士:** ええ、実に興味深いですね。ですが、人間は数学的というよりも、むしろ視覚的な存在です。ぼくらのようなオタクですら、頭の中でフラクタルを計算したりはしないでしょう。
+
 **Dr. Berryman:** I imagine football players don't look fondly on their high school physics classes, and yet they calculate the trajectories of their balls all the same. Have you ever read the book //The Little Prince//?
+
+**ベリーマン博士:** 確かに、フットボール選手が高校物理の授業をいちいち復習してるってわけじゃないと思うけど、それでも彼らはボールの軌道を計算してるでしょ。『星の王子さま』って読んだことある？
 
 //Dr. Langford shakes his head.//
 
+ラングフォード博士が首を横に振る。
+
 **Dr. Berryman:** It's a nice story, I recommend it. But the relevant part is when the Little Prince asks the narrator to draw him a sheep. He draws successively less realistic sketches until finally, in exasperation, the narrator just draws a box and claims the sheep is inside. But though you can't see it directly, in your mind's eye, you can still see the sheep in the box, can't you?
+
+**ベリーマン博士:** いい話だから、ぜひ読んでみて。ここで重要なのは、王子さまが語り手に羊を描いてくれと頼んだパートよ。彼は何回か描いてみたけど、どうにもリアルにならなくって。それで仕舞いには、半ばヤケになって「羊の入っている箱」を描いたの。たとえ見えなくても、心の目を使えば、箱の中に羊がいることはわかるでしょ？
 
 **Dr. Langford:** Of course.
 
+**ラングフォード博士:** わかるね。
+
 **Dr. Berryman:** Your brain isn't seeing though. It's imagining. It's //calculating//.
+
+**ベリーマン博士:** でも、脳そのものは見ているわけじゃないの。想像して、計算してるのよ。
 
 **Dr. Langford:** Decompression.
 
+**ラングフォード博士:** データの解凍。
+
 **Dr. Berryman:** Exactly.
+
+**ベリーマン博士:** その通り。
 
 **Dr. Langford:** But you can't do that with fractals. A sheep, sure, but an infinitely complex fractal? It's completely different!
 
+**ラングフォード博士:** でもフラクタルでそれはできませんよ。羊ならわかりますが、無限に複雑なフラクタルじゃ……何もかもが違いますよ！
+
 **Dr. Berryman:** Are you familiar with MKULTRA?
+
+**ベリーマン博士:** じゃあMKULTRAって知ってる？
 
 **Dr. Langford:** The American CIA project where they gave a bunch of people hallucinogenic drugs?
 
+**ラングフォード博士:** 米国中央情報局の、多数の人に幻覚剤を投与したプロジェクトですよね？
+
 **Dr. Berryman:** It was a joint effort with the Foundation Special Projects Division, run by the current O5-8. LSD, DMT, mushrooms.
+
+**ベリーマン博士:** LSDとか、DMTとか、幻覚キノコとかね。あれって実は財団の特殊計画部門との共同だったのよ。今のO5-8が責任者だった。
 
 //Dr. Langford exhales slowly.//
 
+ラングフォードはゆっくりと深呼吸する。
+
 **Dr. Langford:** That… that was //us//? I'm really hoping we had a good reason for //that.//
+
+**ラングフォード博士:** それ……それを、我々が？　さぞ良い理由があったのでしょうね。
 
 **Dr. Berryman:** Of course we did. Did you think they'd declassify the useful findings?
 
+**ベリーマン博士:** もちろんよ。大発見をしたとして、財団がそれを機密解除すると思う？
+
 **Dr. Langford:** Well, what did we find?
+
+**ラングフォード博士:** それで、大発見とは？
 
 **Dr. Berryman:** Fractals. Fractals everywhere. Fractals integrated into the whole field of vision: the ground, the walls, the structures, the tunnels, the so-called "machine elf" entities.
 
+**ベリーマン博士:** フラクタルよ。フラクタルが至る所にあったの。フラクタルが視界全体と融合したのよ。床も、壁も、構造も、トンネルも、いわゆる「機械の妖精」にも。
+
 **Dr. Langford:** Machine elves?
+
+**ラングフォード博士:** 機械の妖精？
 
 **Dr. Berryman:** Let's not get distracted. The important part is-- look, these drugs yank the visual cortex away from physical reality, and what does it imagine, what does it //calculate// instead in its temporary deranged state? Fractals. Of course I had to explore deeper. My own testing confirmed those findings. The neural maps in the low-level striate cortex responsible for the most basic building blocks in vision? Detecting edges, curves, and surfaces? Those building blocks are rotationally symmetric //fractals//.
 
+**ベリーマン博士:** そこはどうでもいいのよ。重要なのはここよ。つまりね、その薬物が視覚野を現実から引き剥がすの。そんな狂いじみた状態で、脳は何を想像して、何を計算したんだと思う？　フラクタルよ。当然、もっと深く探究しなくちゃいけなかった。私の実験でも、その発見は実証されたわ。視覚の基本のさらに基本--　　--端とか曲線、表面を検出する、低次有線皮質の神経マップ--　　--その構成要素こそが、回転対称なフラクタルだったの。
+
 **Dr. Langford:** Stop, stop, hold on a second. You're telling me you looked at everything done in MKULTRA, and your decision was to… //continue// that research?
+
+**ラングフォード博士:** ちょっと、ちょっと。ちょっと待ってください。つまりあなたは、MKULTRAが何をやったかを全部知った上で、それを……その研究を受け継ぐことを決めたのですか？
 
 **Dr. Berryman:** No, no, don't think of it like that. It's standard procedure across the Foundation, after all. I've read the Project CIRCE files and Protocol 10-Kempelen. Even you use D-class to confirm cognitohazards for training data. Why do //you// do it?
 
+**ベリーマン博士:** いや、いや。それは違うわ。結局これも、財団からしたら普通のやり方じゃない。CIRCE計画についても、10-ケンペレン手順についても、私は知ってるのよ。あなただってDクラスを使ってるじゃない。訓練データ用の認識災害を確認するために。
+
 **Dr. Langford:** //That// is for a good reason. What you're talking about is-- is-- you couldn't possibly have done that with Ethics Committee approval.
+
+**ラングフォード博士:** それとこれとは違います。あなたのそれは--　　--それは不可能ですよ。倫理委員会の承認を得た上で、そんなことをするのは
 
 **Dr. Berryman:** But approve they did, Dr. Langford.
 
+**ベリーマン博士:** でも承認されてるわ、ラングフォード。
+
 //Dr. Langford falls silent.//
+
+ラングフォード博士は沈黙する。
 
 **Dr. Berryman:** I'll tell you what I told them, and I hope you find it as convincing as they did. What I propose is not an idle, wasteful science experiment, Dr. Langford, but a revolutionary //tool//. A tool that could have many uses, if it were flexible enough. To protect the Foundation and its data and its personnel and yes, its anomalies, of course, but more than that. Think of a more peaceful world, one protected from the next anomalous cognitohazard via mass distribution of our own protective ones. Think of a reality bender finally going home to hug their family, tears in their eyes -- unthinkable, right? -- after we use a targeted cognitohazard to wipe the anomaly from their brain. Think of the people in your own life, surely at least a few friends or family, whose minds have seen better days and aren't their full selves anymore. Chemicals and pills are no way to treat the brain, harsh mallets that they are. Vision is a system directly tied to it, with far greater granularity.
 
+**ベリーマン博士:** あなたにも教えてあげる。きっとあなたも、倫理委員会と同じように納得してくれるはずよ。あれはお遊びみたいな科学実験なんかじゃないの、ラングフォード博士。あれは道具なの。革命的な道具。十分な柔軟性さえ確保できたら、いろんなことに使えるはずなの。財団や、うちらのデータとか学者たちとか、アノマリーももちろん保護できてしまう。でもそれだけじゃないの。想像してみて。もっと平和な世界を。我々が防護用の認識災害を広く配ることで、さらなる異常な認識災害から守られた世界を。現実改変者がようやく家に帰れて、家族と抱きしめ合うことができるような世界を。彼らの目には、きっと涙が浮かぶことでしょう……想像できないでしょう？　我々の標的性認識災害が、彼らの脳から異常性を消し去ってしまえば、そんなことが可能になってしまうのよ。あなたのこれまでの人生の中にも、そういう人はいたはずよ。友人や家族のうちに、精神の全盛を過ぎ去ってしまって、すっかり変わってしまったような人たちが。薬品や錠剤は、脳を治すには粗暴すぎるわ。あれは力任せの木槌みたいなものよ。けれども視覚は脳に直結しているシステムで、それを使えば遥かに精密な制御が可能になるの。
+
 //Dr. Langford stares into his drink.//
+
+ラングフォード博士は、手中の酒を見つめる。
 
 **Dr. Langford:** Of course I can think of a few such people, and of course I'd very much like to help them.
 
+**ラングフォード博士:** もちろん、そういう人は何人か思い当たりますし、彼らを助けたいとももちろん思っています。
+
 **Dr. Berryman:** We are //this// close to changing the course of human history, from the individual to society, and for the better. My prior work has taken us this far; the end is in sight, just a little bit farther away.
+
+**ベリーマン博士:** あともう少しで、人類史の流れを変えられるところまで来てるの。個人から社会へ、そしてより良い方に向かって。ようやくここまで来れたわ。そして、ゴールはもう目の前。手を伸ばせば届きそうなくらい--　　--。
 
 **Dr. Langford:** You've definitely convinced me of the impact, alright. But let's be realistic: this would be an exceptionally dangerous tool ripe for abuse, even with well-intentioned people like ourselves. The Foundation would keep it under lock and key, and rightly so.
 
+**ラングフォード博士:** 影響力については、よくわかりました。ですが……より現実的な話をしましょう。もし濫用されてしまったら、これは非常に危険な道具になる可能性があります。我々のような善意の人も、当然気をつける必要があります。財団はこの技術を秘匿しますよ。その権限を以って。
+
 **Dr. Berryman:** The Foundation would //supervise// it and ensure only its beneficial use, the same way it does and has done successfully for thousands of other items. We have the Ethics Committee to be sure, as you pointed out. Ultimately there is no containment more profound than explanation. And that is what we will do: not just for the cognitohazards we develop, but for //all// cognitohazards. The "anomalous" is arbitrary, just things we're too small to understand yet, but everything follows rules. I understand some of these rules myself: the rules of the brain, certainly. But I've realized I alone cannot further bridge the gap between the input and the output. I don't know how to turn the brain into a math problem to solve, where the answer is the perfect trigger fractal we're searching for. I certainly can't program. But your AI model, your solving techniques, and your evident insight, these I need to go from understanding to //creation//.
+
+**ベリーマン博士:** むしろ財団は監督して、益をもたらすようにしか使われないように保証するのよ。他の何千というアイテムに対して行なっているのと同じようにね。あなたが指摘した通り、何かがあった時のための倫理委員会もあるわ。言ってしまえば、解明こそが究極の収容よ。そして、それこそが我々のなすべきことなの。我々は、ただ認識災害を作るだけじゃない。全ての認識災害を解明するのよ。「異常」という尺度は極めて恣意的なものね。我々の未熟ゆえに、理解できないというだけなのに。けれども全ては規則のもとに成り立っているの。その規則のうち、私もいくらかはわかってる。たとえば脳のルールとかは、もちろん。でも、入力と出力の間にある差を、私だけじゃ埋められないということに気づいたの。脳そのものを解くべき数学の問題として扱う方法なんか知らないし、完璧なトリガーフラクタルを見つける方法も知らない。プログラムも出来やしないわ。でもあなたのAIモデル、あなたの解法、そしてあなたの明快な洞察力さえあれば、理解から創造へと進むことができる。
 
 //Dr. Berryman leans forward.//
 
+ベリーマン博士は身を乗り出す。
+
 **Dr. Berryman:** Are you with me?
+
+**ベリーマン博士:** ついてこれてるかしら？
 
 //Dr. Langford nods his head.//
 
+ラングフォード博士は頷く。
+
 **Dr. Langford:** I-I'm quite honored you esteem my abilities so.
+
+**ラングフォード博士:** こ、光栄です……ぼくをそんなに評価してくださって。
 
 **Dr. Berryman:** Excellent. I'd like you to transfer to Site Romero-5 and meet with me at least every other day. Let's immediately get to work on a project proposal to submit to O5-8.
 
+**ベリーマン博士:** 素晴らしいわ。あなたにはサイト・ロメロ-5へ転属して、少なくとも隔日で私と会合してほしいの。さて、O5-8へ提出するための計画書を仕上げましょう。
+
 **Dr. Langford:** O… 5? This is serious, then.
+
+**ラングフォード博士:** O……5？　話が変わってきましたね。
 
 **Dr. Berryman:** I can see it in your eyes, Dr. Langford. You want to play in the big leagues, don't you? This is your chance.
 
+**ベリーマン博士:** あなたの目を見ればわかるわ、ラングフォード博士。大舞台に出たいんでしょう。チャンスは目の前にあるわ。
+
 **Dr. Langford:** Of course… let's do it.
 
-**<END TRANSCRIPT>**
+**ラングフォード博士:** もちろん……やりましょう。
+
+**<記録終了>**
 [[/div]]
 
 [[include :scp-wiki:component:image-block
 | align=center
 | name=https://scp-wiki.wikidot.com/local--files/scp-9001/romero5.webp
-| caption=Site Romero-5.
+| caption=サイト・ロメロ-5
 | width=450px
 ]]
 
 Shortly after meeting with Dr. Berryman, Dr. Langford voluntarily transferred from Project CIRCE to Project HYDRA, and relocated from Site-15 to Memetics Research Site Romero-5 within a week. Dr. Langford would quickly prove to be a crucial hire for Project HYDRA.
 
+ベリーマン博士との面談の直後、ラングフォード博士は自らの意志でCIRCE計画からHYDRA計画へ移動し、また一週間以内にサイト-15からミーム学研究サイト・ロメロ-5へと拠点を移した。彼はまもなく、彼自身がHYDRA計画にとって極めて重要な人材であることを証明することとなる。
+
 -----
 
 In 2007, the cognitohazard generation algorithm employed a Monte Carlo method to randomly sample the mathematical set discovered by Dr. Berryman, and then generated fractal imagery based on the resulting seed values. While it was the most reliable method known to Dr. Berryman's team at the time, it was not efficient in the slightest, and the vast majority (> 99.9%) of images depicted 'dead regions' of the fractal space with no cognitohazardous effect on observers.
 
+2007年当時、認識災害生成アルゴリズムは、ベリーマン博士が発見した数学的手法に対しランダムなサンプリングを実施する、モンテカルロ法を用いていた。それによって得られたシード値に基づき、アルゴリズムはフラクタルを生成していた。これは、当時のベリーマン博士らのチームが知る中で最も信頼性の高い手法であった一方で、効率性は皆無に等しかった。これによって生成された画像の99.9%以上は、観測者に認識災害的効果をもたらさないような、フラクタル空間における「失活領域」を描写したものであった。
+
 Dr. Langford began by applying a Hessian-approximating optimization algorithm based on machine-learning techniques to augment this process, resulting in small efficiency gains. In doing so, he identified that the Monte Carlo process was fundamentally deficient, and suggested that the team derive the fractal set formulas that defined the space in order to solve them directly. Dr. Berryman had been unaware that this was a possibility, and so Dr. Langford began the task himself.
 
+ラングフォード博士はまず、機械学習に基づいたヘッセ近似最適化アルゴリズムを適用してこのプロセスを補強し、効率をわずかながら向上させた。その過程で、彼はモンテカルロ法が根本的に不完全であることを見出した。それゆえに、彼はチームに対して、フラクタル集合を定義する方程式を導出し、それを直接解くことを提案した。ベリーマン博士はそれが可能であることを認識していなかったため、ラングフォード博士は自身でこの課題に取り組み始めた。
+
 However, Dr. Langford complained on numerous occasions about Dr. Berryman's policy regarding potential exposure of her team to cognitohazards, and this came to a head when he put his thoughts in writing on the Site's internal communications system.
+
+しかしながら、ラングフォード博士は、ベリーマン博士がチームに対して課していた、認識災害への潜在的な曝露に関する方針について、幾度となく不満を漏らしていた。そしてその不満は頂点に達し、彼は自身の考えを、サイトの内部通信システムにおいて文書化した。
 
 [[div class="forum"]]
 
 [[div class="forum__post forum__post--op"]]
 [[div_ class="forum__post-header"]]
-**Project HYDRA safety protocols**
-Robert Langford [[span class="forum__post-email"]]<@@robert.langford@analytics.scp@@>[[/span]]
+**HYDRA計画の安全手順について**
+ロバート・ラングフォード [[span class="forum__post-email"]]<@@robert.langford@analytics.scp@@>[[/span]]
 [[span class="forum__post-pfp" style="--bg: khaki"]]RL[[/span]]
 [[/div]]
 
 [[div class="forum__post-content"]]
 Dr. Berryman,
 
+ベリーマン博士
+
 I've only been here a few weeks now, but in that time I've found some practices that, while apparently routine here, deeply trouble me.
 
+ぼくはまだここに来てから数週間ほどです。しかし、ここで日常的に行われている種々の慣習には、非常に大きな問題が含まれていると感じます。
+
 This isn't coming out of nowhere. Project CIRCE was only working on detecting cultural coghaz, but even that necessitated several safety protocols, and I don't feel safe without them. It's like I've stepped into a new workshop and I'm the only one who's heard of a respirator.
+
+
 
 I don't need to go far to find something that really shouldn't be happening at all. The team is, as standard, looking at the images they generate to see whether they're cognitohazardous or not. That's insanity. We might not have made anything dangerous //yet//, but we will!
 
@@ -1933,9 +2086,11 @@ Satellite imagery of the Site grounds would reveal the presence of additional fa
 -----
 [[div class="emergency-update"]]
 [[=]]
-+ ATTENTION
++ 注意
 
 Site Romero-5 has been designated SCP-9001-A and has been assigned Keter Class. For more information, proceed.
+
+サイト・ロメロ-5はSCP-9001-Aに割り当てられ、Keterクラスオブジェクトとみなされました。さらなる情報は、この先の文書に記載があります。
 
 **[[[/scp-9001/offset/1|SCP-9001-A.doc]]]**
 
