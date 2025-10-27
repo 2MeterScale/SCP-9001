@@ -514,7 +514,7 @@ Today you have //felt// the utility of my work. We have only scraped the surface
 
 **Special Containment Procedures:** Once per quarter, Fractal Cognitohazardous Images (FCI) produced through SCP-9001 are to be forwarded via dedicated secure fiber-optic cable to Protected Site-7. All FCIs must be transmitted alongside research data describing the effects of each image. These packages are to be analyzed by second-generation [[span class="hoverlink"]][[[aiad-homescreen|AIC]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]Artificially Intelligent Conscripts[[/span]][[span class="hoverlink-text"]]Sentient digital agents developed by the Artificial Intelligence Applications Division (AIAD). AICs operate by a loose set of Standard Principles that ensures they adhere to Foundation protocol and work in the interest of the organisation at all times. [[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/aiad-homescreen/itlogo3.png/small.jpg)"]]-[[/span]][[/span]][[/span]] to corroborate their stated effects and catalogue according to their intensity.
 
-**特別収容プロトコル:** 四半期に一度、SCP-9001によって生成されたフラクタル認識災害画像(FCI)は、各画像の効果を記述した研究データと共に、専用かつセキュアな光ファイバケーブルを通じて、プロテクション・サイト-7へ転送されます。
+**特別収容プロトコル:** 四半期に一度、SCP-9001によって生成されたフラクタル的認識災害画像(FCI)は、各画像の効果を記述した研究データと共に、専用かつセキュアな光ファイバケーブルを通じて、プロテクション・サイト-7へ転送されます。
 これらのパッケージは、第二世代[[span class="hoverlink"]][[[aiad-homescreen|AIC]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]人工知能徴募員[[/span]][[span class="hoverlink-text"]]人工知能適用課(AIAD)によって開発された、意識をもつデジタル・エージェント。AICは、緩やかに定められた一連の「標準原則」に基づいて稼働する。この原則は、彼らが常に財団のプロトコルを遵守し、組織の利益に沿って行動することを保証するものである。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/aiad-homescreen/itlogo3.png/small.jpg)"]]-[[/span]][[/span]][[/span]]によって分析され、記述された効果を実際に確かめた後、その強度に応じてカタログ化されます。
 
 Catalogued FCIs and their innoculants, if any, are to be individually contained on isolated external hard drives in Protected Site-7's Secure Data Storage. Third-Order and Second-Order FCIs may be requisitioned by personnel with Level 3 clearance for research, testing, field use, and D-Class procurement.
@@ -997,50 +997,76 @@ I've only been here a few weeks now, but in that time I've found some practices 
 
 This isn't coming out of nowhere. Project CIRCE was only working on detecting cultural coghaz, but even that necessitated several safety protocols, and I don't feel safe without them. It's like I've stepped into a new workshop and I'm the only one who's heard of a respirator.
 
-
+ともすれば、このポストを唐突なものだと感じる方もおられるかもしれません。CIRCE計画は文化的認識災害の検出にのみ取り組んでいましたが、それでさえもいくつかの安全手順が必要でした。そして、ぼくはそれらの手順抜きでは、安全を感じることができません。まるで新しい作業場に入った時に、ぼくだけが防塵マスクの存在を知っているかのような気分です。
 
 I don't need to go far to find something that really shouldn't be happening at all. The team is, as standard, looking at the images they generate to see whether they're cognitohazardous or not. That's insanity. We might not have made anything dangerous //yet//, but we will!
 
+決して起こってはならないものとは何か。それをわざわざここで申し上げる必要もないでしょう。標準的な手順として、チームは生成された画像を見て、それが認識災害を持つものかどうかを確認しています。これは狂気の沙汰です。我々は危険なものを作り出しているわけではありません。ですが、いつの日かは生まれるものです。
+
 I must insist that we adopt at least the most essential of those policies:
+
+* HYDRA計画のスタッフは、たとえそれが単なる失活領域だと推測される場合であっても、認識災害生成プロセスの出力を決して視認してはならない。
+* 代わりに、全ての潜在的なFCIを、手順10-ケンペレンを介して確認し、分類せねばならない。
+
+少なくとも、このような基本的な方針だけでも採用することを強く求めます。
 
 * Project HYDRA staff must never view the output of the cognitohazard generation process, even if we suspect it's just going to be a dead region.
 * Instead, we must confirm and classify any potential FCIs via Protocol 10-Kempelen.
 
 I know that you know of it already, Ava, but for the benefit of everyone else, Protocol 10-Kempelen is a process used by Project CIRCE, where you have a number of D-Class monitored by fMRI scanners, and you show them the cognitohazards and record what effects it has on them. It's a buffer layer between us and the cognitohazards, for our own protection.
 
+エイヴァはすでにご存知かと思いますが、そうでない方々のために補足させてください。手順10-ケンペレンはCIRCE計画において使用されているプロセスで、fMRIスキャナで監視された複数のDクラス職員に認識災害を見せ、彼らに対する影響を記録するものです。これは、我々と認識災害の間に設けられた緩衝層であり、我々自身を保護するためのものです。
+
 Site-15 has its own 10-Kempelen facility that keeps a rotating population of 50 D-Class at all times. I recommend we verify our FCIs remotely using that resource, instead of having to build our own facility.
 
+サイト-15には独自の10-ケンペレン施設があります。そこでは常に50人のDクラス職員が交代で勤務しています。そのリソースを活用し、我々のFCIの有効性を遠隔で確かめることを提案します。そうすれば、新しく施設を建設する必要はありません。
+
 I respect you, and I respect the work you're doing, I truly do. But this brazen disregard of safety standards -- to word it mildly! -- will only cost us in the long run.
+
+ぼくはあなたと、あなたの研究に敬意を持っています。それは本当です。ですが、控えめに申し上げても、安全基準をこれほど露骨に無視していれば、将来的に大きな代償を払うことになるでしょう。
+
 [[/div]]
 [[/div]] [!-- .forum-post --]
 
 [[div class="forum__post forum__post--reply"]]
 [[div_ class="forum__post-header"]]
-**Re: Project HYDRA safety protocols**
-Ava Berryman [[span class="forum__post-email"]]<@@ava.berryman@analytics.scp@@>[[/span]]
+**Re: HYDRA計画の安全手順について**
+エイヴァ・ベリーマン [[span class="forum__post-email"]]<@@ava.berryman@analytics.scp@@>[[/span]]
 [[span class="forum__post-pfp" style="--bg: tomato"]]AB[[/span]]
 [[/div]]
 
 [[div class="forum__post-content"]]
 This is just going to grind Project HYDRA to a halt.
 
+これはHYDRA計画を停止させる提案にすぎません。
+
 Your concerns are noted, but at this stage of the work, speedy testing and iterative development are more important. O5-8 wants this work done yesterday, after all!
+
+あなたの懸念はわかりました。ですが研究のこの段階においては、迅速な試験と反復的な開発の方が重要です。何と言っても、O5-8は昨日までにこの仕事を終わらせることを望んでおられますから！
+
 [[/div]]
 [[/div]] [!-- .forum-post --]
 
 [[div class="forum__post forum__post--reply"]]
 [[div_ class="forum__post-header"]]
-**Re: Project HYDRA safety protocols**
-Samantha Hughes [[span class="forum__post-email"]]<@@shug3@memetics.scp@@>[[/span]]
+**Re: HYDRA計画の安全手順について**
+サマンサ・ヒュース [[span class="forum__post-email"]]<@@shug3@memetics.scp@@>[[/span]]
 [[span class="forum__post-pfp" style="--bg: sandybrown"]]SH[[/span]]
 [[/div]]
 
 [[div class="forum__post-content"]]
 Holy shit. Yes, we need to implement these policies. Thank you, Langford, for bringing this up.
 
+かなりヤバいですね。確かにこのポリシーを適用する必要がありそうです。ラングフォードくん、提案ありがとうございます。
+
 I'll handle O5-8. Everyone needs to stop work //immediately// until we have this rectified.
 
+O5-8は任せてください。ポリシーが改定されるまで、全職員は直ちに作業を中止してください。
+
 Berryman, you and I need to have a word.
+
+ベリーマンくん。あなたとは話し合いをする必要がありそうです。
+
 [[/div]]
 [[/div]] [!-- .forum-post --]
 
@@ -1048,52 +1074,87 @@ Berryman, you and I need to have a word.
 
 Under Site Director Hughes' direction, the cognitohazard production process was changed so that personnel were not to view their outputs at all, but instead send them to Site-15 for review.
 
+サイト管理官ヒュースの指導のもと、認識災害生産プロセスは変更された。全職員は、アルゴリズムの出力結果を直接視認することは認められなくなった。これら出力結果はサイト-15へ送信され、レビューを受けることになった。
+
 In the interests of investing in that process' efficiency, O5-8 subsequently ordered the unification of Project CIRCE and several related projects, to consolidate all Foundation research into cognitohazard detection. The resulting project would eventually be named Project MEDUSA, and its goal would be to provide a single source of automated, scalable cognitohazard detection.
+
+研究の効率性を向上させる試みの一環として、O5-8はCIRCE計画と、それに関連する複数のプロジェクトの統合を命じた。結局、認識災害検出に関する財団の研究はすべて統合されることとなった。この統合プロジェクトは、MEDUSA計画と名付けられた。本プロジェクトにおいては、自動化された、かつ拡張可能な認識災害検出の単つソースを提供することが目標とされた。
 
 Additionally, O5-8 ordered Dr. Berryman to experiment with reproducing Procedure 10-Kempelen locally at Site Romero-5, to reduce the project's dependency on Site-15 and on D-Class. Dr. Berryman was loaned several researchers from the main project for this purpose. The duration of this experiment and its outcome, if any, are not on record.
 
+さらに、O5-8はベリーマン博士に対し、10-ケンペレン手順をサイト・ロメロ-5において部分的に再現する実験を行うように命じた。これはMEDUSA計画のサイト-15およびDクラスへの依存度を下げるためのものであった。このため、ベリーマン博士には、MEDUSA計画から数人、研究員が貸し出された。この実験の期間、および結果については、記録が残されていない。
+
 Dr. Langford, who was now perceived as having single-handedly stifled the progress of the project, penned an open letter to all of its personnel.
 
+ラングフォード博士は、プロジェクトの進捗を一手にして妨げた人物と見なされるようになった。彼はサイト・ロメロ-5の全職員に対し、公開書簡を執筆した。
 
 [[div class="forum"]]
 
 [[div class="forum__post forum__post--op"]]
 [[div_ class="forum__post-header"]]
-**Open letter to Site Romero-5**
-Robert Langford [[span class="forum__post-email"]]<@@robert.langford@analytics.scp@@>[[/span]]
+**サイト・ロメロ-5への公開書簡**
+ロバート・ラングフォード [[span class="forum__post-email"]]<@@robert.langford@analytics.scp@@>[[/span]]
 [[span class="forum__post-pfp" style="--bg: khaki"]]RL[[/span]]
 [[/div]]
 
 [[div class="forum__post-content"]]
 Hi everyone,
 
+職員の皆様
+
 Over the past few days I've had to put up with more than a few sideways glances here and there. You must all think I'm the new guy who's come here to throw his weight around and disrupt your routine just for the sake of it.
+
+ここ数日、ぼくはあちらこちらから白眼視されているようです。ぼくは新参のくせして権力を振り翳し、ただ皆さんの日常業務を妨害し、そして混乱させていると、皆様はそうお思いのことでしょう。
 
 And, I'll say it plainly, I don't blame you at all. I get it. The Foundation and O5-8 are pushing us to produce as much coghaz as we can. We've got pressure on all sides. If I were in your position, and someone came along and told you how you should be doing your job, I'd be pissed as well.
 
+率直に申し上げます。皆様を責めるつもりはございません。皆様がそうお思いになることも、理解します。財団とO5-8は、ぼくたちにできる限り多くの認識災害を生産するように圧力をかけています。我々はあらゆる方面から圧力をかけられているのです。もしぼくが皆様の立場にあって、誰かが仕事のやり方を指図してきたら、同じように腹を立てるものと思います。
+
 So now I'm going to tell you why I'm right.
+
+ですから、ぼくが正しい理由を説明します。
 
 For those who don't know me, I came here from Project CIRCE. I had a hand in building the very same tools that we're now using for automated coghaz detection. Believe me - that project was //not// plain sailing. We made mistakes, serious ones, that cost lives -- and now you, we, are on the verge of doing the very same.
 
+ご存知ない方のために補足します。ぼくはCIRCE計画から来ました。現在我々が自動認識災害検出に使用している、まさにそのツールの開発に携わりました。そしてCIRCEは、決して順風満帆ではなかったことを、ご理解いただきたいのです。我々は過ちを犯しました。深刻な過ちです。その結果、命が失われたのです。そして今。皆様--　　--私たちは、その二の轍を踏もうとしています。
+
 In 1999, my team received our first instant-kill coghaz, the very first First Order CCI. Its cultural requirements were specific, but our security was lax. Six good researchers lost their lives on the spot. Their potential wasted, completely, instantly. I was very nearly one of them.
+
+1999年に、CIRCE計画において初めての即死認識災害が生まれました。まさに最初の第一級文化的認識災害(Cultural Cognitohazardous Image、以後CCI)です。それが効を発するためには、特定の文化的背景が必要でした。しかし、我々のセキュリティには穴がありました。研究員が六名、即座に命を落としてしまったのです。彼らの可能性は、完全に、そして即座に断たれてしまいました。ぼくも危うく、そのうちの一人になるところでした。
 
 Our old Monte Carlo process was unpredictable, you had zero control over its output, but my new optimization algorithm is like a targeting rangefinder for our fractal cognitohazard generation. That means it's now only a question of //when//, and not //if//, before we create an FCI that does something irreversible -- in fact, it MUST happen for Project HYDRA to succeed. And I know that the vast, vast majority of what we were producing through Monte Carlo were just dead regions, and that's still mostly the case now, and there's a good 95% chance nothing happens when you look - but you roll those dice every single time you do. And, given time, we'll get more efficient, and those odds will only climb -- sharply.
 
+我々がかつて使用していた、古いモンテカルロ法は予測不可能で、その出力をコントロールすることはできません。ですが、ぼくの新しい最適化アルゴリズムは、フラクタル的認識災害画像を生成するための照準測距儀のようなものです。つまり、取り返しのつかないような効果を持つFCIが生成されることは、もはや可能性の話ではなく、いつか必ず起こることなのです。実際、HYDRA計画の成功のためには、そのようなFCIが生成されなければならないのです。モンテカルロ法でで生成されるものの大半が、圧倒的大多数が単なる失活領域でありました。いま生成されるものも、ほとんどそうです。見ても何も起こらない確率が95%であることは承知しています。しかし、皆様はその画像を見るたびにサイコロを振っているのです。そして時間さえあれば、我々はより効率的な手段を見つけ、確率は急激に上昇していくことでしょう。
+
 We //cannot// risk viewing the images we create. Ever. If you value your life, you must never set eyes upon your creations. That is why Procedure 10-Kempelen was established.
+
+生成された画像を視認するようなリスクは冒せません。絶対に。ご自分の命を大事にしたいのであれば、あなたの造った画像を決して見てはならないのです。それが、手順10-ケンペレンが確立された理由です。
 
 The better of you will have looked into 10-Kempelen and will know that it is staffed by D-Class. The best of you will ask, why should they suffer in our stead?
 
+皆様のうち、優秀な方々はすでに10-ケンペレンについてお調べになったことでしょう。そして、それがDクラス職員によって運営されていることを把握なさっているはずです。最も優秀な方の頭の中には、ある問いが浮かんでいることでしょう。なぜ、彼らは私たちの代わりに苦しまねばならないのでしょうか。
+
 They shouldn't. It's not fair. We need to fix that, too.
+
+苦しむべきではないのです。公平ではありません。改善の必要があります。
 
 That is why O5-8 has ordered the Department of Analytics to refine the computerized detection processes. That team is doing exactly what we're doing, just in reverse. They are not our competition -- we are working together. For all of our sakes, we must allow their progress to outpace ours. Yes, I know: the automated detection systems are at best about 30% accurate. That //will// change, given time.
 
+だからこそO5-8は解析部門に対し、コンピュータによる検出プロセスを洗練させることを命じました。あのチームは、我々が今やっていることをちょうど逆回しにしているのです。彼らは競争相手ではなく、協力すべき相手です。我々全員のために、彼らの進捗が我々のそれを上回るようにしなければなりません。自動検出システムの精度はおよそ30%の精度であることは、承知しています。そしてそれは確実に変わっていきます。時間さえ経てば。
+
 Dr. Berryman is working on a solution too, in her own way, with her own handpicked team. I'm not privy to the details, but with their efforts combined, we'll be back to full speed and more before you know it.
+
+ベリーマン博士も彼女なりのやり方と、彼女自ら選んだチームでもってこの問題に取り組んでいます。ぼくはその詳細を知りませんが、彼らの努力も組み合わさってしまえば、気づいた時には元以上の速度で研究が進んでいることでしょう。
 
 And I'm hard at work as well, when I'm not busy trying to get everyone to down tools! If I can derive the underlying formulas that define the cognitohazardous fractal space, we'll be able to traverse it directly, and the current algorithm can go fuck itself. We'll be vastly more efficient and we'll have so much more control.
 
+そして、ぼくも懸命に取り組んでいます。皆の作業を中断させるために忙しくしている時以外はね！　認識災害的なフラクタル空間を定義する基礎方程式さえ導出できれば、我々はその中を縦横に走ることができるようになります。つまり今使っているアルゴリズムなど、鼻クソ以下のものになってしまうのです。我々は遥かに効率的に、そして遥かに多くの制御が可能になることでしょう。
+
 It will get better. I promise. The odds of losing are small, but we're not safe until they're zero, and the stakes are so very high.
 
-Robert Langford
+状況は好転します。約束します。何かを失う可能性は小さいですが、それがゼロになるまでは決して油断できません。我々の身上に賭されているものは、あまりにも大きいのです。
+
+ロバート・ラングフォード
 [[/div]]
 [[/div]] [!-- .forum-post --]
 
@@ -1101,10 +1162,17 @@ Robert Langford
 
 As Dr. Langford's policies had the support of Site Director Hughes, cognitohazard production remained subject to these constraints. In the meantime, efforts were redirected to the study of the production of inoculant images.
 
+ラングフォード博士の方針がサイト管理官ヒュースの支持を得たため、認識災害の生産プロセスは、この制限の下で実施されることとなった。また、免疫画像を生成するための研究が、再度活発に行われるようになった。
+
 [[div class="blockquote"]]
 **Excerpt from //On the Generation of Cognitohazard Inoculants// by Dr. Ava Berryman, 2006**
 
+**2006年、エイヴァ・ベリーマン博士による『認識災害に対する免疫の生成について』より抜粋**
+
 The production of inoculant imagery is intended to confer immunity to one specific cognitohazard through its pairing with a second controlled cognitohazardous stimulus with an effect tailored specifically to render the viewer immune to the aforementioned. The mechanism is poorly-understood; our proposed theory posits that each inoculant permanently disrupts a distinct set of cerebral nodes required for the activation of its corresponding cognitohazard. Historically, identifying a suitable inoculant for a given cognitohazard has proven more laborious than the initial discovery of the hazard itself, due to limitations in methodology and the complexity of neural interactions [...]
+
+
+
 [[/div]]
 
 Although Dr. Langford had not yet derived the underlying equations, improving computational technologies were beginning to accelerate the pace of development. At this time, Site Romero-5 was producing up to 4 FCIs per week, though after curation, only an average of 2 per month were considered potentially useful to the Foundation.
