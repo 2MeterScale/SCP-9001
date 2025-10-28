@@ -1172,23 +1172,27 @@ As Dr. Langford's policies had the support of Site Director Hughes, cognitohazar
 The production of inoculant imagery is intended to confer immunity to one specific cognitohazard through its pairing with a second controlled cognitohazardous stimulus with an effect tailored specifically to render the viewer immune to the aforementioned. The mechanism is poorly-understood; our proposed theory posits that each inoculant permanently disrupts a distinct set of cerebral nodes required for the activation of its corresponding cognitohazard. Historically, identifying a suitable inoculant for a given cognitohazard has proven more laborious than the initial discovery of the hazard itself, due to limitations in methodology and the complexity of neural interactions [...]
 
 
+免疫画像の生成は、特定の認識災害に対する免疫を付与することを目的としており、それは第二の制御された認識災害性刺激との対提示によって達成される。この第二の刺激は、閲覧者を前述の認識災害に対して免疫化するよう特別に調整された効果を持つ。そのメカニズムは十分に理解されていない。我々の提唱する理論では、各免疫画像は、対応する認識災害の発動に必要な特定の脳内ノード群を永続的に破壊するものと仮定している。歴史的に見て、与えられた認識災害に対する適切な免疫画像の特定は、方法論の限界と神経相互作用の複雑性により、当該災害の最初の発見よりも困難であることが証明されてきた[...]
 
 [[/div]]
 
 Although Dr. Langford had not yet derived the underlying equations, improving computational technologies were beginning to accelerate the pace of development. At this time, Site Romero-5 was producing up to 4 FCIs per week, though after curation, only an average of 2 per month were considered potentially useful to the Foundation.
 
+この時点において、ラングフォード博士はFCIを生成するための方程式を導出していない。他方で、計算機技術の進歩により、開発の速度が加速しつつあった。当時、サイト・ロメロ-5は一週間あたりに4つのFCIを生成していたものの、選別のすえに財団にとって有用とみなされたものは、平均して2つほどであった。
  _
 
 [[div class="samples"]]
 [[div class="samples__header"]]
 = Sample FCI output generated during this era. Cognitohazardous effects, if any, have been evaluated and interpreted by Waldor.aic.
+
+= この時期に生成されたFCIの例。認識災害的効果は、Waldor.aicによって評価され、記述されている。
 [[/div]]
 
 [[div class="samples__image-heading"]]
 = **FCI**
 [[/div]]
 [[div class="samples__desc-heading"]]
-= **Interpretation**
+= **記述**
 [[/div]]
 
 [[div class="samples__image"]]
@@ -1196,6 +1200,9 @@ Although Dr. Langford had not yet derived the underlying equations, improving co
 [[/div]]
 [[div class="samples__desc"]]
 Thin filament structured in Lichtenberg pattern. Viewer becomes acutely aware of their breathing patterns for a short period.
+
+リヒテンベルグ図形を形作る細糸。視認した者は、自身の呼吸パターンを短時間にわたり強く意識するようになる。
+
 [[/div]]
 
 [[div class="samples__image"]]
@@ -1203,6 +1210,9 @@ Thin filament structured in Lichtenberg pattern. Viewer becomes acutely aware of
 [[/div]]
 [[div class="samples__desc"]]
 Branching fractal in greyscale with seven arms. Dead region.[[footnote]]**{{DATA LOST}}**[[/footnote]] No effects noted within the image.
+
+白黒で、7本の腕を持つ、枝分かれしたフラクタル図形。不活領域。[[footnote]]{データ喪失}[[/footnote]]この画像に特筆すべき効果はない。
+
 [[/div]]
 
 [[div class="samples__image"]]
@@ -1212,21 +1222,34 @@ Branching fractal in greyscale with seven arms. Dead region.[[footnote]]**{{DATA
 Serpentine swirl in blue tones and receding into two separate points. Induces mild sense of anxiety regarding an upcoming personal event or task that the viewer has neglected.
 
 This unit posits this may be useful for internal use in increasing productivity.
+
+青色の、蛇のような渦巻きが、二つの点へ収束している。視認した者に対し、その者が意図的に無視するようにしていた、直近の予定やタスクについて、軽い不安感を抱かせる。
+
+本ユニットは、生産性を向上させるために、この画像を財団内部で利用することが有効であると推定する。
+
 [[/div]]
 
 [[/div]] [!-- .samples --]
 
  _
 
-+++ 2008, July
++++ 2008年7月
 
 On 2008-07-05, the 10-Kempelen facility at Site-15 reported that Site Romero-5 had produced a lethal First Order FCI with ID number FCI-284/1.
 
+2008年7月5日、サイト-15の10-ケンペレン施設は、サイト・ロメロ-5において、最初の第一級FCIが生成されたと報告した。そのFCIには、FCI-284/1というIDが割り振られた。
+
 Procedure 10-Kempelen attempts to assess the efficacy of the cognitohazard through exposure to multiple test subjects. 15 D-Class personnel were made to observe the FCI, all of whom were found to be susceptible before Site-15 staff terminated the test prematurely. For reference, the efficacy of the average CCI is 45% and of the at-the-time most effective CCI was 71%. The researcher responsible for the production of the FCI chose to remain anonymous.
+
+手順10-ケンペレンは、複数の被験者への曝露を通じて、認識災害の有効性を評価する者である。15名のDクラス職員がFCIを視認し、全員が影響を受けたことが確認された。なお、本試験はサイト-15のスタッフにより中断された。なお、平均的な文化的認識災害の有効性は45%であり、当時最も効果的なものでも71%であった。このFCIの生成を担当した研究者は、匿名を希望した。
 
 The First Order FCI and its inoculants were submitted to Site-19, and on 2008-07-26, Lieutenant Masipag actioned the first-ever deployment of a universally-cognitohazardous kill agent to secure the SCP-001 file.
 
+この第一級FCIとその免疫画像はサイト-19へ提出され、マシパグ中尉によって、SCP-001ファイルを保護するための普遍的認識災害性ミーム殺害エージェントとして、初めて配備された。
+
 Dr. Berryman issued a statement to the Project HYDRA staff in response.
+
+これを受けて、ベリーマン博士はHYDRA計画のスタッフに向けて声明を発表した。
 
 [[div class="forum"]]
 
@@ -1291,7 +1314,7 @@ However, Site-15 would not address Dr. Berryman's requests for improvement. With
 [[div class="forum__post forum__post--op"]]
 [[div_ class="forum__post-header"]]
 **Please slow down**
-Vladimir Vuković [[span class="forum__post-email"]](Director, Project MEDUSA) <@@vvuk@analytics.scp@@>[[/span]]
+ヴラジミール・ヴコヴィッチ [[span class="forum__post-email"]](MEDUSA計画理事) <@@vvuk@analytics.scp@@>[[/span]]
 [[span class="forum__post-pfp" style="--bg: paleturquoise"]]VV[[/span]]
 [[/div]]
 
