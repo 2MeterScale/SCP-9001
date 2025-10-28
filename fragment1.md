@@ -1255,39 +1255,59 @@ Dr. Berryman issued a statement to the Project HYDRA staff in response.
 
 [[div class="forum__post forum__post--op"]]
 [[div_ class="forum__post-header"]]
-**We've bloody done it**
-Ava Berryman [[span class="forum__post-email"]]<@@ava.berryman@analytics.scp@@>[[/span]]
+**ついにやりましたよ**
+エイヴァ・ベリーマン [[span class="forum__post-email"]]<@@ava.berryman@analytics.scp@@>[[/span]]
 [[span class="forum__post-pfp" style="--bg: tomato"]]AB[[/span]]
 [[/div]]
 
 [[div class="forum__post-content"]]
 Colleagues,
 
+皆さま
+
 This month, we have taken our largest step yet towards proving the legitimacy of our endeavor, and have finally made a truly significant contribution to the security of the Foundation. Our work has finally borne fruit. I am so very proud of all of you.
+
+今月、我々は我々の試みの正当性を証明するための、大きな一歩を踏み出しました。そしてついに、財団の安全保障に対し、真に意義深い貢献を成し遂げたのです。我々の研究が、ようやく実を結びました。皆様のことを、心から誇りに思います。
 
 For many of you, this is your first Project of this scale. Hold onto this feeling -- do not let your pride fade. An accolade of this esteem can catapult your career, if you play it right.
 
+皆様の多くは、この規模のプロジェクトに初めて参加したことでしょう。この気持ちを大事にしてください。あなたが今持っている誇りは、決して色褪せてはいけません。このような名誉ある成果を以てすれば、あなた方のキャリアはさらなる飛躍をしていくことでしょう。
+
 Tonight we're going to have a get-together in the Site cafeteria. Food and drink will be provided, and I expect you to not only leave your work at the door but to forget about it for as long as you need to in the morning as well, if you catch my drift.
 
+今夜、サイトの食堂で懇親会を開きます。食事と飲み物を用意しますので、皆様には、仕事のことを一旦忘れて、大いに楽しんでいただきたいと思います。翌朝の心配も無用です。私の意図していることはお分かりかと思います。
+
 I'd really, really like to see everyone come to this celebration, no matter whether you're working in Generation or if you're on the Berry team. Let's come together as a Site and give each other the break we deserve!
+
+生成チーム、ベリーチーム問わず、皆さま全員がこの祝賀の席にご出席いただけることを心から願っております。サイトの皆で、私たちの努力が勝ち取ったこの安らぎの時を、心ゆくまで分かち合いましょう！
+
 [[/div]]
 [[/div]] [!-- .forum-post --]
 
 [[div class="forum__post forum__post--reply"]]
 [[div_ class="forum__post-header"]]
-**Re: We've bloody done it**
-Robert Langford [[span class="forum__post-email"]]<@@robert.langford@analytics.scp@@>[[/span]]
+**Re: ついにやりましたよ**
+ロバート・ラングフォード [[span class="forum__post-email"]]<@@robert.langford@analytics.scp@@>[[/span]]
 [[span class="forum__post-pfp" style="--bg: khaki"]]RL[[/span]]
 [[/div]]
 
 [[div class="forum__post-content"]]
 I'm grateful that our first lethal cognitohazard has found a role in the protection of our most important assets. It would have been a shame for that prestige to have been given to a more aggressive function.
 
+我々の作り出した最初の致死性認識災害が、財団の最重要資産の保護という役割につけたことに感謝します。この栄誉がもし、より攻撃的な目的を持つものに与えられていたとしたら、それは残念なことだったでしょう。
+
 Each day this month, I've thought of the fifteen personnel who gave their lives for the sake of this picture, and what they would think if they saw us now. We have much to thank them for. Please afford them a moment's thought yourself, even though you have never met, and are so many layers removed from them.
+
+今月、ぼくは毎日、この一枚の画像のために命を捧げた15名の職員のことを考えていました。もし彼らが今の私たちを見たら、どう思うのでしょうか。我々は、彼らに感謝すべきことがたくさんあります。我々は確かに彼らと会ったことがありません。それどころか、彼らと我々の間には大きな壁があります。だとしても、どうか皆さまも、彼らに少しだけ思いを馳せていただけると嬉しいです。
 
 We are on a precipice, certainly. It is my deepest hope that it will be of something great, and that collectively we can be proud of the decisions we will have made along the way.
 
+我々は今、断崖に立っています。その崖が何か偉大なものへと続くものであること、そして私たちがこれまで下してきた決断を皆で誇りに思えるようになることを、心の底から願っております。
+
 I'll make sure to swing by the celebrations briefly, but the stresses of the project have been getting to me, so I won't be staying long. It'll be nice to see everyone in a more relaxed capacity for once!
+
+祝賀会には少しだけ顔を出すつもりです。プロジェクトのストレスが溜まってきているので、長居はしません。たまには皆さまとよりリラックスした環境でお会いできたら嬉しいものです。
+
 [[/div]]
 [[/div]] [!-- .forum-post --]
 
@@ -1295,25 +1315,37 @@ I'll make sure to swing by the celebrations briefly, but the stresses of the pro
 
 Despite the success, Project HYDRA was not yet complete, as Site Romero-5 could not yet continuously or reliably produce any kind of FCI, let alone First Order FCI specifically. All FCIs produced thus far had been the result of a mix of the Langford algorithm and guesswork.
 
+この成功にもかかわらず、HYDRA計画は完遂していなかった。サイト・ロメロ-5は、第一級FCIに限らず、いかなる種類のFCIであっても、継続的かつ確実に生成することができなかったのである。これまでに生成されたすべてのFCIは、ラングフォード・アルゴリズムと試行錯誤を混ぜ合わせたものの結果であった。
+
 -----
 
-+++ 2010, March
++++ 2010年3月
 
 In March 2010, after just over two years of effort, Dr. Langford successfully derived the underlying formulas. The result of his research, a single equation that definitionally mapped out the entirety of the cognitohazardous fractal space, would become known as the Berryman-Langford set.
 
+2010年の3月、ラングフォード博士は方程式の導出に成功した。研究開始からわずか2年の出来事であった。この成果によって導き出された方程式は、認識災害的フラクタル空間の全てをマッピングするものであった。これによって定義される集合は、のちに「ベリーマン=ラングフォード集合」と呼ばれるものである。
+
 The definition of the Berryman-Langford set, after its correctness was proven, was immediately locked in an ultra-secure enclave within the Site Romero-5 data store, with access only provided to Site Director Hughes, Dr. Berryman, and Dr. Langford. Other members of the research team were not permitted to view the equations or even know its parameter count, as any leak to hostile Groups of Interest would represent a colossal security breach.
+
+ベリーマン=ラングフォード集合の正当性が証明されたあと、その定義式はサイト・ロメロ-5のデータストア内にある、最高度のセキュリティで保護された領域内に封印された。アクセス権はサイト管理官ヒュース、ベリーマン博士、およびラングフォード博士にのみ付与された。他の研究チームのメンバーは、方程式を閲覧することも、その変数の数を知ることも許されなかった。要注意団体への漏洩は、いかなる場合でも極めて重大なセキュリティ侵害へとつながるからである。
 
 The Berryman-Langford set could be trivially solved computationally to pick valid seed values; the fractal space could now be traversed directly, intentionally picking regions to explore, instead of needing to randomly chance upon starting values that happened to intersect with the fractal space through sheer luck.
 
+ベリーマン=ラングフォード集合は、計算によってごく簡単に解くことで有効な初期値を選び出すことができた。その結果、純粋な幸運頼みで偶然フラクタル空間と交差するような初期値に出くわすのを待つ必要はなくなり、探索したい領域を意図的に選びながら、フラクタル空間を直接的に踏査できるようになったのである。
+
 Through the Berryman-Langford set, the rate of generated output having cognitohazardous properties increased by orders of magnitude, from 0.004% to over 80%. Dr. Berryman suspected that the rate was actually closer to 100%, with the discrepancy caused by cognitohazardous effects that the detection methods at the 10-Kempelen facility were unable to classify, e.g. immeasurably minuscule effects, or effects targeting non-quantifiable parts of the mind.
 
+ベリーマン=ラングフォード集合を通じて、生成物が認識災害特性を持つ割合は0.004%から80%超へと桁違いに増加した。ベリーマン博士は、この割合が実際には100%に近くなると推測していた。この差分を生んでいるのは、10-ケンペレン施設の検出手法では分類できない認識災害効果、すなわち、測定不可能なほど微小な効果や、精神の定量化不可能な領域を標的とする効果である、と彼女は考えた。
+
 However, Site-15 would not address Dr. Berryman's requests for improvement. Within a month, an official complaint was issued to Site Romero-5.
+
+しかし、サイト-15がベリーマン博士の改善要求に応じることはなかった。一ヶ月も経たないうちに、サイト-15よりサイト・ロメロ-5に対して正式な苦情が申し立てられた。
 
 [[div class="forum"]]
 
 [[div class="forum__post forum__post--op"]]
 [[div_ class="forum__post-header"]]
-**Please slow down**
+**ペースを落としてください**
 ヴラジミール・ヴコヴィッチ [[span class="forum__post-email"]](MEDUSA計画理事) <@@vvuk@analytics.scp@@>[[/span]]
 [[span class="forum__post-pfp" style="--bg: paleturquoise"]]VV[[/span]]
 [[/div]]
@@ -1321,13 +1353,23 @@ However, Site-15 would not address Dr. Berryman's requests for improvement. With
 [[div class="forum__post-content"]]
 Samantha,
 
+サマンサ、
+
 Your team has flooded us with cognitohazard classification requests. Our testing facility is overwhelmed. Both our organic and computational resources are being consumed mostly by you.
+
+君のチームから認識災害の分類依頼が殺到しているせいで、我々の検査施設は完全にパンクしています。生体リソースも計算リソースも、そのほとんどが君たちに食い潰されている状態です。
 
 You are not the only Site that relies on us. Nearly all cognitohazard classification goes through Site-15. Our backlog is becoming unmanageable. We are hugely investing in our computational detection processes through Project MEDUSA but I do not have the resources I need to scale up our Procedure 10-Kempelen operations to the levels that you are asking for. There are not enough D-Class.
 
+我々を頼りにしているのは、君たちのサイトだけではありません。サイト-15は、ほぼ全ての認識災害分類を一手に受けているのです。未処理案件は、もはや手に負えないレベルrまで溜まっています。こちらとてMEDUSA計画を通じて計算論的検出プロセスに莫大な投資はしていますが、君たちが要求する程度まで手順10-ケンペレンの運用規模を拡大させるためのリソースは、私にはありません。Dクラス職員が足りていないのです。
+
 I have enough issues to deal with as it is. The Site Director has authorized me to block all classification requests from your team if I need to. I understand the importance of your work and I have no desire to do that.
 
+これだけでもう手一杯です。にもかかわらず、サイト管理官からは、必要とあらば君のチームからの分類依頼を全てブロックする権限も与えられています。君たちの仕事の重要性は理解していますし、私とてそんなことはしたくありません。
+
 But, please, slow down.
+
+ですからお願いします。ペースを落としてください。
 [[/div]]
 [[/div]] [!-- .forum-post --]
 
@@ -1335,61 +1377,93 @@ But, please, slow down.
 
 Site Director Hughes elected to sustain the request from Site-15. After negotiating with Director Vuković, she placed a limit on the number of potential FCIs that could be submitted to Site-15 per day.
 
+ヒュース管理官はサイト-15からの要請を受け入れることにした。ヴコヴィッチ理事との交渉の末、彼女はサイト-15へ一日あたりに提出できる潜在的FCIの数に上限を設けた。
+
 With Project HYDRA's progress now externally bottlenecked, the headcount at Site Romero-5 was reduced from 55 to 19. Many of the displaced staff transferred to Site-15 to assist efforts to expand detection capacity at Project MEDUSA. Permission was granted to Dr. Berryman for access to any Foundation resource as required to complete her research project.
+
+HYDRA計画の進捗が外部要因によってボトルネックに陥ったことで、サイト・ロメロ-5の人員は55名から19名に削減された。異動となったスタッフの多くは、MEDUSA計画における検出能力の拡大を支援するためサイト-15へと転属した。一方、ベリーマン博士には、自身の研究プロジェクトを完遂するために必要な、いかなる財団リソースへのアクセスも許可された。
 
 -----
 
-+++ 2011, June
++++ 2011年6月
 
 In June 2011, the Department of Analytics released Project MEDUSA for general access to the rest of the Foundation.
 
+2011年6月、解析部門はMEDUSA計画を、財団の他部門も一般利用できるよう公開した。
+
 Automated detection of cognitohazards via the MEDUSA service breathed new life into Project HYDRA. The MEDUSA service was capable of taking over all rote cognitohazard detection and classification work, and outclassed the previously-available cognitohazard detection methods in practically every metric. For cognitohazards with known effects, the cognitohazard backlog was emptied within a matter of weeks, and production quickly resumed at full pace.
+
+MEDUSAサービスによる認識災害の自動検出は、HYDRA計画に新たな命を吹き込んだ。このサービスは、認識災害の検出と分類に関する定型的な作業をすべて引き継ぐことが可能であり、既存の検出手法を事実上すべての指標で凌駕していた。既知の効果を持つ認識災害に関しては、数週間のうちに未処理案件が一掃され、その生成は速やかに完全なペースを取り戻した。
 
 As the MEDUSA service was a machine-learning based system, constant exposure to new fractal cognitohazards created a positive feedback loop, making it more and more capable over time. However, for the same reason, it was unable to classify cognitohazards with as-yet-unseen effects. Around one third of FCI production fell into this category. The only way to assess such a cognitohazard with sufficient medical rigor was, and is, to measure its effects on a living person. The 10-Kempelen facility at Site-15 remained the bottleneck.
 
+MEDUSAサービスは機械学習ベースのシステムであったため、新たなフラクタル認識災害に常に曝されることで正のフィードバックループが形成され、それは時間と共により高性能化していった。しかし、まさにその同じ理由から、未知の効果を持つ認識災害を分類することはできなかった。FCI生産のおよそ3分の1がこのカテゴリーに該当した。そのような認識災害を十分な医学的厳密性をもって評価する唯一の方法は、当時も今も、生きた人間でその効果を測定することである。サイト-15の10-ケンペレン施設は、依然としてボトルネックであり続けた。
+
 -----
 
-+++ 2012, January
++++ 2012年1月
 
 In January 2012, Dr. Berryman's research project was complete and her team merged back into the main team. Cognitohazard generation stopped while the results of the experiment were integrated into the existing FCI creation process.
 
+2012年1月、ベリーマン博士の研究プロジェクトが完了し、彼女のチームはメインチームへと再合流した。ベリーマン博士らの実験結果が既存のFCI生成プロセスに統合される間、認識災害の生成は停止された。
+
 Three days later, production resumed along with verification requests via the MEDUSA service, albeit now with zero demand on the 10-Kempelen facility.
 
+その3日後、MEDUSAサービス経由での検証リクエストと共に生産は再開されたが、今や10-ケンペレン施設への需要は皆無となっていた。
+
 In March, Project MEDUSA Director Vuković sent a message to Site Director Hughes.
+
+3月、MEDUSA計画のヴコヴィッチ理事がヒュース管理官にメッセージを送った。
 
 [[div class="forum"]]
 
 [[div class="forum__post forum__post--op"]]
 [[div_ class="forum__post-header"]]
-**10-Kempelen query**
-Vladimir Vuković [[span class="forum__post-email"]]<@@vvuk@analytics.scp@@>[[/span]]
+**10-ケンペレンについて**
+ヴラジミール・ヴコヴィッチ [[span class="forum__post-email"]]<@@vvuk@analytics.scp@@>[[/span]]
 [[span class="forum__post-pfp" style="--bg: paleturquoise"]]VV[[/span]]
 [[/div]]
 
 [[div class="forum__post-content"]]
 Samantha,
 
+サマンサ、
+
 How has your team managed to not only reduce its reliance on our 10-Kempelen operation, but eliminate it entirely?
+
+君たちのチームは、一体どうやって我々の10-ケンペレンへの依存度を減らすだけでなく、完全に無くすことができたのですか？
 
 I've seen some of the cognitohazards your team is producing since that change (not the imagery itself, of course), and the attached data is just as medically conclusive as ours. Yet your site is not requisitioning any D-Class. If others could reproduce your results, our load could be lessened even further, or perhaps we could use them ourselves.
 
+例の変更以降に、君たちのチームが生成している認識災害のいくつかを(もちろん、画像そのものではありません)見ました。添付されているデータは、我々のものとなんら遜色ないほど医学的に正確です。それにもかかわらず、君たちのサイトはDクラスを一人も要求していないようです。もし他の部署でも君たちの成果を再現できれば、我々の負荷はさらに軽減されるでしょうし、あるいは我々自身がその手法を利用することもできるかもしれません。
+
 Please interpret my asking as nothing more than grateful curiosity. The resources that can now be diverted from the operation will have cumulative benefits everywhere. The Department of Analytics director has advised me not to be questioning a good thing in the first place.
+
+私個人としては、大変感謝しております。ですからこのご提案は、私の純粋な好奇心から来ているものとお思いください。この検証作業から解放された我々のリソースは、今後あらゆる場所に累積的な利益をもたらすでしょう。もっとも、解析部門の理事からは、そもそもこんないいことに疑問を呈するなと助言されてはいるのですが。
+
 [[/div]]
 [[/div]] [!-- .forum-post --]
 
 [[div class="forum__post forum__post--reply"]]
 [[div_ class="forum__post-header"]]
-**Re: 10-Kempelen query**
-Samantha Hughes [[span class="forum__post-email"]]<@@shug3@memetics.scp@@>[[/span]]
+**Re: 10-ケンペレンについて**
+サマンサ・ヒュース [[span class="forum__post-email"]]<@@shug3@memetics.scp@@>[[/span]]
 [[span class="forum__post-pfp" style="--bg: sandybrown"]]SH[[/span]]
 [[/div]]
 
 [[div class="forum__post-content"]]
 Vladimir,
 
+ヴラジミール、
+
 Thank you for your grateful curiosity. In the pursuit of efficiency, we're very happy to have been able to reduce our impact on your personnel.
 
+ご提案いただきありがとうございます。効率を追い求める中で、あなたの管理下にある人員に対する負荷を減らせたことは、嬉しく思っております。
+
 I am not at liberty to say more.
+
+ですが、私にはこれ以上の詳細を申し上げる権限はありません。
+
 [[/div]]
 [[/div]] [!-- .forum-post --]
 
@@ -1397,25 +1471,35 @@ I am not at liberty to say more.
 
 Dr. Langford did not comment on the process improvements initially, but a week later, he announced his full support.
 
+当初、ラングフォード博士はこの改善についてコメントを残さなかったが、一週間後に全面的な支持を表明した。
+
 ----
 
 With the MEDUSA service being able to validate any amount of cognitohazards as needed, Site Romero-5 being able to classify all FCIs itself to a satisfactory level, and the solved Berryman-Langford set allowing for unabated FCI generation, Project HYDRA was officially complete. O5-8 briefly visited to congratulate the team.
 
+MEDUSAサービスが必要に応じて際限なく認識災害を金性し、サイト・ロメロ-5が全てのFCIを満足のいくレベルで分類できるようになった。そして、解明されたベリーマン=ラングフォード集合がFCIの絶え間ない生成を可能にしたことで、HYDRA計画は正式に完了した。O5-8がチームを祝福するため、短期間の視察に訪れた。
+
 Most Site Romero-5 staff, including Director Hughes, Dr. Berryman, and Dr. Langford, remained on-site to oversee continued cognitohazard production.
 
+ヒュース管理官、ベリーマン博士、ラングフォード博士を含むサイト・ロメロ-5のほとんどのスタッフは、継続的な認識災害の生産を監督するため、サイトに残留した。
+
 As of the end of 2012, after curation, Site Romero-5 was submitting an average of 60 useful FCIs per week, up to 10 of which were First Order.
+
+2012年末の時点で、サイト・ロメロ-5は生成物の取捨選択を経て、週平均60件の有用なFCIを提出しており、そのうち最大10件は第一級のものであった。
 
  _
 [[div class="samples"]]
 [[div class="samples__header"]]
 = Sample FCI output generated during this era. Cognitohazardous effects, if any, have been evaluated and interpreted by Waldor.aic.
+
+= この時期に生成されたFCIの例。認識災害的効果は、Waldor.aicによって評価され、記述されている。
 [[/div]]
 
 [[div class="samples__image-heading"]]
 = **FCI**
 [[/div]]
 [[div class="samples__desc-heading"]]
-= **Interpretation**
+= **記述**
 [[/div]]
 
 [[div class="samples__image"]]
@@ -1423,6 +1507,9 @@ As of the end of 2012, after curation, Site Romero-5 was submitting an average o
 [[/div]]
 [[div class="samples__desc"]]
 Innumerable wisps of pale orange strands which converge into a complex, many-pointed star. Viewer may experience quickened heart rate for a brief duration, coupled with an implaceable feeling of growing dread.
+
+無数の薄橙色の線が、複雑な多尖星の形に収束している。視認した者は、一時的に心拍数の上昇を経験し、説明のつかない不安の増大する感覚を抱く。
+
 [[/div]]
 
 [[div class="samples__image"]]
@@ -1430,6 +1517,9 @@ Innumerable wisps of pale orange strands which converge into a complex, many-poi
 [[/div]]
 [[div class="samples__desc"]]
 Greyscale snailshell spiral receding into a single point in the center-left. Minute effect on spatial reasoning: sets of right angles enclosed within a space composed of right angles (e.g. a closed caption bar displayed on a television) appear skewed.
+
+灰色の、巻貝状の螺旋が中央左にある一点へと落ち込んでいる。直角で構成された空間の内にある長方形(例: テレビに表示される、テロップのフレームなど)が、歪んで見える。
+
 [[/div]]
 
 [[div class="samples__image"]]
@@ -1438,7 +1528,12 @@ Greyscale snailshell spiral receding into a single point in the center-left. Min
 [[div class="samples__desc"]]
 Many colorful whorls bordering the edge of a dark region, from which emerges many strands of Lichtenberg filament. Viewer becomes skeptical of recently-learned information.
 
+多数のカラフルな渦巻きが、暗い領域を縁取っている。その領域の中から、リヒテンベルグ図形をとる細糸が伸びている。視認した者は、以前学習した情報について懐疑的になる。
+
 This unit has pored over accompanying research data and has come to the conclusion that the effect is too minute to be effective in the field.
+
+本ユニットは、関連する研究データを熟読した上で、この効果は実用に足るほど大きいものではないと結論づけた。
+
 [[/div]]
 
 [[/div]] [!-- .samples --]
