@@ -1548,136 +1548,239 @@ This unit has pored over accompanying research data and has come to the conclusi
 [[div class="classified-banner__text"]]
 SCP-9001
 
-The following series of files relates to the
-[[size 133%]]Department of Analytics **Project NIETZSCHE**[[/size]]
-and is level **4/NIETZSCHE** classified.
+以下のファイル群は
+[[size 133%]]分析部門**NIETZSCHE計画**[[/size]]
+に関連し、閲読には**3/NIETZSCHE**クリアランスを要す。
 
-Unauthorized access is strictly forbidden.
+無許可のアクセスを禁じる。
 [[/div]]
 [[/div]] [!-- .classified-banner --]
 
 In November 2014, O5-8 visited Site Romero-5.
 
+2014年12月、O5-8がサイト・ロメロ-5を訪問した。
+
 [[div class="blockquote rotate"]]
-**Project NIETZSCHE briefing**
+**NIETZSCHE計画に関するブリーフィング**
 In attendance: Site Director Samantha Hughes, Dr. Ava Berryman, Dr. Robert Langford, and O5-8 as Project NIETZSCHE director.
 
+参加者: サイト管理官サマンサ・ヒュース、エイヴァ・ベリーマン博士、ロバート・ラングフォード博士、NIETZCHE計画理事O5-8
+
 Meeting was conducted in the secure data vault below Site Romero-5.
+
+本ミーティングは、サイト・ロメロ-5地下の高セキュリティデータ保管庫にて実施された。
 
 -----
 
 **O5-8:** This room is private, yes?
 
+**O5-8:** ここに余人の目はなかろうな？
+
 **Dir. Hughes:** Private enough. There aren't any recording devices. Technically the room could be sealed off, but we'd only have half an hour of air, so I'm not going to do that.
+
+**ヒュース管理官:** 我々だけです。記録装置の類もありません。この部屋を完全に封じてしまうことも技術的には可能でしょうが、あまりそれはやりたくないです。30分しか空気が保ちませんから。
 
 **O5-8:** [[span class="o5-8"]]Seal the room.[[/span]]
 
+**O5-8:** [[span class="o5-8"]]ここを封ぜよ。[[/span]]
+
 //Loud metallic noises and a rush of air as Director Hughes seals the security door closed.//
+
+ヒュース管理官が安全扉を封じる。けたたましい金属音と、空気の流れる音が響き渡る。
 
 **Dir. Hughes:** Oh, wonderful. You realize that can only be opened from outside?
 
+**ヒュース管理官:** 素晴らしいご決断です。外からしか開けられないことはご存知で？
+
 **O5-8:** Your staff will have been notified already. Our conversation will not leave this room. Understood?
+
+**O5-8:** そなたの部下にはすでに通知が入っておる。この会合は、決して余人に聞かれてはならぬのだ。心得たか？
 
 **Dir. Hughes:** Understood. Eight, what could possibly need to be this secret?
 
+**ヒュース管理官:** わかりました。ですが、どうしてここまで秘密にすることにこだわるのですか？
+
 **O5-8:** You are aware that the cognitohazards you have been producing are primarily in use to secure critical Foundation assets.
+
+**O5-8:** そなたらの生成している認識災害が、主に財団の重要資産を保護するために用いられていることは、承知しておろうな。
 
 **Dir. Hughes:** Yes.
 
+**ヒュース管理官:** ええ。
+
 **O5-8:** There is a flaw in that security. The cognitohazards do not affect one demographic.
+
+**O5-8:** その保護には穴がある。認識災害は、ある集団には影響を及ぼさぬのだ。
 
 **Dir. Hughes:** I thought the whole point was that they work on everyone.
 
+**ヒュース管理官:** 全員に等しく効くというのが、あれのウリだったと思うのですが。
+
 **Dr. Berryman:** They do. Therein lies the beauty of the fractal. Its purity touches all.
+
+**ベリーマン博士:** 効くはずです。それゆえにフラクタルは美しいのですから。その純粋性は、万物に触れるのです。
 
 **O5-8:** No. They do not work on reality benders.
 
+**O5-8:** 効かぬのだ。現実改変者には、効かぬ。
+
 **Dr. Berryman:** Which ones?
 
+**ベリーマン博士:** 例えば？
+
 **O5-8:** All.
+
+**O5-8:** 全ての。
 
 **Dr. Berryman:** You may have misunderstood. What kinds of reality benders, specifically, are unaffected?
 
+**ベリーマン博士:** 誤解なさっているはずですわ。もっと具体的にお願いします。どのような類の現実改変者に効果がないのですか？
+
 **O5-8:** All.
+
+**O5-8:** 全ての。
 
 **Dr. Berryman:** I... hm. I see.
 
+**ベリーマン博士:** ですが……いえ、わかりました。
+
 **Dr. Langford:** That's not possible.
+
+**ラングフォード博士:** ありえませんよ。そんなこと。
 
 **Dir. Hughes:** Robert, you tested on reality benders, right?
 
+**ヒュース管理官:** 現実改変者にも試験はしたんでしょう。ロバート。
+
 **Dr. Langford:** Well, not specifically, but there would have been some in the 10-Kempelen--
+
+**ラングフォード博士:** 狙って試験したことはないです。ですが10-ケンペレンには何人か--　　--
 
 **Dr. Berryman:** To be quite honest, I've been expecting something like this. I believe we would have heard about some high-profile reality bender death by now.
 
+**ベリーマン博士:** 打ち明けた話をすると、こうなるんじゃないかって薄々思ってたの。もしそうでなければ、どこかで有名な現実改変者が死んだっていう報告が、届くはずだから。
+
 **Dr. Langford:** There's no way you could have been expecting //anything// like this. We have no reason to suspect someone would be immune just because they're a reality bender.
+
+**ラングフォード博士:** わかるわけないでしょう。こんなことが起こるかもしれないって。現実改変者だからって、生得的な免疫を持っているかもしれないなんて、そんなふうに思える理由はありませんよ。
 
 **Dr. Berryman:** Perhaps, perhaps not. The fractal is more real than reality, remember? Does it not fit that a reality bender would be subject to different rules?
 
+**ベリーマン博士:** どうかしらね。覚えてるでしょ？　フラクタルは現実そのものよりも現実的なのよ。現実改変者が、私たちと違う法則に従うというのは、理にかなっていると思うけれど？
+
 **Dr. Langford:** By virtue of what? You //are// the biologist, aren't you? What biological difference is there between someone who's a reality bender and--
+
+**ラングフォード博士:** そんなこと、何を根拠に？　あなたは生物学者でしょう。現実改変者とぼくたちの間に、どういう違いがあるって--　　--
 
 **O5-8:** [[span class="o5-8"]]Stop.[[/span]] Berryman, what is your theory?
 
+**O5-8:** [[span class="o5-8"]]控えよ。[[/span]]ベリーマン、所見を聞かせよ。
+
 **Dr. Berryman:** If it is only reality benders who are not affected, as you say, and it is //all// reality benders who are not affected, as you imply, then it follows that reality benders are simply fundamentally different to everyone else.
+
+**ベリーマン博士:** もし貴方のおっしゃる通りに、現実改変者だけが影響を受けなくて、さらに全ての現実改変者が影響を受けないのであれば、現実改変者はその他全ての人間と、根本的に違うということになりますわね。
 
 **Dr. Langford:** That can't be true! Some of the D-Class in 10-Kempelen //must// have been reality benders, statistically-speaking! I've reviewed all the data and not once has any FCI come back as anything other than 100% effective.
 
+**ラングフォード博士:** ありえませんよ！　そんなこと！　10-ケンペレンのDクラスも、何人か現実改変者だったはずです！　統計的にはそうなんですよ！　ぼくはデータを全部見ました。どのFCIも100%の有効性を示していたんですよ。
+
 **Dr. Berryman:** Evidently not, elsewise we'd not be having this conversation, would we?
+
+**ベリーマン博士:** どうやら違うようね。じゃなきゃこんなところでこんな話してないでしょう？
 
 **O5-8:** Dr. Langford is correct. Latent reality benders in the D-Class population of Site-15 were exposed to your cognitohazards on numerous occasions. They were unaffected. We have gone to great lengths to hide those results.
 
+**O5-8:** ラングフォード博士の言は正しい。サイト-15のDクラスに潜む現実改変者らは、幾度となくそなたらの認識災害を浴びてきた。だが、効果はなかったのだ。我らがその事実を秘匿せんがため、払った労は計り知れぬ。
+
 **Dr. Langford:** Wh... what? Why?
+
+**ラングフォード博士:** それは……なぜ？
 
 **O5-8:** Utilization of the imperfect is more efficient than awaiting perfection.
 
+**O5-8:** 十全を求めるは無為よ。不全の物として、用いるに益があればこそ。
+
 **Dir. Hughes:** You've known about this for two years, at least, then? How has this not been a problem until now?
+
+**ヒュース管理官:** では少なくとも二年間、あなたはこれをご存知だったということになります。なぜこれが今の今まで問題にならなかったのですか？
 
 **O5-8:** Yours is not the only security method under our employ. Should a reality bender happen to access a protected document, conventional trackers have proven sufficient for locating and acquiring them. It does not happen often. Most who view a cognitohazard are inoculated against it.
 
+**O5-8:** そなたらの仕掛けがなくとも、我らには別の手立てがある。現実改変者が保護文書に触れようものなら、旧来の追跡で事足りる。それに、そのような輩はそう現れるものではない。認識災害を見る者には、あらかじめ免疫が施されていることがほとんどゆえな。
+
 **Dir. Hughes:** I thought we were making actual contributions to Foundation security, not slapdash patches to a sloppy approximation--
+
+**ヒュース管理官:** 我々は財団の保安に貢献しているものと思っていました。姑息な応急処置なんかじゃ--　　--
 
 **O5-8:** [[span class="o5-8"]]Silence.[[/span]] We are now using your cognitohazards to secure elements for which fallback methods may not be sufficient. This is not yet a matter of urgency. What do you need?
 
+**O5-8:** [[span class="o5-8"]]慎め。[[/span]]今やそなたらの認識災害は、他の策が通じぬ対象の確保に使われておるのだ。まだ急を要する事態にあらぬ。何が必要か、申せ。
+
 **Dr. Langford:** To produce a cognitohazard that can affect reality benders? Well, there must be a biological reason for the discrepancy, and not something that's ever been noted before, in any study, ever, otherwise we'd already know about it. It must be something that's specific to fractal coghaz. So, we need data, lots of data, and we need to get it by exposing fractal coghaz to as many reality benders as we can.
+
+**ラングフォード博士:** 現実改変者にも効く認識災害を、作ることでしょうか。きっと生物学的な理由があるはずです、この違いには。しかも過去のどんな研究にも記録がない、全く新しい何かが。でなければ、ぼくらがとっくに気づいているはずですから。そしてそれは、フラクタル認識災害に特有の現象に違いありません。となると、データが必要です。本当に大量のデータが必要です。できるだけ多くの現実改変者にフラクタル認識災害を見せて、データを集めるしかありません。
 
 **Dr. Berryman:** We don't need anything of the sort. It's simple: the reality bender enforces her own perception of reality. Of course this would render her immune to the greater reality of the fractal.
 
+**ベリーマン博士:** そんなもの必要ないわ。単純な話よ。現実改変者は、自身の解釈したいように現実を解釈するだけの話よ。だからフラクタルのより大きな現実性に対して、免疫を持つのは当然のこと。
+
 **Dr. Langford:** That's just a hypothesis and it doesn't even make sense. We need evidence.
+
+**ラングフォード博士:** それはただの仮説で、しかも意味不明です。ぼくらには証拠が必要です。
 
 **O5-8:** Yes. We are not interested in speculation. [[span class="o5-8"]]Prove or disprove.[[/span]]
 
+**O5-8:** 然り。憶測に用はない。[[span class="o5-8"]]証明せよ。さもなくば反証せよ。[[/span]]
+
 **Dr. Berryman:** Very well.
+
+**ベリーマン博士:** 良いでしょう。
 
 **Dr. Langford:** We're going to need that data.
 
+**ラングフォード博士:** そのためのデータが必要になりそうですね。
+
 **O5-8:** We will give you access to the reality bender data from the Site-15 tests.
+
+**O5-8:** うむ。サイト-15における、現実改変者への試験に関するデータに対し、アクセス権を与えよう。
 
 **Dr. Langford:** It won't be enough. We'll need more, much more.
 
+**ラングフォード博士:** それじゃ足りません。本当に大量のデータが必要です。
+
 **Dr. Berryman:** I believe I have just the vaguest notions of an idea as to how we might gather that data from the reality benders already employed at the Foundation.
 
+**ベリーマン博士:** 財団に雇用されている全ての現実改変者からデータを集めるにはどうしたらいいか……何となく、アイデアはあるけれど。
+
 **O5-8:** Good, Dr. Berryman. We look forward to hearing your idea.
+
+**O5-8:** よろしい、ベリーマン博士。そなたの意見を聞こう。
 [[/div]]
 
 Upon returning to Site-01, O5-8 initiated Project NIETZSCHE, enrolling Dr. Berryman, Dr. Langford, and the rest of the remaining Site Romero-5 staff. O5-8 would direct the project, with Dr. Berryman reporting directly, and Dr. Langford reporting to Dr. Berryman.
 
+サイト-01への帰還後、O5-8はNIETZSCHE計画を始動させ、ベリーマン博士、ラングフォード博士、およびサイト・ロメロ-5の全残留スタッフを計画に登録しました。計画の指揮はO5-8が執り、ベリーマン博士はO5-8へ、ラングフォード博士はベリーマン博士へ、それぞれ直接報告を行う指揮系統が確立されました。
+
 Project NIETZSCHE was presented to the Foundation as simply the continued effort to improve the cognitohazard production process, with knowledge of its true purpose -- to discover a means to use fractal cognitohazards on reality benders -- kept secret, on account of the security implications. To that effect, Site Director Hughes would remain chiefly concerned with the day-to-day operations of Site Romero-5.
 
-+++ 2014, December
+NIETZSCHE計画は財団に対し、単に認識災害生成プロセスを改善するための継続的な取り組みであると公表されました。その真の目的、すなわち「フラクタル認識災害を現実改変者に使用する手段の発見」は、セキュリティ上の懸念から秘匿されました。この方針に基づき、サイト管理官ヒュースは、引き続きサイト・ロメロ-5の日々の業務に主に関与することとなりました。
++++ 2014年12月
 
 [[div class="project-proposal blockquote"]]
 
-||||~ Proposal NIETZSCHE-01 ||
-||~ Date || 2014-12-11 ||
-||~ Proposed by || Dr. Ava Berryman ||
+||||~ NIETZSCHE-01提言 ||
+||~ 日付 || 2014年12月11日 ||
+||~ 提出者 || エイヴァ・ベリーマン博士 ||
 
-||~ PROBLEM ||
+||~ 課題 ||
 || Project NIETZSCHE requires a continuous source of data regarding the responses of reality benders to fractal cognitohazards, recorded to a level of medical rigor. ||
+|| NIETZSCHE計画は、現実改変者のフラクタル認識災害に対する反応について、医学的に厳密で、かつ継続的なデータ源を必要としている。 ||
 
-||~ RECOMMENDED APPROACH ||
+||~ 推奨されるアプローチ ||
 || The Foundation has access to a large number of reality benders within its body of staff. We must convince or coerce them to voluntarily record cognitohazard response data. This will be far simpler than attempting to acquire reality benders from outside the Foundation or through attempting to use data collected from humanoid reality-bending SCPs, as reality benders on the Foundation payroll are already under our control. ||
+|| 財団はその職員のうちに、多数の現実改変者を擁している。我々は彼らを説得、あるいは強制し、彼らの認識災害への反応に関するデータを自発的に記録させなければならない。財団に雇用された現実改変者は、財団の管理下にあるため、この方法は、財団外部から現実改変者を調達したり、現実改変をする人型オブジェクトから収集したデータを利用するよりも、はるかに簡単である。 ||
 
-||~ PROPOSED STRATEGY ||
+||~ 方法 ||
 || The Foundation currently lacks a comprehensive method of objectively testing a reality bender's potential, and there is great demand for an assessment to fill this void. I will create such an assessment, which will be presented as a means for Site leadership to examine a reality bender's abilities in terms of veracity and usefulness. _
  _
 The assessment will actually exclusively contain FCIs that we intend to test on reality benders. The assessment will guide an interviewer and a participant through discussion of the cognitohazardous effects under fMRI measurement. We will use the data to inform future editions of the assessment, and in so doing we will create a feedback loop that continuously empowers our development process. _
@@ -1686,50 +1789,82 @@ I do not have the means to legitimately create a functional reality bending test
  _
 The assessment will be offered to various Sites with high numbers of reality benders on their staff. I will imply that participation in the assessement is, or will be, mandatory. ||
 
-||~ PROPOSAL STATUS || **##limegreen|APPROVED##** ||
+|| 現在、財団には現実改変者の潜在能力を客観的に測定するための包括的な手法が欠けており、この空白を埋める評価基準への需要が強く存在している。私はそのような評価基準を策定し、これを現実改変能力の妥当性及び有用性を検討するための手段として、各サイトの管理部門へ提示する所存である。 _
+ _
+この評価基準には、実際には我々が現実改変者に対して試験することを意図しているFCIのみが含まれることになる。評価は、fMRIの測定下で、面接官と参加者が認識災害効果について議論する形式で進行する。えられたデータは将来の評価基準の改訂に反映させ、我々の開発プロセスを継続的に強化するフィードバックループを形成する。 _
+ _
+私は、正当に機能する現実改変テストを作成する手段を持っていない。だが、その結果に誤りがあったとしても、それはテストが初期プロトタイプであることに起因するものであると説明できる。各サイトの管理部門に対し、この試験的運用に早期に参加し、時流の先をいくように働きかけることで、この点を我々に有利に利用できる可能性もある。 _
+ _
+本評価基準は、多数の現実改変者を職員として抱える様々なサイトへ提供される。私は、この評価への参加が義務である、あるいは将来的に義務となることを、それとなく示唆するつもりである。
 
-||~ AMENDMENTS || **O5-8:** It will reflect poorly on us should the truth come out that the assessment is ineffective. Site leadership must be informed of its true purpose. They will understand the importance. They will respect the secrecy. ||
+||~ ステータス || **##limegreen|承認##** ||
 
-**Update: 2015-01-06**
+||~ 追記 || **O5-8:** It will reflect poorly on us should the truth come out that the assessment is ineffective. Site leadership must be informed of its true purpose. They will understand the importance. They will respect the secrecy. ||
+
+|| この評価が無益と露見すれば、我らの威信に関わる。サイト管理官らには、その真の目的を知らせておかねばならない。然るに、彼らはその重要性を理解し、この秘密を尊ぶだろう。 ||
+
+**更新: 2015年01月06日**
 
 I have compiled a set of 38 cognitohazards into a publication, the Reality Bending Aptitude Assessment (RBAA), and it is currently in print at the Foundation Press.
 
+『現実改変の強度評価(The Reality Bending Aptitude Assessment: RBAA)』内において、38の認識災害を公開した。これはファウンデーション・プレスにて取得可能である。
+
 [[include :scp-wiki:component:image-block
 | name=https://scp-wiki.wikidot.com/local--files/scp-9001/berrymans-tests-for-reality-bending-aptitude-2019-hardcover.webp
-| caption=Cover of 'Reality Bending Aptitude Assessment', hardback, Dr. Berryman.
+| caption=ベリーマン博士著『現実改変の強度評価』の表紙。ハードカバー。
 ]]
 
-**Update: 2015-01-17**
+**更新: 2015年01月17日**
 
 Copies of the RBAA have been distributed to several Foundation sites: Site-87, Site-91, Site-118, Site-400. Each one of those Sites has responded similarly: they thanked me for taking an interest, said they would review, and promised to get back to me. As of yet, none of them have.
 
-**Update, 2015-02-11**
+RBAAのコピーは、サイト-87、サイト-91、サイト-118、サイト-400など、複数のサイトへ配布された。各サイトからの反応は似通っていた。彼らは私の関心に感謝し、検討すると述べ、後日返答すると約束した。しかし、現時点では、いずれのサイトからも返答はない。
+
+**更新: 2015年02月11日**
 
 My initial batch of requests remains unanswered. I have decided to reach out to [[span class="hoverlink"]][[[secure-facility-dossier-site-120|Site-120]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]Site-120[[/span]][[span class="hoverlink-text"]]Foundation headquarters in Poland. Containment and research facility that embraces usage of thaumaturgy and the anomalous, including within its staff.[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/secure-facility-dossier-site-120/medium.jpg/small.jpg)"]]-[[/span]][[/span]][[/span]] earlier than planned. Site-120 is home to the Department of Ontokinetics and the single largest employer of reality benders in the Foundation. If they agree to my request, I believe it would be sufficient to start a snowball for the RBAA to get a foothold and spread across the Foundation.
 
-**Update, 2015-02-14**
+私の最初の一連の要請に対して、未だ返答はない。予定よりも早く、[[span class="hoverlink"]][[[secure-facility-dossier-site-120|サイト-120]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]サイト-120[[/span]][[span class="hoverlink-text"]]ポーランドにある財団サイト。魔術及び異常性の使用を受け入れる収容及び研究施設。スタッフに異常性保持者を含む。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/secure-facility-dossier-site-120/medium.jpg/small.jpg)"]]-[[/span]][[/span]][[/span]]に連絡を取ることにした。サイト-120は存在力学部門の本拠地であり、財団内で最大の現実改変者雇用者である。もし彼らが私の要請に同意すれば、RBAAが足場を築き、財団全体に広がるための雪玉効果を生み出すのに十分であると考えている。
 
-Site-120 has replied:
+**更新: 2015年02月14日**
+
+サイト-120が返信した。
 
 [[div class="blockquote"]]
-Dr. Berryman,
+Dr. Berryman
+
+ベリーマン博士、
 
 I appreciate you making this generous offer to Site-120, but more than that, I appreciate you revealing the truth of what this offer actually entails. Naturally, I will keep your secret. In fact, as far as Site-120 is concerned, your secret ends with me. I will not participate.
 
+この度は、サイト-120へご提案を賜り、誠にありがとうございます。また、そのご提案の真意について、率直にお話しいただけましたこと、重ねて御礼申し上げます。
+
+いただきましたお話につきましては、私の胸ひとつに収めさせていただきます。その上で、大変恐縮ながら、今回のご提案は辞退させていただきたく存じます。
+
 Dr. Berryman, the Reality Bending Aptitude Assessment is transparently bullshit. There is no use pretending. There is no one who does not see through it -- Site Director, interviewer, participant. If you had reached out initially and asked for a means of data collection, you would very likely have received a more positive response. Instead, you have hidden your intent under layers of subterfuge.
+
+率直に申し上げますと、博士の「現実適性評価」が本来の目的とは異なるものであることは、火を見るより明らかです。その意図は、おそらくサイト管理官から参加者に至るまで、関係者の誰もが察するところでしょう。もし最初から、データ収集にご協力いただきたい、とのお話であったなら、我々もより前向きな検討ができたかもしれません。遠回りな手法をお選びになったことが、かえって博士の真意を曇らせてしまったことは、残念に思います。
 
 However, even if I were willing to overlook that, this assessment is still not something I would be interested in my staff partaking in. You have gone to great lengths to conceal the nature of Project NIETZSCHE, and no doubt any information most personnel would be able to find would be carefully-constructed fabrications, but you have already revealed your hand to me. Your assessment may well be perfectly safe now, but your cognitohazards will develop, and eventually the assessment will not be safe at all. Eventually you will need to test a kill agent in the field. This is always the end goal of these kinds of projects, whether you choose to acknowledge it or not.
 
+仮にその手法を度外視したとしても、やはりこの評価に私のスタッフを参加させることはできかねます。NIETZSCHE計画の本質を隠すために、周到な準備を重ねてこられたことは承知しております。しかし、あなたはすでに、私に「最終目的」を明かしてしまいました。現行の評価が安全であるとしても、認識災害の研究はいずれ必ず、より危険な領域へと踏み込みます。最終的に殺害エージェントの実地試験が必要となることは、この種の計画における必然です。博士ご自身がそれを認められるか否かに関わらず。
+
 My staff are extraordinarily valuable to me, to Site-120, and to the Foundation as a whole. Why, then, should I agree to allow my staff to be guinea pigs for your experiments? Why should I trust you and your assessment, and grow complacent myself? Do you expect me to look the other way when you inevitably use a future edition of the assessment to turn on me and my staff simply because I once stepped aside for you?
+
+私のスタッフは、私個人にとって、サイト-120にとって、そして財団全体にとって、かけがえのない財産です。そのような彼らを、博士の実験のために差し出す理由がどこにありましょうか。博士と、その評価の真意を知りながら、どうして私がそれを信頼し、安穏としていられるでしょうか。一度協力したことを盾に、いずれ改訂された評価基準が私や私のスタッフに向けられる可能性を、私が見過ごすとでもお考えなのでしょうか。
 
 You are unlikely to make any progress if you continue using these methods.
 
-**Dr. Jessie Rivera**
-Human Resources and Personnel Satisfaction Lead
-Site-120
+博士が現在の手法に固執なさる限り、この先、どのような協力も得ることは難しいかと存じます。
+
+**ジェシー・リベラ博士**
+人事・職員満足度向上担当主任
+サイト-120
 [[/div]]
 
 Evidence would suggest that attempting to convince further Sites to integrate the RBAA into their methodology would be an imprudent use of my time. We should still use the RBAA to assess reality benders as they appear in the D-Class population, should the opportunity present itself.
+
+これまでの経緯を鑑みれば、これ以上各サイトへRBAAの導入を働きかけるのは、得策とは言えないだろう。しかしながら、Dクラスの中から現実改変者が確認されたおりには、その評価のためにRBAAを引き続き活用すべきである。
 
 [[div class="overwatch-order"]]
 [[div_ class="overwatch-order__logo"]]
@@ -1737,9 +1872,9 @@ Evidence would suggest that attempting to convince further Sites to integrate th
 [[/div]]
 
 [[div class="overwatch-order__content"]]
-[[span class="overwatch-order__title"]]BY ORDER OF OVERWATCH COMMAND[[/span]]
+[[span class="overwatch-order__title"]]監督司令部の命令により[[/span]]
 
-Proposal NIETZSCHE-01 is hereby decommissioned.
+提言NIETZSCHE-01は、却下とする。
 [[/div]]
 [[/div]] [!-- .overwatch-order --]
 
@@ -1747,49 +1882,75 @@ Proposal NIETZSCHE-01 is hereby decommissioned.
 
 Site Romero-5 continued to request reality benders for cognitohazard testing, but with the paranoia of the RBAA fresh in the minds of Foundation leadership, little attention was paid. Dr. Berryman and Dr. Langford would continue trying to find solutions using the small amount of data they already had, and production of regular FCIs continued.
 
+サイト・ロメロ5は認識災害実験のための現実改変者の提供を要求し続けた。しかし、財団上層部では、RBAAを巡る疑心暗鬼が未だ根強く残っていたため、その要求が顧みられることはほとんどなかった。ベリーマン博士とラングフォード博士は、すでにあるわずかなデータを頼りに解決策の模索を続けることとなり、並行して通常型FCIの生産も継続された。
+
 -----
 
-+++ 2016, November
++++ 2016年11月
 
 O5-8 visited Site Romero-5 and ordered Dr. Langford to provide an update on Project NIETZSCHE progress.
 
+O5-8はサイト・ロメロ-5を訪れ、ラングフォード博士にNIETZSCHE計画の進捗を報告するよう命じた。
+
 In the resulting schedule alignment meeting, Dr. Langford reported substantial delays and difficulties, principally that the team still did not have nearly enough data on reality benders to begin drawing any kinds of conclusions at all, and were still just as in the dark as when the project began.
+
+その後のスケジュール調整会議において、ラングフォード博士は大幅な遅延と困難を報告した。主な問題は、現実改変者に関するデータが依然として十分に集まっておらず、いかなる結論も導き出せないままであり、計画開始時と同様に暗中模索の状態が続いていることであった。
+
+
 
 O5-8 was satisfied by this answer, but not sated, and ordered Dr. Langford to repeat this presentation on an annual basis, each November, to keep interested parties up to date. The meeting would yet recur twice more.
 
+O5-8はその回答を是としたが、それで彼が満足することはなかった。そしてラングフォード博士に対し、関心を持つ者たちへ最新状況を伝え続けるため、この報告会を毎年11月に行うよう命じた。この会議は、さらに二度繰り返されることになる。
+
+
 -----
 
-+++ 2017, February
++++ 2017年2月
 
 Following a period of several months with no updates from the Site Romero-5 team, without warning, Dr. Langford issued the following memorandum.
+
+数ヶ月の間、サイト・ロメロ-5のチームからは何の更新もなかった。ある時、何の前触れもなく、ラングフォード博士によって以下の覚書が発せられた。
 
 [[div class="forum"]]
 
 [[div class="forum__post forum__post--op"]]
 [[div_ class="forum__post-header"]]
-**On the right path**
-Robert Langford [[span class="forum__post-email"]]<@@robert.langford@analytics.scp@@>[[/span]]
+**いい方向に向かっている**
+ロバート・ラングフォード [[span class="forum__post-email"]]<@@robert.langford@analytics.scp@@>[[/span]]
 [[span class="forum__post-pfp" style="--bg: khaki"]]RL[[/span]]
 [[/div]]
 
 [[div class="forum__post-content"]]
 Hi all,
 
+皆さん
+
 I've made a breakthrough regarding the reality bender's resistance to fractal cognitohazards.
+
+現実改変者のフラクタル認識災害への耐性について、画期的な発見をしました。
 
 We knew from the go (well, we'd speculated) that, as this problem is not only unsolved but apparently nonexistent outside of this narrow scope, the issue must pertain to fractal cognitohazards specifically and exclusively.
 
+この問題は、我々の研究分野以外では存在が確認されていない未解決のものです。このことから、原因はフラクタル認識災害に特有のものであるに違いないと、当初から(まあ、推測の域を出ませんでしたが)ぼくたちは考えていました。
+
 My research into reality bender neuroanatomy is beginning to indicate that this is indeed the case! I have proven that reality benders' immunity to FCIs is a direct result of their brain structure having some difference to baseline humans.
+
+ぼくの進めている現実改変者の神経解剖学的研究が、まさにその事実を示し始めています。現実改変者がFCIに対して免疫を持つのは、彼らの脳構造が基準となるヒトと何らかの違いを持つためであると証明できたのです。
 
 However, we don't yet have enough data about reality benders' brain structures to construct a pattern definitively. We need //much// more data than we have.
 
+しかし、現実改変者の脳構造のパターンを明確に構築するには、それに関するデータがまだ圧倒的に不足しています。現状あるデータよりも、はるかに多くのデータが必要です。
+
 My suggestion would be to have all reality benders across the Foundation undergo CT scans and have the resulting data models transferred to our data store so that we can analyze and compare. Of course, this is quite invasive, and I don't have anything close to the authority to request it.
+
+ぼくからの提案は、財団中のすべての現実改変者にCTスキャンを受けてもらい、その結果得られるデータモデルを我々のデータストアに転送して、分析と比較を行う、というものです。もちろん、これは非常に踏み込んだ要請ですし、ぼくにそんなことを要請する権限など微塵もありませんが。
+
 [[/div]]
 [[/div]] [!-- .forum-post --]
 
 [[div class="forum__post forum__post--reply"]]
 [[div_ class="forum__post-header"]]
-**Re: On the right path**
+**Re: いい方向に向かっている**
 O5-8 [[span class="forum__post-email"]]<@@8@o5.scp@@>[[/span]]
 [[span class="forum__post-pfp" style="--bg: black; color: white"]]8[[/span]]
 [[/div]]
@@ -1797,13 +1958,18 @@ O5-8 [[span class="forum__post-email"]]<@@8@o5.scp@@>[[/span]]
 [[div class="forum__post-content"]]
 Excellent news. This is consistent with what you have been saying since Project NIETZSCHE was incepted. It is promising that your instinct has proven accurate.
 
+結構な知らせだ。NIETZSCHE計画の発足以来、そなたが主張してきた所見と違わぬ。その直感が正鵠を射ていたこと、評価に値する。
+
 Do what you must to acquire the data you need. You may cite our authority as necessary.
+
+必要なデータを手に入れるため、為すべきを為せ。必要とあらば、我々の権威を借りることも許可する。
+
 [[/div]]
 [[/div]] [!-- .forum-post --]
 
 [[div class="forum__post forum__post--reply"]]
 [[div_ class="forum__post-header"]]
-**Re: On the right path**
+**Re: いい方向に向かっている**
 Ava Berryman [[span class="forum__post-email"]]<@@ava.berryman@analytics.scp@@>[[/span]]
 [[span class="forum__post-pfp" style="--bg: tomato"]]AB[[/span]]
 [[/div]]
@@ -1811,31 +1977,43 @@ Ava Berryman [[span class="forum__post-email"]]<@@ava.berryman@analytics.scp@@>[
 [[div class="forum__post-content"]]
 I wish you had consulted me before making this announcement. There is no method by which a reality bender can be identified by brain structure alone, this is known. The problem is more fundamental. The conclusion you've drawn makes little sense from a biological standpoint, and the weeks you've spent trying to convince me of 'scientific rigour' have apparently been lost to you as you've not included a single citation or scrap of medical evidence.
 
+このような発表をする前に、まず私にひとこと言ってほしかったです。脳の構造のみで現実改変者を特定する方法は存在しないというのは、周知の事実であったと思います。問題はもっと根源的なところにあります。
+あなたが導き出した結論は、生物学的にはほとんど無意味です。それに、あなたが「科学的厳密さ」について私に説明しようと費やした数週間は、全く無駄になってしまったようです。引用の一つ、医学的証拠の切れ端の一つも添えられていないのですから。
+
 This isn't like you, Dr. Langford. But your childish insistence on communicating to me via open letters very much is.
+
+いつもの貴方はどうしたのですか？　ラングフォード博士。尤も、公開書簡という形で私に意思を伝えようとした、その子供じみたこだわりは、いかにも貴方らしいのですけれど。
+
 [[/div]]
 [[/div]] [!-- .forum-post --]
 
 [[div class="forum__post forum__post--reply"]]
 [[div_ class="forum__post-header"]]
-**Re: On the right path**
+**Re: いい方向に向かっている**
 O5-8 [[span class="forum__post-email"]]<@@8@o5.scp@@>[[/span]]
 [[span class="forum__post-pfp" style="--bg: black; color: white"]]8[[/span]]
 [[/div]]
 
 [[div class="forum__post-content"]]
 We have placed full confidence in Dr. Langford. We advise you to do the same.
+
+我らはラングフォード博士を完全に信任している。そなたも同様にせよ。
+
 [[/div]]
 [[/div]] [!-- .forum-post --]
 
 [[div class="forum__post forum__post--reply"]]
 [[div_ class="forum__post-header"]]
-**Re: On the right path**
-Robert Langford [[span class="forum__post-email"]]<@@robert.langford@analytics.scp@@>[[/span]]
+**Re: いい方向に向かっている**
+ロバート・ラングフォード [[span class="forum__post-email"]]<@@robert.langford@analytics.scp@@>[[/span]]
 [[span class="forum__post-pfp" style="--bg: khaki"]]RL[[/span]]
 [[/div]]
 
 [[div class="forum__post-content"]]
 Ava, please accept my apologies. I keep getting wrapped up in the work and get ahead of myself in the excitement. Really, I am sorry.
+
+エイヴァ、本当にすいませんでした。ここ最近ずっと忙しくて、発見をしてしまったものですから、少しはしゃいでしまったみたいです。本当に申し訳ありません。
+
 [[/div]]
 [[/div]] [!-- .forum-post --]
 
@@ -1843,45 +2021,61 @@ Ava, please accept my apologies. I keep getting wrapped up in the work and get a
 
 In the months that followed, Site Romero-5 would issue O5-backed orders to other Sites, requesting computer tomography scans of their on-staff reality benders.
 
+その後数ヶ月の間に、サイト・ロメロ-5はO5の支持を受け、他のサイトへ対し、職員として在籍する現実改変者のCTスキャンを要請する命令を発した。
+
 -----
 
-+++ 2017, November
++++ 2017年11月
 
 Dr. Langford travelled to Site-15 and presented the second annual Project NIETZSCHE Schedule Alignment Meeting, with O5-8, Site Director Hughes, Project MEDUSA Director Vuković and several others in attendance. This time, at O5-8's request, the presentation was broadcast live across the Foundation, and 45 viewers tuned in remotely.
 
+ラングフォード博士はサイト-15へ赴き、第二回目となるNIETZSCHE計画の年次進捗調整会議に臨んだ。会議にはO5-8、サイト管理官ヒュース、MEDUSA計画理事であるヴコヴィッチ博士、その他数名が出席した。今回、O5-8の要請により、報告会の様子は財団全域に生中継され、45名が遠隔からこれを視聴した。
+
 Dr. Langford again reported substantial delays and difficulties to the project, and the principle issue remained that there was not enough data to provably determine any conclusions. Dr. Langford was keen to highlight the extent of the proof that would be required: one objective of the project was to produce a fractal cognitohazard capable of terminating any reality bender, but to prove this would mean proving beyond reasonable doubt that no reality bender cannot be terminated via the same method. This would mean the deaths of multiple reality benders, or accurate simulation, and Dr. Langford expressed that the data available was not nearly sufficient for that.
+
+ラングフォード博士は、計画に再び大幅な遅延と困難が生じていることを報告した。主な問題は、依然として、何らかの結論を証明可能な形で導き出すにはデータが不足しているという点にあった。博士が特に強調したのは、要求される証明がどの程度のものかという点であった。
+計画の目標の一つは「あらゆる」現実改変者を終了させ得るフラクタル認識災害を創り出すことにある。しかし、これを証明するには、「この方法で終了させられない現実改変者は存在しない」ことを合理的な疑いの余地なく証明せねばならない。それは複数の現実改変者の死、あるいはそれに代わる正確なシミュレーションを必要とするが、そのどちらを行うにも、利用可能なデータは到底十分ではないと博士は述べた。
 
 O5-8 noted surprise that this was still an issue, but pledged that Site Romero-5 would eventually get the amount of data it needed.
 
+O5-8は、これが未だに問題であることが意外であると所感を述べたが、サイト・ロメロ5が必要とするデータ量は、いずれ必ず確保されるであろうと確約した。
+
 ----
 
-+++ 2018, July
++++ 2018年7月
 
 While attending a conference at Site-19, Dr. Berryman addressed Dr. Langford in a message on the Site Romero-5 internal communications network.
+
+サイト-19での会議に出席中、ベリーマン博士はサイト・ロメロ-5の内部通信網を介し、ラングフォード博士にメッセージを送った。
 
 [[div class="forum"]]
 
 [[div class="forum__post forum__post--op"]]
 [[div_ class="forum__post-header"]]
-**Idea regarding Project NIETZSCHE**
-Ava Berryman [[span class="forum__post-email"]]<@@ava.berryman@analytics.scp@@>[[/span]]
+**NIETZSCHE計画に関するアイデア**
+エイヴァ・ベリーマン [[span class="forum__post-email"]]<@@ava.berryman@analytics.scp@@>[[/span]]
 [[span class="forum__post-pfp" style="--bg: tomato"]]AB[[/span]]
 [[/div]]
 
 [[div class="forum__post-content"]]
 Robert, I've just seen a presentation by Dr. Clef regarding reality benders and it gave me an idea. Have we tried simply going deeper into a candidate modification to the Berryman-Langford set and accessing more deeply-buried regions? I'm wondering if the answer is as simple as overwhelming the reality bender's mind with the much more complex fractal context. I think this wouldn't be too much of a deviation from our existing work to completely invalidate the studies we've done so far.
+
+ロバート、
+先ほどクレフ博士の現実改変者に関するプレゼンテーションを拝見して、一つ面白いアイデアを得ました。ベリーマン=ラングフォード集合の改変をさらに推し進め、より深層の領域にアクセスを試みる、というのはどうでしょうか？　より複雑なフラクタル文脈で現実改変者の精神を圧倒するということです。案外、答えはそれほど単純なことかもしれません。このアプローチなら、これまでの我々の研究から大きく逸脱することはないでしょうし、今までの研究結果を完全に無にすることもないと思います。
 [[/div]]
 [[/div]] [!-- .forum-post --]
 
 [[div class="forum__post forum__post--reply"]]
 [[div_ class="forum__post-header"]]
-**Re: Idea regarding Project NIETZSCHE**
-Robert Langford [[span class="forum__post-email"]]<@@robert.langford@analytics.scp@@>[[/span]]
+**Re: NIETZSCHE計画に関するアイデア**
+ロバート・ラングフォード [[span class="forum__post-email"]]<@@robert.langford@analytics.scp@@>[[/span]]
 [[span class="forum__post-pfp" style="--bg: khaki"]]RL[[/span]]
 [[/div]]
 
 [[div class="forum__post-content"]]
 What an interesting idea. I'll try it immediately.
+
+いいアイデアですね。すぐにやってみます。
 [[/div]]
 [[/div]] [!-- .forum-post --]
 
@@ -1889,85 +2083,138 @@ What an interesting idea. I'll try it immediately.
 
 Before Dr. Berryman's return, Dr. Langford ran several experiments using the suggested method and produced a set of prospective FCIs. They were proven to be effective on baseline humans immediately, and Dr. Langford requested Site-15 to notify him when a reality bender entered its 10-Kempelen population.
 
+ベリーマン博士の帰還を待たず、ラングフォード博士は提案された手法を用いていくつかの実験を行い、有望なFCI群を作成した。それらは基準となる人間への有効性が直ちに証明され、ラングフォード博士はサイト-15に対し、現実改変者が10-ケンペレンの被験者群に加わった際に通知するよう要請した。
+
 It would be several weeks before that was the case, and upon receipt of the message from Site-15, Dr. Langford submitted the new FCIs for testing. Of the full set, one single FCI proved to be effective on the reality bender.
+
+その通知が届いたのは、数週間後のことであった。サイト-15からの連絡を受け、ラングフォード博士は新たなFCIを実験対象に適用した。結果、全FCI群のうち、ただ一つだけがその現実改変者に対して有効であることが示された。
 
 Dr. Langford notified Project NIETZSCHE leadership of his success and continued developing the new method, though he stressed that despite the success, provability was still the most important problem to solve, and therefore the need for reality bender biological data was still relevant.
 
+ラングフォード博士はNIETZSCHE計画の上層部にこの成功を報告し、新たな手法の開発を続けた。しかしその一方で、解決すべき最重要課題は依然として「証明可能性」にあると強調し、そのために現実改変者の生体データが必要であるという主張を崩さなかった。
+
 It is worth noting that while Dr. Clef was present at the Site-19 conference and did lead a seminar on reality benders, Dr. Berryman did not attend it.
+
+なお、特筆すべき点として、クレフ博士は確かにサイト-19の会議に出席しており、現実改変者に関するセミナーも主催していたが、ベリーマン博士はそのセミナーには出席していなかった。
 
 -----
 
-+++ 2018, August
++++ 2018年8月
 
 The Ethics Committee received an anonymous whistleblower report regarding Site Romero-5 and immediately investigated.
+
+倫理委員会は、サイト・ロメロ-5に関する匿名の内部告発を受けた。これを受けて、当該サイトに対する立ち入り調査が実施された。
 
 [[div class="ethics"]]
 [[div_ class="ethics__header"]]
 [[image https://scp-wiki.wikidot.com/local--files/scp-9001/ethics-committee-logo.webp alt="" style="filter: invert(1); max-width: 10rem; max-height: 10rem; aspect-ratio: 1;"]]
-**ETHICS COMMITTEE MEMORANDUM**
+**倫理委員会による覚書**
 [[/div]]
 
 [[div class="ethics__content"]]
 
-+++ **Investigation Summary** [[span style="color: grey; font-size: 80%;"]]| August 12th, 2018[[/span]]
++++ **調査結果** [[span style="color: grey; font-size: 80%;"]]| 2018年8月12日[[/span]]
 
 An anonymous whistleblower report has accused Site Romero-5 leadership of the following issues:
+
+匿名の内部告発者より、サイト・ロメロ5上層部に関する以下の問題点が告発された。
 
 # Unethical restriction for staff to remain on-site.
 # Unethical usage of anomalous compulsion effects to influence and control on-site staff.
 # Unethical use of human materials for testing purposes.
 
+# 職員に対する非倫理的な外出の制限
+# サイト内職員への影響および管理を目的とした、異常な強制効果の非倫理的使用
+# 実験目的でのヒトの非倫理的使用
+
 The Ethics Committee takes such allegations seriously.
+
+倫理委員会は、かかる申し立てを深刻に受け止めるものである。
 
 Investigation was conducted by EC Investigator Amber H. Goldstein. On 2018-08-21, Investigator Goldstein travelled to Site Romero-5 to interview its staff.
 
+調査は、倫理委員会調査官アンバー・H・ゴールドスタインによって実施された。2018年8月21日、ゴールドスタイン調査官はサイト・ロメロ5へ赴き、職員への聞き取り調査を実施した。
+
 Goldstein was able to interview most staff members one-on-one. The following statements from relevant parties are attached.
 
+ゴールドスタイン調査官は、ほとんどの職員と一対一での面談を行うことができた。以下に、関係者各位からの聴取内容を添付する。
+
 [[div class="blockquote"]]
-**Witness Statement:** Head Researcher Ava Berryman
+**証言記録:** エイヴァ・ベリーマン主任研究員
 
 Obviously, elephant in the room: [REDACTED]
 
+ええ、まずこの場で触れておくべき明白な件についてですが……[編集済]
+
 The other ones just aren't true. I was at the Site-19 conference just earlier this month, and the kind of compulsion you're speaking of -- well, there's no one stationed here who can do that, and the-- precisely, they're locked down, the staff can't even access them. Only myself and Dr. Langford. Yes, of course, and he has my deepest sympathy.
+
+それ以外の告発は、事実ではありません。私は今月初めにサイト-19の会議に出席しておりましたし、貴方がおっしゃるような種類の強制効果--　　--ええ、そもそもここに駐在しているものでそのような能力を持つ者などおりませんし、それに……その通りですわ。それらは厳重に封印されており、職員ではアクセスすらできませんのよ。私とラングフォード博士を除いては。ええ。もちろん存じております。彼には心から同情いたします。
+
 [[/div]]
 
 [[div class="blockquote"]]
-**Witness Statement:** Researcher Derrick Coleman
+**証言記録:** デリック・コールマン研究員
 
 We've never been barred from leaving. I don't think? We get our annual leave, same as everyone else. I mean, we don't get to go home every night, but that's standard operating procedure for classified projects. And the compulsion thing is patently false -- the only source of compulsion here is the Third Order cognitohazards, but we're not allowed to look at them, there are even system locks that stop us if we try. No, I've not tried myself, of course not. And then there's [REDACTED] is valid, I suppose, but it's better than the alternative.
+
+外出を禁じられたことは一度も……なかったと思います。他の皆さんと同じように、年次休暇も取得できています。まあ、毎晩家に帰れるわけではありませんが、機密プロジェクトであることを考えると妥当だと思います。強制効果の件は明確な虚偽です。ここにある強制効果の源は、第三級の認識災害だけです。ですが、我々にそれを見る権限はありません。試そうとしたところで、システムロックが作動するはずです。いえ、自分で試したってわけじゃありませんよ。もちろん。それから[編集済]の件は……まあ、妥当な指摘だと思いますが、次善の策としてはマシな方でしょう。
 [[/div]]
 
 [[div class="blockquote"]]
-**Witness Statement:** Site Director Samantha Hughes
+**証言記録:** サイト管理官サマンサ・ヒュース
 
 I've been Site Director for twelve years and I've never seen anything happen here that would warrant EC intervention. You can ask any of my staff. Oh, you did? Then you'll know for sure.
 
+私がサイト管理官に就任して12年になりますが、倫理委員会の介入を必要とするような事態がここで起きたことは一度もありません。職員の誰にでもお聞きになってください。ああ、もう済まされましたか。でしたら、すでに確信なさっているかと思います。
+
 I have the utmost respect for the whistleblowing process, but I will admit I would love to know who started this. I don't suppose-- no? I can't fault you for that.
+
+内部告発のプロセスは重々承知しているつもりです。しかし、誰がこんなことをやったのか知りたい、とも思ってしまいます。お教えいただくことは--　　--いいえ、それで結構です。貴方を責めるつもりはありません。
+
 [[/div]]
 
 Investigator Goldstein asked to interview Dr. Robert Langford but was informed that he had been hospitalized with an illness of a personal nature, the details of which are not relevant to this report.
+
+ゴールドスタイン調査官はロバート・ラングフォード博士への聞き取りを要請したが、博士は持病により入院中であり、その詳細は本報告書とは無関係であるとの報告を受けた。
 
 +++ Investigation results
 
 Investigator Goldstein recommended the Ethics Committee take no action.
 
+ゴールドスタイン調査官は、倫理委員会に対し、いかなる措置も講じないことを勧告した。
+
 [[div class="blockquote"]]
-**Closing Statement:** Investigator Amber H. Goldstein
+**最終報告:** アンバー・H・ゴールドスタイン調査官
 
 Site Romero-5 is operating nominally. There are some complaints amongst the staff, but nothing that wouldn't be expected in any other Site. The Site appears understaffed given its size, which could give rise to issues, but I'm told that the workload in general is fine, and besides, the complaints are so specific that they're unlikely to be related.
 
+サイト・ロメロ-5は正常に運営されている。職員間にはいくつかの不満が見られるが、他のサイトにおいて聞き受けるものを超えるものではない。サイトはその規模に比して人員不足であるように見受けられ、これが問題を引き起こす可能性は否定できない。しかし、聞き取りによれば、全体的な業務負荷は許容範囲内であり、加えて、今回の告発内容は極めて具体的であるため、これらが関連している可能性は低い。
+
 Regarding issue 1, I found no evidence of any member of staff being unduly restricted to the Site.
+
+告発事項1に関し、職員が不当にサイト内に拘束されているという証拠は発見されなかった。
 
 Regarding issue 2, I found no evidence of any usage of anomalous compulsion effects, including those that might be expected from accidental application of the cognitohazards that are made here, which does not seem to occur.
 
+告発事項2に関し、異常な強制効果が使用された証拠は発見されなかった。これには、当サイトで生成されている認識災害の偶発的な適用によって生じ得ると予想される効果も含まれるが、そのような事態は発生していないと見られる。
+
 Regarding issue 3, [REDACTED]
+
+告発事項3に関し、[編集済]
 
 Overall, most of the whistleblower's complaints are invalid and of those that aren't, there is a very good reason for it. Berryman has been around for decades, she knows what she's talking about, and everything she said checks out.
 
+総じて、内部告発者の訴えのほとんどは妥当性を欠き、妥当性が認められる事項に関しても、極めて正当な理由が存在する。ベリーマン博士は何十年ものキャリアを持つ人物であり、自らの発言を熟知している。彼女の証言はすべて裏付けが取れている。
+
 No immediate intervention is required. I will discuss with the Site Director regarding what should have happened initially, and it will be addressed in due time.
+
+即時の介入は必要ない。当初、何が起こったかについては、サイト管理官と協議する予定であり、然るべき時期に対処されるであろう。
+
 [[/div]]
 
 Case number HX-68396 is closed.
+
+事件番号HX-68396は、これにて終結とする。
 
 [[div class="overwatch-order"]]
 [[div_ class="overwatch-order__logo"]]
@@ -1975,9 +2222,11 @@ Case number HX-68396 is closed.
 [[/div]]
 
 [[div class="overwatch-order__content"]]
-[[span class="overwatch-order__title"]]BY ORDER OF OVERWATCH COMMAND[[/span]]
+[[span class="overwatch-order__title"]]監督司令部の命令により[[/span]]
 
 In the interests of Foundation security, parts of this report have been redacted.
+
+財団の安全保障上の懸念につき、本レポートの一部は編集されている。
 [[/div]]
 [[/div]] [!-- .overwatch-order --]
 
@@ -2070,7 +2319,7 @@ The following footage was recorded during the Project NIETZSCHE Schedule Alignme
 **Dr. Langford:** On the next slide is that Second Order FCI. Dr. Ackermann, along with any other reality benders watching, and indeed everyone else: I expect the next slide to elicit a mild feeling of //cold//. Please observe the very latest in Berryman-Langford fractal agents.
 
 [[div class="scp-image-block block-center" style="width: 300px; padding: 4rem 0.25rem"]]
-= [COGNITOHAZARD REMOVED]
+= [認識災害につき画像除去]
 [[/div]]
 
 //The top half of the visual feed has been blocked, leaving only Langford's legs and the audience visible. All audience members save for Dr. Ackermann collapse.//
