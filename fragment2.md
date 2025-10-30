@@ -100,7 +100,7 @@ div.page-rate-widget-box { margin-bottom: 0.25rem }
 
 body { overflow-x: hidden }
 .berryman {
-  background-image: url(http://scp-wiki.wikidot.com/local--files/9000contestpanloque/berrymanfractal.webp);
+  background-image: url(http://scp-wiki.wikidot.com/local--files/scp-9001/berrymanfractal.webp);
   background-attachment: fixed;
   background-position: center;
   background-size: 100vw auto;
@@ -125,7 +125,7 @@ body { overflow-x: hidden }
   }
 }
 .berryman--angrier {
-  background-image: url(http://scp-wiki.wikidot.com/local--files/9000contestpanloque/Berrymanspiral2.webp);
+  background-image: url(http://scp-wiki.wikidot.com/local--files/scp-9001/Berrymanspiral2.webp);
 }
 
 .explo strong, .blockquote strong {
@@ -161,8 +161,8 @@ body { overflow-x: hidden }
 #footer { background: transparent }
 @media (min-width: 901px) {
   #container {
-    background-image: url(http://scp-wiki.wikidot.com/local--files/9000contestpanloque/lichten.webp), url(
-http://scp-wiki.wikidot.com/local--files/9000contestpanloque/lichten-flip.webp);
+    background-image: url(http://scp-wiki.wikidot.com/local--files/scp-9001/lichten.webp), url(
+http://scp-wiki.wikidot.com/local--files/scp-9001/lichten-flip.webp);
     background-position: calc(50% - 40rem) calc(100% + 20rem), calc(50% + 40rem) calc(100% + 20rem);
     background-repeat: no-repeat;
     background-size: auto 100rem;
@@ -170,7 +170,7 @@ http://scp-wiki.wikidot.com/local--files/9000contestpanloque/lichten-flip.webp);
 }
 @media (max-width: 900px) {
   .footnotes-footer {
-    background-image: url(http://scp-wiki.wikidot.com/local--files/9000contestpanloque/lichten.webp), url(http://scp-wiki.wikidot.com/local--files/9000contestpanloque/lichten-flip.webp);
+    background-image: url(http://scp-wiki.wikidot.com/local--files/scp-9001/lichten.webp), url(http://scp-wiki.wikidot.com/local--files/scp-9001/lichten-flip.webp);
     background-position: calc(50% - 30vw) calc(100% + 20rem), calc(50% + 30vw) calc(100% + 20rem);
     background-repeat: no-repeat;
     background-size: auto 100rem;
@@ -209,7 +209,7 @@ http://scp-wiki.wikidot.com/local--files/9000contestpanloque/lichten-flip.webp);
 -----
 
 [[div class="scp-image-block block-center" style="width:100%;"]]
-[[image http://scp-wiki.wikidot.com/local--files/9000contestpanloque/hammerdown.webp alt=""]]
+[[image http://scp-wiki.wikidot.com/local--files/scp-9001/hammerdown.webp alt=""]]
 [[div class="scp-image-caption"]]
 Initial assault on Site Romero-5 by Nu-7 ("Hammer Down") strike teams.
 [[/div]]
@@ -274,7 +274,7 @@ It is as Saunders moves to pocket this that she looks up at the shattered windsh
 Command advises Saunders to turn back, as it has become apparent that the situation may call for a properly-equipped Task Force. Saunders however cites her tenured field experience, claiming that if site staff are in danger, then she's obligated to lend her services. Command moves to notify Site-01 as Saunders rushes off down the road. A low fog begins to sweep the area.
 
 [[div class="scp-image-block block-center"]]
-[[image http://scp-wiki.wikidot.com/local--files/9000contestpanloque/footage1.webp]]
+[[image http://scp-wiki.wikidot.com/local--files/scp-9001/footage1.webp]]
 [[/div]]
 
 The curvature of the road steepens the further Saunders travels, becoming stark to the point that it appears as if Saunders is running in a circle. The fog increases in intensity, obstructing visibility and causing Saunders to nearly trip over unseen roots criss-crossing the road. It is as Saunders comes around the next bend that the thicket of trees begin to recede. GPS indicates her arrival. Saunders comes about to face Site Romero-5.
@@ -282,7 +282,7 @@ The curvature of the road steepens the further Saunders travels, becoming stark 
 The air here is thick with occluding fog. All that can be seen throughout the site grounds are mere silhouettes of buildings, the bright fluorescence of their interiors being the only visible sources of light in the murk. From the woods behind her, there comes a pained cervine bleating. Saunders ignores it as she steps past the chain-link perimeter fence.
 
 [[div class="scp-image-block block-center"]]
-[[image http://scp-wiki.wikidot.com/local--files/9000contestpanloque/romerofog.webp]]
+[[image http://scp-wiki.wikidot.com/local--files/scp-9001/romerofog.webp]]
 [[/div]]
 
 There is a low rumble that shakes the area, sending Saunders to the ground. Looking up, Saunders captures the silhouette of the nearest building -- its shape contorts and extends, jutting outward to the left of the frame, forming a branch that connects to a separate facility. Bright pinpricks open up along the length of this new addition, quickly widening and taking the shape of new windows. The earth continues to quake as buildings further off in the distance repeat this process.
@@ -982,7 +982,7 @@ The feed is lost.
 //The floor here transitions from smooth tile to rough metal railing. White walls fall away to grey concrete. The pounding and the wailing grow louder as the creature slowly gains on the squad. Dr. Langford, trailing behind and clearly winded, steals a backwards glance, catching an impression of the beast -- of broken, disjointed wrists splitting into too-many hands that smash into the ceiling, the walls, the floor; all crashing down with shattering force. Dr. Langford elicits a panicked whimper, desperately charging ahead to catch up to the others. A second glance. Grasping hands explode from palms, each finger itself becoming host to another in rapid succession.//
 
 [[div class="scp-image-block block-center" style="width: 100%"]]
-[[image http://scp-wiki.wikidot.com/local--files/9000contestpanloque/abomination.webp]]
+[[image http://scp-wiki.wikidot.com/local--files/scp-9001/abomination.webp]]
 [[/div]]
 
 //Gone now is the overhead fluorescence that bathed the halls above; their flight is now lit by individual bulbs whose fixtures swing from the tremorous force of the advancing behemoth. Each shatters in turn as it comes across them. Drawing nearer.//
@@ -1346,7 +1346,7 @@ z_{n+1} = z_n - \eta\frac{f(z_n)}{f'(z_n)} + c
 
 The surviving members of the task force were picked up by an MTF Iota-10 patrol and returned to FOB Panloque. Following a delivery of footage and recovered assets, including the extracted SCP-9001, the three were debriefed and allowed rest.
 
-[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/9000contestpanloque/planethand.webp|caption=The fissure containing the remains of SCP-9001-A|width=300px]]
+[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/scp-9001/planethand.webp|caption=The fissure containing the remains of SCP-9001-A|width=300px]]
 
 Due to the combination of sustained orbital bombardment and seismic activity caused by the collapse of unstable spacetime in the site's subterranean sectors, Site Romero-5 would collapse into the earth, forming a massive fissure. MTF [[span class="hoverlink"]][[[task-forces#gamma-5|Gamma-5]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]Gamma-5 ("Red Herrings")[[/span]][[span class="hoverlink-text"]]Specialists in disinformation tactics and amnestic dispersal dedicated to preventing mass knowledge of anomalous events.[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/task-forces/Gamma5.png/small.jpg)"]]-[[/span]][[/span]][[/span]] was tasked with manufacturing a verifiable history and public record of the fissure, including the retroactive forging of geological, stratifical, and archeological studies that were each seeded with Third Order FCI designed to compel disinterest.
 

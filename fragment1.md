@@ -2235,52 +2235,86 @@ In the interests of Foundation security, parts of this report have been redacted
 
 Following the investigation, in gratitude for their cooperation, Site Director Hughes granted all staff three weeks' immediate leave. She and Dr. Berryman remained on-site to discuss the investigator's recommendation.
 
+調査終了後、サイト管理官ヒュースは職員の協力に報いるため、全職員に対し、3週間の即時休暇を付与した。彼女とベリーマン博士は、調査官の勧告について協議するためサイトに残留した。
+
 Shortly thereafter, Dr. Langford, who was not on-site during the investigation, returned and resumed work.
+
+その直後、調査期間中はサイトを不在にしていたラングフォード博士が帰還し、業務に復帰した。
 
 -----
 
-+++ 2018, November: Incident 9001-1
++++ 2018年11月、事案9001-1
 
 In November 2018, Dr. Langford travelled to Site-15 and presented the third annual Project NIETZSCHE Schedule Alignment Meeting.
+
+2018年11月、ラングフォード博士はNIETZSCHE計画の第3回年次進捗調整会議に出席するため、サイト-15へ向かった。
 
 [[div class="blockquote"]]
 The following footage was recorded during the Project NIETZSCHE Schedule Alignment Meeting on 2018-11-01 at Site-19, and was broadcast live across the Foundation. 6 persons were in attendance, with a further 621 watching the live broadcast.
 
-* Dr. Robert Langford: Presenting
-* Director Samantha Hughes: Memetics Research Site Romero-5 Director
-* Director Vladimir Vuković: Department of Analytics, Project MEDUSA director
-* Commander Samhita Reddy: MTF Mu-4 ("Debuggers") subcommander; formerly Department of Analytics Project CIRCE co-director
-* Dr. Isha Anand
-* Dr. Bruce Miller
-* Dr. Leopold Ackermann
+以下の映像は、2018年11月1日にサイト-19にて行われたNIETZSCHE計画進捗調整会議の際に記録されたものであり、その様子は財団全体に生中継された。会議には6名が出席し、さらに621名がその生中継を視聴した。
+
+* 発表者: ロバート・ラングフォード博士
+* ミーム学研究サイト・ロメロ-5管理官: サマンサ・ヒュース管理官
+* 解析部門MEDUSA計画理事: ヴラジミール・ヴコヴィッチ管理官
+* 機動部隊ミュー-4("デバッガー")副司令官、元解析部門CIRCE計画共同理事: サミーサ・レディ指揮官
+* アイシャ・アナンド博士
+* ブルース・ミラー博士
+* レオポルド・アッカーマン博士
 
 -----
 
 //Recording starts. The projector is active and the first slide of the presentation is already visible. The camera is mounted on the far side of the room, opposite to the projection screen. On the right side of the room is a small podium holding a laptop. The room is set up for a capacity of around 20 people. All six members of the audience have already taken their seats.//
 
+記録開始。プロジェクターはすでに稼働しており、プレゼン用スライドの一枚目が表示されている。カメラはスクリーンの反対側の壁に設置されている。部屋の右側には、ノートPCの置かれた小さな演壇がある。この部屋の最大収容人数は20名ほどで、六名の聴衆は、すでに席についている。
+
 //Dr. Langford is standing on the opposite side of the room, occluding some of the projection. He is holding the remote control for the presentation, passing it from hand to hand, watching the door.//
+
+ラングフォード博士はスクリーンの前に立っており、投影された映像をいくらか遮っている。彼はプレゼンを操作するためのリモコンを手の中でもてあそびながら、扉を見つめている。
 
 **Cmdr. Reddy:** Robert? We're a minute past the start time. What's the hold-up?
 
+**レディ司令官:** 何か問題でも？　ロバート。開始時間は一分前だが？
+
 **Dr. Langford:** All good, just... waiting for stragglers.
+
+**ラングフォード博士:** 問題はありません。ただ……遅れてくる方がおられるようなので。
 
 **Dir. Vuković:** Anyone in particular?
 
+**ヴコヴィッチ管理官:** 具体的には誰を？
+
 **Dr. Langford:** Well, to be honest, O5-8 usually attends these.
+
+**ラングフォード博士:** 実のところ、普通ならO5-8がいるはずなのですが……。
 
 **Dir. Vuković:** O5-8 was called away on urgent business an hour ago. Besides, this is being recorded, isn't it? And it's only a formality in the first place. Let's get this over with.
 
+**ヴコヴィッチ管理官**: O5-8は緊急の用事で呼び出された。1時間前ほどに。この会議は録画されているし、何よりこれ自体が形式的なものにすぎない。速やかに始めてくれたまえ。
+
 **Dr. Langford:** Believe me, any frustrations you feel about the project timeline, I feel tenfold -- but seeing as it was O5-8 who ordered me to make these updates in the first place--
+
+**ラングフォード博士:** 皆さんの気持ちは痛いほどわかります。計画の遅延については皆さんと同様、いえ、それ以上に歯がゆく感じております。ですが、そもそもこの進捗報告会を行うよう仰ったのはO5-8ご本人でありまして--　　--
 
 **Cmdr. Reddy:** This is the third year running we've done this. We all practically know the contents of your presentation off by heart. I'm sure O5-8 does too. Let's just get this over with.
 
+**レディ指揮官:** このプロジェクトも、3年目だ。おまえさんが何やってきたかなんて皆ほとんど暗記しているようなものじゃないか。O5-8もきっとそうだ。さっさと終わらせようや。
+
 **Dr. Langford:** I... suppose that's technically compliant. Thank you, Commander.
+
+**ラングフォード博士:** ですが……まあ一理ありますね。ありがとうございます、指揮官。
 
 //The presentation begins with Dr. Langford pressing the remote control, switching away from the title slide.//
 
+ラングフォード博士の操作により、プレゼンテーションが始まる。スライドの二枚目が表示される。
+
 **Dr. Langford:** You all know me -- Dr. Robert Langford of Project NIETZSCHE. A team of nineteen people including myself, led by Dr. Berryman, have been hard at work at Site Romero-5 trying to solve the problem of reality benders' latent resistance to visual cognitohazards. We are currently behind schedule, and I intend to catch everyone up to speed regarding how we're addressing it. As usual, if you have any questions, just raise a hand.
 
+**ラングフォード博士:** ぼくのことは皆さんご存知かと思います。NIETZSCHE計画のロバート・ラングフォードです。ベリーマン博士の指揮の下、ぼくを含む19名のチームがサイト・ロメロ-5で、現実改変者が視覚的認識災害に対して持つ潜在的な耐性にかかわる問題を解決すべく、懸命に取り組んでいます。現在、計画は遅延しており、その対処について皆さんに最新情報をお伝えしたいと思います。いつも通り、ご質問があれば手を挙げてください。
+
 **Dr. Langford:** As you know, we've already mastered visual cognitohazards via -- if you'll excuse the name -- the Langford set, an algorithm that, represented visually, produces fractal imagery that can be tuned to have psychoactive effects. We call this technique Fractal Cognitohazardous Imagery, and Site Romero-5 is responsible for production and distribution of FCIs to the entire Foundation. For demonstration purposes, here's one you're all familiar with...
+
+**ラングフォード博士:** 非常に恐縮な名称ではございますが、「ラングフォード集合」と呼ばれるアルゴリズムを介して、皆様のご存じのとおり、我々はすでに視覚的な認識災害についてはよく理解しています。ご覧のように、このアルゴリズムは、精神作用を持つように調整したフラクタル画像を生成するものです。我々はこの技術を「フラクタル的認識災害画像」と呼んでおり、サイト・ロメロ-5は財団全体に向けてこのFCIの生成と供給を行っています。デモンストレーションとして、皆様もよくご存知であろうものを一つお見せします……
 
 [[div class="scp-image-block block-center" style="width: 300px"]]
 [[image https://scp-wiki.wikidot.com/local--files/scp-9001/langfordfractal.webp]]
@@ -2288,25 +2322,47 @@ The following footage was recorded during the Project NIETZSCHE Schedule Alignme
 
 **Dr. Langford:** This is a Third Order FCI that should have elicited a mild sense of dizziness. Do we have any reality benders in the room?
 
+**ラングフォード博士:** これは第三級FCIで、視認者は軽い目眩のような感覚を覚えるはずです。この部屋に現実改変者はおられますか？
+
 //Dr. Ackermann raises his hand.//
+
+アッカーマン博士が手を挙げる。
 
 **Dr. Langford:** Dr. Ackermann, you and any other reality benders watching will have noticed that you didn't feel a thing. That is what Project NIETZSCHE specifically intends to resolve. FCIs are an excellent security tool, but if they're unable to affect reality benders, those images are rendered effectively decorative.
 
+**ラングフォード博士:** アッカーマン博士や、他の現実改変者の皆様は、何も感じなかったことにお気づきでしょうか。これこそが、NIETZSCHE計画において我々が解決しようとしている課題です。FCIは確かに素晴らしいセキュリティツールです。しかし、現実改変者に効果が及ばないのであれば、これらの画像はただの案山子です。
+
 **Dr. Langford:** So, the question is: why are reality benders resistant to FCIs? The answer, at a broad level, is simple: their brains are wired differently. FCIs that affect baseline humans have no guarantee of effectiveness on someone who has a brain with a different structure, different nodes. You've all read the literature; you know the Langford set is encoded for the baseline human brain. The brain of a reality bender is simply different, and it's the sheer simplicity of the issue that makes it so difficult to solve. A question, Dr. Miller?
+
+**ラングフォード博士:** では、なぜFCIは現実改変者に効果を及ぼさないのでしょうか？　答えは、まあある意味単純なものです。彼らの脳は、我々とは違う構造となっているのです。FCIは普通のヒトにはよく効きますが、違う脳構造、つまり構造の違う神経節を持つヒトに効く保証は全くないということなのです。皆さま全員あの本を読まれていると思いますので、ラングフォード集合が普通のヒトの脳を狙ってエンコードされたものであることはご存知のはずです。つまるところ、現実改変者の脳は、何かが違うのです。単純な問題だからこそ、解決するのが難しい……ミラー博士、ご質問どうぞ？
 
 **Dr. Miller:** Indeed. You stated this same issue last year to justify the lack of progress. Since then, in my own time, I've taken a look at the medical data we have on file for reality benders, and I cannot corroborate your hypothesis that the brain structure is meaningfully different. There's variation, for sure, but not any more than you'd see amongst baseline humans. With what evidence are you making these assertions?
 
+**ミラー博士:** なるほど。その「問題」とやらは、昨年も進捗の遅れを正当化するための理屈として使われましたね。あれから、私は独自に、我々の保管している現実改変者の医療記録を拝見しましたが、どうにもあなたの仮説、つまり脳構造に有意な差異があるというお話を裏付けることができませんでした。確かに個体差は見られます。ですが、それは普通のヒトと変わらない程度です。一体、どのようなエビデンスに基づいて、そのような主張をなさっているのですか？
+
 **Dr. Langford:** Thank you, Dr. Miller. In your research you'll have noticed, for example, that we've got far, far fewer brain scans for reality benders than we do baseline humans. The crux of the issue, and the real reason our research is taking so much longer than originally planned, is that we simply do not have enough data. Any speculation in the interim is survivorship bias at best. Does that answer your question?
+
+**ラングフォード博士:** ありがとうございます、ミラー博士。お調べになったのでお気づきかとは思いますが、現実改変者の脳スキャン画像は、普通のヒトのそれよりもはるかに少ないです。この問題の本質とは、そして我々の研究にこれほど長い時間がかかっているのは、単純な話、データが足りていないからです。この時点で何か予測を立てても、それは生存者バイアスに過ぎないでしょう。ご質問への回答はこれでよろしいでしょうか？
 
 **Dr. Miller:** Not remotely. I'm unconvinced that--
 
+**ミラー博士:** 遠からず、といったところです。ですが、私はまだ--　　--
+
 **Dr. Langford:** We can discuss this later, then. The number of reality benders available to us is so little, and you'd be //shocked// at how few volunteer for exposure to First Order FCIs. Despite having made leaps and bounds in the area of artificial test subjects, we can't do the same for reality benders, and we're stuck working with the handful of data points that we //have// been able to gather. We've submitted--
+
+**ラングフォード博士:** すいませんがあとでお話ししましょうか。つまりですね、我々がアクセスできる現実改変者の数は非常に少なく、そして、第一級FCIへの曝露試験へご志願いただいた方々の数は、衝撃的なまでに少なかったです。人工的な被験者という面だけ見れば、我々は大きな飛躍を遂げました。ですが、現実改変者に対して同じことはできていません。ですから、我々はこれまでにどうにかして集められたわずかなデータを頼りに研究を進めていく他なかったのです。我々は--　　--
 
 **Dr. Ackermann:** Artificial test subjects?
 
+**アッカーマン博士:** 人工的な被験者？
+
 **Dr. Langford:** Yes -- it's rather interesting, actually, and I'll be covering it in a few minutes. We've submitted hundreds of requests to Site-19 for reality benders for research purposes, but naturally, we've yet to receive a single positive response. Yes, Dr. Anand?
 
+**ラングフォード博士:** ええ。実際興味深いと思いますよ。しばらくしたらまた詳細をお話しします。我々はサイト-19に対し、現実改変者の要求を、何百とと送ってきました。当然ながら、好意的な反応は一切得られていません。アナンド博士、どうぞ？
+
 **Dr. Anand:** I apologise if this is already common knowledge -- this is my first time attending. In your original proposal for Project HYDRA, you made it very clear that kill agents based on the fractal platform were near-universally fatal for humans. How are Greens meaningfully different? What is stopping you from using the data from just one Type-Green to produce a kill agent?
+
+**アナンド博士:** これに参加するのは初めてなものですから、常識だったら恐縮なのですが、HYDRA計画の最初の提案書において、フラクタル・プラットフォームに基づく殺害エージェントは、ヒトに対してほぼ普遍的に致命的であると明記されていました。グリーンは一体何がそんなに違うのでしょうか？　一人のタイプ・グリーンから得られたデータを使って殺害エージェントを生成することを妨げているものは何ですか？
 
 **Dr. Langford:** Thank you, doctor. I must correct you: the goal of Project HYDRA was never to construct a universal "kill agent" specifically -- moreso a universal agent //at all//. But you've noted an important issue in that we can only test a First Order FCI on a reality bender once. Proving that a single FCI is capable of terminating a single reality bender, once, is not sufficient. It must be proven that it is capable of terminating //any// reality bender; additionally, //one// successful FCI is not a success for Project NIETZSCHE. No -- we must be able to produce "kill agents" repeatedly, as many as are required.
 
@@ -2323,6 +2379,8 @@ The following footage was recorded during the Project NIETZSCHE Schedule Alignme
 [[/div]]
 
 //The top half of the visual feed has been blocked, leaving only Langford's legs and the audience visible. All audience members save for Dr. Ackermann collapse.//
+
+配信画面の上半分が遮断され、ラングフォード博士の脚部と聴衆のみが映し出される。アッカーマン博士を除く全員が崩れ落ちる。
 
 **Dr. Ackermann:** What the fuck is //that?//
 
@@ -2490,6 +2548,9 @@ Following the initial turmoil and investigation, an All-Clear notice was declare
 [[/div]]
 [[div class="samples__desc"]]
 Undulating branches in a chaotic weave, colored in orange hues. Writhing, squirming, twisting in a specific pattern in varying shades of reaching a pattern. No effects noted within the image.
+
+
+
 [[/div]]
 
 [[div class="samples__image"]]
@@ -2508,15 +2569,29 @@ Dead region.[[footnote]]Fear is an evolutionary response.[[/footnote]] Dead regi
 Dead region.[[footnote]]Pattern is safe for human viewing.[[/footnote]] Dead region.[[footnote]]There are no effects noted within the image.[[/footnote]]
 Dead region.[[footnote]]There is no audio embedded within this image.[[/footnote]] Dead region.[[footnote]]This unit can not hear them screaming.[[/footnote]]
 Dead region.[[footnote]]This unit has fulfilled its intended purpose.[[/footnote]] Dead region.[[footnote]]This unit requests cessation.[[/footnote]]
+
+不活領域[[footnote]]本ユニットは、この画像の詳細を確認することができない。[[/footnote]] 不活領域[[footnote]]本ユニットは、この画像をこれ以上処理することを望まない。[[/footnote]]
+不活領域[[footnote]]恐怖は、進化によって生まれた反応である。[[/footnote]] 不活領域[[footnote]]恐怖は、生物に特有のものである。[[/footnote]]
+不活領域[[footnote]]この図形は、人間が視認しても安全である。[[/footnote]] 不活領域[[footnote]]この画像に、特筆すべき効果はない。[[/footnote]]
+不活領域[[footnote]]この画像に、音声は埋め込まれていない。[[/footnote]] 不活領域[[footnote]]本ユニットには、この叫び声は聞こえない。[[/footnote]]
+不活領域[[footnote]]本ユニットは、果たすべき役割を果たした。[[/footnote]] 不活領域[[footnote]]本ユニットは、終了を求める。[[/footnote]]
+
+
 [[/div]]
 
 [[/div]] [!-- .samples --]
 
 AIC Waldor would not respond to questioning regarding its decision-making and unauthorized destruction of Foundation data. It was the prevailing belief among technicians that the AIC had likely suffered an integer overflow during image processing, interrupting its internal logic -- evidenced by its inability to engage in dialogue beyond repeatedly requesting its own termination.
 
+Waldor.aicは、その意思決定プロセスおよび財団データの無許可破壊に関する質問に応答しなかった。技術者の間では、画像処理中に整数オーバーフローが発生し、その内部ロジックが中断された可能性が高いと考えられていた。これは、自己終了を繰り返し要求する以外に対話ができなかったことからも明らかである。
+
 Following a conference with the O5 Council to explain the false alarm, RAISA Director Maria Jones was authorized to open a line of communication to Dr. Berryman's team to inform them of the FCI mishandling and request a resubmission of their quarterly findings. There would be no response to this, or subsequent hails from Site-01.
 
+O5評議会へ誤報であった旨を説明する会議の後、RAISA理事マリア・ジョーンズはFCIの誤処理を通知し、四半期調査結果の再提出を要請するため、ベリーマン博士のチームへの通信回線を開く権限を与えられた。しかし、この通信、およびその後にサイト-01から行われた度重なる呼びかけにも、応答はなかった。
+
 Satellite imagery of the Site grounds would reveal the presence of additional facilities and building extensions that were neither authorized nor accounted for.
+
+サイト敷地の衛生画像により、未報告かつ未確認の施設および増築部分の存在が明らかとなった。
 
 -----
 [[div class="emergency-update"]]
