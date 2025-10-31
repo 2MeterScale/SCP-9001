@@ -211,7 +211,7 @@ http://scp-wiki.wikidot.com/local--files/scp-9001/lichten-flip.webp);
 [[div class="scp-image-block block-center" style="width:100%;"]]
 [[image http://scp-wiki.wikidot.com/local--files/scp-9001/hammerdown.webp alt=""]]
 [[div class="scp-image-caption"]]
-Initial assault on Site Romero-5 by Nu-7 ("Hammer Down") strike teams.
+機動部隊ニュー-7("下される鉄槌")の打撃部隊による、サイト・ロメロ-5に対する、初期の攻撃
 [[/div]]
 [[/div]]
 

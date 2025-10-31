@@ -1594,7 +1594,7 @@ Meeting was conducted in the secure data vault below Site Romero-5.
 
 **O5-8:** Your staff will have been notified already. Our conversation will not leave this room. Understood?
 
-**O5-8:** そなたの部下にはすでに通知が入っておる。この会合は、決して余人に聞かれてはならぬのだ。心得たか？
+**O5-8:** 貴公の部下にはすでに通知が入っておる。この会合は、決して余人に聞かれてはならぬのだ。心得たか？
 
 **Dir. Hughes:** Understood. Eight, what could possibly need to be this secret?
 
@@ -1602,7 +1602,7 @@ Meeting was conducted in the secure data vault below Site Romero-5.
 
 **O5-8:** You are aware that the cognitohazards you have been producing are primarily in use to secure critical Foundation assets.
 
-**O5-8:** そなたらの生成している認識災害が、主に財団の重要資産を保護するために用いられていることは、承知しておろうな。
+**O5-8:** 貴公らの生成している認識災害が、主に財団の重要資産を保護するために用いられていることは、承知しておろうな。
 
 **Dir. Hughes:** Yes.
 
@@ -1690,7 +1690,7 @@ Meeting was conducted in the secure data vault below Site Romero-5.
 
 **O5-8:** Dr. Langford is correct. Latent reality benders in the D-Class population of Site-15 were exposed to your cognitohazards on numerous occasions. They were unaffected. We have gone to great lengths to hide those results.
 
-**O5-8:** ラングフォード博士の言は正しい。サイト-15のDクラスに潜む現実改変者らは、幾度となくそなたらの認識災害を浴びてきた。だが、効果はなかったのだ。我らがその事実を秘匿せんがため、払った労は計り知れぬ。
+**O5-8:** ラングフォード博士の言は正しい。サイト-15のDクラスに潜む現実改変者らは、幾度となく貴公らの認識災害を浴びてきた。だが、効果はなかったのだ。我らがその事実を秘匿せんがため、払った労は計り知れぬ。
 
 **Dr. Langford:** Wh... what? Why?
 
@@ -1706,7 +1706,7 @@ Meeting was conducted in the secure data vault below Site Romero-5.
 
 **O5-8:** Yours is not the only security method under our employ. Should a reality bender happen to access a protected document, conventional trackers have proven sufficient for locating and acquiring them. It does not happen often. Most who view a cognitohazard are inoculated against it.
 
-**O5-8:** そなたらの仕掛けがなくとも、我らには別の手立てがある。現実改変者が保護文書に触れようものなら、旧来の追跡で事足りる。それに、そのような輩はそう現れるものではない。認識災害を見る者には、あらかじめ免疫が施されていることがほとんどゆえな。
+**O5-8:** 貴公らの仕掛けなくとも、我らには別の手立てがある。現実改変者が保護文書に触れようものなら、旧来の追跡で事足りる。それに、そのような輩はそう現れるものではない。認識災害を見る者には、あらかじめ免疫が施されていることがほとんどゆえな。
 
 **Dir. Hughes:** I thought we were making actual contributions to Foundation security, not slapdash patches to a sloppy approximation--
 
@@ -1714,7 +1714,7 @@ Meeting was conducted in the secure data vault below Site Romero-5.
 
 **O5-8:** [[span class="o5-8"]]Silence.[[/span]] We are now using your cognitohazards to secure elements for which fallback methods may not be sufficient. This is not yet a matter of urgency. What do you need?
 
-**O5-8:** [[span class="o5-8"]]慎め。[[/span]]今やそなたらの認識災害は、他の策が通じぬ対象の確保に使われておるのだ。まだ急を要する事態にあらぬ。何が必要か、申せ。
+**O5-8:** [[span class="o5-8"]]慎め。[[/span]]今や貴公らの認識災害は、他の策が通じぬ対象の確保に使われておるのだ。まだ急を要する事態にあらぬ。何が必要か、申せ。
 
 **Dr. Langford:** To produce a cognitohazard that can affect reality benders? Well, there must be a biological reason for the discrepancy, and not something that's ever been noted before, in any study, ever, otherwise we'd already know about it. It must be something that's specific to fractal coghaz. So, we need data, lots of data, and we need to get it by exposing fractal coghaz to as many reality benders as we can.
 
@@ -1754,7 +1754,7 @@ Meeting was conducted in the secure data vault below Site Romero-5.
 
 **O5-8:** Good, Dr. Berryman. We look forward to hearing your idea.
 
-**O5-8:** よろしい、ベリーマン博士。そなたの意見を聞こう。
+**O5-8:** よろしい、ベリーマン博士。貴公の意見を聞こう。
 [[/div]]
 
 Upon returning to Site-01, O5-8 initiated Project NIETZSCHE, enrolling Dr. Berryman, Dr. Langford, and the rest of the remaining Site Romero-5 staff. O5-8 would direct the project, with Dr. Berryman reporting directly, and Dr. Langford reporting to Dr. Berryman.
@@ -1958,7 +1958,7 @@ O5-8 [[span class="forum__post-email"]]<@@8@o5.scp@@>[[/span]]
 [[div class="forum__post-content"]]
 Excellent news. This is consistent with what you have been saying since Project NIETZSCHE was incepted. It is promising that your instinct has proven accurate.
 
-結構な知らせだ。NIETZSCHE計画の発足以来、そなたが主張してきた所見と違わぬ。その直感が正鵠を射ていたこと、評価に値する。
+結構な知らせだ。NIETZSCHE計画の発足以来、貴公が主張してきた所見と違わぬ。その直感が正鵠を射ていたこと、評価に値する。
 
 Do what you must to acquire the data you need. You may cite our authority as necessary.
 
@@ -1997,7 +1997,7 @@ O5-8 [[span class="forum__post-email"]]<@@8@o5.scp@@>[[/span]]
 [[div class="forum__post-content"]]
 We have placed full confidence in Dr. Langford. We advise you to do the same.
 
-我らはラングフォード博士を完全に信任している。そなたも同様にせよ。
+我らはラングフォード博士を完全に信任している。貴公も同様にせよ。
 
 [[/div]]
 [[/div]] [!-- .forum-post --]
@@ -2362,17 +2362,27 @@ The following footage was recorded during the Project NIETZSCHE Schedule Alignme
 
 **Dr. Anand:** I apologise if this is already common knowledge -- this is my first time attending. In your original proposal for Project HYDRA, you made it very clear that kill agents based on the fractal platform were near-universally fatal for humans. How are Greens meaningfully different? What is stopping you from using the data from just one Type-Green to produce a kill agent?
 
-**アナンド博士:** これに参加するのは初めてなものですから、常識だったら恐縮なのですが、HYDRA計画の最初の提案書において、フラクタル・プラットフォームに基づく殺害エージェントは、ヒトに対してほぼ普遍的に致命的であると明記されていました。グリーンは一体何がそんなに違うのでしょうか？　一人のタイプ・グリーンから得られたデータを使って殺害エージェントを生成することを妨げているものは何ですか？
+**アナンド博士:** これに参加するのは初めてなものですから、常識だったら恐縮なのですが、HYDRA計画の最初の提案書において、フラクタル・プラットフォームに基づく殺害エージェントは、ヒトに対してほぼ普遍的に致命的であると明記されていました。グリーンは一体何がそんなに違うのでしょうか？　例えば、一人のタイプ・グリーンから得られたデータを使って殺害エージェントを生成することは可能なのではないのでしょうか？
 
 **Dr. Langford:** Thank you, doctor. I must correct you: the goal of Project HYDRA was never to construct a universal "kill agent" specifically -- moreso a universal agent //at all//. But you've noted an important issue in that we can only test a First Order FCI on a reality bender once. Proving that a single FCI is capable of terminating a single reality bender, once, is not sufficient. It must be proven that it is capable of terminating //any// reality bender; additionally, //one// successful FCI is not a success for Project NIETZSCHE. No -- we must be able to produce "kill agents" repeatedly, as many as are required.
 
+**ラングフォード博士:** ご質問ありがとうございます、博士。一点だけ訂正させてください。当初から、HYDRA計画の目標とは、特定の殺害エージェントを構築することではなく、より正確に言うのであれば、普遍的なエージェントを構築することにありました。しかし、ご指摘の点は非常に重要です。ある現実改変者に対して、我々は第一級FCIを一度しかテストできないという問題は、確かに存在しています。単一のFCIが、単一の現実改変者を、一度だけ終了できることを証明するだけでは、不十分なのです。我々が示すべきは、それがあらゆる現実改変者を終了できることなのです。さらに、FCIを一つ作れたところで、それはNIETZSCHE計画の成功を意味しません。つまり、我々は、殺害エージェントを、必要とされる数だけ、繰り返し生成できるようにならなければならないのです。
+
 **Dr. Anand:** Why do we need more than one?
+
+**アナンド博士:** どうして複数のエージェントが必要なのですか？
 
 **Dr. Langford:** For security. If someone needs access to a secret document and is therefore immunised against its protective FCI, that would render any projects protected by the same FCI insecure.
 
+**ラングフォード博士:** 保安上の理由です。誰かがある機密文書にアクセスする必要があって、そのためにその文書を保護するFCIに対して免疫を持っているという状況をお考えください。この時、同じFCIで保護されているプロジェクトは、全て安全ではなくなってしまいます。
+
 **Dr. Langford:** Now, that's not to say that we've made no progress. I, personally, believe that the answer lies in our computational methods. I have been hard at work with cutting-edge refinements to our procedures and generation logic, and we believe we have found a region of the modified Langford set that is somewhat effective on reality benders. We've only been able to create one FCI from this region, a very weak Second Order FCI, but I hope that further exploration of this region may yield better results.
 
+**ラングフォード博士:** とはいえ、今の我々に進捗がないというわけではありません。ぼく個人としては、解決の糸口は我々の計算手法にあると思っています。プロトコルと生成ロジックに最先端の改良を施すべく懸命に取り組んできた結果、改変ラングフォード集合の中に、現実改変者に対してある程度の効果を示す領域を発見したと考えています。この領域からは、非常に微弱な第二級FCIのみ生成できました。ですが、この領域をさらに探査することで、より良い結果が得られるのではないかと期待しています。
+
 **Dr. Langford:** On the next slide is that Second Order FCI. Dr. Ackermann, along with any other reality benders watching, and indeed everyone else: I expect the next slide to elicit a mild feeling of //cold//. Please observe the very latest in Berryman-Langford fractal agents.
+
+**ラングフォード博士:** 次のスライドには、第二級FCIがあります。アッカーマン博士、それからこれをご覧になっている現実改変者の皆さま、そして当然それ以外の皆さま方も、穏やかな寒気を感じるはずです。ベリーマン=ラングフォード・フラクタル・エージェントの最先端を、どうぞご覧ください。
 
 [[div class="scp-image-block block-center" style="width: 300px; padding: 4rem 0.25rem"]]
 = [認識災害につき画像除去]
@@ -2384,146 +2394,266 @@ The following footage was recorded during the Project NIETZSCHE Schedule Alignme
 
 **Dr. Ackermann:** What the fuck is //that?//
 
+**アッカーマン博士:** こりゃ一体何だ？
+
 **Dr. Langford:** Um... is everyone...?
+
+**ラングフォード博士:** えー、これは……？
 
 //Dr. Langford is frozen in place.//
 
+ラングフォード博士はその場で立ちすくんでいる。
+
 **Dr. Ackermann:** Langford, what the fuck am I looking at? What is this meant to be?
+
+**アッカーマン博士:** ラングフォード、俺は今何を見てるんだ？　何なんだ？　これは。
 
 //Dr. Langford slowly shuffles sideways towards the podium with the laptop, facing away from the presentation screen.//
 
+ラングフォード博士はノートPCを持ちながら、ゆっくりと演壇へ向かう。彼はスクリーンに背を向けている。
+
 **Dr. Langford:** This can't be happening. This can't be real.
+
+**ラングフォード博士:** こんなこと……あり得ない。嘘でしょう？
 
 **Dr. Ackermann:** Langford? Langford, please. Tell me what this is.
 
+**アッカーマン博士:** ラングフォード、おい、教えてくれよ。何だこれは。
+
 **Dr. Langford:** That is a kill agent, Leo. No-one is supposed to see that and live. You might be the only-- oh, my God. This is live.
+
+**ラングフォード博士:** 殺害エージェントです、レオ。これを見た者は全員死ぬはずです。あなた以外は--　　--しまった、これは配信されているんだ--　　--
 
 **Dr. Ackermann:** Langford, please, explain--
 
+**アッカーマン博士:** 頼むから説明してくれ、ラングフォード--　　--
+
 //Dr. Langford crouches down next to the podium, and then onto his hands and knees. His eyes are squeezed tightly shut. He desperately fumbles with the cables under the podium.//
 
+ラングフォード博士は演壇の横に、膝を抱えながらしゃがみ込んだ。彼の目は硬く閉じられている。必死の形相で、彼は演壇の下のケーブルをまさぐっている。
+
 //Dr. Langford reaches towards the electrical outlet.//
+
+ラングフォード博士は、電源コンセントを探し当てた。
 
 -----
 
 The live broadcast ended 34 minutes earlier than scheduled.
+
+配信は、予定されていたよりも34分早く終了した。
 [[/div]]
 
 Alexandra.aic, which was monitoring the broadcast, was able to detect and intercept the First Order FCI present in the visual feed, preventing it from affecting any of the remote participants. Director Hughes, Commander Reddy, Director Vuković, Dr. Anand and Dr. Miller were the only casualties of the incident.
 
+放送を監視していたAICアレクサンドラは、映像フィード内に含まれていた第一級FCIを検知・遮断することに成功し、配信視聴者への影響を未然に防いだ。このインシデントにおける犠牲者は、ヒューズ管理官、レディ司令官、ヴコヴィッチ理事、アナンド博士、そしてミラー博士のみであった。
+
 On 2018-11-02, the day following Incident 9001-1, Dr. Langford was summoned for debriefing by O5-8.
 
-[[div class="blockquote"]]
-**Project NIETZSCHE Debriefing**
+インシデント9001-1の翌日である2018年11月2日、ラングフォード博士はO5-8による事情聴取のため召喚された。
 
-In attendance: Dr. Robert Langford, and O5-8 as Project NIETZSCHE Director.
+[[div class="blockquote"]]
+**NIETZSCHE計画に関する事情聴取**
+
+参加者: ロバート・ラングフォード博士、NIETZSCHE計画理事O5-8
 
 -----
 
 **Dr. Langford:** It's good to--
 
+**ラングフォード博士:** お会いできて--　　--
+
 **O5-8:** You're on the record. [[span class="o5-8"]]Explain.[[/span]]
+
+**O5-8:** 証言は記録されておる。[[span class="o5-8"]]述べよ。[[/span]]
 
 **Dr. Langford:** It was a standard annual schedule alignment report, to explain why the project had stalled. During--
 
+**ラングフォード博士:** あれは普通の年次進捗調整会議でした。なぜこのプロジェクトが遅延してしまったのかを説明するために--　　--
+
 **O5-8:** The project has //been// stalled for three years. Correct?
+
+**O5-8:** プロジェクトは三年間、停滞し続けている。相違ないか？
 
 **Dr. Langford:** Yes, but not without progress in some--
 
+**ラングフォード博士:** はい。ですがある程度の進捗は--　　--
+
 **O5-8:** Irrelevant. [[span class="o5-8"]]Continue.[[/span]]
+
+**O5-8:** どうでもよい。[[span class="o5-8"]]続けよ。[[/span]]
 
 **Dr. Langford:** Most of the presentation was the same as last year's, including the demonstration coghaz. There was supposed to be an additional demo that would prove that we're starting to be able to make FCIs that work on reality benders. The wrong image was in the presentation.
 
+**ラングフォード博士:** あのプレゼンは昨年とほとんど同じ者です。デモ用の認識災害もありました。現実改変者にも効くようなFCIを作ることができたことを示すために、もう一個のデモ画像を入れたはずなんです。ですが、あれは別の画像でした。
+
 **O5-8:** Intention?
+
+**O5-8:** 意図は？
 
 **Dr. Langford:** Of the image that was supposed to be there? To compel a sensation of cold, reality benders included.
 
+**ラングフォード博士:** 本来映されるべきだった画像の、ですよね。寒気を感じさせたはずです。現実改変者にも。
+
 **O5-8:** And reality?
+
+**O5-8:** だが、実際は？
 
 **Dr. Langford:** The image that was actually included was a First Order FCI, lethal to humans.
 
+**ラングフォード博士:** 実際に映された画像は、第一級FCIでした。ヒトに対して致死性を持つものです。
+
 //Silence.//
+
+静寂。
 
 **Dr. Langford:** I don't know how it got there.
 
+**ラングフォード博士:** なぜあんなことになったのか、見当もつきません。
+
 **O5-8:** [[span class="o5-8"]]Speculate.[[/span]]
+
+**O5-8:** [[span class="o5-8"]]所見を述べよ。[[/span]]
 
 **Dr. Langford:** Anyone could have copied my presentation from last year, but they would have been missing my latest amendments, such as... the coghaz in question. The only people, other than myself, who could possibly have had access to the presentation were personnel at Romero-5.
 
+**ラングフォード博士:** ぼくの去年のプレゼンをコピーすることは、誰にもできたはずです。ですが、その場合、ぼくが加えた最新の修正……例えば、例の認識災害などは含まれていないはずです。ぼく以外に、そのプレゼンテーションにアクセスできた可能性があるとすれば、それはサイト・ロメロ5の職員しかいません。
+
 **O5-8:** [[span class="o5-8"]]Be specific.[[/span]]
+
+**O5-8:** [[span class="o5-8"]]具体的には、誰か？[[/span]]
 
 **Dr. Langford:** I... can't. Most of them knew that I was making the presentation. Of those, the only person with access to my terminal would have been Dr. Berryman, but it wouldn't have been her.
 
+**ラングフォード博士:** それは……わかりません。彼らのほとんどは、ぼくがプレゼンを作成していることを知っていました。その中で、ぼくの端末にアクセスできたのは、ベリーマン博士だけだったはずですが、彼女がそんなことをするとは思えません。
+
 **O5-8:** Why not?
+
+**O5-8:** なにゆえ？
 
 **Dr. Langford:**  It wouldn't make any sense. She has been instrumental to the work. She brought me on to Project HYDRA in the first place, and I owe her for that. And Project NIETZSCHE was her initiative entirely; //I// thought HYDRA was our limit. Sabotaging it now couldn't possibly benefit her.
 
+**ラングフォード博士:** そんなことする理由がないんですよ。彼女は不可欠なんです。この研究にとって。そもそもぼくをHYDRA計画に引き入れたのは彼女ですし、ぼくはそれに恩義を感じています。NIETZSCHE計画も完全に彼女が主導しているんですよ。ぼくはHYDRAが我々の限界だと思っていました。今更それを妨害したって、何も良いことはないですよ
+
 **O5-8:** We need an explanation, Langford. Someone must take the fall. Do you understand?
+
+**O5-8:** それでは筋が通らぬのだ、ラングフォードよ。誰かが責を追わねばならぬ。わかるか？
 
 **Dr. Langford:** I do.
 
+**ラングフォード博士:** ええ。
+
 **O5-8:** [[span class="o5-8"]]Accuse.[[/span]]
+
+**O5-8:** [[span class="o5-8"]]告発せよ。[[/span]]
 
 **Dr. Langford:** Myself. I-- I mean... I must have made some error, swapped a Third Order and a First Order in the filesystem, I don't know, it doesn't make sense. That's the only answer I have.
 
+**ラングフォード博士:** ぼくです。ぼくが--　　--何かミスをしたに違いないんです。ファイルシステム上で第三級と第一級を取り違えたとか。いえ、わけがわからないですよね。ですが、こうとしか思えないんです。
+
 **O5-8:** What measures were in place to prevent this from happening?
+
+**O5-8:** 然様なことを起こさぬように、いかなる策を講じておったのか？
 
 **Dr. Langford:** Well... nothing. FCIs are just images, they're treated the same as any other by the presentation software. But I was exposed to all cognitohazards in that presentation repeatedly while I was preparing it. I should be dead already.
 
+**ラングフォード博士:** いえ、何も。FCIはただの画像です。プレゼン用ソフトにおいては、他の画像と同じように扱われます。ですがプレゼンを用意している間、ぼくは何度となくあれらの認識災害に曝されていました。死んでないのがおかしいですよ。
+
 **O5-8:** Unless you were already inoculated against it.
+
+**O5-8:** もし貴公がすでに免疫を持っておったならば、話は違うであろう。
 
 **Dr. Langford:** That FCI and its inoculants had already been distributed, according to Alexandra. They would already have been wiped from our systems entirely.
 
+**ラングフォード博士:** アレクザンドラによると、あのFCIと、あれに対する免疫は、すでに配布されているそうです。そしてそれはすでに、我々のシステム上から削除されているはずです。
+
 **O5-8:** Data is data.
+
+**O5-8:** データは、データだ。
 
 **Dr. Langford:** I suppose. I can't prove it wasn't copied. But proving whether or not I was inoculated would be a witch trial.
 
+**ラングフォード博士:** ええ、そうでしょうね。コピーされてないとも言い切れません。ですがぼくの免疫の有無を証明するなんて、それは悪魔の証明ですよ。
+
 **O5-8:** Yes, there's little sense in that. We lost five good personnel yesterday.
+
+**O5-8:** 然り。左様なことに意味はない。昨日、我らは五名の秀でた職員を亡くしたのだ。
 
 **Dr. Langford:** Six. I want to leave the project.
 
+**ラングフォード博士:** 六名です。ぼくをこのプロジェクトから降ろしてください。
+
 **O5-8:** Yes. Everyone has seen the recording by now; the damage you've done to the project image is immeasurable. Over the past day, the phrase 'Berryman-Langford kill agent' has arisen, presumably from mockery, but is already being baked into the Foundation's collective vocabulary. No one is saying 'First Order FCI' anymore. We won't permit you to leave, however. You remain useful.
+
+**O5-8:** 然り。あの記録は、今や万人が知るところだ。貴公が計画の威信に与えた損害は計り知れん。この一日で、『ベリーマン＝ラングフォード・ミーム殺害エージェント』なる言葉が生まれた。恐らくは嘲りからであろうが、すでに財団の共通語彙として定着しつつある。もはや誰も『第一等級FCI』とは口にせぬ。だが、貴公が計画を去ることは許さん。まだ使い道があるのでな。
 
 **Dr. Langford:** Amnesticize me, then. I don't want anything to do with this. I already hated seeing my name on that thing.
 
+**ラングフォード博士:** では記憶処理をしてください。もうこんなことに関わりたくもありません。自分の名前が、あんなものについていること自体、元々嫌で仕方がなかった……
+
 **O5-8:** No. We need your expertise, not your labor. We'll find you something to do. Away from the light.
+
+**O5-8:** 否。我らが必要とするは貴公の専門知識だ、労働力ではない。貴公には別の任を与えよう。日の当たらぬ場所でのな。
 [[/div]]
 
 Immediately after this meeting, Dr. Langford was removed from Project NIETZSCHE and placed on administrative leave.
 
+この会議の直後、ラングフォード博士はNIETZSCHE計画から解任され、管理休暇処分となった。
+
 Over the following days, experts at Site-19 and Site Romero-5 convened and discussed the changes to policy that would be required in response to Incident 9001-1, and on 2018-11-06, Dr. Berryman distributed the following memorandum.
+
+インシデント9001-1の発生を受け、その後数日にわたり、サイト-19およびサイト・ロメロ-5の専門家らは、ポリシーの変更について議論を重ね、2018年11月6日、ベリーマン博士によって以下の覚書が配布された。
 
 [[div class="blockquote"]]
 Colleagues,
 
+皆さま、
+
 The Project NIETZSCHE Schedule Alignment Meeting a few short days ago was nothing short of a travesty. Our hearts go out to those who knew Dr. Vuković, Commander Reddy, Dr. Anand, Director Hughes and Dr. Miller. They will be sorely missed, but rest assured that their families have been compensated. We are grateful to AIAD and to Alexandra.aic, without whom the death toll would have been considerably higher.
+
+数日前に執り行われたNIETZSCHE計画スケジュール調整会議は、惨事以外の何物でもありませんでした。ヴコヴィッチ博士、レディ司令官、アナンド博士、ヒューズ管理官、そしてミラー博士を知る皆様に、心より哀悼の意を表します。彼らを失った悲しみは計り知れませんが、ご遺族には然るべき補償がなされたことをご報告いたします。AIAD、そしてAlexandra.aicには深く感謝いたします。彼らの尽力がなければ、犠牲者の数は比較にならないほど増えていたことでしょう。
 
 The disaster was an accident. The presenter, Dr. Langford, made a critical error and inserted a lethal Berryman-Langford Kill Agent in place of a safer compulsion agent more suitable for demonstration. This was not a personal failing of Dr. Langford, but a failing of our security and accountability procedures.
 
+この災害は事故でした。発表者であったラングフォード博士が致命的な誤りを犯し、デモンストレーションに適した安全なエージェントの代わりに、致死性のベリーマン＝ラングフォード・ミーム殺害エージェントを挿入してしまったのです。これはラングフォード博士個人の失敗ではなく、我々のセキュリティおよび説明責任に関する手順の不備に起因するものです。
+
 A position will be found for him where he can apply his insightful and intelligent nature with no risk of any harm to anyone. We bear him no ill will, and wish him the best of luck.
+
+彼には、誰にも危害を加えるリスクなく、その洞察力に富んだ知性を発揮できる役職が与えられることになります。我々は彼に一切の悪意を抱いておらず、彼の幸運を祈っております。
 
 -----
 
 We are taking this incident extremely seriously, and are making concrete changes to ensure that no incident of this kind will ever happen again. Our foremost priority is to ensure that all cognitohazardous agents produced via the Berryman-Langford process are secure and accountable, and that the process cannot be reproduced or rediscovered without our oversight.
 
+我々はこのインシデントを極めて深刻に受け止めており、この種の事態が二度と起こらないことを確実にするため、具体的な変更に着手しています。我々の最優先事項は、ベリーマン＝ラングフォードプロセスによって生成される全ての認識災害エージェントの安全性と追跡可能性を確保し、我々の監督なしにそのプロセスが再現あるいは再発見されることを不可能にすることです。
+
 To that effect, a new set of policies is being implemented across the HYDRA and NIETZSCHE projects, effective immediately. These include wide-reaching and technical measures to ensure the absolute safety of cognitohazardous imagery, including new data storage policies, and the strict forbiddance of their usage outside of security contexts, e.g. for cheap demonstrations.
+
+その目的のため、HYDRA計画およびNIETZSCHE計画の全体に渡り、新たな方針を施行し、即時に発効します。これには、新たなデータ保管方針や、安易なデモンストレーションなどセキュリティ用途以外での使用の厳格な禁止といった、認識災害画像の絶対的な安全性を保証するための広範かつ技術的な措置が含まれます。
 
 We must ensure consistent and continuous enforcement of these new policies Foundation-wide: therefore, the mathematical core of the Berryman-Langford agent is henceforth reclassified as SCP-9001, and all new security measures are implemented as its containment procedures.
 
+新たなる方針は、財団全体で一貫して継続的に施行されることを保証せねばなりません。したがって、ベリーマン＝ラングフォード・エージェントの数学的核心は、これよりSCP-9001として再分類され、全ての新たな保安措置はその収容プロトコルとして実施されます。
+
 The inciting disaster will be documented as Incident 9001-1, and will be kept on file in full detail, accessible to all, such that we never lose the awful context that necessitated these measures.
+
+発端となった災害はインシデント9001-1として記録され、その詳細なファイルは、これらの措置を必要とした恐ろしい背景を決して忘れることがないよう、誰もが閲覧可能な状態で保管されます。
 
 Production of cognitohazardous imagery will continue at Memetics Research Site Romero-5. I will take over Samantha Hughes' position as Site Director. As Romero-5 is therefore responsible for containment of SCP-9001, it is now a Dark site: all remote communications between Romero-5 and other Foundation Sites are strictly forbidden.
 
+認識災害画像の生産は、ミーム学研究サイト・ロメロ-5にて継続されます。私、エイヴァ・ベリーマンがサマンサ・ヒューズ管理官の職務を引き継ぎ、同サイトの管理官に就任します。これに伴い、ロメロ-5はSCP-9001の収容責任を負うこととなるため、本日をもってダークサイトに指定されます。ロメロ-5と他の財団サイト間のいかなる遠隔通信も厳格に禁止されます。
+
 The security of SCP-9001 is paramount. We will accept no compromise.
 
-**Site Director Ava Berryman**
-Project NIETZSCHE Head Researcher
-Authorized by O5-8
+SCP-9001の保安は最重要です。我々は一切の妥協を許しません。
+
+**サイト管理官エイヴァ・ベリーマン**
+NIETZSCHE計画主任研究員
+O5-8の承認による
 [[/div]]
 
 Following this announcement, communications with Site Romero-5 ceased.
 
-
+この声明を以って、サイト・ロメロ-5との通信は途絶した。
 
  _
 
@@ -2533,7 +2663,11 @@ Following this announcement, communications with Site Romero-5 ceased.
 
 On 2025-08-22, Protected Site-7 received its quarterly FCI package from Site Romero-5. During routine validation of its contents, Waldor.aic broke from protocol and initiated the deletion process on all newly-received files. Through SCiPnet access, the AIC initiated the site's lockdown procedures, setting the site on High Alert.
 
+2025年8月22日、プロテクション・サイト-7はサイト・ロメロ-5より四半期ごとのFCIパッケージを受領した。その内容物の定例検証中、Waldor.aicはプロトコルから逸脱し、新たに受領した全ファイルの削除プロセスを開始した。当該AICはSCiPnetアクセスを介してサイトの封鎖手順を起動し、サイトを高度警戒態勢に移行させた。
+
 Following the initial turmoil and investigation, an All-Clear notice was declared and AIC Waldor was isolated from SCiPnet. Though it had purged the majority of the FCI package, a small selection remained within the database. Of those remaining, none had been marked by the AI as possessing cognitohazardous imagery and are catalogued below.
+
+初期の混乱と調査を経て安全宣言がなされ、AIC WaldorはSCiPnetから隔離された。FCIパッケージの大半は消去されたものの、ごく一部がデータベース内に残存していた。残存したファイルのうち、AIによって認識災害画像を含むとマークされたものは一つもなく、それらを以下に列挙する。
 
 [[div class="samples" style="padding-top: 1rem;"]]
 [[div class="samples__image-heading"]]
@@ -2549,7 +2683,7 @@ Following the initial turmoil and investigation, an All-Clear notice was declare
 [[div class="samples__desc"]]
 Undulating branches in a chaotic weave, colored in orange hues. Writhing, squirming, twisting in a specific pattern in varying shades of reaching a pattern. No effects noted within the image.
 
-
+橙の色合いを持ち、混沌と織りなすようにうねる枝。さまざまな色調で特定の図柄を描きながら、のたうち、身悶えし、ねじれている。この画像に特筆すべき効果はない。
 
 [[/div]]
 
@@ -2558,6 +2692,9 @@ Undulating branches in a chaotic weave, colored in orange hues. Writhing, squirm
 [[/div]]
 [[div class="samples__desc"]]
 Fear is a negative emotional response to active/perceived threats or impending danger, suspected to have arisen as a form of survival mechanism (e.g. conditioning living organisms to avoid heights).
+
+恐怖とは、活動中の、あるいは知覚された脅威、または差し迫った危険に対する、否定的な感情反応である。生存機構の一形態として発生したと推測される（例：生物を、高所を避けるよう条件付ける）。
+
 [[/div]]
 
 [[div class="samples__image"]]
@@ -2600,7 +2737,7 @@ Satellite imagery of the Site grounds would reveal the presence of additional fa
 
 Site Romero-5 has been designated SCP-9001-A and has been assigned Keter Class. For more information, proceed.
 
-サイト・ロメロ-5はSCP-9001-Aに割り当てられ、Keterクラスオブジェクトとみなされました。さらなる情報は、この先の文書に記載があります。
+サイト・ロメロ-5はSCP-9001-Aに割り当てられ、Keterクラスオブジェクトとみなされました。さらなる情報は、この先の文書に記載されています。
 
 **[[[/scp-9001/offset/1|SCP-9001-A.doc]]]**
 
