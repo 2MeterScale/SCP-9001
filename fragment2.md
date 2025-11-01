@@ -181,7 +181,7 @@ http://scp-wiki.wikidot.com/local--files/scp-9001/lichten-flip.webp);
 [[>]]
 [[module Rate]]
 [[div_]]
-[[size small]]Page 2 of 2[[/size]]
+[[size small]]ページ2/2[[/size]]
 [[/div]]
 [[/>]]
 
@@ -190,15 +190,15 @@ http://scp-wiki.wikidot.com/local--files/scp-9001/lichten-flip.webp);
 [[table style="border: none; width: 100%;"]]
 [[row]]
 [[cell]]
-[[size 125%]]**Item #:** SCP-9001-A[[/size]]
+[[size 125%]]**アイテム番号:** SCP-9001-A[[/size]]
 [[/cell]]
 [[cell style="text-align: right;"]]
-[[size 125%]]###f00d|**Level 2/9001**##[[/size]]
+[[size 125%]]###f00d|**レベル2/9001**##[[/size]]
 [[/cell]]
 [[/row]]
 [[row]]
 [[cell]]
-[[size 125%]]**Object Class:** Keter[[/size]]
+[[size 125%]]**オブジェクトクラス:** Keter[[/size]]
 [[/cell]]
 [[cell style="text-align: right;"]]
 [[size 125%]]###f00d|**Classified**##[[/size]]
@@ -218,46 +218,78 @@ http://scp-wiki.wikidot.com/local--files/scp-9001/lichten-flip.webp);
 -----
 
 [[div class="conprocs"]]
-[[span style="color: white; background: #f008; padding: 3px 5px 1px; border-radius: 3px; text-transform: uppercase; font-weight: bold; margin-left: -2.5px"]]Emergency Containment Procedures:[[/span]] An Exclusion Zone has been established 3km from the event horizon of SCP-9001-A, and is enforced by an array of Scranton Reality Anchors. As of this writing, the local supply of anchors has been exhausted; additional materials from Site-118 are currently en-route.
+[[span style="color: white; background: #f008; padding: 3px 5px 1px; border-radius: 3px; text-transform: uppercase; font-weight: bold; margin-left: -2.5px"]]緊急収容プロトコル:[[/span]] An Exclusion Zone has been established 3km from the event horizon of SCP-9001-A, and is enforced by an array of Scranton Reality Anchors. As of this writing, the local supply of anchors has been exhausted; additional materials from Site-118 are currently en-route.
+
+SCP-9001-Aの事象の地平面から3kmの位置に立入禁止区域が設定され、当該地域には多数のスクラントン現実錨が展開されています。本稿執筆時点において、現地における現実錨の備蓄は枯渇しており、サイト-118からの追加資材の輸送が進行中です。
 
 Agent Troy Lament has assumed the role of General Commander of Task Forces in the region, operating out of Forward Operating Base Panloque, established outside the bounds of the SRA array. Operatives from Mobile Task Forces [[span class="hoverlink"]][[[task-forces#eta-10|Eta-10]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]Eta-10 ("See No Evil")[[/span]][[span class="hoverlink-text"]]Specialists in circumventing/containing perceptual hazards. Eta-10 uses specialized equipment (such as the "SCRAMBLE" goggles) in order to protect its agents from anomalous effects triggered or expressed through sensory perception[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/task-forces/Eta10.png/small.jpg)"]]-[[/span]][[/span]][[/span]], [[span class="hoverlink"]][[[task-forces#theta-90|Theta-90]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]Theta-90 ("Angle Grinders")[[/span]][[span class="hoverlink-text"]]Experienced pathfinders and wayfarers in areas where local topography does not align with conventional understanding of spacetime, such as iterative, recursive, and infinite zones. Theta-90 specialists are also tasked with diplomatic missions into non-hostile Nexus locales.[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/task-forces/Theta90.png/small.jpg)"]]-[[/span]][[/span]][[/span]], [[span class="hoverlink"]][[[task-forces#epsilon-11|Epsilon-11]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]Epsilon-11 ("Nine-Tailed Fox")[[/span]][[span class="hoverlink-text"]]Specialists drawn from across the MTF network, deployed to establish control of Foundation Sites experiencing breaches and/or occupation by hostile forces and GoIs. Famous for their efforts in combating a containment breach at Site-19.[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/task-forces/Epsilon11.png/small.jpg)"]]-[[/span]][[/span]][[/span]] and [[span class="hoverlink"]][[[task-forces#zeta-9|Zeta-9]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]Zeta-9 ("Mole Rats")[[/span]][[span class="hoverlink-text"]]An exploration team tasked with probing and mapping underground or ontologically unsound areas. Typically deployed as a first-line resource, Zeta-9 has a notoriously-high mortality rate. Despite this, Zeta-9 operatives are seen by many to be the most capable for exploration of any sort.[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/task-forces/Zeta9.png/small.jpg)"]]-[[/span]][[/span]][[/span]] are being assembled into special teams for exploration of the Zone. MTF [[span class="hoverlink"]][[[task-forces#iota-10|Iota-10]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]Iota-10 ("Damn Feds")[[/span]][[span class="hoverlink-text"]]Personnel embedded within law enforcement and similar institutions. As a public-facing entity, Iota-10 is usually tasked with intelligence-gathering, working alongside government agencies and local police. Iota-10 also serves as an early-warning for civilian anomalies.[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/task-forces/Iota10.png/small.jpg)"]]-[[/span]][[/span]][[/span]] is tasked with diverting civilians from the area.
 
+エージェント・トロイ・ラメントが当該地域の機動部隊総司令官に着任し、SRA展開領域外に設立された前線基地パンロケを拠点として活動しています。機動部隊 [[span class="hoverlink"]][[[task-forces#eta-10|エータ-10 ("シー・ノー・イーヴル")]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]イータ-10 ("シー・ノー・イーヴル")[[/span]][[span class="hoverlink-text"]]知覚災害の回避/収容を専門とする。イータ-10は、感覚知覚を介して発現・誘発される異常効果からエージェントを保護するため、特殊装備（「SCRAMBLE」ゴーグルなど）を使用する。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/task-forces/Eta10.png/small.jpg)"]]-[[/span]][[/span]][[/span]]、[[span class="hoverlink"]][[[task-forces#theta-90|シータ-90 ("角度研削者")]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]シータ-90 ("角度研削者")[[/span]][[span class="hoverlink-text"]]反復的、再帰的、無限的な領域など、局所的な地形が従来の時空理解と一致しない領域における、経験豊富な経路探索者および踏破者。シータ-90の専門家は、非敵対的なネクサスへの外交任務も担当する。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/task-forces/Theta90.png/small.jpg)"]]-[[/span]][[/span]][[/span]]、[[span class="hoverlink"]][[[task-forces#epsilon-11|イプシロン-11 ("九尾狐")]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]イプシロン-11 ("九尾狐")[[/span]][[span class="hoverlink-text"]]MTFネットワーク全体から選抜された専門家であり、敵対勢力や要注意団体による侵害や占拠を経験した財団サイトの統制を確立するために配備される。サイト-19での収容違反への対処で有名。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/task-forces/Epsilon11.png/small.jpg)"]]-[[/span]][[/span]][[/span]]、そして[[span class="hoverlink"]][[[task-forces#zeta-9|ゼータ-9 ("メクラネズミ")]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]ゼータ-9 ("メクラネズミ")[[/span]][[span class="hoverlink-text"]]地下または存在論的に不安定な領域の探査と地図作成を任務とする探査チーム。通常、第一次投入リソースとして配備されるゼータ-9は、死亡率の高さで悪名高い。それにもかかわらず、ゼータ-9の工作員はあらゆる種類の探査において最も有能であると多くの者に見なされている。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/task-forces/Zeta9.png/small.jpg)"]]-[[/span]][[/span]][[/span]]の工作員らが、区域の探索を目的とする特別チームとして編成されつつあります。機動部隊[[span class="hoverlink"]][[[task-forces#iota-10|イオタ-10 ("ポリ公")]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]イオタ-10 ("ポリ公")[[/span]][[span class="hoverlink-text"]]法執行機関および類似の機関に潜入している職員。公的な存在として、イオタ-10は通常、政府機関や地方警察と協力して情報収集を任務とする。イオタ-10はまた、民間における異常存在の早期警戒としても機能する。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/task-forces/Iota10.png/small.jpg)"]]-[[/span]][[/span]][[/span]]は、当該地域から民間人を迂回させる任務を負います。
+
 The Exclusion Zone's perimeter is to be enforced by Armed Mobile Task Force [[span class="hoverlink"]][[[task-forces#nu-7|Nu-7]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]Nu-7 ("Hammer Down")[[/span]][[span class="hoverlink-text"]]A battalion-strength regiment of soldiers and combat/vehicle specialists. Deployed in events where Foundation facilities have been compromised, or when containment calls for the use of overwhelming force.[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/task-forces/Nu7.png/small.jpg)"]]-[[/span]][[/span]][[/span]], who have been tasked with carrying out a controlled burn of the forest within the zone.
+
+立入禁止区域の境界線は、武装機動部隊[[span class="hoverlink"]][[[task-forces#nu-7|ニュー-7 ("下される鉄槌")]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]ニュー-7 ("下される鉄槌")[[/span]][[span class="hoverlink-text"]]兵士および戦闘/車両の専門家からなる大隊規模の連隊。財団施設が危険に晒された場合、または収容に圧倒的な戦力の行使が必要な場合に配備される。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/task-forces/Nu7.png/small.jpg)"]]-[[/span]][[/span]][[/span]]によって確保されることになっており、同部隊は区域内の森林の計画的焼却を実行する任務を課せられています。
 
 Living organisms attempting to cross the SRA boundary are to be summarily terminated. The remains of any affected lifeforms are not to be taken for research purposes -- they are to be deposited back within the bounds of the Exclusion Zone and incinerated.
 
+SRA境界線を越えようと試みる生命体は、即時終了されます。当該地域の影響を受けた生命体を研究目的での回収することは、許可されていません。それら生命体は立入区域内に投棄され、焼却処分を受ける必要があります。
+
 Should the area-of-effect expand beyond the Exclusion Zone, an All-Hands Notice is to be issued worldwide in preparation for a ZK-Class Reality Failure Scenario.
+
+効果範囲が立入禁止区域を越えて拡大した場合、ZK-クラス:現実不全シナリオに備え、全世界の全職員に向けて通達が発せられます。
 [[/div]]
 
 **Description:** SCP-9001-A refers to an expanding region characterized by non-Euclidean geometry, spatial inconsistencies, and the elaborate growth and fractalization of complex systems.
 
+**説明:** SCP-9001-Aは、非ユークリッド幾何学、空間的不整合、そして複雑系の精巧な成長とフラクタル化を特徴とする、拡大領域です。
+
 SCP-9001-A is expressed through the formation of vestigial facilities emerging from Site Romero-5, the shifting of local topography and meteorological conditions with a preference for fractal organization, and the induction of physiological mutations in living organisms within its area of effect.
+
+SCP-9001-Aの発現は、サイト・ロメロ-5から出現する痕跡的な施設の形成、フラクタル構造を指向する局所的な地形および気象条件の変化、そしてその効果範囲内の生命体における生理学的変異の誘発といった形で現れます。
 
 The means through which SCP-9001-A comes to infect a new system is currently unknown, as early observations have ruled out direct contact as a strict prerequisite. It is possible that transmission occurs through metaphysical, conceptual, or associative means. Research conclusions are not yet definitive due to the rapidly evolving situation.
 
+初期の観測において、直接接触が厳密に必須条件ではないと判断されたため、SCP-9001-Aが新たなシステムに感染する手段は現在のところ不明です。伝播は形而上学的、概念的、あるいは連想的な手段を介して発生する可能性があります。状況が急速に変化しているため、当該オブジェクトに対する研究において、最終的な結論は示されていません。
+
 SCP-9001-A came to the attention of the wider Foundation following the first-hand experience of Special Operative Saunders.
 
+SCP-9001-Aは、特別工作員ソーンダースによる遭遇を経て、財団全体の注意を引くこととなりました。
+
 **Discovery:** Special Operative Saunders was deployed to investigate the state of affairs following loss of contact with Dr. Berryman's team. S.O. Saunders was chosen due both to her immediate locality[[footnote]]S.O. Saunders had been embedded within the police force of the town of Willow Falls, located 10km south of Site Romero-5. She had been tasked with the investigation of a rash of missing-persons cases that had occurred over a 10-month period.[[/footnote]] and personnel CRV rating that would allow her to bypass protective cognitohazards embedded into signs posted along the sole access road.
+
+**発見:** 特別工作員ソーンダースは、ベリーマン博士のチームとの連絡途絶を受け、事態の調査のために派遣されました。ソーンダース特別工作員が選抜されたのは、彼女が地理的に近接していたこと[[footnote]]ソーンダース特別工作員は、サイト・ロメロ-5の南10kmに位置するウィロー・フォールズの町の警察に潜入していました。彼女は、10ヶ月間にわたって発生していた連続失踪事件の調査を任務としていました。[[/footnote]]、そして当該地域に唯一アクセス可能な道路沿いにおける標識に埋め込まれた防護認識災害を迂回できるだけの認知抵抗値（CRV）を有していたこと、その双方によります。
 
 -----
 
 [[div class="blockquote"]]
 
-= {{**VIDEO LOG**}}
+= {{**映像ログ**}}
 
 ----
 
 The video opens, askew, from the perspective of the passenger seat looking up at S.O. Saunders, driving with a nondescript expression. A flurry of trees can be seen beyond the driver's side window. As the vehicle shifts around a bend, bright specks of orange daylight play across the vehicle's interior, prompting Saunders to swing the visor down. A look of confusion crosses her face.
 
+やや斜めになっている画面には、特務工作員ソーンダースが映し出されている。彼女は仏頂面を浮かべながらハンドルを握っていた。鬱蒼とした木々が、さながら一個の塊のようになって窓の外を流れてゆく。その枝葉の隙間から夕陽の光が漏れ、車内をまだらな橙色に染め上げていた。ソーンダースはサンバイザーを下ろした。彼女の顔に、困惑の色が浮かぶ。
+
 Saunders hails Command, asking to double-check her positioning to confirm she's on the correct path. It is verified that she is. Rolling her eyes, Saunders implies incompetence on Command's part, owing to the fact that the access road was purported to be a direct line, whereas her current path is taking her down a long road with a subtle curve.
+
+彼女は司令部を呼び出し、自身がいるべき場所にいて、正しい道を走っているかの確認を要請した。この進入路はまっすぐな道のはずだった。だが、違う。いま、彼女は微妙なカーブが続く、長い道を走っている。やがて正しい、との返答を得ると、ソーンダースはやれやれと言わんばかりに目を顰めた。司令部の手際の悪さは今に始まったことではない、とでも言いたげな態度であった。
 
 Command notes the discrepancy. Saunders is asked to relay any peculiarities regarding her surroundings, but only notes that the road itself is in disrepair, with overgrown foliage and weeds encroaching on either side of the blacktop. It is as she's explaining this to Command that she trails off, leaning forward with a confused expression.
 
+司令部も、その不一致を記録する。そして彼女に対して、周囲の異変についての報告を求めた。道が荒れ果て、アスファルトの両脇から野放図に草木が伸びている。それ以外、特筆すべきことはない。そう言い終わらないうちに、彼女は口篭って、訝しげな表情を浮かべながら身を乗り出した。
+
 The flurry of trees begins to slow until the vehicle comes to a complete stop. Saunders flashes a quick glance towards the camera and shifts into park. There is a momentary jostling of the camera's field of vision as Saunders places her helmet on and exits the vehicle.
+
+流れゆく木々の速度が緩やかに落ちてゆき、やがて車が止まる。ソーンダースはカメラに軽く一瞥をくれると、ギアをパーキングに入れた。映像がわずかに揺れる。彼女はヘルメットを装着し、車の外に出た。
 
 From her perspective, it can be seen that thick, gnarled root systems of surrounding trees have fully disrupted the roadway, causing it to fracture and splinter, with one nearby root growing around and dislodging a deer-crossing sign. It appears as if the road had not been used in decades.
 
+そこは、まるで何十年も放置されていた廃道のようだった。アスファルトは粉々に砕け、道路は裂けてしまっている。周りの木々から伸びている、太く節くれた根が舗装を完全に破壊していた。あるいは鹿横断注意の標識に絡みつき、その支柱すら引き抜いてしまっている。
+
 After brief deliberation, it is decided Saunders should continue on foot. She leans into the vehicle to retrieve her keys from the ignition, and closes the door behind her.
+
+多少の議論のすえ、ソーンダースは徒歩で進むこととなった。
 
 Without the rumble of the engine, the near-silence of the surrounding wilderness comes into focus. There is no birdsong, nor chirping of insects. There is only a quiet creaking from an unknown source, likened by Saunders to that of old wooden floorboards. She sets off, stepping over the obstructing roots as she progresses.
 

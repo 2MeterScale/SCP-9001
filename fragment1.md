@@ -405,7 +405,7 @@ body { overflow-x: hidden }
 [[>]]
 [[module Rate]]
 [[div_]]
-[[size small]]Page 1 of 2[[/size]]
+[[size small]]ページ1/2[[/size]]
 [[/div]]
 [[/>]]
 
