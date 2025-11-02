@@ -419,7 +419,7 @@ I'd like to thank you all for your attendance. I understand your time is preciou
 
 So! Consider the cognitohazard agent as traditionally employed by the Foundation to protect both its documents and its facilities. How exactly is it that they work? Next slide.
 
-　と、いうことで！　これまでわれわれ財団は、われわれの記録や施設を守るために認識災害エージェントを運用してきました。では、その仕組みについてはご存知でしょうか？　次のスライドどうぞ。
+　と、いうことで！　これまでわれわれ財団は、記録や施設を守るために認識災害エージェントを運用してきました。では、その仕組みについてはご存知でしょうか？　次のスライドどうぞ。
 
 In terms of visual cognitohazards, it's not as simple as targeting the lateral geniculate nucleus, nor is merely a matter of V2 processing that renders the agent effective. It's many things in conjunction: The brain's phonological and sematic cortexes performing simeosis, the temporal lobe deriving meaning from the image, the mind's processes of recall and memory retrieval working to interpret what the eye is seeing -- it's in exploiting this complex dialogue between regions of the brain where we've historically found success. Next slide.
 
@@ -427,7 +427,7 @@ In terms of visual cognitohazards, it's not as simple as targeting the lateral g
 
 Though there's been good work done over the years, insofar that we have agents that can influence behavior, render viewers unconscious, or outright induce a grand mal seizure, visual cognitohazards have their limits.
 
-　長年の素晴らしい研究の結果、われわれは視覚を通じて様々な認識災害を起こすことができます。行動に影響を及ぼしたり、失神させたり、あるいは問答無用の大発作を引き起こしたり。どれも大変結構です。が、従来の視覚的認識災害にはやはり限界があります。
+　長年の素晴らしい研究の結果、われわれは様々な機能を持つ認識災害エージェントを開発してきました。行動に影響を及ぼしたり、失神させたり、あるいは問答無用の大発作を引き起こしたり。どれも大変結構です。が、従来の視覚的認識災害にはやはり限界があります。
 
 By a show of hands, are any of you familiar with Sumerian cuneiform?
 
@@ -447,7 +447,7 @@ Haha! Bit of a jumpscare for some of you, huh? You must be read-in to the SCP th
 
 Yes? Ah! No, don't worry -- if that were the case, it'd be an infohazard. Don't worry about intentionally picturing it in one's mind's eye; imagination is merely simulation, and an imperfect one at that. You'd need to directly visually process it in totality for it to be effective. **That** is our limitation.
 
-　はい？　いいえ、ご心配なさらず。もしそれがそうであるとしたら、これは情報災害です。もし元の画像を心の中で描いてしまったとしても、大丈夫です。想像とは模擬にすぎません。それゆえに不完全なのです。この効果を発揮するためには、直に視認しなければならないのです。これこそが、われわれの限界です。
+　はい？　いいえ、ご心配なさらず。どちらかといえば、これは情報災害です。もし元の画像を心の中で描いてしまったとしても、大丈夫です。想像とは模擬にすぎません。それゆえに不完全なのです。この効果を発揮するためには、直に視認しなければならないのです。これこそが、われわれの限界です。
 
 Even in cases where text does not contribute to the presentation of the cognitohazard, one still has to account for identity, for culture. This is all to say: perception is inherently subjective, and thus there is no //objective// means through which to effectively convey a cognitohazard.
 
@@ -467,11 +467,11 @@ Everyone, please! Please! It's alright. Director? Director, please, calm down. L
 
 What you just saw was a visualization from a fractal mathematical set, an image that instills in its viewers a mild sense of dizziness. I understand this in itself is not impressive, but what is notable is its versatility. This image achieves a 100% efficacy rate amongst human volunteers, vastly outperforming the previous 61% record. It has even expressed its effects to some degree in animal testing. This is the real deal.
 
-　たった今皆さまがご覧になったのは、数学におけるフラクタル集合を視覚化したものです。これを視認した者は、少し目眩のような感覚を覚えるはずです。この効果自体は、大したものではありません。真に特筆すべきは、万能性です。人間の志願者に対して、この画像が100%の有効性を示しました。これまでの最高記録記録であった61%など、もはや比較にもなりません。動物に対する試験においてさえも、一定の効果を示しています。どうですか。モノが違うでしょう。
+　たった今皆さまがご覧になったのは、数学におけるフラクタル集合を視覚化したものです。これを視認した者は、少し目眩のような感覚を覚えるはずです。この効果自体は、大したものではありません。真に特筆すべきは、万能性です。人間の志願者に対して、この画像が100%の有効性を示しました。これまでの最高記録であった61%など、もはや比較にもなりません。動物に対する試験においてさえも、一定の効果を示しています。どうですか。モノが違うでしょう。
 
 Future memeticists need not be concerned with trivialities such as //'context'// and //'culture'// -- mathematics is absolute. Think of it: fractals are a universal component of nature, underpinning reality itself! From the infinitesimal expression of bacterial proteins to the macroscopic ordered chaos of the universe itself, it all comes down to the complex interplay of numbers and figures; the interdimensionality of fractal systems. The language of the universe.
 
-　未来のミーム学者は、もはや「文脈」や「文化」などという些事に囚われる必要はないのです。数学こそが絶対です。考えてもみてください。フラクタルは、自然の普遍的構成要素です。現実そのものの基礎となっているのですよ！　細菌タンパクなどのミクロの世界から、宇宙全体の秩序ある混沌といったマクロ世界まで、全て結局は数字と図形の複雑な相互作用--　　--つまりフラクタルの多次元性であって、それこそが宇宙の言語なのです。
+　未来のミーム学者は、もはや「文脈」や「文化」などという些事に囚われる必要はないのです。数学こそが絶対です。考えてもみてください。フラクタルは、自然の普遍的構成要素です。現実そのものの基礎となっているのですよ！　細菌タンパクなどのミクロの世界から、宇宙全体の秩序ある混沌といったマクロの世界まで、全て結局は数と図形の複雑な相互作用--　　--つまりフラクタルの多次元性であって、それこそが宇宙の言語なのです。
 
 What you've seen today is much, much less than a mere tip of the iceberg. The fractal space is infinite, and we've barely begun exploring it -- and I'm looking for computer science expert collaborators to help me explore it even faster.
 
@@ -514,17 +514,17 @@ Today you have //felt// the utility of my work. We have only scraped the surface
 
 **Special Containment Procedures:** Once per quarter, Fractal Cognitohazardous Images (FCI) produced through SCP-9001 are to be forwarded via dedicated secure fiber-optic cable to Protected Site-7. All FCIs must be transmitted alongside research data describing the effects of each image. These packages are to be analyzed by second-generation [[span class="hoverlink"]][[[aiad-homescreen|AIC]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]Artificially Intelligent Conscripts[[/span]][[span class="hoverlink-text"]]Sentient digital agents developed by the Artificial Intelligence Applications Division (AIAD). AICs operate by a loose set of Standard Principles that ensures they adhere to Foundation protocol and work in the interest of the organisation at all times. [[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/aiad-homescreen/itlogo3.png/small.jpg)"]]-[[/span]][[/span]][[/span]] to corroborate their stated effects and catalogue according to their intensity.
 
-**特別収容プロトコル:** 四半期に一度、SCP-9001によって生成されたフラクタル的認識災害画像(FCI)は、各画像の効果を記述した研究データと共に、専用かつセキュアな光ファイバケーブルを通じて、プロテクション・サイト-7へ転送されます。
-これらのパッケージは、第二世代[[span class="hoverlink"]][[[aiad-homescreen|AIC]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]人工知能徴募員[[/span]][[span class="hoverlink-text"]]人工知能適用課(AIAD)によって開発された、意識をもつデジタル・エージェント。AICは、緩やかに定められた一連の「標準原則」に基づいて稼働する。この原則は、彼らが常に財団のプロトコルを遵守し、組織の利益に沿って行動することを保証するものである。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/aiad-homescreen/itlogo3.png/small.jpg)"]]-[[/span]][[/span]][[/span]]によって分析され、記述された効果を実際に確かめた後、その強度に応じてカタログ化されます。
+**特別収容プロトコル:** 四半期に1度、SCP-9001によって生成されたフラクタル的認識災害画像(FCI)は、各画像の効果を記述した研究データと共に、専用かつセキュアな光ファイバケーブルを通じて、保護サイト-7へ転送されます。
+これらのパッケージは、第2世代[[span class="hoverlink"]][[[aiad-homescreen|AIC]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]人工知能徴募員[[/span]][[span class="hoverlink-text"]]人工知能適用課(AIAD)によって開発された、意識をもつデジタル・エージェント。AICは、緩やかに定められた一連の「標準原則」に基づいて稼働する。この原則は、彼らが常に財団のプロトコルを遵守し、組織の利益に沿って行動することを保証するものである。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/aiad-homescreen/itlogo3.png/small.jpg)"]]-[[/span]][[/span]][[/span]]によって分析され、記述された効果を実際に確かめた後、その強度に応じてカタログ化されます。
 
 Catalogued FCIs and their innoculants, if any, are to be individually contained on isolated external hard drives in Protected Site-7's Secure Data Storage. Third-Order and Second-Order FCIs may be requisitioned by personnel with Level 3 clearance for research, testing, field use, and D-Class procurement.
 
-カタログされたFCI、およびそれに対する免疫となる画像は、プロテクション・サイト-7のセキュアなデータ・ストレージ内の、隔離された外付けハードドライブに保管されます。
-第三級及び第二級FCIは、レベル3以上のクリアランスを持つ職員による請求のもと、研究、実験、実地使用、及びDクラス職員の調達を目的として利用されます。。
+カタログされたFCI、およびそれに対する免疫となる画像は、保護サイト-7のセキュアなデータ・ストレージ内の、隔離された外付けハードドライブに保管されます。
+第三級及び第二級FCIは、レベル3以上のクリアランスを持つ職員による請求のもと、研究、実験、実地使用、及びDクラス職員の調達を目的として利用されます。
 
 First Order FCIs require Level 5 clearance with additional authorization from no fewer than three signatories, including the director of RAISA and at least two members of the O5 Council. All personnel read-in to SCP files and Top Secret documents protected by First Order FCI are to be given access to the necessary innoculants. FCIs are not to be handled by any personnel with a CRV[[footnote]] "Cognitive Resistance Value" - The metric which determines one's ability to withstand exposure to mind-altering sensory effects.[[/footnote]] rating of less than 9.5.
 
-第一級FCIの利用には、レベル5クリアランスに加え、RAISA長官及び2名以上のO5評議会メンバを含む、三名以上の署名による追加の認可を必要とします。第一級FCIによって保護されているSCPファイル及び最高機密文書へのアクセス権を持つすべての職員に対して、必要な防疫措置が提供されます。
+第一級FCIの利用には、レベル5クリアランスに加え、RAISA長官及び2名以上のO5評議会メンバーを含む、3名以上の署名による追加の認可を必要とします。第一級FCIによって保護されているSCPファイル及び最高機密文書へのアクセス権を持つすべての職員に対して、必要な防疫措置が提供されます。
 また、CRV[[footnote]]「認知抵抗値」--　　--精神に変容をきたす効果への暴露に対し、個々人が持つ耐性を測定するための指標。[[/footnote]]が9.5以下の職員は、FCIを扱うことが禁じられています。
 
 To prevent unauthorized viewing, distribution, or theft, FCIs are to be stored with quantum-proof encryption (currently AES-256) viewable only through a dedicated file-embedded module or standalone window application. Each encrypted FCI is to be uniquely keyed (currently with NIST FIPS 203, ML-KEM-1024) to be viewable only in its corresponding per-file embed or per-user window. The modules and windows employ protections against copy-pasting, screenshotting, and other capture methods. Analog printing or reproduction of FCI requires approval from the O5 Council, registration, and tracking.
@@ -579,7 +579,7 @@ SCP-9001の失活領域の実例。この領域は異常な効果を示さない
 * Fatal [First Order]:
  * Imagery which triggers intracranial aneurysms leading to immediate death.
 
-**説明:** SCP-9001は、ベリーマン=ラングフォード集合です。これは数学的に健全かつ比較的単純なアルゴリズムでありながら、視覚的な認識災害をもたらす能力を持ちます。コンピュータを用いて描画されたとき、SCP-9001はマンデルブロ集合に類似した自己相似図形を示します。
+**説明:** SCP-9001は、ベリーマン=ラングフォード集合です。これは数学的に健全かつ比較的単純でありながら、視覚的な認識災害を生成することが可能なアルゴリズムです。コンピュータを用いて描画されたとき、SCP-9001はマンデルブロ集合に類似した自己相似図形を示します。
 SCP-9001の異常性は、その描画の中に含まれる、種々の異常な効果を示す無数の点や静止画において発現します。以下に、その異常な効果の例を挙げます。
 
 * 識閾下 [第三級]
@@ -606,7 +606,7 @@ In more detailed terms, the human visual system can be expressed as the abstract
 
 Beyond the intricate geometric patterns found within visual depictions of typical fractal sets (including swirls, intersecting lines, and self-similar shapes), FCIs derived from the Berryman-Langford set have multiple points that form markers and superstructures visually implying the presence of biological features (such as tendrils, feathers, scales and faces) despite the mathematical purity of the generation procedure. The implications of this remain unknown, but the prevailing theory is that this can be accounted for as simple pareidolia.
 
-一般的なフラクタル集合の視覚的描写に含まれる複雑な幾何学的パターン(渦巻、交差線、自己相似図形など)に加え、数学的に純粋な手段によって生成されているにも関わらず、ベリーマン=ラングフォード集合から派生したFCIには、生物学的な特徴(触手、羽毛、鱗、顔など)の存在を視覚的に示唆するマーカーや上位構造を形成する、複数の「点」が存在します。
+一般的なフラクタル集合の視覚的描写に含まれる複雑な幾何学的パターン(渦巻、交差線、自己相似図形など)に加え、数学的に純粋な手段によって生成されているにもかかわらず、ベリーマン=ラングフォード集合から派生したFCIには、生物学的な特徴(触手、羽毛、鱗、顔など)の存在を視覚的に示唆するマーカーや上位構造を形成する、複数の「点」が存在します。
 詳細な原因は不明なものの、最も有力な仮説において、この現象は単純なパレイドリアによるものであるとされています。
 
 While SCP-9001 was adopted with a focus on human subjects, FCIs have produced results with non-human animals. Third and Second Order FCIs show less utility due to simpler brain function, but First Order FCIs have proven efficacy in all primates and most mammals, as well as many species of arachnids.
@@ -835,11 +835,11 @@ z_{n+1}=z_n^2+c
 
 **Dr. Berryman:** Are you familiar with MKULTRA?
 
-**ベリーマン博士:** じゃあMKULTRAって知ってる？
+**ベリーマン博士:** じゃあMKウルトラって知ってる？
 
 **Dr. Langford:** The American CIA project where they gave a bunch of people hallucinogenic drugs?
 
-**ラングフォード博士:** 米国中央情報局の、多数の人に幻覚剤を投与したプロジェクトですよね？
+**ラングフォード博士:** アメリカCIAの、多数の人に幻覚剤を投与したプロジェクトですよね？
 
 **Dr. Berryman:** It was a joint effort with the Foundation Special Projects Division, run by the current O5-8. LSD, DMT, mushrooms.
 
@@ -875,7 +875,7 @@ z_{n+1}=z_n^2+c
 
 **Dr. Langford:** Stop, stop, hold on a second. You're telling me you looked at everything done in MKULTRA, and your decision was to… //continue// that research?
 
-**ラングフォード博士:** ちょっと、ちょっと。ちょっと待ってください。つまりあなたは、MKULTRAが何をやったかを全部知った上で、それを……その研究を受け継ぐことを決めたのですか？
+**ラングフォード博士:** ちょっと、ちょっと。ちょっと待ってください。つまりあなたは、MKウルトラが何をやったかを全部知った上で、それを……その研究を受け継ぐことを決めたのですか？
 
 **Dr. Berryman:** No, no, don't think of it like that. It's standard procedure across the Foundation, after all. I've read the Project CIRCE files and Protocol 10-Kempelen. Even you use D-class to confirm cognitohazards for training data. Why do //you// do it?
 
@@ -887,7 +887,7 @@ z_{n+1}=z_n^2+c
 
 **Dr. Berryman:** But approve they did, Dr. Langford.
 
-**ベリーマン博士:** でも承認されてるわ、ラングフォード。
+**ベリーマン博士:** でも承認されてるわ、ラングフォード博士。
 
 //Dr. Langford falls silent.//
 
@@ -961,7 +961,7 @@ z_{n+1}=z_n^2+c
 
 Shortly after meeting with Dr. Berryman, Dr. Langford voluntarily transferred from Project CIRCE to Project HYDRA, and relocated from Site-15 to Memetics Research Site Romero-5 within a week. Dr. Langford would quickly prove to be a crucial hire for Project HYDRA.
 
-ベリーマン博士との面談の直後、ラングフォード博士は自らの意志でCIRCE計画からHYDRA計画へ移動し、また一週間以内にサイト-15からミーム学研究サイト・ロメロ-5へと拠点を移した。彼はまもなく、彼自身がHYDRA計画にとって極めて重要な人材であることを証明することとなる。
+ベリーマン博士との面談の直後、ラングフォード博士は自らの意志でCIRCE計画からHYDRA計画へ移動し、また1週間以内にサイト-15からミーム学研究サイト・ロメロ-5へと拠点を移した。彼はまもなく、彼自身がHYDRA計画にとって極めて重要な人材であることを証明することとなる。
 
 -----
 
@@ -1078,7 +1078,7 @@ Under Site Director Hughes' direction, the cognitohazard production process was 
 
 In the interests of investing in that process' efficiency, O5-8 subsequently ordered the unification of Project CIRCE and several related projects, to consolidate all Foundation research into cognitohazard detection. The resulting project would eventually be named Project MEDUSA, and its goal would be to provide a single source of automated, scalable cognitohazard detection.
 
-研究の効率性を向上させる試みの一環として、O5-8はCIRCE計画と、それに関連する複数のプロジェクトの統合を命じた。結局、認識災害検出に関する財団の研究はすべて統合されることとなった。この統合プロジェクトは、MEDUSA計画と名付けられた。本プロジェクトにおいては、自動化された、かつ拡張可能な認識災害検出の単つソースを提供することが目標とされた。
+研究の効率性を向上させる試みの一環として、O5-8はCIRCE計画と、それに関連する複数のプロジェクトの統合を命じた。結局、認識災害検出に関する財団の研究はすべて統合されることとなった。この統合プロジェクトは、MEDUSA計画と名付けられた。本プロジェクトにおいては、自動化された、かつ拡張可能な認識災害検出のための単一なソースを提供することが目標とされた。
 
 Additionally, O5-8 ordered Dr. Berryman to experiment with reproducing Procedure 10-Kempelen locally at Site Romero-5, to reduce the project's dependency on Site-15 and on D-Class. Dr. Berryman was loaned several researchers from the main project for this purpose. The duration of this experiment and its outcome, if any, are not on record.
 
@@ -1178,7 +1178,7 @@ The production of inoculant imagery is intended to confer immunity to one specif
 
 Although Dr. Langford had not yet derived the underlying equations, improving computational technologies were beginning to accelerate the pace of development. At this time, Site Romero-5 was producing up to 4 FCIs per week, though after curation, only an average of 2 per month were considered potentially useful to the Foundation.
 
-この時点において、ラングフォード博士はFCIを生成するための方程式を導出していない。他方で、計算機技術の進歩により、開発の速度が加速しつつあった。当時、サイト・ロメロ-5は一週間あたりに4つのFCIを生成していたものの、選別のすえに財団にとって有用とみなされたものは、平均して2つほどであった。
+この時点において、ラングフォード博士はFCIを生成するための方程式を導出していない。他方で、計算機技術の進歩により、開発の速度が加速しつつあった。当時、サイト・ロメロ-5は1週間あたりに4つのFCIを生成していたものの、選別のすえに財団にとって有用とみなされたものは、平均して2つほどであった。
  _
 
 [[div class="samples"]]
@@ -1201,7 +1201,7 @@ Although Dr. Langford had not yet derived the underlying equations, improving co
 [[div class="samples__desc"]]
 Thin filament structured in Lichtenberg pattern. Viewer becomes acutely aware of their breathing patterns for a short period.
 
-リヒテンベルグ図形を形作る細糸。視認した者は、自身の呼吸パターンを短時間にわたり強く意識するようになる。
+リヒテンベルク図形を形作る細糸。視認した者は、自身の呼吸パターンを短時間にわたり強く意識するようになる。
 
 [[/div]]
 
@@ -1223,7 +1223,7 @@ Serpentine swirl in blue tones and receding into two separate points. Induces mi
 
 This unit posits this may be useful for internal use in increasing productivity.
 
-青色の、蛇のような渦巻きが、二つの点へ収束している。視認した者に対し、その者が意図的に無視するようにしていた、直近の予定やタスクについて、軽い不安感を抱かせる。
+青色の、蛇のような渦巻きが、2つの点へ収束している。視認した者に対し、その者が意図的に無視するようにしていた、直近の予定やタスクについて、軽い不安感を抱かせる。
 
 本ユニットは、生産性を向上させるために、この画像を財団内部で利用することが有効であると推定する。
 
@@ -1241,7 +1241,7 @@ On 2008-07-05, the 10-Kempelen facility at Site-15 reported that Site Romero-5 h
 
 Procedure 10-Kempelen attempts to assess the efficacy of the cognitohazard through exposure to multiple test subjects. 15 D-Class personnel were made to observe the FCI, all of whom were found to be susceptible before Site-15 staff terminated the test prematurely. For reference, the efficacy of the average CCI is 45% and of the at-the-time most effective CCI was 71%. The researcher responsible for the production of the FCI chose to remain anonymous.
 
-手順10-ケンペレンは、複数の被験者への曝露を通じて、認識災害の有効性を評価する者である。15名のDクラス職員がFCIを視認し、全員が影響を受けたことが確認された。なお、本試験はサイト-15のスタッフにより中断された。なお、平均的な文化的認識災害の有効性は45%であり、当時最も効果的なものでも71%であった。このFCIの生成を担当した研究者は、匿名を希望した。
+手順10-ケンペレンは、複数の被験者への曝露を通じて、認識災害の有効性を評価するものである。15名のDクラス職員がFCIを視認し、全員が影響を受けたことが確認された。なお、本試験はサイト-15のスタッフにより中断された。なお、平均的な文化的認識災害の有効性は45%であり、当時最も効果的なものでも71%であった。このFCIの生成を担当した研究者は、匿名を希望した。
 
 The First Order FCI and its inoculants were submitted to Site-19, and on 2008-07-26, Lieutenant Masipag actioned the first-ever deployment of a universally-cognitohazardous kill agent to secure the SCP-001 file.
 
@@ -1339,7 +1339,7 @@ Through the Berryman-Langford set, the rate of generated output having cognitoha
 
 However, Site-15 would not address Dr. Berryman's requests for improvement. Within a month, an official complaint was issued to Site Romero-5.
 
-しかし、サイト-15がベリーマン博士の改善要求に応じることはなかった。一ヶ月も経たないうちに、サイト-15よりサイト・ロメロ-5に対して正式な苦情が申し立てられた。
+しかし、サイト-15がベリーマン博士の改善要求に応じることはなかった。1ヶ月も経たないうちに、サイト-15よりサイト・ロメロ-5に対して正式な苦情が申し立てられた。
 
 [[div class="forum"]]
 
@@ -1361,11 +1361,11 @@ Your team has flooded us with cognitohazard classification requests. Our testing
 
 You are not the only Site that relies on us. Nearly all cognitohazard classification goes through Site-15. Our backlog is becoming unmanageable. We are hugely investing in our computational detection processes through Project MEDUSA but I do not have the resources I need to scale up our Procedure 10-Kempelen operations to the levels that you are asking for. There are not enough D-Class.
 
-我々を頼りにしているのは、君たちのサイトだけではありません。サイト-15は、ほぼ全ての認識災害分類を一手に受けているのです。未処理案件は、もはや手に負えないレベルrまで溜まっています。こちらとてMEDUSA計画を通じて計算論的検出プロセスに莫大な投資はしていますが、君たちが要求する程度まで手順10-ケンペレンの運用規模を拡大させるためのリソースは、私にはありません。Dクラス職員が足りていないのです。
+我々を頼りにしているのは、君たちのサイトだけではありません。サイト-15は、ほぼ全ての認識災害分類を一手に受けているのです。未処理案件は、もはや手に負えないレベルまで溜まっています。こちらとてMEDUSA計画を通じて計算論的検出プロセスに莫大な投資はしていますが、君たちが要求する程度まで手順10-ケンペレンの運用規模を拡大させるためのリソースは、私にはありません。Dクラス職員が足りていないのです。
 
 I have enough issues to deal with as it is. The Site Director has authorized me to block all classification requests from your team if I need to. I understand the importance of your work and I have no desire to do that.
 
-これだけでもう手一杯です。にもかかわらず、サイト管理官からは、必要とあらば君のチームからの分類依頼を全てブロックする権限も与えられています。君たちの仕事の重要性は理解していますし、私とてそんなことはしたくありません。
+これだけでもう手一杯です。また、サイト管理官からは、必要とあらば君のチームからの分類依頼を全てブロックする権限も与えられています。君たちの仕事の重要性は理解していますし、私とてそんなことはしたくありません。
 
 But, please, slow down.
 
@@ -1377,7 +1377,7 @@ But, please, slow down.
 
 Site Director Hughes elected to sustain the request from Site-15. After negotiating with Director Vuković, she placed a limit on the number of potential FCIs that could be submitted to Site-15 per day.
 
-ヒュース管理官はサイト-15からの要請を受け入れることにした。ヴコヴィッチ理事との交渉の末、彼女はサイト-15へ一日あたりに提出できる潜在的FCIの数に上限を設けた。
+ヒュース管理官はサイト-15からの要請を受け入れることにした。ヴコヴィッチ理事との交渉の末、彼女はサイト-15へ1日あたりに提出できる潜在的FCIの数に上限を設けた。
 
 With Project HYDRA's progress now externally bottlenecked, the headcount at Site Romero-5 was reduced from 55 to 19. Many of the displaced staff transferred to Site-15 to assist efforts to expand detection capacity at Project MEDUSA. Permission was granted to Dr. Berryman for access to any Foundation resource as required to complete her research project.
 
@@ -1439,7 +1439,7 @@ I've seen some of the cognitohazards your team is producing since that change (n
 
 Please interpret my asking as nothing more than grateful curiosity. The resources that can now be diverted from the operation will have cumulative benefits everywhere. The Department of Analytics director has advised me not to be questioning a good thing in the first place.
 
-私個人としては、大変感謝しております。ですからこのご提案は、私の純粋な好奇心から来ているものとお思いください。この検証作業から解放された我々のリソースは、今後あらゆる場所に累積的な利益をもたらすでしょう。もっとも、解析部門の理事からは、そもそもこんないいことに疑問を呈するなと助言されてはいるのですが。
+私個人としては、大変感謝しております。ですからこのご提案は、私の純粋な好奇心から来ているものとお思いください。この検証作業から解放された我々のリソースは、今後あらゆる場所に累積的な利益をもたらすでしょう。もっとも、解析部門の管理官からは、そもそもこんないいことに疑問を呈するなと助言されてはいるのですが。
 
 [[/div]]
 [[/div]] [!-- .forum-post --]
@@ -1471,13 +1471,13 @@ I am not at liberty to say more.
 
 Dr. Langford did not comment on the process improvements initially, but a week later, he announced his full support.
 
-当初、ラングフォード博士はこの改善についてコメントを残さなかったが、一週間後に全面的な支持を表明した。
+当初、ラングフォード博士はこの改善についてコメントを残さなかったが、1週間後に全面的な支持を表明した。
 
 ----
 
 With the MEDUSA service being able to validate any amount of cognitohazards as needed, Site Romero-5 being able to classify all FCIs itself to a satisfactory level, and the solved Berryman-Langford set allowing for unabated FCI generation, Project HYDRA was officially complete. O5-8 briefly visited to congratulate the team.
 
-MEDUSAサービスが必要に応じて際限なく認識災害を金性し、サイト・ロメロ-5が全てのFCIを満足のいくレベルで分類できるようになった。そして、解明されたベリーマン=ラングフォード集合がFCIの絶え間ない生成を可能にしたことで、HYDRA計画は正式に完了した。O5-8がチームを祝福するため、短期間の視察に訪れた。
+MEDUSAサービスが必要に応じて際限なく認識災害検証し、サイト・ロメロ-5が全てのFCIを満足のいくレベルで分類できるようになった。そして、解明されたベリーマン=ラングフォード集合がFCIの絶え間ない生成を可能にしたことで、HYDRA計画は正式に完了した。O5-8がチームを祝福するため、短期間の視察に訪れた。
 
 Most Site Romero-5 staff, including Director Hughes, Dr. Berryman, and Dr. Langford, remained on-site to oversee continued cognitohazard production.
 
@@ -1528,7 +1528,7 @@ Greyscale snailshell spiral receding into a single point in the center-left. Min
 [[div class="samples__desc"]]
 Many colorful whorls bordering the edge of a dark region, from which emerges many strands of Lichtenberg filament. Viewer becomes skeptical of recently-learned information.
 
-多数のカラフルな渦巻きが、暗い領域を縁取っている。その領域の中から、リヒテンベルグ図形をとる細糸が伸びている。視認した者は、以前学習した情報について懐疑的になる。
+多数のカラフルな渦巻きが、暗い領域を縁取っている。その領域の中から、リヒテンベルク図形をとる細糸が伸びている。視認した者は、以前学習した情報について懐疑的になる。
 
 This unit has pored over accompanying research data and has come to the conclusion that the effect is too minute to be effective in the field.
 
@@ -1807,7 +1807,7 @@ The assessment will be offered to various Sites with high numbers of reality ben
 
 I have compiled a set of 38 cognitohazards into a publication, the Reality Bending Aptitude Assessment (RBAA), and it is currently in print at the Foundation Press.
 
-『現実改変の強度評価(The Reality Bending Aptitude Assessment: RBAA)』内において、38の認識災害を公開した。これはファウンデーション・プレスにて取得可能である。
+『現実改変の強度評価(The Reality Bending Aptitude Assessment: RBAA)』内において、38の認識災害を公開した。この書籍は財団出版局より入手可能である。
 
 [[include :scp-wiki:component:image-block
 | name=https://scp-wiki.wikidot.com/local--files/scp-9001/berrymans-tests-for-reality-bending-aptitude-2019-hardcover.webp
@@ -1824,11 +1824,11 @@ RBAAのコピーは、サイト-87、サイト-91、サイト-118、サイト-40
 
 My initial batch of requests remains unanswered. I have decided to reach out to [[span class="hoverlink"]][[[secure-facility-dossier-site-120|Site-120]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]Site-120[[/span]][[span class="hoverlink-text"]]Foundation headquarters in Poland. Containment and research facility that embraces usage of thaumaturgy and the anomalous, including within its staff.[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/secure-facility-dossier-site-120/medium.jpg/small.jpg)"]]-[[/span]][[/span]][[/span]] earlier than planned. Site-120 is home to the Department of Ontokinetics and the single largest employer of reality benders in the Foundation. If they agree to my request, I believe it would be sufficient to start a snowball for the RBAA to get a foothold and spread across the Foundation.
 
-私の最初の一連の要請に対して、未だ返答はない。予定よりも早く、[[span class="hoverlink"]][[[secure-facility-dossier-site-120|サイト-120]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]サイト-120[[/span]][[span class="hoverlink-text"]]ポーランドにある財団サイト。魔術及び異常性の使用を受け入れる収容及び研究施設。スタッフに異常性保持者を含む。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/secure-facility-dossier-site-120/medium.jpg/small.jpg)"]]-[[/span]][[/span]][[/span]]に連絡を取ることにした。サイト-120は存在力学部門の本拠地であり、財団内で最大の現実改変者雇用者である。もし彼らが私の要請に同意すれば、RBAAが足場を築き、財団全体に広がるための雪玉効果を生み出すのに十分であると考えている。
+私の最初の一連の要請に対して、未だ返答はない。予定よりも早く、[[span class="hoverlink"]][[[secure-facility-dossier-site-120|サイト-120]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]サイト-120[[/span]][[span class="hoverlink-text"]]ポーランドにある財団サイト奇跡術及び異常性の使用を受け入れる収容及び研究施設。スタッフに異常性保持者を含む。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/secure-facility-dossier-site-120/medium.jpg/small.jpg)"]]-[[/span]][[/span]][[/span]]に連絡を取ることにした。サイト-120は存在力学部門の本拠地であり、財団内で現実改変者の雇用数が最多の施設である。もし彼らが私の要請に同意すれば、RBAAが足場を築き、財団全体に広がるための雪玉効果を生み出すのに十分であると考えている。
 
 **更新: 2015年02月14日**
 
-サイト-120が返信した。
+サイト-120より返信があった。
 
 [[div class="blockquote"]]
 Dr. Berryman
@@ -2021,7 +2021,7 @@ Ava, please accept my apologies. I keep getting wrapped up in the work and get a
 
 In the months that followed, Site Romero-5 would issue O5-backed orders to other Sites, requesting computer tomography scans of their on-staff reality benders.
 
-その後数ヶ月の間に、サイト・ロメロ-5はO5の支持を受け、他のサイトへ対し、職員として在籍する現実改変者のCTスキャンを要請する命令を発した。
+その後数ヶ月の間に、サイト・ロメロ-5はO5の支持を受け、他のサイトに対し、職員として在籍する現実改変者のCTスキャンを要請する命令を発した。
 
 -----
 
@@ -2029,7 +2029,7 @@ In the months that followed, Site Romero-5 would issue O5-backed orders to other
 
 Dr. Langford travelled to Site-15 and presented the second annual Project NIETZSCHE Schedule Alignment Meeting, with O5-8, Site Director Hughes, Project MEDUSA Director Vuković and several others in attendance. This time, at O5-8's request, the presentation was broadcast live across the Foundation, and 45 viewers tuned in remotely.
 
-ラングフォード博士はサイト-15へ赴き、第二回目となるNIETZSCHE計画の年次進捗調整会議に臨んだ。会議にはO5-8、サイト管理官ヒュース、MEDUSA計画理事であるヴコヴィッチ博士、その他数名が出席した。今回、O5-8の要請により、報告会の様子は財団全域に生中継され、45名が遠隔からこれを視聴した。
+ラングフォード博士はサイト-15へ赴き、第2回目となるNIETZSCHE計画の年次進捗調整会議に臨んだ。会議にはO5-8、サイト管理官ヒュース、MEDUSA計画理事であるヴコヴィッチ博士、その他数名が出席した。今回、O5-8の要請により、報告会の様子は財団全体に生中継され、45名が遠隔からこれを視聴した。
 
 Dr. Langford again reported substantial delays and difficulties to the project, and the principle issue remained that there was not enough data to provably determine any conclusions. Dr. Langford was keen to highlight the extent of the proof that would be required: one objective of the project was to produce a fractal cognitohazard capable of terminating any reality bender, but to prove this would mean proving beyond reasonable doubt that no reality bender cannot be terminated via the same method. This would mean the deaths of multiple reality benders, or accurate simulation, and Dr. Langford expressed that the data available was not nearly sufficient for that.
 
@@ -2087,7 +2087,7 @@ Before Dr. Berryman's return, Dr. Langford ran several experiments using the sug
 
 It would be several weeks before that was the case, and upon receipt of the message from Site-15, Dr. Langford submitted the new FCIs for testing. Of the full set, one single FCI proved to be effective on the reality bender.
 
-その通知が届いたのは、数週間後のことであった。サイト-15からの連絡を受け、ラングフォード博士は新たなFCIを実験対象に適用した。結果、全FCI群のうち、ただ一つだけがその現実改変者に対して有効であることが示された。
+その通知が届いたのは、数週間後のことであった。サイト-15からの連絡を受け、ラングフォード博士は新たなFCIを実験対象に適用した。結果、全FCI群のうち、ただ1つだけがその現実改変者に対して有効であることが示された。
 
 Dr. Langford notified Project NIETZSCHE leadership of his success and continued developing the new method, though he stressed that despite the success, provability was still the most important problem to solve, and therefore the need for reality bender biological data was still relevant.
 
@@ -2137,7 +2137,7 @@ Investigation was conducted by EC Investigator Amber H. Goldstein. On 2018-08-21
 
 Goldstein was able to interview most staff members one-on-one. The following statements from relevant parties are attached.
 
-ゴールドスタイン調査官は、ほとんどの職員と一対一での面談を行うことができた。以下に、関係者各位からの聴取内容を添付する。
+ゴールドスタイン調査官は、ほとんどの職員と1対1での面談を行うことができた。以下に、関係者各位からの聴取内容を添付する。
 
 [[div class="blockquote"]]
 **証言記録:** エイヴァ・ベリーマン主任研究員
@@ -2266,7 +2266,7 @@ The following footage was recorded during the Project NIETZSCHE Schedule Alignme
 
 //Recording starts. The projector is active and the first slide of the presentation is already visible. The camera is mounted on the far side of the room, opposite to the projection screen. On the right side of the room is a small podium holding a laptop. The room is set up for a capacity of around 20 people. All six members of the audience have already taken their seats.//
 
-記録開始。プロジェクターはすでに稼働しており、プレゼン用スライドの一枚目が表示されている。カメラはスクリーンの反対側の壁に設置されている。部屋の右側には、ノートPCの置かれた小さな演壇がある。この部屋の最大収容人数は20名ほどで、六名の聴衆は、すでに席についている。
+記録開始。プロジェクターはすでに稼働しており、プレゼン用スライドの一枚目が表示されている。カメラはスクリーンの反対側の壁に設置されている。部屋の右側には、ノートPCの置かれた小さな演壇がある。この部屋の最大収容人数は二十名ほどである。六名の聴衆はすでに席についている。
 
 //Dr. Langford is standing on the opposite side of the room, occluding some of the projection. He is holding the remote control for the presentation, passing it from hand to hand, watching the door.//
 
@@ -2663,11 +2663,11 @@ Following this announcement, communications with Site Romero-5 ceased.
 
 On 2025-08-22, Protected Site-7 received its quarterly FCI package from Site Romero-5. During routine validation of its contents, Waldor.aic broke from protocol and initiated the deletion process on all newly-received files. Through SCiPnet access, the AIC initiated the site's lockdown procedures, setting the site on High Alert.
 
-2025年8月22日、プロテクション・サイト-7はサイト・ロメロ-5より四半期ごとのFCIパッケージを受領した。その内容物の定例検証中、Waldor.aicはプロトコルから逸脱し、新たに受領した全ファイルの削除プロセスを開始した。当該AICはSCiPnetアクセスを介してサイトの封鎖手順を起動し、サイトを高度警戒態勢に移行させた。
+2025年8月22日、保護サイト-7はサイト・ロメロ-5より四半期ごとのFCIパッケージを受領した。その内容物の定例検証中、Waldor.aicはプロトコルから逸脱し、新たに受領した全ファイルの削除プロセスを開始した。当該AICはSCiPnetアクセスを介してサイトの封鎖手順を起動し、サイトを高度警戒態勢に移行させた。
 
 Following the initial turmoil and investigation, an All-Clear notice was declared and AIC Waldor was isolated from SCiPnet. Though it had purged the majority of the FCI package, a small selection remained within the database. Of those remaining, none had been marked by the AI as possessing cognitohazardous imagery and are catalogued below.
 
-初期の混乱と調査を経て安全宣言がなされ、AIC WaldorはSCiPnetから隔離された。FCIパッケージの大半は消去されたものの、ごく一部がデータベース内に残存していた。残存したファイルのうち、AIによって認識災害画像を含むとマークされたものは一つもなく、それらを以下に列挙する。
+初期の混乱と調査を経て安全宣言がなされ、AIC WaldorはSCiPnetから隔離された。FCIパッケージの大半は消去されたものの、ごく一部がデータベース内に残存していた。残存したファイルのうち、AIによって認識災害画像を含むとマークされたものは存在しない。それらは以下に列挙されている通りである。
 
 [[div class="samples" style="padding-top: 1rem;"]]
 [[div class="samples__image-heading"]]
