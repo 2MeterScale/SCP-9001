@@ -345,31 +345,55 @@ Just as suddenly as the shifts occur, they come to a standstill. Saunders shakil
 
 Saunders finally admits that the current state of affairs is beyond her ability to personally resolve. Deciding that finding a capable off-road vehicle would be preferable to heading backwards on-foot, she convenes with Command to determine the approximate location of the site's vehicle bay. She sneaks off counter-clockwise around the site, sticking close to the perimeter fence. Dark shapes within the site cross in front of the windows, and Saunders doubles her pace.
 
-もはや自分の手には負えない。ソーンダースはついに認めた。徒歩で引き返すより、オフロード車を探した方が賢明だと判断する。彼女は司令部と連絡をとり、車両格納庫の大まかな位置を確認した。フェンスに身を寄せながら、彼女は施設の外周を反時計回りに
+もはや自分の手には負えない。ソーンダースはついに認めた。徒歩で引き返すより、オフロード車を探した方が賢明だと判断する。彼女は司令部と連絡をとり、車両格納庫の大まかな位置を確認した。フェンスに身を寄せながら、彼女は施設の外周を反時計回りに、慎重な足取りで進んでいく。窓の向こうを黒い影が横切った。彼女は歩を速める。
 
 With assistance from Command, Saunders is directed to approach the contiguous structure. There is a large garage door on the face of the wall here. Saunders approaches the keypad beside the door, withdraws the lanyard she'd acquired and swipes it -- access is granted. The door begins to raise. Saunders swears loudly as its heavy, metallic rattling harshly breaks the silence of the site grounds. From somewhere out of frame there comes a deafening, protracted noise with the cadence of an air raid siren. It is distinctly human in origin; a blending of many voices that rise and fall in a cacophonous wail.
 
+司令部の誘導に従いつつ、彼女は建物の一角にたどり着く。壁面には巨大なガレージドアがあった。その脇にあるキーパッドに、先ほど回収したIDカードをかざす。アクセスが許可された。ドアが上がり始める。重い金属の動く音が静寂を無慈悲に引き裂く。ソーンダースは悪態をついた。遠くから空襲警報じみた不快な音が響く。それは間違いなく人間の声だった。無数の声が混じった、不協和音の慟哭が辺りに満ちてゆく。
+
 Saunders curses again, dipping below the door before it is fully opened. The interior of the vehicle bay is well-lit. Rows of personal vehicles line either side of the chamber. Saunders rushes past a vast majority of the fleet, composed of modern top-of-the-line models, towards an older-model Jeep near the back. Swinging into the cabin, Saunders reorients herself beneath the steering column to begin hotwiring it. The feed darkens as she works.
+
+ソーンダースは再び悪態をついた。半開きのシャッターに、自身の体を滑り込ませる。車両格納庫は明るい。そしてその両脇に個人用車両がずらりと並んでいる。最新鋭の車には目もくれず、奥にあった旧式のジープへ駆ける。ソーンダースはその運転席に飛び乗った。ステアリングコラムの下で屈む。彼女は回線のショートを試みる。その作業の間、映像が暗転する。
 
 The sound of her haggard breathing is drowned out by a shrill wail, closer than the first.
 
+彼女の荒い息遣いを、甲高い叫び声がかき消した。先ほどよりも、近い。
+
 The feed alights with a spark, and there is a rumbling of the engine. Saunders excitedly shouts, quickly rights herself, and shifts into drive. She peels out of the parking space just as the door at the end of the garage bursts open -- she does not turn to see what has entered.
+
+暗い映像の中で、火花が散った。エンジンが唸り声を上げる。ソーンダースは喜びの声をあげながら、素早く体を起こし、ギアをドライブに入れる。ガレージの奥のドアが破られるのとほぼ同時に、彼女は駐車スペースから急発信した。何が入ってきたのだろうか。彼女にそれを確かめる余裕はない。
 
 Saunders navigates out of the garage and into the fog-laden site grounds. Dark, roughly-humanoid shapes can barely be made out as she speeds through towards the entry gate. As she slows to align with the access road, the vehicle is struck from the side. Glancing over her shoulder, a human arm can be seen latched onto the back of the Jeep. A second arm rises above it. A third. Each reaches farther in turn, sprouting many clasping hands that find purchase and work to pull the entity aboard.
 
+ガレージを抜け、霧に覆われた敷地へと飛び出す。新入ゲートへと向かって疾走する。その最中、霧の向こうでは人じみた名状し難い影がいくつも蠢いている。連絡道路に出るために速度を落としたその瞬間、車体が横からの衝撃を受ける。彼女は肩越しに後ろを確認した。ジープの後部に人間の腕が1本、喰らい付いている。その上から2本目、そして3本目。腕から腕が生え、そこからさらに腕が生える。無数の手が伸びては車体にしがみつき、その腕の主人を乗り込ませようと試みる。
+
 Saunders turns her focus to the road ahead as she passes the perimeter fence, brandishing her sidearm and blindly firing three shots, which elicits an inhuman shriek. She steals a glance backwards -- the creature has been dislodged. She grunts with satisfaction, turning back ahead, only to find herself rapidly approaching a massive shape in the middle of the road. Headlights fall across a furred hide a half-second before she crashes at-speed into the beast.
+
+ソーンダースは前方の道に意識を集中させた。境界のフェンスを通過する。そのさなか、彼女は前を向いたまま、腕を後ろに突き出して、サイドアームを後ろに向かって3発撃った。人ならざる金切り声が上がる。ちらと後ろを振り向く。異形は振り落とされていた。ソーンダースは安堵のため息を漏らした。前を向く。道を塞ぐ巨大な影がある。ヘッドライトが毛皮の塊を照らしたコンマ5秒後、彼女は猛スピードでその獣に衝突した。
 
 Saunders is ejected from the vehicle, striking the ground and rolling several times before coming to a stop. From her position on the ground, the bulky frame of a deer becomes visible. It struggles to bring itself to a stand on six legs. A pair of heads, each encumbered by a complex tangle of antlers, rear back and weakly bleat before the beast collapses, dead. Command calls out to Saunders, shouting her name over the mic repeatedly, but she is unresponsive.
 
+ジープから、ソーンダースが放り出される。そのまま彼女は地面に叩きつけられて、いくらか転がったあと、静止した。巨大な鹿の体が、彼女の視界を覆った。それはもがきながらも、6本の足で立ちあがろうとしている。複雑に絡み合った角を持つ、その二つの頭が点を仰ぎ、弱々しい鳴き声をあげた。その巨体は崩れ落ち、動かなくなった。息絶えたようだ。何度となく、司令部がマイク越しにソーンダースの名を呼ぶ。しかし、応答はない。
+
 After a moment, there is movement. Saunders coughs. She groans, turning herself over to lie on her back. Looking down, a sharpened end of a bone now juts from her left leg. She screams as the bone can be seen to shift, splitting along its end, forking in two directions which themselves split and grow and fork. Her pained screams are drowned out by the wailing chorus of approaching figures. Saunders desperately looks about the area -- and spots the glint of her sidearm a few meters away.
+
+ソーンダースの咳が、しばしの沈黙を破る。彼女はうめき声をあげ、仰向けとなった。視線を落とすと、左足から鋭く尖った骨が突き出しているのが見える。それが軋み、先端から二つにさけ、さらにその先が枝分かれしていく。ソーンダースは絶叫した。その悲鳴は近づいてくる者らの、合唱じみた慟哭にかき消されていく。ソーンダースは必死にあたりを見回す。数メートル先で、サイドアームが鈍く光っている。
 
 She drags herself towards it as Command attempts to reassure her as to her survival, promising that help is on the way. Saunders calls their bluff, noting that there is no chance for salvation and calling for Command to rain hellfire on the site. The wailing grows closer, each voice in itself a dozen anguished cries. Saunders grabs her weapon, rights herself up against a nearby tree, and waits.
 
+助けは向かっている、と司令部の励ましの声を背に、彼女は銃へと這っていく。それでくる助けなど気休めだ、と彼女は一蹴した。救いはない、と彼女は断じる。このサイトごと地獄の業火で焼き払ってしまえ、と彼女は叫んだ。幾重にも重なった慟哭が近づいてくる。その一つ一つすら、幾重にも重なった苦悶の叫びのように聞こえる。銃を掴んだソーンダースは、近くの木に寄りかかり、そして、待った。
+
 Humanoid figures emerge from the fog on either side of the Jeep, cast in full silhouette against its headlights. Nothing more than their incomprehensible shapes can be made out -- torsos that split into multiple trunks, too-many arms extending from a single frame -- all converge on Saunders as she raises her weapon. She places two shots into the closest figure, dropping it. The third shot misses, taking out one of the Jeep's headlights. A rapid trio of shots strike yet another entity but does not halt its advance.
+
+霧の中、ジープの両脇から影が現れる。ヘッドライトの逆光を受け、その輪郭だけが浮かび上がっていた。複数に分かれた胴体、それぞれの体から伸びる夥しい数の腕--　　--名状し難い実体が、銃を構えるソーンダースへと殺到する。彼女は最も近い実体に向けて2発撃ち、その動きを止めた。3発目は実体に命中することなく、ジープのヘッドライトを一つ割った。立て続けに3発、別の個体に命中する。しかし、その前進は止まらない。
 
 Hazy outlines resolve into clear figures as they close in. The face of the nearest figure, draped in a labcoat, opens a maw encircled by many rows of overgrown teeth and lets out a wail. Its dozen hands point towards the camera, its fingers flowering with new digits, and there comes a final gunshot. The feed falls to the ground.
 
+距離が詰まるにつれ、ぼやけた輪郭が明確な像となってゆく。白衣を纏ったすぐそばの実体の顔が裂ける。その口の中には、幾重もの歯列があった。叫び声が放たれる。無数の手がカメラに向けられた。指先から新しい指が、まるで花のように咲き乱れた。最後の1発が撃たれた。カメラが地面へと向けられる。
+
 The remainder of the footage captures the ground as Saunder's body is dragged back towards the site.
+
+残りの映像には、サイトへと引きずられてゆくソーンダースの体から、地面のみを映したものが記録されていた。
 
 -----
 
@@ -377,67 +401,119 @@ The remainder of the footage captures the ground as Saunder's body is dragged ba
 
 Emergency containment procedures would quickly be established following the receipt of this footage.
 
+緊急収容プロトコルは、この映像を受信したのち、速やかに策定されました。
+
 Initial attempts at an aerial assault on the facility were thwarted by hostile lifeforms, leading to the loss of twelve members of Nu-7. As containment teams scrambled to establish the Exclusion Zone and Forward Operating Base, Agent Lament would be sent by O5-8 to recruit Dr. Langford: a former researcher at Site Romero-5 and co-architect of SCP-9001.
+
+当該施設への航空攻撃は、敵性生命体の妨害により失敗に終わり、結果として機動部隊ニュー-7の隊員12名が殉職しました。収容チームによる領域封鎖および前線基地の設営が急がれる一方、O5-8は、サイト・ロメロ-5の元研究員にしてSCP-9001の共同設計者でもある、ラングフォード博士の身柄を確保するために、ラメント司令官を派遣しました。
 
 [[div class="blockquote"]]
 
-**VIDEO TRANSCRIPT 9001-1**
+**映像記録9001-1**
 
-**PARTIES PRESENT:**
-* Senior Researcher Robert Langford, consultant for MTF Eta-10 and Project MEDUSA, Site-15
-* Agent Troy Lament, General Commander of Joint Task Force //Panloque//, Forward Operating Base Panloque
+**関係者:**
+* ロバート・ラングフォード上級研究員(機動部隊エータ-10顧問、MEDUSA計画顧問、サイト-15所属)
+* エージェント・トロイ・ラメント(統合任務部隊パンロケ総司令官、前線基地パンロケ所属)
 
-**FOREWORD:** Briefing Dr. Langford on SCP-9001-A containment efforts.
+**はしがき:** SCP-9001-A収容の試みに関する、ラングフォード博士に向けたブリーフィング。
 
-**<BEGIN TRANSCRIPT>**
+**<記録開始>**
 
 //Commander Lament consults the seating chart on his tablet, looking for Dr. Langford's desk on the open floor plan. Dr. Langford is standing beside his standing desk, wearing a t-shirt, shorts, and a pair of headphones. Approaching from behind, Dr. Langford can be seen typing Python Tensorflow code into a Sublime editor. Commander Lament calls out to him, then taps his shoulder. Dr. Langford turns around and takes off his headphones.//
 
+タブレットに表示されている座席表を見ながら、ラメント司令官は、目的の人物を探した。広々としたオフィスフロアの片隅、スタンディングデスクの傍に、ラングフォード博士はいた。彼はTシャツに短パンというラフな格好で、ヘッドフォンをつけている。背後から近づくにつれて、彼がSublimeエディタにPythonのTensorFlowコードを打ち込んでいることがわかる。ラメントは声をかけ、その肩を叩いた。ラングフォード博士は振り返り、ヘッドフォンを外した。
+
 **Dr. Langford:** Ah, my apologies. Can I help you?
+
+**ラングフォード博士:** おや、失礼。何かご用がおありで？
 
 //Commander Lament extends his hand.//
 
+ラメント司令官が手を差し出す。
+
 **Cmdr. Lament:** Troy Lament. Containment and Recovery Specialist.
+
+**ラメント司令官:** トロイ・ラメントだ。収容および復興スペシャリストの。
 
 //Dr. Langford accepts. There is an awkward beat of silence as Lament awaits his response.//
 
+ラングフォード博士は握手に応じる。ラメントは彼の返事を待った。奇妙な静けさが、二人の間を流れる。
+
 **Cmdr. Lament:** ...and you're Robert Langford?
+
+**ラメント司令官:** そして君が……ロバート・ラングフォード？
 
 **Dr. Langford:** Right, yes. Sorry. Can I ask what this is about?
 
+**ラングフォード博士:** ええ、はい。これは失敬。それで、これはどういうことなんです？
+
 //Dr. Langford gestures towards a nearby bright green couch.//
+
+ラングフォードは、脇に置いてある黄緑色のカウチを指し示した。
 
 **Dr. Langford:** Please, take a seat.
 
+**ラングフォード博士:** さあ、お座りになって。
+
 //Commander Lament shakes his head. He remains standing.//
+
+ラメント司令官は首を振る。彼は立ったままだ。
 
 **Cmdr. Lament:** I understand you mostly help Eta-10 these days?
 
+**ラメント司令官:** 最近は、イータ-10の補助に回っているようだな？
+
 **Dr. Langford:** That's right.
+
+**ラングフォード博士:** ええ。
 
 **Cmdr. Lament:** And before that you were a Senior Researcher for Project HYDRA at Site Romero-5, correct?
 
+**ラメント司令官:** そしてそれ以前は、サイト・ロメロ-5でHYDRA計画の上級研究員をやっていた。そうだな？
+
 //Dr. Langford stops smiling.//
+
+ラングフォード博士の表情から、笑みが消える。
 
 **Dr. Langford:** That's… correct. That prior experience is why I'm now attached to Eta-10 and MEDUSA.
 
+**ラングフォード博士:** ええ……そうです。その経験があったからこそ、ぼくはイータ-10とMEDUSAのお付きになったわけですが。
+
 **Cmdr. Lament:** You have combat training?
+
+**ラメント司令官:** 戦闘訓練を受けたことは？
 
 **Dr. Langford:** Excuse me?
 
+**ラングフォード博士:** 戦闘訓練？
+
 **Cmdr. Lament:** You consult for a Mobile Task Force, don't you.
+
+**ラメント司令官:** 機動部隊の顧問をやっているから、もしかしたらと思ってね。
 
 **Dr. Langford:** You're right… although truth be told, I could probably use a few more laps around the track or pool we have around here.
 
+**ラングフォード博士:** ええまあ、その通りですが………打ち明けた話、この辺のランニングトラックとか、プールとかを何周かするのが関の山ですよ。
+
 **Cmdr. Lament:** Excellent. That'll do.
+
+**ラメント博士:** 素晴らしい。それで十分だ。
 
 **Dr. Langford:** Do for… what exactly did you want to discuss, Mr. Lament?
 
+**ラングフォード博士:** 十分って……何に対して十分なんです？　ラメントさん。
+
 **Cmdr. Lament:** Perhaps showing is better than telling.
+
+**ラメント司令官:** ご覧いただいた方が、話すよりも速かろう。
 
 //Commander Lament hands his tablet to Dr. Langford. A video-player fills the screen.//
 
+ラメント司令官は、タブレットをラングフォード博士に手渡した。画面にビデオプレイヤーが映っている。
+
 **Cmdr. Lament:** Play it.
+
+**ラメント司令官:** 再生してくれ。
 
 //[The video is filmed from the perspective of a helicopter flying through the night sky  -- several more are seen in the distance ahead. The sounds of shouting passengers are drowned out by the heavy thumping of rotors.]//
 
