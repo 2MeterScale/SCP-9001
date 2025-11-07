@@ -1,7 +1,7 @@
 [[include :scp-wiki:component:hoverlinks]]
 
-[[include :scp-wiki:theme:black-highlighter-theme]]
-[[include :scp-wiki:theme:jakstyle]]
+[[include :scp-jp:theme:black-highlighter-theme]]
+[[include :scp-jp:theme:jakstyle]]
 
 [[module css]]
 /* Jakstyle modifications */
@@ -104,7 +104,7 @@ body { overflow-x: hidden }
   background-attachment: fixed;
   background-position: center;
   background-size: 100vw auto;
-  max-width: none;
+  max-width: none !important;
   width: 100vw;
   position: relative;
   left: calc(50% - 50vw);
@@ -345,7 +345,7 @@ Just as suddenly as the shifts occur, they come to a standstill. Saunders shakil
 
 Saunders finally admits that the current state of affairs is beyond her ability to personally resolve. Deciding that finding a capable off-road vehicle would be preferable to heading backwards on-foot, she convenes with Command to determine the approximate location of the site's vehicle bay. She sneaks off counter-clockwise around the site, sticking close to the perimeter fence. Dark shapes within the site cross in front of the windows, and Saunders doubles her pace.
 
-もはや自分の手には負えない。ソーンダースはついに認めた。
+もはや自分の手には負えない。ソーンダースはついに認めた。徒歩で引き返すより、オフロード車を探した方が賢明だと判断する。彼女は司令部と連絡をとり、車両格納庫の大まかな位置を確認した。フェンスに身を寄せながら、彼女は施設の外周を反時計回りに
 
 With assistance from Command, Saunders is directed to approach the contiguous structure. There is a large garage door on the face of the wall here. Saunders approaches the keypad beside the door, withdraws the lanyard she'd acquired and swipes it -- access is granted. The door begins to raise. Saunders swears loudly as its heavy, metallic rattling harshly breaks the silence of the site grounds. From somewhere out of frame there comes a deafening, protracted noise with the cadence of an air raid siren. It is distinctly human in origin; a blending of many voices that rise and fall in a cacophonous wail.
 
