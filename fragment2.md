@@ -289,21 +289,35 @@ From her perspective, it can be seen that thick, gnarled root systems of surroun
 
 After brief deliberation, it is decided Saunders should continue on foot. She leans into the vehicle to retrieve her keys from the ignition, and closes the door behind her.
 
-多少の議論のすえ、ソーンダースは徒歩で進むこととなった。
+多少の議論のすえ、ソーンダースは徒歩で進むこととなった--　　--体を屈めて、イグニッションから鍵を抜く。そして、後ろ手にドアを閉じた。
 
 Without the rumble of the engine, the near-silence of the surrounding wilderness comes into focus. There is no birdsong, nor chirping of insects. There is only a quiet creaking from an unknown source, likened by Saunders to that of old wooden floorboards. She sets off, stepping over the obstructing roots as she progresses.
 
+エンジンの唸りが消える。鳥の囀りも、虫の鳴き声もない。ただどこかから聞こえる軋むような音がある以外は、静寂そのものであった。ソーンダースはこれを、まるで古い木の床板のようだと喩えた。行く先を遮っている木の根を踏みしめながら、彼女は歩みを進めてゆく。
+
 Saunders continues for the next kilometer at a measured pace. Though near enough to the site on GPS that she'd presumably spot it in the distance, the curvature of the road only seems to increase as she progresses. The path ahead veers further and further to the left, limiting the length that can be seen. Further impacting visibility is the sheer depth of the canopy above, blocking out most sunlight. What little daylight that does break through is itself dimming as thick clouds roll over the area.
+
+続く一キロメートルを、彼女は慎重な足取りで進む。GPS上の位置からすれば、サイトの建物が遠方に見えていてもおかしくはないところまで来ているはずだった。だが、道のうねりは激しくなるばかりである。続く道は左へ左へとさらに逸れていて、見通しが効かない。木の枝が天蓋じみて頭上を覆っている。わずかにその隙間から差し込む光も、厚い雲によって遮られてしまっている。辺りは薄暗い。
 
 A blaring horn is heard in the distance. Quickening her pace, Saunders rounds the bend, coming to see a black sedan some distance ahead. It appears that the vehicle had flown off the road and crashed headfirst into a nearby tree. The windshield is marred in a cobweb of broken cracks. The driver's-side door is ajar. Though its plate cannot be seen, Command is able to identify that it would have belonged to one of the researchers on-site.
 
+遠くから、けたたましいクラクションが響いた。ソーンダースは歩調を速める。曲がり道の先に、黒いセダンがあった。フロントガラスは蜘蛛の巣じみて砕け散っていた。それは道路から飛び出し、近くの木に正面から衝突したように見える。運転席のドアは半開きだった。ナンバープレートこそ見えなかったものの、この車両はサイトにいた研究員のものであると、司令部が特定した。
+
 The horn slowly gets weaker as Saunders approaches, dying out completely as she comes near. There is a subtle 'click' as Saunders releases the safety on her sidearm. She steps carefully, silently, around the open door, wheeling around it and bringing up her weapon in one fluid motion.
+
+ソーンダースが近づくにつれて、クラクションは小さくなっていく。車のすぐそばまで来たところで、その音は消えてなくなった。彼女はサイドアームの安全装置を外す。カチリ、と音がした。開いたドアの影に身を寄せ、ソーンダースは息を殺した。そして一瞬で身を翻すと、彼女は銃口を車内に向けた。
 
 The vehicle is empty. Its airbag, deployed in the crash, rests partially-deflated. There is a smattering of blood stains present upon the driver's seat and steering wheel and spattered randomly across the upholstery. Saunders scans the area, checks under the vehicle, and only then holsters her weapon. She reaches into the center console, rummaging about to find a personnel lanyard. The coloration indicates it had belonged to a Level-3 researcher, but the surface is marred and scratched, with particular emphasis on the researcher's portrait. The text has been rendered illegible.
 
+誰も、車内にはいなかった。事故で膨らんだのであろうエアバッグは、半ばしぼんだまま垂れ下がっている。ハンドルから運転席、そしてそれ以外の内装にも、車内の至る所に点々と血痕が散らばっている。ソーンダースは辺りを見回し、車の下も確認してから、ようやく銃をしまった。彼女はセンターコンソールに手を突っ込み、職員証を探し当てた。色からして、それはレベル三研究員のものだ。しかし、その表面は傷だらけで、特に顔写真の部分はひどく削られているように見える。文字などはもはや読めたものではない。
+
 It is as Saunders moves to pocket this that she looks up at the shattered windshield. A bloodied handprint has been pressed against the interior side. It possesses four additional digits.
 
+それをポケットに仕舞おうとした時、ソーンダースはふと視線をフロントガラスへやった。血塗られた手形が、内側から押し付けられている。それには指が9本あった。
+
 Command advises Saunders to turn back, as it has become apparent that the situation may call for a properly-equipped Task Force. Saunders however cites her tenured field experience, claiming that if site staff are in danger, then she's obligated to lend her services. Command moves to notify Site-01 as Saunders rushes off down the road. A low fog begins to sweep the area.
+
+もはや状況は然るべき装備を備えた機動部隊を要する段階にあると判断した司令部はソーンダースに撤退を勧告した。しかしソーンダースは、長年の実地経験を根拠に「サイト職員が危険に晒されている以上、助力は自らの義務である」とこれを一蹴する。彼女が道へと駆け出す中、司令部はサイト-01への連絡を開始した。彼女の足元に、霧が立ちこみつつある。
 
 [[div class="scp-image-block block-center"]]
 [[image http://scp-wiki.wikidot.com/local--files/scp-9001/footage1.webp]]
@@ -311,7 +325,11 @@ Command advises Saunders to turn back, as it has become apparent that the situat
 
 The curvature of the road steepens the further Saunders travels, becoming stark to the point that it appears as if Saunders is running in a circle. The fog increases in intensity, obstructing visibility and causing Saunders to nearly trip over unseen roots criss-crossing the road. It is as Saunders comes around the next bend that the thicket of trees begin to recede. GPS indicates her arrival. Saunders comes about to face Site Romero-5.
 
+進むほどに道の湾曲が強まるものだから、やがてソーンダースは、まるで同じところを堂々に巡っているかのような錯覚に陥った。霧が濃くなっていく。彼女は何かにつまづいた。道の至るところを這っている木の根だ。それにすら気づけぬほどに、視界は悪い。曲がり角を行くにつれて、生い茂る木々がまばらになってゆく。GPSの信号は、彼女が目的地に到着してい流ことを示していた。ソーンダースはサイト・ロメロ-5を見据えた。
+
 The air here is thick with occluding fog. All that can be seen throughout the site grounds are mere silhouettes of buildings, the bright fluorescence of their interiors being the only visible sources of light in the murk. From the woods behind her, there comes a pained cervine bleating. Saunders ignores it as she steps past the chain-link perimeter fence.
+
+深い霧の向こうから、建物の影ばかりがぼんやりと見えてくる。あたりは薄暗い。その窓から漏れてくる眩い明かりが、唯一の光源であった。ソーンダースの背後の森の中から、鹿の苦しげな鳴き声が聞こえる。彼女はそれを気にも留めず、金網のフェンスを乗り越えて、サイトの敷地内へと足を踏み入れた。
 
 [[div class="scp-image-block block-center"]]
 [[image http://scp-wiki.wikidot.com/local--files/scp-9001/romerofog.webp]]
@@ -319,9 +337,15 @@ The air here is thick with occluding fog. All that can be seen throughout the si
 
 There is a low rumble that shakes the area, sending Saunders to the ground. Looking up, Saunders captures the silhouette of the nearest building -- its shape contorts and extends, jutting outward to the left of the frame, forming a branch that connects to a separate facility. Bright pinpricks open up along the length of this new addition, quickly widening and taking the shape of new windows. The earth continues to quake as buildings further off in the distance repeat this process.
 
+低い地響きが走り、ソーンダースは地面に叩きつけられた。そのまま彼女は上を見た。すぐそばの建物が歪み、そして伸びていく。画面の左端からも飛び出たそれは、やがて別の施設と繋がる枝となる。枝に光の点がいくつも見えた。それはやがて大きくなり、新しい窓となる。遠くに見える建物もまた、同じように姿を変えていく。地鳴りはなお止まらない。
+
 Just as suddenly as the shifts occur, they come to a standstill. Saunders shakily stands up. The complex before her, moments before a scattering of various facilities, seems to now be a single continuous complex. Command is able to verify this via satellite imagery: though somewhat obscured by increasing cloud cover, an overhead perspective of the site confirms that the buildings have indeed interlocked. They have taken on the shape of a spiral.
 
+静寂が訪れた。始まった時と同じように、その変化は唐突に終わった。ソーンダースは震える足で立ち上がる。目の前には、一つの巨大な構造物があった。つい先ほどまでは、施設が点在していた場所であった。司令部も衛星画像で確認をとる。いくらか雲がかかってしまっているものの、そこにはひと繋がりになった建物が写っていた。そしてそれは、螺旋の形になっていた。
+
 Saunders finally admits that the current state of affairs is beyond her ability to personally resolve. Deciding that finding a capable off-road vehicle would be preferable to heading backwards on-foot, she convenes with Command to determine the approximate location of the site's vehicle bay. She sneaks off counter-clockwise around the site, sticking close to the perimeter fence. Dark shapes within the site cross in front of the windows, and Saunders doubles her pace.
+
+もはや自分の手には負えない。ソーンダースはついに認めた。
 
 With assistance from Command, Saunders is directed to approach the contiguous structure. There is a large garage door on the face of the wall here. Saunders approaches the keypad beside the door, withdraws the lanyard she'd acquired and swipes it -- access is granted. The door begins to raise. Saunders swears loudly as its heavy, metallic rattling harshly breaks the silence of the site grounds. From somewhere out of frame there comes a deafening, protracted noise with the cadence of an air raid siren. It is distinctly human in origin; a blending of many voices that rise and fall in a cacophonous wail.
 

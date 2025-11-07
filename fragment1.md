@@ -447,7 +447,7 @@ Haha! Bit of a jumpscare for some of you, huh? You must be read-in to the SCP th
 
 Yes? Ah! No, don't worry -- if that were the case, it'd be an infohazard. Don't worry about intentionally picturing it in one's mind's eye; imagination is merely simulation, and an imperfect one at that. You'd need to directly visually process it in totality for it to be effective. **That** is our limitation.
 
-　はい？　いいえ、ご心配なさらず。どちらかといえば、これは情報災害です。もし元の画像を心の中で描いてしまったとしても、大丈夫です。想像とは模擬にすぎません。それゆえに不完全なのです。この効果を発揮するためには、直に視認しなければならないのです。これこそが、われわれの限界です。
+　はい？　いいえ、ご心配なさらず。これがそうであるなら、これは情報災害です。もし元の画像を心の中で描いてしまったとしても、大丈夫です。想像とは模擬にすぎません。それゆえに不完全なのです。この効果を発揮するためには、直に視認しなければならないのです。これこそが、われわれの限界です。
 
 Even in cases where text does not contribute to the presentation of the cognitohazard, one still has to account for identity, for culture. This is all to say: perception is inherently subjective, and thus there is no //objective// means through which to effectively convey a cognitohazard.
 
@@ -467,7 +467,7 @@ Everyone, please! Please! It's alright. Director? Director, please, calm down. L
 
 What you just saw was a visualization from a fractal mathematical set, an image that instills in its viewers a mild sense of dizziness. I understand this in itself is not impressive, but what is notable is its versatility. This image achieves a 100% efficacy rate amongst human volunteers, vastly outperforming the previous 61% record. It has even expressed its effects to some degree in animal testing. This is the real deal.
 
-　たった今皆さまがご覧になったのは、数学におけるフラクタル集合を視覚化したものです。これを視認した者は、少し目眩のような感覚を覚えるはずです。この効果自体は、大したものではありません。真に特筆すべきは、万能性です。人間の志願者に対して、この画像が100%の有効性を示しました。これまでの最高記録であった61%など、もはや比較にもなりません。動物に対する試験においてさえも、一定の効果を示しています。どうですか。モノが違うでしょう。
+　たった今皆さまがご覧になったのは、数学におけるフラクタル集合を視覚化したものです。これを視認した者は、少し目眩のような感覚を覚えるはずです。この効果自体は、大したものではありません。真に特筆すべきは、万能性です。人間の志願者に対して、この画像は100%の有効性を示しました。これまでの最高記録であった61%など、もはや比較にもなりません。動物に対する試験においてさえも、一定の効果を示しています。どうですか。モノが違うでしょう。
 
 Future memeticists need not be concerned with trivialities such as //'context'// and //'culture'// -- mathematics is absolute. Think of it: fractals are a universal component of nature, underpinning reality itself! From the infinitesimal expression of bacterial proteins to the macroscopic ordered chaos of the universe itself, it all comes down to the complex interplay of numbers and figures; the interdimensionality of fractal systems. The language of the universe.
 
@@ -520,11 +520,11 @@ Today you have //felt// the utility of my work. We have only scraped the surface
 Catalogued FCIs and their innoculants, if any, are to be individually contained on isolated external hard drives in Protected Site-7's Secure Data Storage. Third-Order and Second-Order FCIs may be requisitioned by personnel with Level 3 clearance for research, testing, field use, and D-Class procurement.
 
 カタログされたFCI、およびそれに対する免疫となる画像は、保護サイト-7のセキュアなデータ・ストレージ内の、隔離された外付けハードドライブに保管されます。
-第三級及び第二級FCIは、レベル3以上のクリアランスを持つ職員による請求のもと、研究、実験、実地使用、及びDクラス職員の調達を目的として利用されます。
+第3級及び第2級FCIは、レベル3以上のクリアランスを持つ職員による請求のもと、研究、実験、実地使用、及びDクラス職員の調達を目的として利用されます。
 
 First Order FCIs require Level 5 clearance with additional authorization from no fewer than three signatories, including the director of RAISA and at least two members of the O5 Council. All personnel read-in to SCP files and Top Secret documents protected by First Order FCI are to be given access to the necessary innoculants. FCIs are not to be handled by any personnel with a CRV[[footnote]] "Cognitive Resistance Value" - The metric which determines one's ability to withstand exposure to mind-altering sensory effects.[[/footnote]] rating of less than 9.5.
 
-第一級FCIの利用には、レベル5クリアランスに加え、RAISA長官及び2名以上のO5評議会メンバーを含む、3名以上の署名による追加の認可を必要とします。第一級FCIによって保護されているSCPファイル及び最高機密文書へのアクセス権を持つすべての職員に対して、必要な防疫措置が提供されます。
+第1級FCIの利用には、レベル5クリアランスに加え、RAISA長官及び2名以上のO5評議会員を含む、3名以上の署名による追加の認可を必要とします。第1級FCIによって保護されているSCPファイル及び最高機密文書へのアクセス権を持つすべての職員に対して、必要な防疫措置が提供されます。
 また、CRV[[footnote]]「認知抵抗値」--　　--精神に変容をきたす効果への暴露に対し、個々人が持つ耐性を測定するための指標。[[/footnote]]が9.5以下の職員は、FCIを扱うことが禁じられています。
 
 To prevent unauthorized viewing, distribution, or theft, FCIs are to be stored with quantum-proof encryption (currently AES-256) viewable only through a dedicated file-embedded module or standalone window application. Each encrypted FCI is to be uniquely keyed (currently with NIST FIPS 203, ML-KEM-1024) to be viewable only in its corresponding per-file embed or per-user window. The modules and windows employ protections against copy-pasting, screenshotting, and other capture methods. Analog printing or reproduction of FCI requires approval from the O5 Council, registration, and tracking.
@@ -533,7 +533,7 @@ To prevent unauthorized viewing, distribution, or theft, FCIs are to be stored w
 
 Per Ethics Committee mandate, files containing First Order FCI are each to be preceded by a warning regarding their presence. Due to the internal prevalence of their colloquial terminology in the wake of Incident-9001-1, such warnings are to refer to First Order FCI in common parlance: "Berryman-Langford Kill Agents".
 
-倫理委員会の指定に基づき、第一級FCIを含むすべてのファイルは、その存在に関する警告を冒頭に付与される必要があります。インシデント9001-1を受け、財団内部においては第一級FCIを指す口語的用語が普及しました。そのため、当該警告文においては、その通俗的な表現である「ベリーマン=ラングフォード・ミーム殺害エージェント」という呼称を使用してください。
+倫理委員会の指定に基づき、第1級FCIを含むすべてのファイルは、その存在に関する警告を冒頭に付与される必要があります。インシデント9001-1を受け、財団内部においては第1級FCIを指す口語的用語が普及しました。そのため、当該警告文においては、その通俗的な表現である「ベリーマン=ラングフォード・ミーム殺害エージェント」という呼称を使用してください。
 
 [[div class="emergency-update"]]
 
@@ -582,11 +582,11 @@ SCP-9001の失活領域の実例。この領域は異常な効果を示さない
 **説明:** SCP-9001は、ベリーマン=ラングフォード集合です。これは数学的に健全かつ比較的単純でありながら、視覚的な認識災害を生成することが可能なアルゴリズムです。コンピュータを用いて描画されたとき、SCP-9001はマンデルブロ集合に類似した自己相似図形を示します。
 SCP-9001の異常性は、その描画の中に含まれる、種々の異常な効果を示す無数の点や静止画において発現します。以下に、その異常な効果の例を挙げます。
 
-* 識閾下 [第三級]
+* 識閾下 [第3級]
  * 行動を強制するために、神経伝達物質に影響を与える画像。
-* 有害 [第二級]
+* 有害 [第2級]
  * 吐き気、発作、意識喪失などの身体的効果を誘発する画像。
-* 致死 [第一級]
+* 致死 [第1級]
  * 即死に至る頭蓋内動脈瘤を誘起する画像。
 
 [[div class="blockquote"]]
@@ -611,7 +611,7 @@ Beyond the intricate geometric patterns found within visual depictions of typica
 
 While SCP-9001 was adopted with a focus on human subjects, FCIs have produced results with non-human animals. Third and Second Order FCIs show less utility due to simpler brain function, but First Order FCIs have proven efficacy in all primates and most mammals, as well as many species of arachnids.
 
-SCP-9001は、人間の被験者に焦点を当てて採用された一方で、FCIは人間以外の動物に対しても有効性を示しています。人間以外の動物を対象とした場合、その脳機能の単純さにより、第三級及び第二級のFCIは期待された効果を示さない傾向にあるものの、第一級FCIは、すべての霊長類とほとんどの哺乳類、ならびに多くのクモ類の種において有効性が認められました。
+SCP-9001は、人間の被験者に焦点を当てて採用された一方で、FCIは人間以外の動物に対しても有効性を示しています。人間以外の動物を対象とした場合、その脳機能の単純さにより、第3級及び第2級のFCIは期待された効果を示さない傾向にあるものの、第1級FCIは、すべての霊長類とほとんどの哺乳類、ならびに多くのクモ類の種において有効性が認められました。
 
 
 
@@ -653,7 +653,7 @@ On 2007-04-17, Dr. Ava Berryman led a presentation on the cognitohazard producti
 
 Amongst attendees was one Dr. Robert Langford, a computer science researcher within the Department of Analytics, who at the time was working on the detection of cognitohazards via machine learning as part of [[span class="hoverlink"]][[[scp-3334|Project CIRCE]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]Project CIRCE[[/span]][[span class="hoverlink-text"]]A Department of Analytics effort to use AI techniques to detect visual cognitohazards. Project CIRCE leveraged convolutional neural networks, an architecture modeled off the human vision system. After advances in reinforcement learning and natural language processing, it was succeeded by Project MEDUSA in order to unify efforts to classify visual memetic hazards as well.[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wikidot.com/local--files/scp-9001/circe.webp)"]]-[[/span]][[/span]][[/span]]. Several days later, he proposed to meet Dr. Berryman to offer his expertise, and would be flown to Site Romero-5 to meet with her.
 
-その出席者たちの中に、一人の男がいた。ロバート・ラングフォード博士は解析部門に所属する、計算機科学の研究者であった。当時は[[span class="hoverlink"]][[[scp-3334|CIRCE計画]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]CIRCE計画[[/span]][[span class="hoverlink-text"]]解析部門による、AI技術を用いた視覚的認識災害の検出を目的とした試み。本計画においては、人間の視覚システムをモデルとしたアーキテクチャである「畳み込みニューラルネットワーク」を活用していた。強化学習および自然言語処理の発展を受け、視覚的ミーム災害の分類も目的とすることになったため、MEDUSA計画が本計画を引き継いだ。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wikidot.com/local--files/scp-9001/circe.webp)"]]-[[/span]][[/span]][[/span]].の一環として、機械学習による認識災害の検出に取り組んでいた。
+その出席者たちの中に、1人の男がいた。ロバート・ラングフォード博士は解析部門に所属する、計算機科学の研究者であった。当時は[[span class="hoverlink"]][[[scp-3334|CIRCE計画]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]CIRCE計画[[/span]][[span class="hoverlink-text"]]解析部門による、AI技術を用いた視覚的認識災害の検出を目的とした試み。本計画においては、人間の視覚システムをモデルとしたアーキテクチャである「畳み込みニューラルネットワーク」を活用していた。強化学習および自然言語処理の発展を受け、視覚的ミーム災害の分類も目的とすることになったため、MEDUSA計画が本計画を引き継いだ。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wikidot.com/local--files/scp-9001/circe.webp)"]]-[[/span]][[/span]][[/span]].の一環として、機械学習による認識災害の検出に取り組んでいた。
 
 [[div class="blockquote" style="margin-bottom: 1rem"]]
 
@@ -715,11 +715,11 @@ Amongst attendees was one Dr. Robert Langford, a computer science researcher wit
 
 **Dr. Berryman:** It's only natural. Carrot flowers, or as the Yankees call them, Queen Anne's Lace. They grew on the estate where I was raised. To me, their most interesting feature is that they grow in recursive layers of flower shapes: each flower grows in a flower-shaped bunch, and the bunches themselves form a larger flower shape. That self-similarity carries a fractal structure, like my research. But ah, where's my manners? Allow me to offer you a drink first before we get into the weeds.
 
-**ベリーマン博士:** 当たり前の反応ね。これは人参の花。アメリカじゃこれを「アン女王のレース」なんて呼ぶらしいわ。小さい頃に住んでた場所に、よくこれが生えてたの。私にとって一番面白いのは、この花が同じ形を繰り返しながら咲くこと。一輪一輪が集まって花の形をした房になって、さらに大きい目で見てやると、房自体もさらに大きい花の一部になっている。つまり自己相似構造を持っているということ。わたしの研究のようにね。あらやだ。私ったらとんだ無作法ね。小難しい話を始める前に、まずは一杯どう？
+**ベリーマン博士:** 当たり前の反応ね。これは人参の花。アメリカじゃこれを「アン女王のレース」なんて呼ぶらしいわ。小さい頃に住んでた場所に、よくこれが生えてたの。私にとって一番面白いのは、この花が同じ形を繰り返しながら咲くこと。1輪1輪が集まって花の形をした房になって、さらに大きい目で見てやると、房自体もさらに大きい花の一部になっている。つまり自己相似構造を持っているということ。わたしの研究のようにね。あらやだ。私ったらとんだ無作法ね。小難しい話を始める前に、まずは1杯どう？
 
 //Dr. Berryman retrieves a bottle of scotch, two glasses, and some ice cubes from a drawer. She pours out the two glasses and reaches over to place one in Dr. Langford's hand.//
 
-ベリーマン博士は、机の引き出しからスコッチの瓶と二つのグラス、それに幾つかの氷を取り出した。彼女はグラスに酒を注ぎ、うち一つをラングフォード博士に手渡した。
+ベリーマン博士は、机の引き出しからスコッチの瓶と二つのグラス、それに幾つかの氷を取り出した。彼女はグラスに酒を注ぎ、うち1つをラングフォード博士に手渡した。
 
 **Dr. Langford:** I'm quite alright, Dr. Berryman.
 
@@ -731,7 +731,7 @@ Amongst attendees was one Dr. Robert Langford, a computer science researcher wit
 
 //Dr. Langford hesitates, then takes a sip.//
 
-ラングフォード博士は躊躇い、そして一口飲む。
+ラングフォード博士は躊躇い、そして1口飲む。
 
 **Dr. Berryman:** No, not yet!
 
@@ -771,7 +771,7 @@ Amongst attendees was one Dr. Robert Langford, a computer science researcher wit
 
 **Dr. Berryman:** There is a way to compress the infinite into the finite.
 
-**ベリーマン博士:** 無限を非有限に圧縮する方法は、あるはずだけど。
+**ベリーマン博士:** 無限を有限に圧縮する方法は、あるはずだけど。
 
 **Dr. Langford:** Not as a compression algorithm, in my experience. Are you thinking of a mathematical function or a generator instead, perhaps?
 
@@ -1074,7 +1074,7 @@ Berryman, you and I need to have a word.
 
 Under Site Director Hughes' direction, the cognitohazard production process was changed so that personnel were not to view their outputs at all, but instead send them to Site-15 for review.
 
-サイト管理官ヒュースの指導のもと、認識災害生産プロセスは変更された。全職員は、アルゴリズムの出力結果を直接視認することは認められなくなった。これら出力結果はサイト-15へ送信され、レビューを受けることになった。
+サイト管理官であるヒュースの指導のもと、認識災害生産プロセスは変更された。全職員は、アルゴリズムの出力結果を直接視認することは認められなくなった。これら出力結果はサイト-15へ送信され、レビューを受けることになった。
 
 In the interests of investing in that process' efficiency, O5-8 subsequently ordered the unification of Project CIRCE and several related projects, to consolidate all Foundation research into cognitohazard detection. The resulting project would eventually be named Project MEDUSA, and its goal would be to provide a single source of automated, scalable cognitohazard detection.
 
@@ -1120,7 +1120,7 @@ For those who don't know me, I came here from Project CIRCE. I had a hand in bui
 
 In 1999, my team received our first instant-kill coghaz, the very first First Order CCI. Its cultural requirements were specific, but our security was lax. Six good researchers lost their lives on the spot. Their potential wasted, completely, instantly. I was very nearly one of them.
 
-1999年に、CIRCE計画において初めての即死認識災害が生まれました。まさに最初の第一級文化的認識災害(Cultural Cognitohazardous Image、以後CCI)です。それが効を発するためには、特定の文化的背景が必要でした。しかし、我々のセキュリティには穴がありました。研究員が六名、即座に命を落としてしまったのです。彼らの可能性は、完全に、そして即座に断たれてしまいました。ぼくも危うく、そのうちの一人になるところでした。
+1999年に、CIRCE計画において初めての即死認識災害が生まれました。まさに最初の第1級文化的認識災害(Cultural Cognitohazardous Image、以後CCI)です。それが効を発するためには、特定の文化的背景が必要でした。しかし、我々のセキュリティには穴がありました。研究員が六名、即座に命を落としてしまったのです。彼らの可能性は、完全に、そして即座に断たれてしまいました。ぼくも危うく、そのうちの1人になるところでした。
 
 Our old Monte Carlo process was unpredictable, you had zero control over its output, but my new optimization algorithm is like a targeting rangefinder for our fractal cognitohazard generation. That means it's now only a question of //when//, and not //if//, before we create an FCI that does something irreversible -- in fact, it MUST happen for Project HYDRA to succeed. And I know that the vast, vast majority of what we were producing through Monte Carlo were just dead regions, and that's still mostly the case now, and there's a good 95% chance nothing happens when you look - but you roll those dice every single time you do. And, given time, we'll get more efficient, and those odds will only climb -- sharply.
 
@@ -1237,7 +1237,7 @@ This unit posits this may be useful for internal use in increasing productivity.
 
 On 2008-07-05, the 10-Kempelen facility at Site-15 reported that Site Romero-5 had produced a lethal First Order FCI with ID number FCI-284/1.
 
-2008年7月5日、サイト-15の10-ケンペレン施設は、サイト・ロメロ-5において、最初の第一級FCIが生成されたと報告した。そのFCIには、FCI-284/1というIDが割り振られた。
+2008年7月5日、サイト-15の10-ケンペレン施設は、サイト・ロメロ-5において、最初の第1級FCIが生成されたと報告した。そのFCIには、FCI-284/1というIDが割り振られた。
 
 Procedure 10-Kempelen attempts to assess the efficacy of the cognitohazard through exposure to multiple test subjects. 15 D-Class personnel were made to observe the FCI, all of whom were found to be susceptible before Site-15 staff terminated the test prematurely. For reference, the efficacy of the average CCI is 45% and of the at-the-time most effective CCI was 71%. The researcher responsible for the production of the FCI chose to remain anonymous.
 
@@ -1245,7 +1245,7 @@ Procedure 10-Kempelen attempts to assess the efficacy of the cognitohazard throu
 
 The First Order FCI and its inoculants were submitted to Site-19, and on 2008-07-26, Lieutenant Masipag actioned the first-ever deployment of a universally-cognitohazardous kill agent to secure the SCP-001 file.
 
-この第一級FCIとその免疫画像はサイト-19へ提出され、マシパグ中尉によって、SCP-001ファイルを保護するための普遍的認識災害性ミーム殺害エージェントとして、初めて配備された。
+この第1級FCIとその免疫画像はサイト-19へ提出され、マシパグ中尉によって、SCP-001ファイルを保護するための普遍的認識災害性ミーム殺害エージェントとして、初めて配備された。
 
 Dr. Berryman issued a statement to the Project HYDRA staff in response.
 
@@ -1267,7 +1267,7 @@ Colleagues,
 
 This month, we have taken our largest step yet towards proving the legitimacy of our endeavor, and have finally made a truly significant contribution to the security of the Foundation. Our work has finally borne fruit. I am so very proud of all of you.
 
-今月、我々は我々の試みの正当性を証明するための、大きな一歩を踏み出しました。そしてついに、財団の安全保障に対し、真に意義深い貢献を成し遂げたのです。我々の研究が、ようやく実を結びました。皆様のことを、心から誇りに思います。
+今月、我々は我々の試みの正当性を証明するための、大きな1歩を踏み出しました。そしてついに、財団の安全保障に対し、真に意義深い貢献を成し遂げたのです。我々の研究が、ようやく実を結びました。皆様のことを、心から誇りに思います。
 
 For many of you, this is your first Project of this scale. Hold onto this feeling -- do not let your pride fade. An accolade of this esteem can catapult your career, if you play it right.
 
@@ -1298,7 +1298,7 @@ I'm grateful that our first lethal cognitohazard has found a role in the protect
 
 Each day this month, I've thought of the fifteen personnel who gave their lives for the sake of this picture, and what they would think if they saw us now. We have much to thank them for. Please afford them a moment's thought yourself, even though you have never met, and are so many layers removed from them.
 
-今月、ぼくは毎日、この一枚の画像のために命を捧げた15名の職員のことを考えていました。もし彼らが今の私たちを見たら、どう思うのでしょうか。我々は、彼らに感謝すべきことがたくさんあります。我々は確かに彼らと会ったことがありません。それどころか、彼らと我々の間には大きな壁があります。だとしても、どうか皆さまも、彼らに少しだけ思いを馳せていただけると嬉しいです。
+今月、ぼくは毎日、この1枚の画像のために命を捧げた15名の職員のことを考えていました。もし彼らが今の私たちを見たら、どう思うのでしょうか。我々は、彼らに感謝すべきことがたくさんあります。我々は確かに彼らと会ったことがありません。それどころか、彼らと我々の間には大きな壁があります。だとしても、どうか皆さまも、彼らに少しだけ思いを馳せていただけると嬉しいです。
 
 We are on a precipice, certainly. It is my deepest hope that it will be of something great, and that collectively we can be proud of the decisions we will have made along the way.
 
@@ -1315,7 +1315,7 @@ I'll make sure to swing by the celebrations briefly, but the stresses of the pro
 
 Despite the success, Project HYDRA was not yet complete, as Site Romero-5 could not yet continuously or reliably produce any kind of FCI, let alone First Order FCI specifically. All FCIs produced thus far had been the result of a mix of the Langford algorithm and guesswork.
 
-この成功にもかかわらず、HYDRA計画は完遂していなかった。サイト・ロメロ-5は、第一級FCIに限らず、いかなる種類のFCIであっても、継続的かつ確実に生成することができなかったのである。これまでに生成されたすべてのFCIは、ラングフォード・アルゴリズムと試行錯誤を混ぜ合わせたものの結果であった。
+この成功にもかかわらず、HYDRA計画は完遂していなかった。サイト・ロメロ-5は、第1級FCIに限らず、いかなる種類のFCIであっても、継続的かつ確実に生成することができなかったのである。これまでに生成されたすべてのFCIは、ラングフォード・アルゴリズムと試行錯誤を混ぜ合わせたものの結果であった。
 
 -----
 
@@ -1435,7 +1435,7 @@ How has your team managed to not only reduce its reliance on our 10-Kempelen ope
 
 I've seen some of the cognitohazards your team is producing since that change (not the imagery itself, of course), and the attached data is just as medically conclusive as ours. Yet your site is not requisitioning any D-Class. If others could reproduce your results, our load could be lessened even further, or perhaps we could use them ourselves.
 
-例の変更以降に、君たちのチームが生成している認識災害のいくつかを(もちろん、画像そのものではありません)見ました。添付されているデータは、我々のものとなんら遜色ないほど医学的に正確です。それにもかかわらず、君たちのサイトはDクラスを一人も要求していないようです。もし他の部署でも君たちの成果を再現できれば、我々の負荷はさらに軽減されるでしょうし、あるいは我々自身がその手法を利用することもできるかもしれません。
+例の変更以降に、君たちのチームが生成している認識災害のいくつかを(もちろん、画像そのものではありません)見ました。添付されているデータは、我々のものとなんら遜色ないほど医学的に正確です。それにもかかわらず、君たちのサイトはDクラスを1人も要求していないようです。もし他の部署でも君たちの成果を再現できれば、我々の負荷はさらに軽減されるでしょうし、あるいは我々自身がその手法を利用することもできるかもしれません。
 
 Please interpret my asking as nothing more than grateful curiosity. The resources that can now be diverted from the operation will have cumulative benefits everywhere. The Department of Analytics director has advised me not to be questioning a good thing in the first place.
 
@@ -1477,7 +1477,7 @@ Dr. Langford did not comment on the process improvements initially, but a week l
 
 With the MEDUSA service being able to validate any amount of cognitohazards as needed, Site Romero-5 being able to classify all FCIs itself to a satisfactory level, and the solved Berryman-Langford set allowing for unabated FCI generation, Project HYDRA was officially complete. O5-8 briefly visited to congratulate the team.
 
-MEDUSAサービスが必要に応じて際限なく認識災害検証し、サイト・ロメロ-5が全てのFCIを満足のいくレベルで分類できるようになった。そして、解明されたベリーマン=ラングフォード集合がFCIの絶え間ない生成を可能にしたことで、HYDRA計画は正式に完了した。O5-8がチームを祝福するため、短期間の視察に訪れた。
+MEDUSAサービスが必要に応じて際限なく認識災害を検証し、サイト・ロメロ-5が全てのFCIを満足のいくレベルで分類できるようになった。そして、解明されたベリーマン=ラングフォード集合がFCIの絶え間ない生成を可能にしたことで、HYDRA計画は正式に完了した。O5-8がチームを祝福するため、短期間の視察に訪れた。
 
 Most Site Romero-5 staff, including Director Hughes, Dr. Berryman, and Dr. Langford, remained on-site to oversee continued cognitohazard production.
 
@@ -1485,7 +1485,7 @@ Most Site Romero-5 staff, including Director Hughes, Dr. Berryman, and Dr. Langf
 
 As of the end of 2012, after curation, Site Romero-5 was submitting an average of 60 useful FCIs per week, up to 10 of which were First Order.
 
-2012年末の時点で、サイト・ロメロ-5は生成物の取捨選択を経て、週平均60件の有用なFCIを提出しており、そのうち最大10件は第一級のものであった。
+2012年末の時点で、サイト・ロメロ-5は生成物の取捨選択を経て、週平均60件の有用なFCIを提出しており、そのうち最大10件は第1級のものであった。
 
  _
 [[div class="samples"]]
@@ -1518,7 +1518,7 @@ Innumerable wisps of pale orange strands which converge into a complex, many-poi
 [[div class="samples__desc"]]
 Greyscale snailshell spiral receding into a single point in the center-left. Minute effect on spatial reasoning: sets of right angles enclosed within a space composed of right angles (e.g. a closed caption bar displayed on a television) appear skewed.
 
-灰色の、巻貝状の螺旋が中央左にある一点へと落ち込んでいる。直角で構成された空間の内にある長方形(例: テレビに表示される、テロップのフレームなど)が、歪んで見える。
+灰色の、巻貝状の螺旋が中央左にある1点へと落ち込んでいる。直角で構成された空間の内にある長方形(例: テレビに表示される、テロップのフレームなど)が、歪んで見える。
 
 [[/div]]
 
@@ -1824,7 +1824,7 @@ RBAAのコピーは、サイト-87、サイト-91、サイト-118、サイト-40
 
 My initial batch of requests remains unanswered. I have decided to reach out to [[span class="hoverlink"]][[[secure-facility-dossier-site-120|Site-120]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]Site-120[[/span]][[span class="hoverlink-text"]]Foundation headquarters in Poland. Containment and research facility that embraces usage of thaumaturgy and the anomalous, including within its staff.[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/secure-facility-dossier-site-120/medium.jpg/small.jpg)"]]-[[/span]][[/span]][[/span]] earlier than planned. Site-120 is home to the Department of Ontokinetics and the single largest employer of reality benders in the Foundation. If they agree to my request, I believe it would be sufficient to start a snowball for the RBAA to get a foothold and spread across the Foundation.
 
-私の最初の一連の要請に対して、未だ返答はない。予定よりも早く、[[span class="hoverlink"]][[[secure-facility-dossier-site-120|サイト-120]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]サイト-120[[/span]][[span class="hoverlink-text"]]ポーランドにある財団サイト奇跡術及び異常性の使用を受け入れる収容及び研究施設。スタッフに異常性保持者を含む。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/secure-facility-dossier-site-120/medium.jpg/small.jpg)"]]-[[/span]][[/span]][[/span]]に連絡を取ることにした。サイト-120は存在力学部門の本拠地であり、財団内で現実改変者の雇用数が最多の施設である。もし彼らが私の要請に同意すれば、RBAAが足場を築き、財団全体に広がるための雪玉効果を生み出すのに十分であると考えている。
+私の最初の一連の要請に対して、未だ返答はない。予定よりも早く、[[span class="hoverlink"]][[[secure-facility-dossier-site-120|サイト-120]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]サイト-120[[/span]][[span class="hoverlink-text"]]ポーランドにある財団サイト。奇跡術及び異常性の使用を受け入れる収容及び研究施設。スタッフに異常性保持者を含む。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/secure-facility-dossier-site-120/medium.jpg/small.jpg)"]]-[[/span]][[/span]][[/span]]に連絡を取ることにした。サイト-120は存在力学部門の本拠地であり、財団内で現実改変者の雇用数が最多の施設である。もし彼らが私の要請に同意すれば、RBAAが足場を築き、財団全体に広がるための雪玉効果を生み出すのに十分であると考えている。
 
 **更新: 2015年02月14日**
 
@@ -1978,7 +1978,7 @@ Ava Berryman [[span class="forum__post-email"]]<@@ava.berryman@analytics.scp@@>[
 I wish you had consulted me before making this announcement. There is no method by which a reality bender can be identified by brain structure alone, this is known. The problem is more fundamental. The conclusion you've drawn makes little sense from a biological standpoint, and the weeks you've spent trying to convince me of 'scientific rigour' have apparently been lost to you as you've not included a single citation or scrap of medical evidence.
 
 このような発表をする前に、まず私にひとこと言ってほしかったです。脳の構造のみで現実改変者を特定する方法は存在しないというのは、周知の事実であったと思います。問題はもっと根源的なところにあります。
-あなたが導き出した結論は、生物学的にはほとんど無意味です。それに、あなたが「科学的厳密さ」について私に説明しようと費やした数週間は、全く無駄になってしまったようです。引用の一つ、医学的証拠の切れ端の一つも添えられていないのですから。
+あなたが導き出した結論は、生物学的にはほとんど無意味です。それに、あなたが「科学的厳密さ」について私に説明しようと費やした数週間は、全く無駄になってしまったようです。引用の1つ、医学的証拠の切れ端の1つも添えられていないのですから。
 
 This isn't like you, Dr. Langford. But your childish insistence on communicating to me via open letters very much is.
 
@@ -2034,7 +2034,7 @@ Dr. Langford travelled to Site-15 and presented the second annual Project NIETZS
 Dr. Langford again reported substantial delays and difficulties to the project, and the principle issue remained that there was not enough data to provably determine any conclusions. Dr. Langford was keen to highlight the extent of the proof that would be required: one objective of the project was to produce a fractal cognitohazard capable of terminating any reality bender, but to prove this would mean proving beyond reasonable doubt that no reality bender cannot be terminated via the same method. This would mean the deaths of multiple reality benders, or accurate simulation, and Dr. Langford expressed that the data available was not nearly sufficient for that.
 
 ラングフォード博士は、計画に再び大幅な遅延と困難が生じていることを報告した。主な問題は、依然として、何らかの結論を証明可能な形で導き出すにはデータが不足しているという点にあった。博士が特に強調したのは、要求される証明がどの程度のものかという点であった。
-計画の目標の一つは「あらゆる」現実改変者を終了させ得るフラクタル認識災害を創り出すことにある。しかし、これを証明するには、「この方法で終了させられない現実改変者は存在しない」ことを合理的な疑いの余地なく証明せねばならない。それは複数の現実改変者の死、あるいはそれに代わる正確なシミュレーションを必要とするが、そのどちらを行うにも、利用可能なデータは到底十分ではないと博士は述べた。
+計画の目標の1つは「あらゆる」現実改変者を終了させ得るフラクタル認識災害を創り出すことにある。しかし、これを証明するには、「この方法で終了させられない現実改変者は存在しない」ことを合理的な疑いの余地なく証明せねばならない。それは複数の現実改変者の死、あるいはそれに代わる正確なシミュレーションを必要とするが、そのどちらを行うにも、利用可能なデータは到底十分ではないと博士は述べた。
 
 O5-8 noted surprise that this was still an issue, but pledged that Site Romero-5 would eventually get the amount of data it needed.
 
@@ -2061,7 +2061,7 @@ While attending a conference at Site-19, Dr. Berryman addressed Dr. Langford in 
 Robert, I've just seen a presentation by Dr. Clef regarding reality benders and it gave me an idea. Have we tried simply going deeper into a candidate modification to the Berryman-Langford set and accessing more deeply-buried regions? I'm wondering if the answer is as simple as overwhelming the reality bender's mind with the much more complex fractal context. I think this wouldn't be too much of a deviation from our existing work to completely invalidate the studies we've done so far.
 
 ロバート、
-先ほどクレフ博士の現実改変者に関するプレゼンテーションを拝見して、一つ面白いアイデアを得ました。ベリーマン=ラングフォード集合の改変をさらに推し進め、より深層の領域にアクセスを試みる、というのはどうでしょうか？　より複雑なフラクタル文脈で現実改変者の精神を圧倒するということです。案外、答えはそれほど単純なことかもしれません。このアプローチなら、これまでの我々の研究から大きく逸脱することはないでしょうし、今までの研究結果を完全に無にすることもないと思います。
+先ほどクレフ博士の現実改変者に関するプレゼンテーションを拝見して、1つ面白いアイデアを得ました。ベリーマン=ラングフォード集合の改変をさらに推し進め、より深層の領域にアクセスを試みる、というのはどうでしょうか？　より複雑なフラクタル文脈で現実改変者の精神を圧倒するということです。案外、答えはそれほど単純なことかもしれません。このアプローチなら、これまでの我々の研究から大きく逸脱することはないでしょうし、今までの研究結果を完全に無にすることもないと思います。
 [[/div]]
 [[/div]] [!-- .forum-post --]
 
@@ -2157,7 +2157,7 @@ The other ones just aren't true. I was at the Site-19 conference just earlier th
 
 We've never been barred from leaving. I don't think? We get our annual leave, same as everyone else. I mean, we don't get to go home every night, but that's standard operating procedure for classified projects. And the compulsion thing is patently false -- the only source of compulsion here is the Third Order cognitohazards, but we're not allowed to look at them, there are even system locks that stop us if we try. No, I've not tried myself, of course not. And then there's [REDACTED] is valid, I suppose, but it's better than the alternative.
 
-外出を禁じられたことは一度も……なかったと思います。他の皆さんと同じように、年次休暇も取得できています。まあ、毎晩家に帰れるわけではありませんが、機密プロジェクトであることを考えると妥当だと思います。強制効果の件は明確な虚偽です。ここにある強制効果の源は、第三級の認識災害だけです。ですが、我々にそれを見る権限はありません。試そうとしたところで、システムロックが作動するはずです。いえ、自分で試したってわけじゃありませんよ。もちろん。それから[編集済]の件は……まあ、妥当な指摘だと思いますが、次善の策としてはマシな方でしょう。
+外出を禁じられたことは1度も……なかったと思います。他の皆さんと同じように、年次休暇も取得できています。まあ、毎晩家に帰れるわけではありませんが、機密プロジェクトであることを考えると妥当だと思います。強制効果の件は明確な虚偽です。ここにある強制効果の源は、第3級の認識災害だけです。ですが、我々にそれを見る権限はありません。試そうとしたところで、システムロックが作動するはずです。いえ、自分で試したってわけじゃありませんよ。もちろん。それから[編集済]の件は……まあ、妥当な指摘だと思いますが、次善の策としてはマシな方でしょう。
 [[/div]]
 
 [[div class="blockquote"]]
@@ -2165,7 +2165,7 @@ We've never been barred from leaving. I don't think? We get our annual leave, sa
 
 I've been Site Director for twelve years and I've never seen anything happen here that would warrant EC intervention. You can ask any of my staff. Oh, you did? Then you'll know for sure.
 
-私がサイト管理官に就任して12年になりますが、倫理委員会の介入を必要とするような事態がここで起きたことは一度もありません。職員の誰にでもお聞きになってください。ああ、もう済まされましたか。でしたら、すでに確信なさっているかと思います。
+私がサイト管理官に就任して12年になりますが、倫理委員会の介入を必要とするような事態がここで起きたことは1度もありません。職員の誰にでもお聞きになってください。ああ、もう済まされましたか。でしたら、すでに確信なさっているかと思います。
 
 I have the utmost respect for the whistleblowing process, but I will admit I would love to know who started this. I don't suppose-- no? I can't fault you for that.
 
@@ -2266,7 +2266,7 @@ The following footage was recorded during the Project NIETZSCHE Schedule Alignme
 
 //Recording starts. The projector is active and the first slide of the presentation is already visible. The camera is mounted on the far side of the room, opposite to the projection screen. On the right side of the room is a small podium holding a laptop. The room is set up for a capacity of around 20 people. All six members of the audience have already taken their seats.//
 
-記録開始。プロジェクターはすでに稼働しており、プレゼン用スライドの一枚目が表示されている。カメラはスクリーンの反対側の壁に設置されている。部屋の右側には、ノートPCの置かれた小さな演壇がある。この部屋の最大収容人数は二十名ほどである。六名の聴衆はすでに席についている。
+記録開始。プロジェクターはすでに稼働しており、プレゼン用スライドの1枚目が表示されている。カメラはスクリーンの反対側の壁に設置されている。部屋の右側には、ノートPCの置かれた小さな演壇がある。この部屋の最大収容人数は二十名ほどである。六名の聴衆はすでに席についている。
 
 //Dr. Langford is standing on the opposite side of the room, occluding some of the projection. He is holding the remote control for the presentation, passing it from hand to hand, watching the door.//
 
@@ -2274,7 +2274,7 @@ The following footage was recorded during the Project NIETZSCHE Schedule Alignme
 
 **Cmdr. Reddy:** Robert? We're a minute past the start time. What's the hold-up?
 
-**レディ司令官:** 何か問題でも？　ロバート。開始時間は一分前だが？
+**レディ司令官:** 何か問題でも？　ロバート。開始時間は1分前だが？
 
 **Dr. Langford:** All good, just... waiting for stragglers.
 
@@ -2290,7 +2290,7 @@ The following footage was recorded during the Project NIETZSCHE Schedule Alignme
 
 **Dir. Vuković:** O5-8 was called away on urgent business an hour ago. Besides, this is being recorded, isn't it? And it's only a formality in the first place. Let's get this over with.
 
-**ヴコヴィッチ管理官**: O5-8は緊急の用事で呼び出された。1時間前ほどに。この会議は録画されているし、何よりこれ自体が形式的なものにすぎない。速やかに始めてくれたまえ。
+**ヴコヴィッチ管理官**: O5-8は緊急の用事で呼び出された。1時間ほど前に。この会議は録画されているし、何よりこれ自体が形式的なものにすぎない。速やかに始めてくれたまえ。
 
 **Dr. Langford:** Believe me, any frustrations you feel about the project timeline, I feel tenfold -- but seeing as it was O5-8 who ordered me to make these updates in the first place--
 
@@ -2314,7 +2314,7 @@ The following footage was recorded during the Project NIETZSCHE Schedule Alignme
 
 **Dr. Langford:** As you know, we've already mastered visual cognitohazards via -- if you'll excuse the name -- the Langford set, an algorithm that, represented visually, produces fractal imagery that can be tuned to have psychoactive effects. We call this technique Fractal Cognitohazardous Imagery, and Site Romero-5 is responsible for production and distribution of FCIs to the entire Foundation. For demonstration purposes, here's one you're all familiar with...
 
-**ラングフォード博士:** 非常に恐縮な名称ではございますが、「ラングフォード集合」と呼ばれるアルゴリズムを介して、皆様のご存じのとおり、我々はすでに視覚的な認識災害についてはよく理解しています。ご覧のように、このアルゴリズムは、精神作用を持つように調整したフラクタル画像を生成するものです。我々はこの技術を「フラクタル的認識災害画像」と呼んでおり、サイト・ロメロ-5は財団全体に向けてこのFCIの生成と供給を行っています。デモンストレーションとして、皆様もよくご存知であろうものを一つお見せします……
+**ラングフォード博士:** 非常に恐縮な名称ではございますが、「ラングフォード集合」と呼ばれるアルゴリズムを介して、皆様のご存じのとおり、我々はすでに視覚的な認識災害についてはよく理解しています。ご覧のように、このアルゴリズムは、精神作用を持つように調整したフラクタル画像を生成するものです。我々はこの技術を「フラクタル的認識災害画像」と呼んでおり、サイト・ロメロ-5は財団全体に向けてこのFCIの生成と供給を行っています。デモンストレーションとして、皆様もよくご存知であろうものをまずお見せします……
 
 [[div class="scp-image-block block-center" style="width: 300px"]]
 [[image https://scp-wiki.wikidot.com/local--files/scp-9001/langfordfractal.webp]]
@@ -2322,7 +2322,7 @@ The following footage was recorded during the Project NIETZSCHE Schedule Alignme
 
 **Dr. Langford:** This is a Third Order FCI that should have elicited a mild sense of dizziness. Do we have any reality benders in the room?
 
-**ラングフォード博士:** これは第三級FCIで、視認者は軽い目眩のような感覚を覚えるはずです。この部屋に現実改変者はおられますか？
+**ラングフォード博士:** これは第3級FCIで、視認者は軽い目眩のような感覚を覚えるはずです。この部屋に現実改変者はおられますか？
 
 //Dr. Ackermann raises his hand.//
 
@@ -2350,7 +2350,7 @@ The following footage was recorded during the Project NIETZSCHE Schedule Alignme
 
 **Dr. Langford:** We can discuss this later, then. The number of reality benders available to us is so little, and you'd be //shocked// at how few volunteer for exposure to First Order FCIs. Despite having made leaps and bounds in the area of artificial test subjects, we can't do the same for reality benders, and we're stuck working with the handful of data points that we //have// been able to gather. We've submitted--
 
-**ラングフォード博士:** すいませんがあとでお話ししましょうか。つまりですね、我々がアクセスできる現実改変者の数は非常に少なく、そして、第一級FCIへの曝露試験へご志願いただいた方々の数は、衝撃的なまでに少なかったです。人工的な被験者という面だけ見れば、我々は大きな飛躍を遂げました。ですが、現実改変者に対して同じことはできていません。ですから、我々はこれまでにどうにかして集められたわずかなデータを頼りに研究を進めていく他なかったのです。我々は--　　--
+**ラングフォード博士:** すいませんがあとでお話ししましょうか。つまりですね、我々がアクセスできる現実改変者の数は非常に少なく、そして、第1級FCIへの曝露試験へご志願いただいた方々の数は、衝撃的なまでに少なかったです。人工的な被験者という面だけ見れば、我々は大きな飛躍を遂げました。ですが、現実改変者に対して同じことはできていません。ですから、我々はこれまでにどうにかして集められたわずかなデータを頼りに研究を進めていく他なかったのです。我々は--　　--
 
 **Dr. Ackermann:** Artificial test subjects?
 
@@ -2362,11 +2362,11 @@ The following footage was recorded during the Project NIETZSCHE Schedule Alignme
 
 **Dr. Anand:** I apologise if this is already common knowledge -- this is my first time attending. In your original proposal for Project HYDRA, you made it very clear that kill agents based on the fractal platform were near-universally fatal for humans. How are Greens meaningfully different? What is stopping you from using the data from just one Type-Green to produce a kill agent?
 
-**アナンド博士:** これに参加するのは初めてなものですから、常識だったら恐縮なのですが、HYDRA計画の最初の提案書において、フラクタル・プラットフォームに基づく殺害エージェントは、ヒトに対してほぼ普遍的に致命的であると明記されていました。グリーンは一体何がそんなに違うのでしょうか？　例えば、一人のタイプ・グリーンから得られたデータを使って殺害エージェントを生成することは可能なのではないのでしょうか？
+**アナンド博士:** これに参加するのは初めてなものですから、常識だったら恐縮なのですが、HYDRA計画の最初の提案書において、フラクタル・プラットフォームに基づく殺害エージェントは、ヒトに対してほぼ普遍的に致命的であると明記されていました。グリーンは一体何がそんなに違うのでしょうか？　例えば、1人のタイプ・グリーンから得られたデータを使って殺害エージェントを生成することは可能なのではないのでしょうか？
 
 **Dr. Langford:** Thank you, doctor. I must correct you: the goal of Project HYDRA was never to construct a universal "kill agent" specifically -- moreso a universal agent //at all//. But you've noted an important issue in that we can only test a First Order FCI on a reality bender once. Proving that a single FCI is capable of terminating a single reality bender, once, is not sufficient. It must be proven that it is capable of terminating //any// reality bender; additionally, //one// successful FCI is not a success for Project NIETZSCHE. No -- we must be able to produce "kill agents" repeatedly, as many as are required.
 
-**ラングフォード博士:** ご質問ありがとうございます、博士。一点だけ訂正させてください。当初から、HYDRA計画の目標とは、特定の殺害エージェントを構築することではなく、より正確に言うのであれば、普遍的なエージェントを構築することにありました。しかし、ご指摘の点は非常に重要です。ある現実改変者に対して、我々は第一級FCIを一度しかテストできないという問題は、確かに存在しています。単一のFCIが、単一の現実改変者を、一度だけ終了できることを証明するだけでは、不十分なのです。我々が示すべきは、それがあらゆる現実改変者を終了できることなのです。さらに、FCIを一つ作れたところで、それはNIETZSCHE計画の成功を意味しません。つまり、我々は、殺害エージェントを、必要とされる数だけ、繰り返し生成できるようにならなければならないのです。
+**ラングフォード博士:** ご質問ありがとうございます、博士。1点だけ訂正させてください。当初から、HYDRA計画の目標とは、そもそも殺害エージェントを構築することではありません。より正確に言うのであれば、普遍的なエージェントを構築することです。しかし、ご指摘の点は非常に重要です。ある現実改変者に対して、我々は第1級FCIを1度しかテストできないという問題は、確かに存在しています。単一のFCIが、単一の現実改変者を、1度だけ終了できることを証明するだけでは、不十分なのです。我々が示すべきは、それがあらゆる現実改変者を終了できることなのです。さらに、FCIを1つ作れたところで、それはNIETZSCHE計画の成功を意味しません。つまり、我々は、殺害エージェントを、必要とされる数だけ、繰り返し生成できるようにならなければならないのです。
 
 **Dr. Anand:** Why do we need more than one?
 
@@ -2378,11 +2378,11 @@ The following footage was recorded during the Project NIETZSCHE Schedule Alignme
 
 **Dr. Langford:** Now, that's not to say that we've made no progress. I, personally, believe that the answer lies in our computational methods. I have been hard at work with cutting-edge refinements to our procedures and generation logic, and we believe we have found a region of the modified Langford set that is somewhat effective on reality benders. We've only been able to create one FCI from this region, a very weak Second Order FCI, but I hope that further exploration of this region may yield better results.
 
-**ラングフォード博士:** とはいえ、今の我々に進捗がないというわけではありません。ぼく個人としては、解決の糸口は我々の計算手法にあると思っています。プロトコルと生成ロジックに最先端の改良を施すべく懸命に取り組んできた結果、改変ラングフォード集合の中に、現実改変者に対してある程度の効果を示す領域を発見したと考えています。この領域からは、非常に微弱な第二級FCIのみ生成できました。ですが、この領域をさらに探査することで、より良い結果が得られるのではないかと期待しています。
+**ラングフォード博士:** とはいえ、今の我々に進捗がないというわけではありません。ぼく個人としては、解決の糸口は我々の計算手法にあると思っています。プロトコルと生成ロジックに最先端の改良を施すべく懸命に取り組んできた結果、改変ラングフォード集合の中に、現実改変者に対してある程度の効果を示す領域を発見したと考えています。この領域からは、非常に微弱な第2級FCIのみ生成できました。ですが、この領域をさらに探査することで、より良い結果が得られるのではないかと期待しています。
 
 **Dr. Langford:** On the next slide is that Second Order FCI. Dr. Ackermann, along with any other reality benders watching, and indeed everyone else: I expect the next slide to elicit a mild feeling of //cold//. Please observe the very latest in Berryman-Langford fractal agents.
 
-**ラングフォード博士:** 次のスライドには、第二級FCIがあります。アッカーマン博士、それからこれをご覧になっている現実改変者の皆さま、そして当然それ以外の皆さま方も、穏やかな寒気を感じるはずです。ベリーマン=ラングフォード・フラクタル・エージェントの最先端を、どうぞご覧ください。
+**ラングフォード博士:** 次のスライドには、第2級FCIがあります。アッカーマン博士、それからこれをご覧になっている現実改変者の皆さま、そして当然それ以外の皆さま方も、穏やかな寒気を感じるはずです。ベリーマン=ラングフォード・フラクタル・エージェントの最先端を、どうぞご覧ください。
 
 [[div class="scp-image-block block-center" style="width: 300px; padding: 4rem 0.25rem"]]
 = [認識災害につき画像除去]
@@ -2445,7 +2445,7 @@ The live broadcast ended 34 minutes earlier than scheduled.
 
 Alexandra.aic, which was monitoring the broadcast, was able to detect and intercept the First Order FCI present in the visual feed, preventing it from affecting any of the remote participants. Director Hughes, Commander Reddy, Director Vuković, Dr. Anand and Dr. Miller were the only casualties of the incident.
 
-放送を監視していたAICアレクサンドラは、映像フィード内に含まれていた第一級FCIを検知・遮断することに成功し、配信視聴者への影響を未然に防いだ。このインシデントにおける犠牲者は、ヒューズ管理官、レディ司令官、ヴコヴィッチ理事、アナンド博士、そしてミラー博士のみであった。
+放送を監視していたAlexandra.aicは、映像フィード内に含まれていた第1級FCIを検知・遮断することに成功し、配信視聴者への影響を未然に防いだ。このインシデントにおける犠牲者は、ヒューズ管理官、レディ司令官、ヴコヴィッチ理事、アナンド博士、そしてミラー博士のみであった。
 
 On 2018-11-02, the day following Incident 9001-1, Dr. Langford was summoned for debriefing by O5-8.
 
@@ -2484,7 +2484,7 @@ On 2018-11-02, the day following Incident 9001-1, Dr. Langford was summoned for 
 
 **Dr. Langford:** Most of the presentation was the same as last year's, including the demonstration coghaz. There was supposed to be an additional demo that would prove that we're starting to be able to make FCIs that work on reality benders. The wrong image was in the presentation.
 
-**ラングフォード博士:** あのプレゼンは昨年とほとんど同じ者です。デモ用の認識災害もありました。現実改変者にも効くようなFCIを作ることができたことを示すために、もう一個のデモ画像を入れたはずなんです。ですが、あれは別の画像でした。
+**ラングフォード博士:** あのプレゼンは昨年とほとんど同じ者です。デモ用の認識災害もありました。現実改変者にも効くようなFCIを作ることができたことを示すために、もうひとつデモ画像を入れたはずなんです。ですが、あれは別の画像でした。
 
 **O5-8:** Intention?
 
@@ -2500,7 +2500,7 @@ On 2018-11-02, the day following Incident 9001-1, Dr. Langford was summoned for 
 
 **Dr. Langford:** The image that was actually included was a First Order FCI, lethal to humans.
 
-**ラングフォード博士:** 実際に映された画像は、第一級FCIでした。ヒトに対して致死性を持つものです。
+**ラングフォード博士:** 実際に映された画像は、第1級FCIでした。ヒトに対して致死性を持つものです。
 
 //Silence.//
 
@@ -2548,7 +2548,7 @@ On 2018-11-02, the day following Incident 9001-1, Dr. Langford was summoned for 
 
 **Dr. Langford:** Myself. I-- I mean... I must have made some error, swapped a Third Order and a First Order in the filesystem, I don't know, it doesn't make sense. That's the only answer I have.
 
-**ラングフォード博士:** ぼくです。ぼくが--　　--何かミスをしたに違いないんです。ファイルシステム上で第三級と第一級を取り違えたとか。いえ、わけがわからないですよね。ですが、こうとしか思えないんです。
+**ラングフォード博士:** ぼくです。ぼくが--　　--何かミスをしたに違いないんです。ファイルシステム上で第3級と第1級を取り違えたとか。いえ、わけがわからないですよね。ですが、こうとしか思えないんです。
 
 **O5-8:** What measures were in place to prevent this from happening?
 
@@ -2564,7 +2564,7 @@ On 2018-11-02, the day following Incident 9001-1, Dr. Langford was summoned for 
 
 **Dr. Langford:** That FCI and its inoculants had already been distributed, according to Alexandra. They would already have been wiped from our systems entirely.
 
-**ラングフォード博士:** アレクザンドラによると、あのFCIと、あれに対する免疫は、すでに配布されているそうです。そしてそれはすでに、我々のシステム上から削除されているはずです。
+**ラングフォード博士:** Alexandra.aicによると、あのFCIと、あれに対する免疫は、すでに配布されているそうです。そしてそれはすでに、我々のシステム上から削除されているはずです。
 
 **O5-8:** Data is data.
 
@@ -2584,7 +2584,7 @@ On 2018-11-02, the day following Incident 9001-1, Dr. Langford was summoned for 
 
 **O5-8:** Yes. Everyone has seen the recording by now; the damage you've done to the project image is immeasurable. Over the past day, the phrase 'Berryman-Langford kill agent' has arisen, presumably from mockery, but is already being baked into the Foundation's collective vocabulary. No one is saying 'First Order FCI' anymore. We won't permit you to leave, however. You remain useful.
 
-**O5-8:** 然り。あの記録は、今や万人が知るところだ。貴公が計画の威信に与えた損害は計り知れん。この一日で、『ベリーマン＝ラングフォード・ミーム殺害エージェント』なる言葉が生まれた。恐らくは嘲りからであろうが、すでに財団の共通語彙として定着しつつある。もはや誰も『第一等級FCI』とは口にせぬ。だが、貴公が計画を去ることは許さん。まだ使い道があるのでな。
+**O5-8:** 然り。あの記録は、今や万人が知るところだ。貴公が計画の威信に与えた損害は計り知れん。この1日で、「ベリーマン＝ラングフォード・ミーム殺害エージェント」なる言葉が生まれた。恐らくは嘲りからであろうが、すでに財団の共通語彙として定着しつつある。もはや誰も「第1級FCI」とは口にせぬ。だが、貴公が計画を去ることは許さん。まだ使い道があるのでな。
 
 **Dr. Langford:** Amnesticize me, then. I don't want anything to do with this. I already hated seeing my name on that thing.
 
@@ -2592,7 +2592,7 @@ On 2018-11-02, the day following Incident 9001-1, Dr. Langford was summoned for 
 
 **O5-8:** No. We need your expertise, not your labor. We'll find you something to do. Away from the light.
 
-**O5-8:** 否。我らが必要とするは貴公の専門知識だ、労働力ではない。貴公には別の任を与えよう。日の当たらぬ場所でのな。
+**O5-8:** 否。我らが必要とするのは貴公の専門知識だ、労働力ではない。貴公には別の任を与えよう。日の当たらぬ場所でのな。
 [[/div]]
 
 Immediately after this meeting, Dr. Langford was removed from Project NIETZSCHE and placed on administrative leave.
@@ -2640,7 +2640,7 @@ The inciting disaster will be documented as Incident 9001-1, and will be kept on
 
 Production of cognitohazardous imagery will continue at Memetics Research Site Romero-5. I will take over Samantha Hughes' position as Site Director. As Romero-5 is therefore responsible for containment of SCP-9001, it is now a Dark site: all remote communications between Romero-5 and other Foundation Sites are strictly forbidden.
 
-認識災害画像の生産は、ミーム学研究サイト・ロメロ-5にて継続されます。私、エイヴァ・ベリーマンがサマンサ・ヒューズ管理官の職務を引き継ぎ、同サイトの管理官に就任します。これに伴い、ロメロ-5はSCP-9001の収容責任を負うこととなるため、本日をもってダークサイトに指定されます。ロメロ-5と他の財団サイト間のいかなる遠隔通信も厳格に禁止されます。
+認識災害画像の生産は、ミーム学研究サイト・ロメロ-5にて継続されます。私、エイヴァ・ベリーマンがサマンサ・ヒューズ管理官の職務を引き継ぎ、同サイトの管理官に就任します。これに伴い、ロメロ-5はSCP-9001の収容責任を負うこととなるため、本日をもって秘匿サイトに指定されます。ロメロ-5と他の財団サイト間のいかなる遠隔通信も厳格に禁止されます。
 
 The security of SCP-9001 is paramount. We will accept no compromise.
 
@@ -2667,7 +2667,7 @@ On 2025-08-22, Protected Site-7 received its quarterly FCI package from Site Rom
 
 Following the initial turmoil and investigation, an All-Clear notice was declared and AIC Waldor was isolated from SCiPnet. Though it had purged the majority of the FCI package, a small selection remained within the database. Of those remaining, none had been marked by the AI as possessing cognitohazardous imagery and are catalogued below.
 
-初期の混乱と調査を経て安全宣言がなされ、AIC WaldorはSCiPnetから隔離された。FCIパッケージの大半は消去されたものの、ごく一部がデータベース内に残存していた。残存したファイルのうち、AIによって認識災害画像を含むとマークされたものは存在しない。それらは以下に列挙されている通りである。
+初期の混乱と調査を経て安全宣言がなされ、Waldor.aicはSCiPnetから隔離された。FCIパッケージの大半は消去されたものの、ごく一部がデータベース内に残存していた。残存したファイルのうち、AIによって認識災害画像を含むとマークされたものは存在しない。それらは以下に列挙されている通りである。
 
 [[div class="samples" style="padding-top: 1rem;"]]
 [[div class="samples__image-heading"]]
@@ -2693,7 +2693,7 @@ Undulating branches in a chaotic weave, colored in orange hues. Writhing, squirm
 [[div class="samples__desc"]]
 Fear is a negative emotional response to active/perceived threats or impending danger, suspected to have arisen as a form of survival mechanism (e.g. conditioning living organisms to avoid heights).
 
-恐怖とは、活動中の、あるいは知覚された脅威、または差し迫った危険に対する、否定的な感情反応である。生存機構の一形態として発生したと推測される（例：生物を、高所を避けるよう条件付ける）。
+恐怖とは、活動中の、あるいは知覚された脅威、または差し迫った危険に対する、否定的な感情反応である。これは生存機構のいち形態として発生したと推測される（例：生物を、高所を避けるよう条件付ける）。
 
 [[/div]]
 
@@ -2724,7 +2724,7 @@ Waldor.aicは、その意思決定プロセスおよび財団データの無許�
 
 Following a conference with the O5 Council to explain the false alarm, RAISA Director Maria Jones was authorized to open a line of communication to Dr. Berryman's team to inform them of the FCI mishandling and request a resubmission of their quarterly findings. There would be no response to this, or subsequent hails from Site-01.
 
-O5評議会へ誤報であった旨を説明する会議の後、RAISA理事マリア・ジョーンズはFCIの誤処理を通知し、四半期調査結果の再提出を要請するため、ベリーマン博士のチームへの通信回線を開く権限を与えられた。しかし、この通信、およびその後にサイト-01から行われた度重なる呼びかけにも、応答はなかった。
+O5評議会へ誤報であった旨を説明する会議の後、RAISA長官マリア・ジョーンズはFCIの誤処理を通知し、四半期調査結果の再提出を要請するため、ベリーマン博士のチームへの通信回線を開く権限を与えられた。しかし、この通信、およびその後にサイト-01から行われた度重なる呼びかけにも、応答はなかった。
 
 Satellite imagery of the Site grounds would reveal the presence of additional facilities and building extensions that were neither authorized nor accounted for.
 
@@ -2743,3 +2743,6 @@ Site Romero-5 has been designated SCP-9001-A and has been assigned Keter Class. 
 
 [[/=]]
 [[/div]]
+
+
+
