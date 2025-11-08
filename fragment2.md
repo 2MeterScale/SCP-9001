@@ -178,12 +178,15 @@ http://scp-wiki.wikidot.com/local--files/scp-9001/lichten-flip.webp);
 }
 [[/module]]
 
-[[>]]
-[[module Rate]]
-[[div_]]
-[[size small]]ページ2/2[[/size]]
-[[/div]]
-[[/>]]
+[[include :scp-jp:info:start]]
+翻訳責任者: [[*user 2MeterScale]]
+翻訳年: 2025
+著作権者: [[*user S D Locke]]、[[*user Croquembouche]]、[[*user PandoraNuker]]
+原題: Fractal
+作成年: 2025
+初訳時参照リビジョン: 52
+元記事リンク: https://scp-wiki.wikidot.com/scp-9001
+[[include :scp-jp:info:end]]
 
 -----
 
@@ -669,27 +672,49 @@ Initial attempts at an aerial assault on the facility were thwarted by hostile l
 
 **Dr. Langford:** Excuse me? I fail to see how that's releva--
 
+**ラングフォード博士:** 失礼ですが、そのご質問は何の関係が--　　--
+
 **Cmdr. Lament:** Answer the damn question.
+
+**ラメント司令官:** 御託はいい。答えろ。
 
 **Dr. Langford:** A single piece of broken-up Cadbury chocolate melted in, and half a creamer pod since the chocolate already had some milk.
 
+**ラングフォード博士:** キャドバリー・チョコを一つ溶かし入れて、コーヒーフレッシュを半分だけ。チョコにミルクは含まれてますから。
+
 **Cmdr. Lament:** Favorite novel?
+
+**ラメント司令官:** 彼女の好きな小説は？
 
 **Dr. Langford:** Snow Crash by Neal Stephenson.
 
+**ラングフォード博士:** ニール・ステフェンソンの『スノウ・クラッシュ』。
+
 **Cmdr. Lament:** Hobbies?
+
+**ラメント司令官:** 趣味は？
 
 **Dr. Langford:** Caring for weird-looking flowers and succulents.
 
+**ラングフォード博士:** 変な形の花とか、多肉植物とかの世話です。
+
 **Cmdr. Lament:** The truth is, Dr. Langford, the Foundation may have other memeticists, but its only expert on Dr. Berryman is you. And given how far the situation has progressed, we’re sure as hell going to need that.
+
+**ラメント司令官:** そういうことだ。ラングフォード博士。確かに財団のミーム学者は君だけではない。だが、ベリーマン博士の専門家は君だけだ。状況はすでにかなり悪い。だから、君がどうしても必要なのだ。
 
 //Dr. Langford stares at the floor for twenty seconds. He sighs, then speaks up in a whisper.//
 
+およそ20秒の間、ラングフォード博士は床を見つめた。彼はため息をついて、消え入るような声で話しはじめる。
+
 **Dr. Langford:** … When do I deploy?
+
+**ラングフォード博士:** ……いつ、向かうのです？
 
 **Cmdr. Lament:** We're oscar mike oh-nine-thirty hours tomorrow, Dr. Langford. Pack your bags.
 
-**<END TRANSCRIPT>**
+**ラメント司令官:** 明朝0930に移動開始だ。ラングフォード博士、荷物をまとめてくれ。
+
+**<記録終了>**
 [[/div]]
 
 Upon his arrival at FOB Panloque, Dr. Langford would be outfitted and deployed alongside the JTF. It was decided the team would utilize Site Romero-5's subterranean tram access in order to bypass above-ground hostiles. Their mission would consist of three discrete objectives:
@@ -697,14 +722,23 @@ Upon his arrival at FOB Panloque, Dr. Langford would be outfitted and deployed a
 # Determine the locus of the SCP-9001-A phenomenon and destroy it, if possible.
 # Apprehend or terminate suspected rogue agent: Dr. Ava Berryman
 
+ラングフォード博士は、前線基地パンロケに到着ののち、装備を支給され、統合任務部隊とともに出動することとなりました。本部隊は、敵性実体のいる地上を迂回するため、サイト・ロメロ-5の地下鉄道を利用し、サイトにアクセスすることが決定されました。また、本チームは、以下の3つを目的として、展開されます。
+
+# 生産センターからSCP-9001のコアを発見し、抽出する。
+# SCP-9001-A現象の発生源を特定し、可能であればそれを破壊する
+# 離反したと疑われる職員、エイヴァ・ベリーマン博士を捕縛、または終了する
+
 [[div class="explo-root"]]
 [[div class="explo explo--room"]]
 [[=]]
-+ Exploration Transcript
++ 探査ログ
 [[/=]]
 
 ||~ Subject || SCP-9001-A ||
 ||~ Team Lead || Benton Torres, Captain, MTF Epsilon-11 ||
+
+||~ 対象 || SCP-9001-A ||
+||~ チームリーダー || ベントン・トレス隊長、機動部隊イプシロン-11所属 ||
 
 ||~ Team Members ||
 || **Warren Gooden**, Technician, MTF Zeta-9 ||
@@ -712,6 +746,13 @@ Upon his arrival at FOB Panloque, Dr. Langford would be outfitted and deployed a
 || **Typhlo**, Deprivate[[footnote]]Operatives who have undergone invasive neurosurgical procedures to prohibit their ability to see, hear, taste, and smell. Augmented mechanoreceptors allow Deprivates an alternative means of perception by way of acute awareness of vibrations.[[/footnote]], MTF Eta-10 ||
 || **Special Operative Nix**, Navigator, MTF Theta-90 ||
 || **Dr. Robert Langford**, Negotiator ||
+
+||~ チームメンバー ||
+|| **ウォーレン・グッデン**、技術者、機動部隊ゼータ-9所属 ||
+|| **セバスチャン・グッデン**、小銃手、機動部隊ゼータ-9所属 ||
+|| **タイフロ**、奪感者[[footnote]]侵襲的神経外科処置により、視覚、聴覚、味覚、嗅覚を剥奪された工作員。奪感者は、機械的拡張感覚器により、振動に対する鋭敏な感覚を獲得し、通常と異なる方法で外界を認識することができる。[[/footnote]]、 機動部隊エータ-10 ||
+|| **特殊工作員ニクス**、案内員、機動部隊シータ-90 ||
+|| **ロバート・ラングフォード博士**、交渉人 ||
 
 ||~ Equipment ||
 || 4 standard-issue M27 Infantry Automatic Rifles and additional magazines _
@@ -723,51 +764,101 @@ Upon his arrival at FOB Panloque, Dr. Langford would be outfitted and deployed a
 //Sebastian:// 24" machete _
 //Torres:// Quantum Entangled Relay Device, tethered to H.E.C.O.R.[[footnote]](High Energy Concentration Orbital Railgun)[[/footnote]] ||
 
+||~ 装備 ||
+|| M27歩兵用自動小銃4丁および予備マガジン _
+M45A1自動けん銃6丁および予備マガジン _
+マーテル型ペグ[[footnote]][[[SCP-1730]]]を受けて開発された、実験的技術。空間変異により、通常の手順では脱出が困難となる状況下において、設置されたペグを中継点とすることで、人員の二点間即時転送を可能にする装備。[[/footnote]] _
+//ニクス:// M38選抜射手用小銃および予備マガジン _
+//ニクス:// プリズムコンパス _
+//ウォーレン:// 携帯用スクラントン現実錨 _
+//セバスチャン:// 24インチのマチェット _
+//トーレス:// 量子もつれリレーデバイス。H.E.C.O.R.に接続されている。[[footnote]](High Energy Concentration Orbital Railgun: 高エネルギー集中型軌道電磁砲)[[/footnote]] ||
+
 -----
 
 [[=]]
-++ [BEGIN LOG]
+++ [記録開始]
 [[/=]]
 
 //The squad is traveling down a darkened flight of stairs through a concrete shaft. The door at its terminus opens into a dark, cavernous area. Automatic lights flicker on as they enter, revealing that they've entered a simple metro bored into the earth. Across from the entrance, a railway is set within a deep depression that trails off into the tunnel beyond. Within the station, shallow cracks run up the facade, support pillars, and across the ceiling, but otherwise the integrity of the chamber is holding up against topological restructuring.//
 
+部隊はコンクリート製のシャフトを通り、暗い階段を下っていく。突き当たりにあるドアを抜ければ、まるで洞窟のような巨大な空間が現れた。自動照明が明滅している中、一行はそこに足を踏み入れる。地中をくり抜いて作られた、簡素な地下鉄の駅だ。入り口の向かいには線路があった。プラットホームは、線路よりもやや高い位置にある。その線路は、奥のトンネルへと続いている。駅構内の壁面や支柱、天井には浅い亀裂が入っている。だが、位相的再構築の影響を受けながらも、空間全体の構造は維持されているようだ。
+
 //Lights along the tracks within the tunnel do not engage, leaving the tunnel itself mired in darkness. The tram is not currently present.//
+
+トンネル内の照明は点灯せず、その奥は暗闇に包まれている。トラムの姿も見当たらない。
 
 //The brothers, Warren and Sebastian, jog alongside the tracks towards a control booth on the far end of the chamber. Warren fiddles with the door fruitlessly until Sebastian pushes him aside.//
 
+グッデン兄弟が線路脇を走って、ホームの奥にある制御室へと向かう。兄のウォーレンがドアをこじ開けようと悪戦苦闘するが、埒が開かない。やがて痺れを切らしたセバスチャンが、ウォーレンを突き飛ばした。
+
 **Typhlo:** {{Echo mic check.}}
+
+**タイフロ:** {{えこー、まいくちぇっく}}
 
 **Torres:** What? I didn't even-- ugh. We're live, folks. Check your mics.
 
+**トーレス:** 何？　おれはまだ--　　--まあいい。お前ら生きてるな。マイクチェックしとけ。
+
 **Warren:** Check.
+
+**ウォーレン:** チェック。
 
 **Nix:** Check, and cool it with the parlour tricks, Typh.
 
+**ニクス:** チェック。タイフロ、そのお座敷芸も大概にしておけ。
+
 //Warren steps aside as Sebastian shoulders full-force into the door, forcing it open.//
+
+ウォーレンが身を引く。セバスチャンはドアに渾身の力で体当たりし、強引に押し開けた。
 
 **Sebastian:** Woo! That's a check!
 
+**セバスチャン:** しゃあっ！　チェック！
+
 **Dr. Langford:** Uhm... check.
+
+**ラングフォード博士:** あー……、チェック。
 
 //Sebastian and team fan about the chamber while Warren enters the control booth.//
 
+ウォーレンが制御室に入っていく一方、セバスチャンと他の隊員たちは構内に散開し、警戒態勢に入った。
+
 **Torres:** Right. All golden. Warren, what've we got?
+
+**トレス:** よし。全員OKだな。ウォーレン、どうにかできるか？
 
 **Warren:** Looks like everything's still up and running. Tram's halted mid-way down the line. Last use was... about a month ago, according to the logs here. Looks like daily use up to that point, besides.
 
+**ウォーレン:** 一応どれも動いてはいそうですな。トラムが線路の途中で止まってて……最後に使われたのが先月か。ここのログにそう書いてます。それまでは、日常的に使われていた、と。
+
 **Dr. Langford:** Should have been for the Director's use only, and Berryman isn't the sharing type.
+
+**ラングフォード博士:** どうにも管理官専門のトラムに思えます。ベリーマン博士が、これを誰かと共有していたとも思えません。
 
 **Typhlo:** {{Mutiny?}}
 
+**タイフロ:** {{叛乱カ？}}
+
 **Dr. Langford:** Against Berryman? I don't think so. The woman could //smell// insubordination. No, if they were using this thing it was on her orders.
+
+**ラングフォード博士:** ベリーマンに対してですか？　それはないでしょうね。反抗の気配を嗅ぎ取れるのですよ。あの方は。つまり誰かがこのトラムを使っていたとしたら、それは彼女の命令です。
 
 **Sebastian:** Shit. Add that to the laundry list of questions for the doc'. //(louder)// Is the tram live or are we hoofin' it, Wally?
 
+**セバスチャン:** こりゃ博士サマにお目通りしたら質問攻めにしなきゃいかんなあ。(大声で)トラム動いてんの？　それとも俺たちこっからお散歩？
+
 //There is a loud, electronic *ding*, and a distant sound of mechanical whirring.//
+
+ジリン、と大きな電子音が鳴った。遠くから機械の唸りが聞こえる。
 
 **Warren:** For the latter half of the trip, maybe. Have to wait and see what was holding it up. For now though, it's headed in our direction.
 
+**ウォーレン:** 
+
 **Torres:** Good work. Typhlo, can you get a read on our transport? I need you to check for occupants.
+
+
 
 //Typhlo drops onto the tracks, kneeling down to place a hand upon the rail.//
 

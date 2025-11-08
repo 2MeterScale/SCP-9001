@@ -402,12 +402,15 @@ body { overflow-x: hidden }
 }
 [[/module]]
 
-[[>]]
-[[module Rate]]
-[[div_]]
-[[size small]]ページ1/2[[/size]]
-[[/div]]
-[[/>]]
+[[include :scp-jp:info:start]]
+翻訳責任者: [[*user 2MeterScale]]
+翻訳年: 2025
+著作権者: [[*user S D Locke]]、[[*user Croquembouche]]、[[*user PandoraNuker]]
+原題: Fractal
+作成年: 2025
+初訳時参照リビジョン: 52
+元記事リンク: https://scp-wiki.wikidot.com/scp-9001
+[[include :scp-jp:info:end]]
 
 [[div class="blockquote classic curved"]]
 
