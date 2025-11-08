@@ -517,79 +517,155 @@ Initial attempts at an aerial assault on the facility were thwarted by hostile l
 
 //[The video is filmed from the perspective of a helicopter flying through the night sky  -- several more are seen in the distance ahead. The sounds of shouting passengers are drowned out by the heavy thumping of rotors.]//
 
+[映像は夜空を飛ぶヘリコプターの視点から撮影されている。前方遠くにさらに数機飛んでいる。乗員たちが何かを叫ぶが、それはローターの重い音によってかき消されてしまう。]
+
 //[Scanning the wooded expanse below, little can be made out as the region is mired in fog. As the perspective tilts, it comes into view -- buildings atop buildings, a veritable skyscraper whose floors are a confusing knot of interlocking facilities haphazardly growing from one another. A second helicopter circles around the side of the tower; its side-mounted machine gun fires at obscure figures crawling out from its windows.]//
+
+[眼下に広がる森林は霧に覆われている。そのせいで見通しはほとんど効かない。映像が傾く。そして、見える。建物の上の建物。無秩序に成長し、連結した施設の不可解な結び目。それらの積み重なった、まごうことなき摩天楼が。2機めのヘリコプターが塔の側面を旋回する。窓から這い出る不明瞭な影に向かって、その側面の機銃が発砲される。]
 
 //[A third helicopter speeds by -- as it descends near the tower, its tailboom fractures into two. Its rotors suddenly multiply, splitting from five into ten and then into an indistinct mass of metal, and it goes down; crashing into the side of the tower. Numerous crawling figures on the tower leap off the sides like fleas and take to the air, swarming around the tower and heading towards the viewpoint.]//
 
+[3機目のヘリコプターが高速で通りすぎる。そして塔の近くで降下する。そのテールブームが2つに割れた。ローターの羽は突如増殖する--　　--5枚から10枚へ、そして名状し難い金属の塊へ分裂する。制御を失ったそのヘリコプターは、塔の外壁へ衝突した。そこを多くの影が這っていた。それらはノミめいて飛び、そして空中に舞い上がる。塔の周りで群れをなしたそれらは、カメラの方へと殺到する。]
+
 //[The perspective helicopter pulls back as the figures near, carried on the wind by reams of webbed skin that stretch between numerous arms. Four are downed by suppressive fire. A fifth flits about, avoiding the barrage and crashing into the windshield. Many lolling tongues extend from its throat, tearing into the cockpit.]//
+
+[視点のヘリコプターが後退する。影が近づいてくる。それらは、いくつもの腕の間に広がる、水かきじみた膜で風に乗り、飛んでいるようであった。4体、制圧射撃によって撃墜される。だが5体目は弾幕を避けながらひらひらと飛び、フロントガラスに衝突した。その喉から垂れ下がる何本もの舌が伸び、コクピットを破壊した。]
 
 //[The feed spins as the vessel goes down, cutting the transmission upon contact with the ground]//
 
+[機体が墜落する。映像が回転する。地面と接触する。映像が途絶える。]
+
 //Dr. Langford rolls away his chair, staring at the table.//
+
+ラングフォード博士は椅子を回転させ、テーブルを見つめた。
 
 **Dr. Langford:** That... that can't be real.
 
+**ラングフォード博士:** 本当に……こんなことが？
+
 **Cmdr. Lament:** Math wasn't my best subject, but I believe your site's coghaz's focused on fractals. And those freaky shapes we're observing are fractals. It's not a stretch. And it's //spreading//.
+
+**ラメント司令官:** フラクタルが、君のところの認識災害の大元だ。数学は得意じゃなかったが、わたしにもわかるよ。あの動画に出てきた、気色悪いあれもフラクタルだ。しかもタチの悪いことに、ただ拡大してるわけじゃなく、感染を広げている。
 
 **Dr. Langford:** What about Dr…
 
+**ラングフォード博士:** あの、ベリーマ--　　--
+
 //Dr. Langford buries his face in his hands, then curls the latter into fists. After a while, he looks up at Commander Lament.//
+
+ラングフォード博士は、自身の顔を両手で覆った。そのまま彼は両手を握りしめる。しばらくしてから、ラングフォード博士はラメント司令官を見上げた。
 
 **Dr. Langford:** I can understand why you came to me. I am willing to lend my expertise for the sake of the Foundation. But I must confess, this is a difficult subject for me.
 
+**ラングフォード博士:** こうしてぼくのところに来られたわけが、わかりました。財団のためならば、喜んで力をお貸ししましょう。ですが白状すると、やはりなかなか辛いものがあります。
+
 //Commander Lament nods.//
+
+ラメント司令官が頷く。
 
 **Cmdr. Lament:** I'm sorry to hear that.
 
+**ラメント司令官:** お気持ちはお察しする。
+
 **Dr. Langford:** Yeah… lots of memories. Not particularly… good ones either.
+
+**ラングフォード博士:** ええ……思い出は、色々と。あまりいいものでもないですが。
 
 //Dr. Langford bunches his fists again and looks at an empty chair, as if looking at someone absent. He frowns, then exhales. A few seconds pass.//
 
+ラングフォード博士はふたたび両手の指を組み、空いている椅子を見た。ここにいるはずのない誰かを探しているかのようだった。彼は顔を顰めて、ため息をついた。数秒が過ぎる。
+
 **Cmdr. Lament:** I mean, I'm sorry to hear that, because you'll be deploying to Site Romero-5 with a squad from my Joint Task Force.
+
+**ラメント司令官:** 君はこれから、わたしの統合任務部隊とともに、サイト・ロメロ-5に対して配備される。本当に、お気持ちはお察しするよ。
 
 //Dr. Langford's shoulders slacken.//
 
+ラングフォードの肩が落ちた。
+
 **Dr. Langford:** Um, come again?
+
+**ラングフォード博士:** ええと、なんですって？
 
 **Cmdr. Lament:** You will be deploying to Site Romero-5 with a squad from--
 
+**ラメント司令官:** 君はこれから、わたしの統合任務部隊とともに、サイト・ロメロ-5--　　--
+
 **Dr. Langford:** Absolutely not.
+
+**ラングフォード博士:** お断りします。
 
 **Cmdr. Lament:** Perhaps I was unclear. I am ordering you to deploy to--
 
+**ラメント司令官:** お分かりでないか？　これは命令だ。サイト・ロメロ-5へ--　　--
+
 **Dr. Langford:** I don't care.
+
+**ラングフォード博士:** そんなこと。
 
 **Cmdr. Lament:** You don't get to say 'no'. This is coming from the top. O5-8 wants you, specifically.
 
+**ラメント司令官:** 君に拒否する権限はない。上からの命令だ。O5-8が君を指名している。
+
 //Dr. Langford takes a deep breath.//
+
+ラングフォードが深く呼吸をする。
 
 **Dr. Langford:** I know full well the consequences of saying this, but whatever you do to me, you can't make me do it.
 
+**ラングフォード博士:** やりませんよ。ぼくは。あなたがぼくに何しようが、ぼくはやりません。きっと何か沙汰が下るでしょうが、だとしてもです。
+
 **Cmdr. Lament:** You will be taken and deployed on this mission regardless of your opinion, but it will make it a lot easier for everyone involved if you go willingly rather than forcibly dragged. Restrained if needed.
+
+**ラメント司令官:** 君はこの任務に出るのだ。君の意見でどうこうなる話ではない。だが、強制的に連れて行かれるよりも、君が志願してくれた方が関係者全員の士気は上がるだろう。必要ならば、拘束させてもらうがね。
 
 **Dr. Langford:** You don't understand what I witnessed at that Site. What we had to...
 
+**ラングフォード博士:** お分かりなんです？　ぼくがあそこで何を見て、何をしなければ--　　--
+
 //Dr. Langford falls silent, although he starts to shake.//
+
+ラングフォード博士は黙った。そして、震え始めた。
 
 **Cmdr. Lament:** You're right, I don't understand, and that's the thing. That site has gone radio silent for years except for scheduled package delivery. We have no idea what Dr. Berryman is up to, and now we see //this//.
 
+**ラメント司令官:** その通りだ。わたしはわからない。それこそが問題なのだよ。定期的な物資配送を除けば、あのサイトと通信が途絶えてから数年だ。ベリーマン博士が本当は何をやっているのか、我々にもわからない。そんな時に、あの動画を見せられたものだからね。
+
 //Commander Lament gestures at the tablet.//
+
+ラメント司令官がタブレットを示した。
 
 **Dr. Langford:** Wait… you've had no idea what she's doing, for years?
 
+**ラングフォード博士:** つまり……ベリーマン博士の動向を、あなた方もご存知ない？
+
 **Cmdr. Lament:** Exactly.
+
+**ラメント司令官:** その通りだ。
 
 //Dr. Langford sighs.//
 
+ラングフォード博士がため息をつく。
+
 **Cmdr. Lament:** But you, you worked at that specific site, on that specific project, for over a decade.
+
+**ラメント司令官:** だが君は違う。君はあそこで、あのプロジェクトのために、10年以上働いてきた。
 
 **Dr. Langford:** Look, I get that I worked at the site, but I haven't been there in over six years. I am just as in the dark as you all are. You have more up-to-date maps of the sites and more up-to-date project research notes.
 
+**ラングフォード博士:** 確かにそうです。ぼくはあそこで働いてきました。ですがこの6年、ロメロ-5には行ってません。あなた方と同じで、ぼくも何も知らないんです。サイトの最新の地図とか、最新の研究動向については、あなた方のほうがお詳しいでしょう。
+
 **Cmdr. Lament:** But you know //more// than anyone else.
+
+**ラメント司令官:** でも、君ははるかに多くを知っている。
 
 **Dr. Langford:** I'm not the only memeticist at the Foundation, I'm not even close to the best. I've field experience, sure, but I surely wouldn't be of use in--
 
+**ラングフォード博士:** ぼくの他にもミーム学者はいます。それにぼくはとりわけ優秀なほうでもありません。確かに実務経験はありますが、そんなの何の役にも--　　--
+
 **Cmdr. Lament:** How did Dr. Berryman like her coffee?
+
+**ラメント司令官:** ベリーマン博士は、コーヒーをどう飲む？
 
 **Dr. Langford:** Excuse me? I fail to see how that's releva--
 

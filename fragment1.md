@@ -1038,7 +1038,7 @@ I respect you, and I respect the work you're doing, I truly do. But this brazen 
 [[div class="forum__post-content"]]
 This is just going to grind Project HYDRA to a halt.
 
-これはHYDRA計画を停止させる提案にすぎません。
+あなたの提案は、HYDRA計画を無為に中断させるものに過ぎません。
 
 Your concerns are noted, but at this stage of the work, speedy testing and iterative development are more important. O5-8 wants this work done yesterday, after all!
 
