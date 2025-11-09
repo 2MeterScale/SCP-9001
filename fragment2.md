@@ -1014,11 +1014,19 @@ M45A1自動けん銃6丁および予備マガジン _
 
 //A set of large double doors bars entry -- Nix and Sebastian, ahead of the team, step aside for Torres to come through.//
 
+巨大な両開きの扉が、侵入を阻んでいる。先行していたニクスとセバスチャンが両脇に退き、トレスが前に出る。
+
 **Nix:** Compass is going wild. Be ready.
+
+**ニクス:** コンパスがおかしいわ。準備を。
 
 //Torres swipes a keycard with Level-5 access. The doors open silently, and a dense cloud of fog emerges from within. It subsides after a moment, allowing the squad to see within. Sebastian whistles loudly. Dr. Langford gasps. Nix trains her rifle ahead.//
 
+トレスがレベル-5のキーカードを読み込ませれば、扉が静かに開いていく。中から濃霧が漏れ出た。
+
 **Torres:** What in God's name...
+
+**トレス:** 
 
 [[div class="explo explo--room"]]
 
