@@ -772,7 +772,7 @@ M45A1自動けん銃6丁および予備マガジン _
 //ニクス:// プリズムコンパス _
 //ウォーレン:// 携帯用スクラントン現実錨 _
 //セバスチャン:// 24インチのマチェット _
-//トーレス:// 量子もつれリレーデバイス。H.E.C.O.R.に接続されている。[[footnote]](High Energy Concentration Orbital Railgun: 高エネルギー集中型軌道電磁砲)[[/footnote]] ||
+//トーレス:// 量子もつれリレーデバイス。H.E.C.O.R.[[footnote]](High Energy Concentration Orbital Railgun: 高エネルギー集中型軌道電磁砲)[[/footnote]]に接続されている。 ||
 
 -----
 
@@ -798,7 +798,7 @@ M45A1自動けん銃6丁および予備マガジン _
 
 **Torres:** What? I didn't even-- ugh. We're live, folks. Check your mics.
 
-**トーレス:** 何？　おれはまだ--　　--まあいい。お前ら生きてるな。マイクチェックしとけ。
+**トレス:** 何？　おれはまだ--　　--まあいい。お前ら生きてるな。マイクチェックしとけ。
 
 **Warren:** Check.
 
@@ -806,7 +806,7 @@ M45A1自動けん銃6丁および予備マガジン _
 
 **Nix:** Check, and cool it with the parlour tricks, Typh.
 
-**ニクス:** チェック。タイフロ、そのお座敷芸も大概にしておけ。
+**ニクス:** チェック。タイフロ、そのお座敷芸も大概にしてもらえる？
 
 //Warren steps aside as Sebastian shoulders full-force into the door, forcing it open.//
 
@@ -830,7 +830,7 @@ M45A1自動けん銃6丁および予備マガジン _
 
 **Warren:** Looks like everything's still up and running. Tram's halted mid-way down the line. Last use was... about a month ago, according to the logs here. Looks like daily use up to that point, besides.
 
-**ウォーレン:** 一応どれも動いてはいそうですな。トラムが線路の途中で止まってて……最後に使われたのが先月か。ここのログにそう書いてます。それまでは、日常的に使われていた、と。
+**ウォーレン:** 一応どれも動いてはいそうです。トラムが線路の途中で止まってて……最後に使われたのが先月。ここのログにそう書いてます。それまでは、日常的に使われていた、と。
 
 **Dr. Langford:** Should have been for the Director's use only, and Berryman isn't the sharing type.
 
@@ -842,11 +842,11 @@ M45A1自動けん銃6丁および予備マガジン _
 
 **Dr. Langford:** Against Berryman? I don't think so. The woman could //smell// insubordination. No, if they were using this thing it was on her orders.
 
-**ラングフォード博士:** ベリーマンに対してですか？　それはないでしょうね。反抗の気配を嗅ぎ取れるのですよ。あの方は。つまり誰かがこのトラムを使っていたとしたら、それは彼女の命令です。
+**ラングフォード博士:** ベリーマンに対してですか？　それはないでしょうね。反抗の気配を嗅ぎ取れるのですよ。あの人は。つまり誰かがこのトラムを使っていたとしたら、それは彼女の命令です。
 
 **Sebastian:** Shit. Add that to the laundry list of questions for the doc'. //(louder)// Is the tram live or are we hoofin' it, Wally?
 
-**セバスチャン:** こりゃ博士サマにお目通りしたら質問攻めにしなきゃいかんなあ。(大声で)トラム動いてんの？　それとも俺たちこっからお散歩？
+**セバスチャン:** こりゃ博士サマにお目通りしたら質問攻めにしなきゃいかんなあ。(大声で)なあウォーリーくんよ、トラム動いてんの？　それとも俺たちこっからお散歩？
 
 //There is a loud, electronic *ding*, and a distant sound of mechanical whirring.//
 
@@ -854,87 +854,163 @@ M45A1自動けん銃6丁および予備マガジン _
 
 **Warren:** For the latter half of the trip, maybe. Have to wait and see what was holding it up. For now though, it's headed in our direction.
 
-**ウォーレン:** 
+**ウォーレン:** しばらくはトラムで良さそうだよ。少なくともこっちには向かってきてる。でも、なんで途中で止まってたのかは確かめなくちゃ。そこからは、お散歩かな。
 
 **Torres:** Good work. Typhlo, can you get a read on our transport? I need you to check for occupants.
 
-
+**トレス:** よくやった。タイフロ、トラムの様子はわかるか？　乗客が居るかどうかを調べてほしい。
 
 //Typhlo drops onto the tracks, kneeling down to place a hand upon the rail.//
 
+タイフロが線路に降りる。そして膝をつき、手を線路の上に乗せた。
+
 **Typhlo:** {{Approaching at a rate of eighty kilometers per-hour. Arrival expected in two minutes. No movement on-board.}}
+
+**タイフロ:** {{時速80きろめーとるデ接近中。オヨソ2分後ニ到着。車内ニ動体反応ナシ。}}
 
 **Dr. Langford:** Are we to expect a lot of resistance?
 
+**ラングフォード博士:** 多少の諍いは、覚悟しておくべきでしょうか。
+
 //Warren rejoins the squad, offering a hand to Typhlo, and helps her up from the tracks. Nix, kneeling across the chamber, places down a Martel Piton. The flat device quietly hums as four small rods eject from its sides and anchor to the ground.//
+
+ウォーレンが再合流する。彼はタイフロに手を差し伸べて、線路から引き上げた。一方、構内の反対側ではニクスが膝をつき、マーテル型ペグを設置していた。扁平な装置が静かに震える。小さな杭が4本、その側面から飛び出て、地面へと食い込む。
 
 **Nix:** Depends. Since we made first contact, there's been a lot of those creatures escaping out into the surrounding area -- Hammer Down has had its hands full.
 
+**ニクス:** さあね。最初の接触以来、あの怪物どもは何体も周辺地域に逃げ出しているわ。"鉄槌"の連中が、対処しているようだけれど。
+
 **Sebastian:** Makes ya wonder why we didn't pick up on this place sooner. S' like they went ape-shit the second their cover was blown.
+
+**セバスチャン:** こいつらどうしてずっと隠れてられたんだろうなあ。俺たちがここ見つけた瞬間に、奴らプッツンときたみてえじゃねえか。
 
 **Torres:** All of this is to say, we simply don't know. Ghost town, if we're lucky.
 
+**トレス:** つまりな、俺たちもわからんのだ。運が良ければ、ただのゴーストタウンかもしれん。
+
 **Dr. Langford:** And if we're not?
+
+**ラングフォード博士:** 運が悪かったら？
 
 //Dr. Langford stares into the darkness of the tunnel.//
 
+ラングフォード博士は、トンネルの暗闇を見つめた。
+
 **Typhlo:** {{Simple. There will be bloodshed.}}
+
+**タイフロ:** {{簡単ダ。流血ガアル}}
 
 //After a moment, lights become visible in the tunnel. The tram speeds towards the platform, slowing down and coming to rest before the team. The doors open, and the squad carefully enters with weapons at the ready. Warren makes for the controls.//
 
+しばらくすると、トンネルの奥に明かりが見えてきた。トラムが高速で近づいてきているのだ。それはやがて減速し、部隊の目の前で静かに停止した。ドアが開く。隊員は銃を構えたまま、慎重に車内へ足を踏み入れた。ウォーレンは操縦席へと向かう。
+
 **Torres:** Watch our speed, Warren. Last thing we need is for this to end up in training footage.
+
+**トレス:** 速度には気をつけろよ、ウォーレン。訓練映像行きはごめんだ。
 
 //The doors click shut, and the tram begins to move forward. A mechanical whirring persists throughout this portion of the video.//
 
+ドアが閉まる。トラムが前進を始める。映像のこの部分には、機械の唸る音が含まれている。
+
 **Warren:** ... Again.
+
+**ウォーレン:** ……二度と、な。
 
 **Dr. Langford:** Again?
 
+**ラングフォード博士:** 二度と？
+
 //Sebastian laughs, taking a seat by the door.//
+
+ドア横の座席に座っているセバスチャンが、笑った。
 
 **Sebastian:** Oh, our Wally here is a star! "So You've Entered a Non-Euclidean Zone" -- you know, **that** scene?
 
+**セバスチャン:** こちらのウォーリーどのは名優であるぞ！　「さて、非ユークリッド空間に入ったわけだけど」ってシーン、みんな知ってるだろ？
+
 **Nix:** No way.
+
+**ニクス:** 本当に？
 
 **Torres:** That was him?
 
+**トレス:** 彼がそれを？
+
 //Warren rubs his left shoulder.//
+
+ウォーレンが、自身の左肩を撫でた。
 
 **Warren:** Bone never did set right.
 
+**ウォーレン:** 古傷が痛むね。
+
 //Typhlo suppresses a snicker. Dr. Langford halfheartedly forces an awkward chuckle.//
+
+タイフロが鼻で笑った。居心地を悪く感じたのか、ラングフォード博士はやや引き攣った笑みを浮かべた。
 
 //The team waits in silence as the tram progresses. Intermittent fields of static momentarily interrupt the feed, but the connection remains sound. After a few minutes, Typhlo signals for Warren to stop, who acquiesces.//
 
+全員が黙ったまま、トラムの進行を待つ。ときどき映像にノイズが走るが、通信は途切れない。数分が経つ頃、タイフロがウォーレンに合図を送った。ウォーレンはトラムを停止させる。
+
 **Typhlo:** {{Obstruction ahead. We walk from here.}}
+
+**タイフロ:** {{前方ニ障害物アリ。ココカラハ歩ク。}}
 
 //The doors slide open, and a light fog drifts into the compartment.//
 
+ドアが開く。薄い霧が車内へと入ってくる。
+
 **Torres:** Unusual.
+
+**トレス:** 奇妙だな。
 
 **Sebastian:** Think it's toxic?
 
+**セバスチャン:** 吸ったらヤバいか？
+
 **Warren:** I could take off my mask and get a big whiff. Y'know. For science.
+
+**ウォーレン:** マスクを取って深呼吸してみようか？　ほら、科学のためだ。
 
 //Nix takes a knee, wafting her fingers through the fog.//
 
+ニクスが膝をつく。彼女は指を霧の中であそばせた。
+
 **Nix:** Just like in Saunders' footage. I thought it was just a meteorological effect.
+
+**ニクス:** ソーンダースの映像にもあったわね。普通の霧だとは思ったのだけれど。
 
 **Dr. Langford:** It likely is. The anomaly seems to be restructuring everything into fractal patterns. Could very well be that it is condensing and organizing water vapor in the same manner.
 
+**ラングフォード博士:** おそらくはそうでしょう。ここの異常性は、全てをフラクタルに再構築しようとするものです。その流れで、水蒸気も同じように凝集されて、整列させられていると考えてもおかしくはありません。
+
 **Torres:** Probably not something we want in our lungs regardless. Let's get moving.
+
+**トーレス:** どっちにしろ、喜んで吸いたくはないな。先を急ごうか？
 
 //The squad leaps out onto the tracks, navigating to the front of the tram, and begins walking. Through the low-laying mist, it becomes apparent that the rail ahead has been rent and twisted by the emergence of large tangles of tree roots, growing from all about the tunnel floor, walls, and ceiling. The sound of wooden creaking becomes audible. As the team moves between the roots, the ends of the nearest can be seen to gradually split and grow. There is little chatter as they travel the last few kilometers. Light is seen in the distance.//
 
+部隊は線路へ飛び降り、トラムを放って前へと進んでいく。トンネルの壁を、天井を、そして床を割り、至るところから巨大な木の根が伸びている。低く立ち込める霧の中でも、前方の線路が歪んでいることはわかる。線路もその木の根に押され、捻じ曲がっている。どこかで木が軋んでいる。根の間を縫うように進む部隊の眼前、すぐそばの根の終端がゆっくりと裂け、枝分かれし、成長していく。残りの数キロを進む間、誰も口を開かない。やがて、遠くに光が見えてくる。
+
 //The team exits the tunnel, emerging into the Romero-side metro cavern, identical to its counterpart on the other side of the tunnel save for more prominent wear on the facade and chamber walls. One by one, the team clambers up off the tracks and onto the platform. The fog here is heavier, permeating the air through to the ceiling, but is not thick enough to fully occlude sight. They cross the chamber towards a flight of stairs leading up.//
+
+部隊はトンネルを抜け、ロメロ側の地下鉄駅へと出た。構造こそ来た時に通った駅と同じだが、壁面や柱の劣化はこちらの方がひどい。隊員たちは次々と線路からホームへと這い上がる。霧はこちらの方が濃く、天井まで立ち込めているが、視界を完全に遮るほどではない。一行は構内を横切り、上階へと続く階段に向かった。
 
 **Dr. Langford:** We should be able to directly access the Director's office from here.
 
+**ラングフォード博士:** ここから直接、管理官のオフィスへと出られるはずです。
+
 **Warren:** Directly? Isn't that a little weird?
+
+**ウォーレン:** 直接？　そりゃちょっと変じゃないかい？
 
 **Torres:** Not if you're both paranoid and also very important. Not out of the ordinary for Directors to have emergency escape routes.
 
+**トレス:** もしそいつが心配性のVIPならば、考えうる話だ。一人の管理官が、専用の緊急避難路を確保している--　　--これは、奇妙でもなんでもない。
+
 **Dr. Langford:** Elevator just outside her quarters should get us access to most of the site. The FCI production facility was Sublevel 2, so not much of a jaunt should the elevators be down. Ah, here we are.
+
+**ラングフォード博士:** エレベーターが、ベリーマン博士のオフィスのすぐ近くにあります。それで行きたいところには大体行けるはずです。エレベーターが動かなくても、FCI生産施設は地下2階ですから、大した登山にはなりませんよ。お、来てくれましたね。
 
 //A set of large double doors bars entry -- Nix and Sebastian, ahead of the team, step aside for Torres to come through.//
 
