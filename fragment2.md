@@ -1022,121 +1022,227 @@ M45A1自動けん銃6丁および予備マガジン _
 
 //Torres swipes a keycard with Level-5 access. The doors open silently, and a dense cloud of fog emerges from within. It subsides after a moment, allowing the squad to see within. Sebastian whistles loudly. Dr. Langford gasps. Nix trains her rifle ahead.//
 
-トレスがレベル-5のキーカードを読み込ませれば、扉が静かに開いていく。中から濃霧が漏れ出た。
+トレスがレベル-5のキーカードを読み込ませれば、扉が静かに開いていく。中から濃霧が漏れ出た。それが薄まっていくにつれて、中の様子が確認できるようになる。セバスチャンが口笛を吹いた。ラングフォードがえずいた。ニクスはライフルを向けた。
 
 **Torres:** What in God's name...
 
-**トレス:** 
+**トレス:** なんと……これは……
 
 [[div class="explo explo--room"]]
 
 //Before the team is a wide, open room bathed in fog. Over a dozen tall, plant-like trunks of varying skin tones are spread throughout the chamber. Each hosts a complex array of tendrils at its apex that weave with those of their neighbors, forming a canopy that partially blocks out the fluorescent lights. Each trunk pulses rhythmically, with twin-bulbs that are seen to emerge from a chest-high orifice. The bulbs of each instance inflate and deflate in synchronicity. Shelving across the walls, as well as deconstructed server racks, would denote that this area had once served as the Site's Data Storage Center.//
 
+霧に包まれた広い部屋の中には、10本以上もの、木の幹にもよく似たものが立っていた。一見すると植物のようにも見えるが、その表面は、さまざまな色の人皮に覆われている。それぞれの頂点からは無数の触手が伸び、隣の幹のそれと複雑に絡み合っている。天井の蛍光灯は、一部それに遮られている。幹が脈打つ。リズミカルに。胸の辺りに開いた穴からは、一対の球根状の器官が覗いていた。全ての幹の球根が、同時に膨らみ、同時に萎む。壁際には棚が並んでいる。解体されたサーバーラックのようだ。かつてここは、サイトのストレージセンターだったのだろう。
+
 **Dr. Langford:** I... I'm gonna...
+
+**ラングフォード博士:** は、吐き……
 
 **Torres:** Swallow it. I thought you said this was the Director's office?
 
+**トレス:** 飲み込め。ここは管理官執務室だと、そう言っていたな？
+
 **Sebastian:** Are those fucking //lungs//?
+
+**セバスチャン:** すげえや、こりゃ肺か？
 
 //Nix takes point as the squad carefully advances. Just as with the canopy above, the entities are rooted in place via a thin network of mycellium that is splayed over the floor. The instances collectively shudder as this network is crushed underfoot.//
 
+ニクスが先頭に立ち、部隊は慎重に前進する。床には、菌糸の網が薄く張り巡らされていた。天井の触手と同じように、この網も幹をその場に固定していると見える。隊員の足が菌糸を踏み潰すたびに、全ての幹が一斉に震えた。
+
 **Dr. Langford:** Pul-- //(gags)// pulmonary vasculature is inherently fractal. It makes sense something like that could come under influence.
+
+**ラングフォード博士:** 肺けっ--　　--オエッ、肺血管系はもとよりフラクタルです。それが影響を受けるということは、理には適っていると思います。
 
 //Dr. Langford pauses.//
 
+ラングフォード博士が黙る。
+
 **Dr. Langford:** And... yes. It //should// be her office.
+
+**ラングフォード博士:** そして……ええ、ここがが彼女のオフィスのはずです。
 
 **Nix:** Whole site must have been rearranged. I'll have to thread a line here.
 
+**ニクス:** サイト全体がめちゃくちゃになってるみたいだね。とりあえずここで、経路を確保するわ。
+
 //Closer inspection of the nearest trunk reveals that the open orifice is surrounded by displaced teeth, forced outward by the expanding bulbs. The remnants of the face -- eyes, nose and ears -- have been rendered vestigial, being stretched along the backside of the trunk. As the entities collectively exhale, there is a quiet sighing; a fine mist can be seen to extrude from their open pores.//
+
+近くの幹をよく見てみる。胸の高さに開いた穴の周囲に、葉が並んでいるようだ。内側から膨らむ球根に押され、外側へと剥き出しになっている。目や鼻や耳も、かろうじてわかるくらいの痕跡に成り果てている。それらは引き延ばされて、幹の裏側に平たく張り付いている。全ての幹が、同時に息を吐いた。静かなため息のようであった。開いた毛穴から、薄い霧が滲み出てくる。
 
 **Torres:** Were these researchers? Langford, you recognize anyone?
 
+**トレス:** こいつら、元は研究員か？　知っている顔はあるか、ラングフォード？
+
 //Dr. Langford shakes his head. Warren moves carefully towards one of the trunks.//
+
+ラングフォード博士が首を振った。ウォーレンは幹のうち一つに向かって、慎重に進む。
 
 **Warren:** This gas... some kind of terraforming?
 
+**ウォーレン:** このガス……テラフォーミングでもしているのかな？
+
 //Sebastian grabs his knife and attempts to puncture the nearest bulb; it rebounds off. Sebastian curses under his breath.//
+
+セバスチャンがナイフを抜き、手近な球根に突き立てようとした。刃は弾かれた。セバスチャンが小さく舌打ちする。
 
 **Torres:** Whatever they're doing, we can't let it continue. Typhlo, got anything?
 
+**トレス:** これがなんであれ、即刻中断させねばならん。タイフロ、何かわかるか？
+
 **Typhlo:** {{Heart rates at... six beats per minute. Likely depend on retaining a circulatory system. Could bleed them out.}}
+
+**タイフロ:** {{心拍数ハ……毎分6回。コレデ循環系ヲ維持シテイマス。出血サセルコトハ可能ナヨウデス。}}
 
 //At this, Sebastian slices deep into the trunk beneath its orifice. Torrents of crimson blood rush from the wound -- the rest of the congregation whines and shivers as the wounded instance seizes and falls still. The deflated bulbs hang limply from its orifice.//
 
+それを聞いた瞬間、セバスチャンが動いた。彼は幹に開いている穴のすぐ下に深々とナイフを突き立てる。真紅の血が吹き出した。傷ついた個体が痙攣し、やがて動かなくなった。他の幹たちが一斉に震え、そして呻く。それは悲鳴のようにも思えた。萎んだ球根が、穴からだらりと垂れ下がっていた。
+
 **Torres:** Warren. Sebastian. You two handle them. Make it quick. I'll get on top of manually disconnecting these servers just in case they're still capable of sending out kill agents. I want Langford and Typhlo to dig through those files, see what you can see. Or... well, you know what I mean, Typh.
+
+**トレス:** ウォーレン、セバスチャン。そいつらをどうにかしろ。手早くやれよ。俺は念の為にサーバーを手動で切断する。もしかすると、まだ殺害エージェントを送信できる可能性があるかもしれない。ラングフォードとタイフロはそのファイルを掘り返せ。見られるものは全部見ておけよ。それか……まあ、言ってることはわかるだろ。タイフロ。
 
 **Typhlo:** {{Offense not taken.}}
 
+**タイフロ:** {{ぱわはらハヤメテクダサイ。}}
+
 **Torres:** And Nix, you make good on our way out.
+
+**トレス:** それとニクス。脱出経路は確保しておけ。
 
 //Nix nods and produces a second Piton, finding a corner clear of mycellium to set it up. The remaining squad spreads out and gets to work. The quietude of their labor interrupted only by bursts of pained moans as each instance has its throat slit in turn. It is as Sebastian terminates the final instance that Dr. Langford calls out.//
 
+ニクスは頷き、2本目のペグを取り出すと、菌糸に覆われていない床面に設置した。他の隊員たちも散開し、それぞれの作業に取り掛かる。幹の喉が切り裂かれるたびに苦痛のうめき声が響くほかは、静かな作業であった。セバスチャンが最後の一本を始末したとき、ラングフォード博士が声を上げた。
+
 **Dr. Langford:** Hey, come take a look at this.
+
+**ラングフォード博士:** ちょっと、これ見てくださいよ。
 
 //The team converges on Dr. Langford, currently digging into a cardboard box. From within, he begins pulling out personal effects; keys, cigarette lighters, a handgun and taser -- he then pulls out a wallet, passing it to Warren before retrieving and opening a small leather purse. Sebastian rummages through the wallet, pulling out and discarding a credit card, before selecting from within a driver's license.//
 
+段ボール箱を漁っていたラングフォード博士のもとへ、チーム全員が集まった。ラングフォードはその箱の中から、誰かの身の回り品を取り出していく。鍵、ライター、拳銃にスタンガン――そして財布をウォーレンに渡した。続けて小さな革製の小銭入れを引っ張り出して、開く。セバスチャンは受け取った財布の中身を確認する。クレジットカードを引き抜いて放り捨て、そして運転免許証を抜き取った。
+
 **Sebastian:** Don't see any Foundation ID. Is this a civilian? You recognize this face, doc?
+
+**セバスチャン:** 財団のIDカードがねえなあ。民間人か？　なあハカセよ、この顔わかる？
 
 //Dr. Langford looks up from the purse, stares at the license for a moment, then shakes his head. Nix reaches out and takes it from Sebastian.//
 
+ラングフォードは小銭入れから顔をあげ、運転免許証をしばらく見つめた。そして彼は首を横に振った。ニクスが横から入り、セバスチャンの手から免許証を取った。
+
 **Nix:** I do. This guy wouldn't be Foundation, no. I dug into Saunders' assignment after watching her footage -- missing persons investigation in the town down the way. This'd be Ernest Graham, age 42, one of the first to go missing back in March.
+
+**ニクス:** 知ってるわ。この人は確かに財団関係者じゃない。例の動画を見たあと、ソーンダースの任務--　　--つまり、町の行方不明者捜索なんだけど--　　--について少し調べたの。この人はアーネスト・グラハム42歳。最初期の行方不明者のうちの1人ね。
 
 **Torres:** Shipment of D-class would have been received in January. Guess they got impatient.
 
+**トレス:** 次のDクラス移送は、一月だ。それまで待てなかったんだろうな。
+
 //Dr. Langford cocks his head, looking at Torres.//
+
+ラングフォードは顔をあげ、トレスを見た。
 
 **Dr. Langford:** D-Class? That's... odd. They shouldn't have need for any more D-Class.
 
+**ラングフォード博士:** Dクラス？　変ですよそれは。Dクラスなんか必要ないんですから。ここは。
+
 **Warren:** At least we know why the tram was so active.
+
+**ウォーレン:** 少なくとも、あのトラムが動いてた理由はわかったね。
 
 **Sebastian:** Fuckin' snack runs. I'll be damned.
 
+**セバスチャン:** Dクラス定期配達便ってか。笑えるぜ。
+
 **Torres:** Good to know, but if there's nothing else here for us, let's keep pushing.
 
+**トレス:** そうみたいだな。めぼしいものがもうないようなら、先に行くぞ。
+
 //Torres makes for the door opposite from that which they'd used to enter. A porthole reveals that it leads into a hallway that runs perpendicular from this perspective. Sebastian and Warren pull out their rifles. Torres swipes his access card, and the door slides upwards.//
+
+トレスは入ってきたドアの反対側にあるドアへと向かう。覗き窓から見ると、その先に廊下があることがわかる。廊下はこの部屋に対して垂直に伸びている。セバスチャンとウォーレンがライフルを構える。トレスがアクセスカードをかざし、ドアが上へと滑り開く。
 
 [[div class="explo explo--room"]]
 
 //Sebastian and Warren enter first, turning about to check the right and left flanks, respectively. Nix and Torres follow suit, sidearms held in a low-ready stance. As Dr. Langford crosses the threshold, he stumbles off balance, being caught and righted by Typhlo.//
 
+セバスチャンとウォーレンが先陣を切り、それぞれ右と左を確認する。ニクスとトレスがサイドアームをローレディに構えながら続く。ラングフォード博士が入口を跨ぐ。その瞬間、彼は体勢を崩した。タイフロが彼を素早く支える。
+
 **Nix:** Another shift. Get used to the vertigo.
+
+**ニクス:** 転移だ。酔いに気をつけて。
 
 //The hallway on either side of the team can be seen to bend circularly in a shallow corkscrew -- raising up and away on their right, and descending deeper on the left.//
 
+部隊の左右に伸びる廊下が、緩やかな螺旋を描いて曲がっている。右へ行くほど上へと登り、左へ行くほど深く下っていた。
+
 **Torres:** I know things aren't how you remember, doctor, but any idea which--
+
+**トレス:** 記憶と違うのはわかるが、博士。どちらに--　　--
 
 //A protracted inhuman scheech emanates from around the bend high above. The squad communicates in hushed tones.//
 
+はるか上方、螺旋廊下の向こうから、人ならざる叫びが響く。隊員たちは声を抑えて意思疎通を図る。
+
 **Torres:** Down it is. Typhlo?
+
+**トレス:** 下からだな。タイフロ。
 
 **Typhlo:** {{Hard to get a read on. I'm catching reverberations but it is fuzzy. The shape doesn't make sense. It is alone, I believe, but it is large.}}
 
+**タイフロ:** {{判別ガ難シイデス。反響音ハ聞き取レマシタガ、ぼやケテイマス。ソレニ、形モ奇妙デス。オソラク単体デショウガ、大キイデス。}}
+
 **Dr. Langford:** Only one? Should we... well, you, take care of it?
+
+**ラングフォード博士:** 一体だけですか？　我々……つまりあなた方で、対処するんです？
 
 **Sebastian:**  Yeah, how large we talkin'?
 
+**セバスチャン:** そうだな。大きさはどれくらいだ？
+
 **Typhlo:** {{You are welcome to find out. I will remember your bravery fondly.}}
+
+**タイフロ:** {{是非オ確カメニナッテクダサイ。貴方ノ勇敢サハ、後世ニ語リ継ギマショウ。}}
 
 //Torres elicits an exasperated sigh. He silently signals for Sebastian to cover their rear, and takes point down the downward path. The curvature of the hallway is such that forward sight is restricted past 15 meters. Looking into portholes as they progress, it can be seen the team is moving past the personnel quarters. The porthole on the last is shattered. A bloodied labcoat hangs in shreds from its lip. Glancing inside, it becomes clear the occupant had used their bedding to barricade the door.//
 
+トレスが呆れたため息をつく。彼は無言でセバスチャンに後方警戒を指示すると、自ら先頭に立って下り坂を進みはじめた。廊下は緩やかに曲がっている。そのために、およそ15メートル先までしか見通すことはできない。隊員たちは進みながらも、覗き窓を確認していく。職員居住区を通過しているようだ。最後の覗き窓が砕けていた。その縁には、白衣だったと思われる、血まみれの布切れがぶら下がっていた。中を覗き込んでみると、部屋の住人が寝具を使ってドアをバリケードしていた跡が見えた。
+
 **Typhlo:** {{Tapping. Up ahead.}}
+
+**タイフロ:** {{こつこつ鳴ッテイル。前方。}}
 
 //Rounding the next bend, a crimson web of thin tendrils coats the ceiling, extending for a length of several meters. It does not react to their presence. The squad carefully advances through to a four-way junction.//
 
+角を曲がった先の天井を、絡み合った細い触手の真紅の網が数メートルにわたって覆っている。それは部隊の接近に反応を示さない。隊員たちは慎重にその下を通り抜け、四辻の交差点に出た。
+
 //To the left, the hallway is dotted with double-locking doors along its length -- D-Class cells. Though the floor here is level, further down the hallway is a fork, and down each hallway is itself another fork. There is a minor optical illusion where it is difficult to interpret the middle branches, as focusing on either set of hallways reveals that they should spatially overlap the hallways on opposing branches.//
+
+左には、二重ロックのドアが長さに沿って点在する廊下が延びている。Dクラス独房だ。この地点の床は平坦だが、廊下の先で分岐しており、分岐したそれぞれの廊下も、さらに分岐している。軽度の錯視が生じており、中央の分岐部分を解釈することが困難である。いずれか一方の廊下群に視点を合わせると、それらは対向する分岐の廊下と空間的に重複していることがわかる。
 
 //To the right, the hallway continues forwards for 5 meters, ending on a heavy steel door. Signage indicates it to be the disposal area. A red pictogram conveys "Fire Hazard" beyond. It is the crematorium. The squad looks between the given three paths.//
 
+右には、廊下が5メートル先まで続き、重い鋼鉄製のドアで行き止まっている。標識によれば廃棄エリアである。赤いピクトグラムは「火災注意」を示している。火葬場だ。部隊は3つの経路を見比べる。
+
 **Warren:** Cap?
+
+**ウォーレン:** キャプテン？
 
 **Torres:** I want to make a run down through the cells, see if we can't find any survivors. Don't want to risk the attempt with the hall looking like this, though. Warren, you have your anchor?
 
+**トレス:** 独房を見て回りたい。生存者がいるかもしれないからな。だがこんなところに入るリスクも冒せない。ウォーレン、現実錨はあるか？
+
 //Warren nods. From his rucksack, he withdraws a small, portable SRA. After a moment's calibration, he sets it down facing the D-class wing. The air before it ripples and waves as it powers on. During this, Nix works to place a third Piton beside the crematorium door.//
+
+ウォーレンが頷いた。彼は背負い鞄から小型の携帯式SRAを取り出した。しばらく校正をしたのち、ウォーレンはそれをDクラス独房区に向けた。SRAの電源が入る。空気が波打った。この間に、ニクスは3本目のペグを火葬場の扉のそばに設置した。
 
 **Torres:** Let's give the SRA a few minutes to stabilize the area. In the meantime, we can dig through Disposal. Might be something worth finding in what they were throwing away.
 
+**トレス:** 数分もすれば、SRAが空間を安定化してくれる。この間に廃棄エリアを探ろう。もしかすると、奴さんらが何かいいものを捨てているかもしれない。
+
 //As the squad moves to follow Torres, backwards glances reveal that the crimson tendrils are now gone.//
+
+トレスに続いて、隊員が移動する。
 
 //The metallic door leading into the crematorium swings inward with a heavy creak. Several hospital stretchers are scattered randomly about the chamber, leather restraints hanging from their sides. The headrest and upper-portions of each are blackened with dried blood that runs down the legs and cakes across the floor. The blood is seen to have not pooled naturally; rather, it has spread across the floor in intricate patterns. A fire roars in the furnace at the far end of the chamber.//
 
