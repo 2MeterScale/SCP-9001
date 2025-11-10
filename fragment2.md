@@ -767,7 +767,7 @@ Upon his arrival at FOB Panloque, Dr. Langford would be outfitted and deployed a
 ||~ 装備 ||
 || M27歩兵用自動小銃4丁および予備マガジン _
 M45A1自動けん銃6丁および予備マガジン _
-マーテル型ペグ[[footnote]][[[SCP-1730]]]を受けて開発された、実験的技術。空間変異により、通常の手順では脱出が困難となる状況下において、設置されたペグを中継点とすることで、人員の二点間即時転送を可能にする装備。[[/footnote]] _
+マーテル型ペグ[[footnote]][[[SCP-1730]]]事件を受けて開発された、実験的技術。空間変異により、通常の手順では脱出が困難となる状況下において、設置されたペグを中継点とすることで、人員の二点間即時転送を可能にする装備。[[/footnote]] _
 //ニクス:// M38選抜射手用小銃および予備マガジン _
 //ニクス:// プリズムコンパス _
 //ウォーレン:// 携帯用スクラントン現実錨 _
@@ -1124,7 +1124,7 @@ M45A1自動けん銃6丁および予備マガジン _
 
 **Sebastian:** Don't see any Foundation ID. Is this a civilian? You recognize this face, doc?
 
-**セバスチャン:** 財団のIDカードがねえなあ。民間人か？　なあハカセよ、この顔わかる？
+**セバスチャン:** 財団のIDカードがねえなあ。民間人か？　なあセンセイよ、この顔わかる？
 
 //Dr. Langford looks up from the purse, stares at the license for a moment, then shakes his head. Nix reaches out and takes it from Sebastian.//
 
@@ -1242,86 +1242,164 @@ M45A1自動けん銃6丁および予備マガジン _
 
 //As the squad moves to follow Torres, backwards glances reveal that the crimson tendrils are now gone.//
 
-トレスに続いて、隊員が移動する。
+トレスに続いて、隊員が移動する。広報の様子が一瞬だけ画面に映った。真紅の網は消え去っている。
 
 //The metallic door leading into the crematorium swings inward with a heavy creak. Several hospital stretchers are scattered randomly about the chamber, leather restraints hanging from their sides. The headrest and upper-portions of each are blackened with dried blood that runs down the legs and cakes across the floor. The blood is seen to have not pooled naturally; rather, it has spread across the floor in intricate patterns. A fire roars in the furnace at the far end of the chamber.//
 
+火葬場へ通じる金属製のドアが、重い軋み音を上げながら内側へ開いた。室内には、病院用ストレッチャーが無造作に散乱している。その側面からは革製の拘束具が垂れ下がっていた。各ストレッチャーのヘッドレストと寝台は乾いた血で黒ずんでいる。血は脚部を伝い、床に固着している。血溜まりは自然にできたものではない--　　--それは床全体に、複雑な文様を描いて広がっていた。奥の炉では火が轟々と燃えている。
+
 //Countertops along the left wall are scattered with an array of surgical instruments, including no less than four blunted bonesaws and several glass containers holding a blue fluid. The liquid within glows with a bioluminescent sheen.//
+
+左の壁面に据え付けられたカウンターには、多数の外科用器具が散乱している。刃の鈍った骨鋸が4本以上、青い液体の入ったガラス容器が数個。容器内の液体は、生物に由来する光沢を放っている。
 
 **Warren:** This is foul. What were these monsters up--
 
+**ウォーレン:** こりゃひどい。奴ら一体何を企んで--　　--
+
 **Dr. Langford:** Berry picking.
+
+**ラングフォード博士:** 苺摘みです。
 
 //The others exchange a glance as Dr. Langford walks to the canisters atop the counter. He beckons the squad over.//
 
+隊員たちが顔を見合わせる中、ラングフォードは容器の置いてあるカウンターへと歩み寄り、手招きした。
+
 **Dr. Langford:** It's what she called it. Not officially, of course. In formal terms it was simply "harvesting".
+
+**ラングフォード博士:** 彼女はそう呼んでいました。もちろん非公式にですが。正式な文書では単に「収穫」とされているものです。
 
 //From up close, it can be seen that the solution within each canister suspends a living human head. Their eyes dart about wildly. Their lips tremble wordlessly.//
 
+近くから見ると、各容器の溶液の中には、人間の頭部が生きたまま浮遊していることがわかる。その目は激しく動き回っている。唇は無言で震えている。
+
 **Warren:** And you were on board with this?
+
+**ウォーレン:** 君も、こんなことをやっていたのかい？
 
 **Dr. Langford:** It was the only way we--
 
+**ラングフォード博士:** これしか方法が--　　--
+
 **Sebastian:** Didn't realize I signed up to handhold some sick fuck.
+
+**セバスチャン:** イカれたファック野郎のお守りが仕事だとは思わなかったぜ。
 
 **Torres:** But you did sign up, so shut up.
 
+**トレス:** でも君は志願した。そういう言い方はないよ。
+
 **Dr. Langford:** You don't understand... it wasn't like this. The process was clean. Surgical. Pain-free. This? This is a devolution.
+
+**ラングフォード博士:** 違うんですよ……こんなんじゃなかったんです。あのプロセスはクリーンで、正確で、苦痛もないものだったんです。ですがこれは……そんなのとは程遠い。
 
 **Nix:** It would have also been done with Eight's blessing. Now we know why the main file was mum about Berryman's research.
 
+**ニクス:** エイトの名の下で行われていた実験でしょうね。ようやくわかったわ。メインファイルで、ベリーマンの研究がボカされてた理由が。
+
 **Warren:** How are they still... alive?
+
+**ウォーレン:** こいつらどうやって……生かされているんだ？
 
 **Dr. Langford:** Above my clearance. All we know is that so long as they remain in the solution, they'd remain viable subjects. We could safely and repeatedly expose them to First Order FCI, and they would be brought back to life each time.
 
+**ラングフォード博士:** それはぼくのクリアランス外です。ひとつわかるのは、彼らがこの溶液の中にいる限り、生きていられるということだけです。それで我々は彼らに第1級FCIを見せて、そうして彼らは死ぬたびに蘇生されています。
+
 **Dr. Langford:** "Finite cases of infinite suffering, as opposed to infinite cases of finite suffering." She... she made it sound like a mercy.
+
+**ラングフォード博士:** 「有限の苦しみが無限にあるか、無限の苦しみが有限しかないか」彼女はそう言っていました。まるでこれが、慈悲であるかのように。
 
 **Sebastian:** Finite my ass. How come she still needed fresh D-Class?
 
+**セバスチャン:** 有限もクソもねえよ。なんであの女まだDクラスが欲しいんだ？
+
 **Dr. Langford:** I don't know! I'm just as in the dark as you are.
+
+**ラングフォード博士:** わかりませんよ！　ぼくも何も知らないんです。あなたたちと同じで。
 
 //Torres sighs.//
 
+トレスがため息をつく。
+
 **Torres:** Regardless, the Foundation isn't going to get much use out of them anymore. Permission granted to abort testing.
+
+**トレス:** どちらにせよ、財団はもうこいつらに用はない。本試験を中止する許可を出す。
 
 //The brothers quickly work to smash the glass of each canister. The heads eyes writhe about madly for a moment before falling still. As the last one is shattered, a piercing alarm is heard from the hallway.//
 
+グッデン兄弟が素早く各容器のガラスを叩き割る。中の頭部の目が一瞬激しく動き回り、やがて静止する。最後の一つが砕かれると、廊下から甲高い警報音が響いてくる。
+
 //The squad rushes back out to the junction, Torres in the lead. He holds his arm out as he exits the Disposal room, causing those behind him to skid to a stop. Before them, smoke is pouring out from within the SRA's casing. The hallway beyond, once a single iterative branching set, is now a kaleidoscopic array of intertwining paths and impossible branches. The SRA is beeping loudly, rapidly, as its frame begins to shudder. Half the team exclaim and shout out various expletives. Warren rushes ahead to the device and quickly punches a series of digits into the anterior terminal.//
+
+部隊は四辻へ駆け戻る。トレスが先頭だ。廃棄エリアを出た彼は腕を上げ、後続を急停止させた。目の前のSRAの筐体から、煙が噴き出している。その向こうの廊下--　　--先ほどまで規則的に分岐していた廊下は、今や絡み合う経路と不可能な分岐の万華鏡と化していた。SRAが大音量で、速く、甲高い警告音を鳴らしている。筐体が震え始める。チームの半数が叫び、悪態をつく。ウォーレンが装置へ駆け寄り、前面端末に素早く数字の列を打ち込む。
 
 //The beeping stops. A green light is emitted from atop the device. There is a quiet hum as the SRA shuts down. The hallway ahead remains in its altered state. Warren turns to the team and dramatically bows. He affects a high-pitch voice.//
 
+警告音が止まる。装置上部から緑のライトが点灯する。SRAがシャットダウンし、静かなハム音が響く。前方の廊下は異常な状態のままだ。ウォーレンがチームの方を向き、大仰にお辞儀をする。彼は甲高い声を出す。
+
 **Warren:** "Wow, Wally!" "Good job, Wally!" "Quick thinking, W--"
+
+**ウォーレン:** 「ワオ、ウォーリー！」「よくやった、ウォーリー！」「機転を効かせろ、ウォ--　　--」
 
 //The ceiling tile above Warren bursts open. None can react in time as a mass of veins and capillaries rapidly descend, spilling to the floor and raising up to take the approximate shape of a human. From its coils, an array of tendrils lash out and ensnare Warren. Dr. Langford is frozen. Nix and Typhlo raise their arms but cannot get a safe shot off on the entity. Warren screams as he tries to wrestle himself away.//
 
+ウォーレンの真上の天井タイルが弾け飛ぶ。反応する間もない。静脈と毛細血管の塊が落下し、床に広がった。それはやがて人間らしき形をとり、立ち上がる。その渦巻く体から、触手の束が鞭打ち、ウォーレンを絡め取る。ラングフォード博士が硬直する。ニクスとタイフロが銃を構えるが、誤射の危険性があった。ウォーレンが叫びながらもがく。
+
 //Sebastian rushes forward, knife at the ready, as Torres lines up a shot with his sidearm. The bullet strikes the entity, causing it to loose its grip just as Sebastian lunges, cutting a long swath of blood vessels along its side.//
+
+セバスチャンがナイフを構えて突進する。同時に、トレスが拳銃で照準を合わせる。弾丸が実体に命中する。拘束が緩んだ。セバスチャンが飛び込み、側面の血管を切り裂く。
 
 //Falling off balance, the entity leans back into the fractured hallway, pulling Warren along with it. As they fall beyond the threshold, it becomes apparent that the gravity there is askew, causing them not to fall to the ground, but down the hall.//
 
+平衡を崩した実体が、歪んだ廊下へ倒れ込む。ウォーレンを引きずったまま。両者が境界を超える。そして、廊下の向こうへと落ちていく。地面ではなく。重力すらも歪んでいた。
+
 [[div class="explo explo--threshold"]]
 //As they cross the threshold, Warren and the entity are seen to similarly refract as if multiplying, falling down all branches of the hallway simultaneously. They strike the wall as they tumble. Reaching out, Warren manages to grab hold of the handle on the nearest cell door. The entity, having fallen further, clings to his leg. Warren looks out towards the team, shakily extending a free hand. Sebastian leans in, grasping the corner of the hallway for leverage, and tries to take his brother's hand, finding his fingers are just out of reach.//
+
+境界を越える。ウォーレンと実体の像が歪んでいく。屈折していく。増殖していく。転がりながら壁に衝突する。全ての分岐路を、同時に落ちていく。ウォーレンが手を伸ばした。その手は至近の独房扉の取手を掴んだ。だが実体は落ちてゆく。それは彼の脚にしがみついている。ウォーレンは隊員を見た。そして震えながら空いている方の手を伸ばす。セバスチャンが身を乗り出して廊下の角を掴み、体を支える。そのまま弟の手を取ろうとするが、届かない。わずかに。
+
 [[/div]]
 
 //Sebastian pulls back into the crossroads.//
 
+セバスチャンは四辻へ戻った。
+
 **Sebastian:** Well? Fucking don't just stand there!
 
+**セバスチャン:** おいこら、ボケっとしてんじゃねえよ！
+
 //The team, excluding Dr. Langford, who now slides down the wall, shivering, work to form a human chain. Each is locked arm-in-arm, holding onto Sebastian as he descends into the hall.//
+
+ラングフォード博士は壁際で座り込み、そして震えていた。彼以外の隊員は、それぞれ腕を組み合わせて人の鎖を作る。セバスチャンはそれを頼りにして、穴の中へと降っていく。
 
 [[div class="explo explo--threshold"]]
 //Sebastian is easily able to make contact, grasping his brother's hand tightly.//
 
+セバスチャンは弟の手をしっかりと掴む。今度は思いの外簡単に届いた。
+
 **Sebastian:** I got you! //(grunts)// I got him! Pull!
+
+**セバスチャン:** 大丈夫だからな！　//(うめく)//　捕まえた！　引き上げろ！
 
 //As Sebastian begins to pull Warren out, the entity spreads itself wide. Its vessels find purchase in the surrounding walls of the shaft. It pulls in kind with a greater degree of force -- Sebastian is dragged a half-meter deeper, with Torres now sliding halfway past the threshold.//
 
+彼はウォーレンを引き上げようとした。その時、実体が体を大きく広げた。血管が周囲の壁に食い込む。実体はウォーレンを離さない。その剛力で、セバスチャンは半メートルほど引き摺り込まれた。トレスも道連れになりそうだ。彼の半身が、境界を越える。
+
 **Torres:** Sunnuva bitch!
+
+**トレス:** こんちくしょう！
 
 //Warren continues to wrestle the entity as it climbs further up his leg. His hand slips from Sebastian's grasp; causing the human chain to rebound back with the force of their pulling. Nix grunts as she's thrown to the ground, Typhlo falling in her lap. Warren now clings only to the door handle. He glances down at the entity, then turns his gaze to the team.//
 
+ウォーレンと実体はもつれ合った。それは彼の脚をさらに這い上がってくる。そして、セバスチャンの手が滑った。彼の手はウォーレンから離れてしまう。力の行き場がなくなって、人間の鎖が後方に弾け飛んでしまう。ニクスが地面に投げ出されて呻き声を上げた。タイフロが彼女の上に倒れ込む。ウォーレンはかろうじて、ドアの取手だけにしがみついている。彼は実体を見下ろした。そして、隊員に顔を向ける。
+
 **Warren:** It's... it's no use. Tell mom I said--
 
+**ウォーレン:** もうダメだ……おしまいだ。ママに伝えてくれ。おれは--　　--
+
 //Sebastian lets out a rage-laden roar and leaps into the shaft, falling past Warren and colliding into the tangle of veins, tearing into it with his knife. The vessels lose their grip on Warren as the struggling pair fall away deeper into the hallway.//
+
+
+
 [[div class="explo explo--threshold"]]
 //Sebastian falls, entangled with the beast. He grunts as the pair painfully rebound off the sides of the shaft. All around them, the repeating pattern of the hallway and equally-spaced cell doors whiz by.//
 
