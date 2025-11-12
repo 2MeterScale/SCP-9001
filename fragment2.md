@@ -244,7 +244,7 @@ Should the area-of-effect expand beyond the Exclusion Zone, an All-Hands Notice 
 
 **Description:** SCP-9001-A refers to an expanding region characterized by non-Euclidean geometry, spatial inconsistencies, and the elaborate growth and fractalization of complex systems.
 
-**説明:** SCP-9001-Aは、非ユークリッド幾何学、空間的不整合、そして複雑系の精巧な成長とフラクタル化を特徴とする、拡大領域です。
+**説明:** SCP-9001-Aは、非ユークリッド幾何学、空間的不整合、および複雑系の精巧な成長とフラクタル化を特徴とする、拡大領域です。
 
 SCP-9001-A is expressed through the formation of vestigial facilities emerging from Site Romero-5, the shifting of local topography and meteorological conditions with a preference for fractal organization, and the induction of physiological mutations in living organisms within its area of effect.
 
@@ -280,7 +280,7 @@ Saunders hails Command, asking to double-check her positioning to confirm she's 
 
 Command notes the discrepancy. Saunders is asked to relay any peculiarities regarding her surroundings, but only notes that the road itself is in disrepair, with overgrown foliage and weeds encroaching on either side of the blacktop. It is as she's explaining this to Command that she trails off, leaning forward with a confused expression.
 
-司令部も、その不一致を記録する。そして彼女に対して、周囲の異変についての報告を求めた。道が荒れ果て、アスファルトの両脇から野放図に草木が伸びている。それ以外、特筆すべきことはない。そう言い終わらないうちに、彼女は口篭って、訝しげな表情を浮かべながら身を乗り出した。
+司令部も、その不一致を記録す流。続けて彼女に対し周囲の異変についての報告を求めた。道が荒れ果て、アスファルトの両脇から野放図に草木が伸びている。それ以外、特筆すべきことはない。そう言い終わらないうちに、彼女は口篭って、訝しげな表情を浮かべながら身を乗り出した。
 
 The flurry of trees begins to slow until the vehicle comes to a complete stop. Saunders flashes a quick glance towards the camera and shifts into park. There is a momentary jostling of the camera's field of vision as Saunders places her helmet on and exits the vehicle.
 
@@ -292,7 +292,7 @@ From her perspective, it can be seen that thick, gnarled root systems of surroun
 
 After brief deliberation, it is decided Saunders should continue on foot. She leans into the vehicle to retrieve her keys from the ignition, and closes the door behind her.
 
-多少の議論のすえ、ソーンダースは徒歩で進むこととなった--　　--体を屈めて、イグニッションから鍵を抜く。そして、後ろ手にドアを閉じた。
+多少の議論のすえ、ソーンダースは徒歩で進むこととなった--　　--体を屈めてイグニッションから鍵を抜く。そのまま彼女は後ろ手にドアを閉じた。
 
 Without the rumble of the engine, the near-silence of the surrounding wilderness comes into focus. There is no birdsong, nor chirping of insects. There is only a quiet creaking from an unknown source, likened by Saunders to that of old wooden floorboards. She sets off, stepping over the obstructing roots as she progresses.
 
@@ -308,11 +308,11 @@ A blaring horn is heard in the distance. Quickening her pace, Saunders rounds th
 
 The horn slowly gets weaker as Saunders approaches, dying out completely as she comes near. There is a subtle 'click' as Saunders releases the safety on her sidearm. She steps carefully, silently, around the open door, wheeling around it and bringing up her weapon in one fluid motion.
 
-ソーンダースが近づくにつれて、クラクションは小さくなっていく。車のすぐそばまで来たところで、その音は消えてなくなった。彼女はサイドアームの安全装置を外す。カチリ、と音がした。開いたドアの影に身を寄せ、ソーンダースは息を殺した。そして一瞬で身を翻すと、彼女は銃口を車内に向けた。
+ソーンダースが近づくにつれて、クラクションは小さくなっていく。車のすぐそばまで来たところで、その音は消えてなくなった。彼女はサイドアームの安全装置を外す。カチリ、と音がした。開いたドアの影に身を寄せ、息を殺す。彼女は一瞬で身を翻すと、銃口を車内に向けた。
 
 The vehicle is empty. Its airbag, deployed in the crash, rests partially-deflated. There is a smattering of blood stains present upon the driver's seat and steering wheel and spattered randomly across the upholstery. Saunders scans the area, checks under the vehicle, and only then holsters her weapon. She reaches into the center console, rummaging about to find a personnel lanyard. The coloration indicates it had belonged to a Level-3 researcher, but the surface is marred and scratched, with particular emphasis on the researcher's portrait. The text has been rendered illegible.
 
-誰も、車内にはいなかった。事故で膨らんだのであろうエアバッグは、半ばしぼんだまま垂れ下がっている。ハンドルから運転席、そしてそれ以外の内装にも、車内の至る所に点々と血痕が散らばっている。ソーンダースは辺りを見回し、車の下も確認してから、ようやく銃をしまった。彼女はセンターコンソールに手を突っ込み、職員証を探し当てた。色からして、それはレベル三研究員のものだ。しかし、その表面は傷だらけで、特に顔写真の部分はひどく削られているように見える。文字などはもはや読めたものではない。
+誰も、車内にはいなかった。事故で膨らんだのであろうエアバッグは、半ばしぼんだまま垂れ下がっている。ハンドルから運転席、それ以外の内装に至るまで、車内のあらゆる所に点々と血痕が散らばっている。ソーンダースは辺りを見回し、車の下も確認してから、ようやく銃をしまった。彼女はセンターコンソールに手を突っ込み、職員証を探し当てた。色からして、それはレベル三研究員のものだ。しかし、その表面は傷だらけで、特に顔写真の部分はひどく削られているように見える。文字などはもはや読めたものではない。
 
 It is as Saunders moves to pocket this that she looks up at the shattered windshield. A bloodied handprint has been pressed against the interior side. It possesses four additional digits.
 
@@ -340,11 +340,11 @@ The air here is thick with occluding fog. All that can be seen throughout the si
 
 There is a low rumble that shakes the area, sending Saunders to the ground. Looking up, Saunders captures the silhouette of the nearest building -- its shape contorts and extends, jutting outward to the left of the frame, forming a branch that connects to a separate facility. Bright pinpricks open up along the length of this new addition, quickly widening and taking the shape of new windows. The earth continues to quake as buildings further off in the distance repeat this process.
 
-低い地響きが走り、ソーンダースは地面に叩きつけられた。そのまま彼女は上を見た。すぐそばの建物が歪み、そして伸びていく。画面の左端からも飛び出たそれは、やがて別の施設と繋がる枝となる。枝に光の点がいくつも見えた。それはやがて大きくなり、新しい窓となる。遠くに見える建物もまた、同じように姿を変えていく。地鳴りはなお止まらない。
+低い地響きが走り、ソーンダースは地面に叩きつけられた。そのまま彼女は上を見た。すぐそばの建物が歪み、伸びていく。画面の左端からも飛び出たそれは、やがて別の施設と繋がる枝となる。枝に光の点がいくつも見えた。それはやがて大きくなり、新しい窓となる。遠くに見える建物もまた、同じように姿を変えていく。地鳴りはなお止まらない。
 
 Just as suddenly as the shifts occur, they come to a standstill. Saunders shakily stands up. The complex before her, moments before a scattering of various facilities, seems to now be a single continuous complex. Command is able to verify this via satellite imagery: though somewhat obscured by increasing cloud cover, an overhead perspective of the site confirms that the buildings have indeed interlocked. They have taken on the shape of a spiral.
 
-静寂が訪れた。始まった時と同じように、その変化は唐突に終わった。ソーンダースは震える足で立ち上がる。目の前には、一つの巨大な構造物があった。つい先ほどまでは、施設が点在していた場所であった。司令部も衛星画像で確認をとる。いくらか雲がかかってしまっているものの、そこにはひと繋がりになった建物が写っていた。そしてそれは、螺旋の形になっていた。
+静寂が訪れた。始まった時と同じように、その変化は唐突に終わった。ソーンダースは震える足で立ち上がる。目の前には、一つの巨大な構造物があった。つい先ほどまでは、施設が点在していた場所であった。司令部も衛星画像で確認をとる。いくらか雲がかかってしまっているものの、そこにはひと繋がりになった建物が写っていた。それは、螺旋を象っていた。
 
 Saunders finally admits that the current state of affairs is beyond her ability to personally resolve. Deciding that finding a capable off-road vehicle would be preferable to heading backwards on-foot, she convenes with Command to determine the approximate location of the site's vehicle bay. She sneaks off counter-clockwise around the site, sticking close to the perimeter fence. Dark shapes within the site cross in front of the windows, and Saunders doubles her pace.
 
@@ -356,7 +356,7 @@ With assistance from Command, Saunders is directed to approach the contiguous st
 
 Saunders curses again, dipping below the door before it is fully opened. The interior of the vehicle bay is well-lit. Rows of personal vehicles line either side of the chamber. Saunders rushes past a vast majority of the fleet, composed of modern top-of-the-line models, towards an older-model Jeep near the back. Swinging into the cabin, Saunders reorients herself beneath the steering column to begin hotwiring it. The feed darkens as she works.
 
-ソーンダースは再び悪態をついた。半開きのシャッターに、自身の体を滑り込ませる。車両格納庫は明るい。そしてその両脇に個人用車両がずらりと並んでいる。最新鋭の車には目もくれず、奥にあった旧式のジープへ駆ける。ソーンダースはその運転席に飛び乗った。ステアリングコラムの下で屈む。彼女は回線のショートを試みる。その作業の間、映像が暗転する。
+ソーンダースは再び悪態をついた。半開きのシャッターに、自身の体を滑り込ませる。車両格納庫は明るい。その両脇には、個人用車両がずらりと並んでいる。最新鋭の車には目もくれず、奥にあった旧式のジープへ駆ける。ソーンダースはその運転席に飛び乗った。ステアリングコラムの下で屈む。彼女は回線のショートを試みる。その作業の間、映像が暗転する。
 
 The sound of her haggard breathing is drowned out by a shrill wail, closer than the first.
 
@@ -368,7 +368,7 @@ The feed alights with a spark, and there is a rumbling of the engine. Saunders e
 
 Saunders navigates out of the garage and into the fog-laden site grounds. Dark, roughly-humanoid shapes can barely be made out as she speeds through towards the entry gate. As she slows to align with the access road, the vehicle is struck from the side. Glancing over her shoulder, a human arm can be seen latched onto the back of the Jeep. A second arm rises above it. A third. Each reaches farther in turn, sprouting many clasping hands that find purchase and work to pull the entity aboard.
 
-ガレージを抜け、霧に覆われた敷地へと飛び出す。新入ゲートへと向かって疾走する。その最中、霧の向こうでは人じみた名状し難い影がいくつも蠢いている。連絡道路に出るために速度を落としたその瞬間、車体が横からの衝撃を受ける。彼女は肩越しに後ろを確認した。ジープの後部に人間の腕が1本、喰らい付いている。その上から2本目、そして3本目。腕から腕が生え、そこからさらに腕が生える。無数の手が伸びては車体にしがみつき、その腕の主人を乗り込ませようと試みる。
+ガレージを抜け、霧に覆われた敷地へと飛び出す。新入ゲートへと向かって疾走する。その最中、霧の向こうでは人じみた名状し難い影がいくつも蠢いている。連絡道路に出るために速度を落としたその瞬間、車体が横からの衝撃を受ける。彼女は肩越しに後ろを確認した。ジープの後部に人間の腕が1本、喰らい付いている。その上から2本目、さらに3本目。腕から腕が生え、そこからまた腕が生える。無数の手が伸びては車体にしがみつき、その腕の主人を乗り込ませようと試みる。
 
 Saunders turns her focus to the road ahead as she passes the perimeter fence, brandishing her sidearm and blindly firing three shots, which elicits an inhuman shriek. She steals a glance backwards -- the creature has been dislodged. She grunts with satisfaction, turning back ahead, only to find herself rapidly approaching a massive shape in the middle of the road. Headlights fall across a furred hide a half-second before she crashes at-speed into the beast.
 
@@ -384,7 +384,7 @@ After a moment, there is movement. Saunders coughs. She groans, turning herself 
 
 She drags herself towards it as Command attempts to reassure her as to her survival, promising that help is on the way. Saunders calls their bluff, noting that there is no chance for salvation and calling for Command to rain hellfire on the site. The wailing grows closer, each voice in itself a dozen anguished cries. Saunders grabs her weapon, rights herself up against a nearby tree, and waits.
 
-助けは向かっている、と司令部の励ましの声を背に、彼女は銃へと這っていく。それでくる助けなど気休めだ、と彼女は一蹴した。救いはない、と彼女は断じる。このサイトごと地獄の業火で焼き払ってしまえ、と彼女は叫んだ。幾重にも重なった慟哭が近づいてくる。その一つ一つすら、幾重にも重なった苦悶の叫びのように聞こえる。銃を掴んだソーンダースは、近くの木に寄りかかり、そして、待った。
+助けは向かっている、と司令部の励ましの声を背に、彼女は銃へと這っていく。それでくる助けなど気休めだ、と彼女は一蹴した。救いはない、と彼女は断じる。このサイトごと地獄の業火で焼き払ってしまえ、と彼女は叫んだ。幾重にも重なった慟哭が近づいてくる。その一つ一つすら、幾重にも重なった、苦痛にあえぐ叫びのように聞こえる。銃を掴んだソーンダースは、近くの木に寄りかかり、そして、待った。
 
 Humanoid figures emerge from the fog on either side of the Jeep, cast in full silhouette against its headlights. Nothing more than their incomprehensible shapes can be made out -- torsos that split into multiple trunks, too-many arms extending from a single frame -- all converge on Saunders as she raises her weapon. She places two shots into the closest figure, dropping it. The third shot misses, taking out one of the Jeep's headlights. A rapid trio of shots strike yet another entity but does not halt its advance.
 
@@ -472,7 +472,7 @@ Initial attempts at an aerial assault on the facility were thwarted by hostile l
 
 **Cmdr. Lament:** And before that you were a Senior Researcher for Project HYDRA at Site Romero-5, correct?
 
-**ラメント司令官:** そしてそれ以前は、サイト・ロメロ-5でHYDRA計画の上級研究員をやっていた。そうだな？
+**ラメント司令官:** それ以前は、サイト・ロメロ-5でHYDRA計画の上級研究員をやっていた。そうだな？
 
 //Dr. Langford stops smiling.//
 
@@ -524,11 +524,11 @@ Initial attempts at an aerial assault on the facility were thwarted by hostile l
 
 //[Scanning the wooded expanse below, little can be made out as the region is mired in fog. As the perspective tilts, it comes into view -- buildings atop buildings, a veritable skyscraper whose floors are a confusing knot of interlocking facilities haphazardly growing from one another. A second helicopter circles around the side of the tower; its side-mounted machine gun fires at obscure figures crawling out from its windows.]//
 
-[眼下に広がる森林は霧に覆われている。そのせいで見通しはほとんど効かない。映像が傾く。そして、見える。建物の上の建物。無秩序に成長し、連結した施設の不可解な結び目。それらの積み重なった、まごうことなき摩天楼が。2機めのヘリコプターが塔の側面を旋回する。窓から這い出る不明瞭な影に向かって、その側面の機銃が発砲される。]
+[眼下に広がる森林は霧に覆われている。そのせいで見通しはほとんど効かない。映像が傾く。建物の上の建物。無秩序に成長し、連結した施設の不可解な結び目。それらの積み重なった、まごうことなき摩天楼が現れる。2機めのヘリコプターが塔の側面を旋回する。窓から這い出る不明瞭な影に向かって、その側面の機銃が発砲される。]
 
 //[A third helicopter speeds by -- as it descends near the tower, its tailboom fractures into two. Its rotors suddenly multiply, splitting from five into ten and then into an indistinct mass of metal, and it goes down; crashing into the side of the tower. Numerous crawling figures on the tower leap off the sides like fleas and take to the air, swarming around the tower and heading towards the viewpoint.]//
 
-[3機目のヘリコプターが高速で通りすぎる。そして塔の近くで降下する。そのテールブームが2つに割れた。ローターの羽は突如増殖する--　　--5枚から10枚へ、そして名状し難い金属の塊へ分裂する。制御を失ったそのヘリコプターは、塔の外壁へ衝突した。そこを多くの影が這っていた。それらはノミめいて飛び、そして空中に舞い上がる。塔の周りで群れをなしたそれらは、カメラの方へと殺到する。]
+[3機目のヘリコプターが高速で通りすぎ、塔の近くで降下する。そのテールブームが2つに割れた。ローターの羽は突如増殖する--　　--5枚から10枚へ、名状し難い金属の塊へ分裂する。制御を失ったそのヘリコプターは、塔の外壁へ衝突した。そこを多くの影が這っていた。それらはノミめいて飛び、空中に舞い上がる。塔の周りで群れをなしたそれらは、カメラの方へと殺到する。]
 
 //[The perspective helicopter pulls back as the figures near, carried on the wind by reams of webbed skin that stretch between numerous arms. Four are downed by suppressive fire. A fifth flits about, avoiding the barrage and crashing into the windshield. Many lolling tongues extend from its throat, tearing into the cockpit.]//
 
@@ -750,7 +750,7 @@ Upon his arrival at FOB Panloque, Dr. Langford would be outfitted and deployed a
 ||~ チームメンバー ||
 || **ウォーレン・グッデン**、技術者、機動部隊ゼータ-9所属 ||
 || **セバスチャン・グッデン**、小銃手、機動部隊ゼータ-9所属 ||
-|| **タイフロ**、奪感者[[footnote]]侵襲的神経外科処置により、視覚、聴覚、味覚、嗅覚を剥奪された工作員。奪感者は、機械的拡張感覚器により、振動に対する鋭敏な感覚を獲得し、通常と異なる方法で外界を認識することができる。[[/footnote]]、 機動部隊エータ-10 ||
+|| **ティフロ**、奪感者[[footnote]]侵襲的神経外科処置により、視覚、聴覚、味覚、嗅覚を剥奪された工作員。奪感者は、機械的拡張感覚器により、振動に対する鋭敏な感覚を獲得し、通常と異なる方法で外界を認識することができる。[[/footnote]]、 機動部隊エータ-10 ||
 || **特殊工作員ニクス**、案内員、機動部隊シータ-90 ||
 || **ロバート・ラングフォード博士**、交渉人 ||
 
@@ -794,7 +794,7 @@ M45A1自動けん銃6丁および予備マガジン _
 
 **Typhlo:** {{Echo mic check.}}
 
-**タイフロ:** {{えこー、まいくちぇっく}}
+**ティフロ:** {{えこー、まいくちぇっく}}
 
 **Torres:** What? I didn't even-- ugh. We're live, folks. Check your mics.
 
@@ -806,7 +806,7 @@ M45A1自動けん銃6丁および予備マガジン _
 
 **Nix:** Check, and cool it with the parlour tricks, Typh.
 
-**ニクス:** チェック。タイフロ、そのお座敷芸も大概にしてもらえる？
+**ニクス:** チェック。ティフロ、そのお座敷芸も大概にしてもらえる？
 
 //Warren steps aside as Sebastian shoulders full-force into the door, forcing it open.//
 
@@ -838,7 +838,7 @@ M45A1自動けん銃6丁および予備マガジン _
 
 **Typhlo:** {{Mutiny?}}
 
-**タイフロ:** {{叛乱カ？}}
+**ティフロ:** {{叛乱カ？}}
 
 **Dr. Langford:** Against Berryman? I don't think so. The woman could //smell// insubordination. No, if they were using this thing it was on her orders.
 
@@ -858,15 +858,15 @@ M45A1自動けん銃6丁および予備マガジン _
 
 **Torres:** Good work. Typhlo, can you get a read on our transport? I need you to check for occupants.
 
-**トレス:** よくやった。タイフロ、トラムの様子はわかるか？　乗客が居るかどうかを調べてほしい。
+**トレス:** よくやった。ティフロ、トラムの様子はわかるか？　乗客が居るかどうかを調べてほしい。
 
 //Typhlo drops onto the tracks, kneeling down to place a hand upon the rail.//
 
-タイフロが線路に降りる。そして膝をつき、手を線路の上に乗せた。
+ティフロが線路に降りる。そして膝をつき、手を線路の上に乗せた。
 
 **Typhlo:** {{Approaching at a rate of eighty kilometers per-hour. Arrival expected in two minutes. No movement on-board.}}
 
-**タイフロ:** {{時速80きろめーとるデ接近中。オヨソ2分後ニ到着。車内ニ動体反応ナシ。}}
+**ティフロ:** {{時速80きろめーとるデ接近中。オヨソ2分後ニ到着。車内ニ動体反応ナシ。}}
 
 **Dr. Langford:** Are we to expect a lot of resistance?
 
@@ -874,7 +874,7 @@ M45A1自動けん銃6丁および予備マガジン _
 
 //Warren rejoins the squad, offering a hand to Typhlo, and helps her up from the tracks. Nix, kneeling across the chamber, places down a Martel Piton. The flat device quietly hums as four small rods eject from its sides and anchor to the ground.//
 
-ウォーレンが再合流する。彼はタイフロに手を差し伸べて、線路から引き上げた。一方、構内の反対側ではニクスが膝をつき、マーテル型ペグを設置していた。扁平な装置が静かに震える。小さな杭が4本、その側面から飛び出て、地面へと食い込む。
+ウォーレンが再合流する。彼はティフロに手を差し伸べて、線路から引き上げた。一方、構内の反対側ではニクスが膝をつき、マーテル型ペグを設置していた。扁平な装置が静かに震える。小さな杭が4本、その側面から飛び出て、地面へと食い込む。
 
 **Nix:** Depends. Since we made first contact, there's been a lot of those creatures escaping out into the surrounding area -- Hammer Down has had its hands full.
 
@@ -898,7 +898,7 @@ M45A1自動けん銃6丁および予備マガジン _
 
 **Typhlo:** {{Simple. There will be bloodshed.}}
 
-**タイフロ:** {{簡単ダ。流血ガアル}}
+**ティフロ:** {{簡単ダ。流血ガアル}}
 
 //After a moment, lights become visible in the tunnel. The tram speeds towards the platform, slowing down and coming to rest before the team. The doors open, and the squad carefully enters with weapons at the ready. Warren makes for the controls.//
 
@@ -946,15 +946,15 @@ M45A1自動けん銃6丁および予備マガジン _
 
 //Typhlo suppresses a snicker. Dr. Langford halfheartedly forces an awkward chuckle.//
 
-タイフロが鼻で笑った。居心地を悪く感じたのか、ラングフォード博士はやや引き攣った笑みを浮かべた。
+ティフロが鼻で笑った。居心地を悪く感じたのか、ラングフォード博士はやや引き攣った笑みを浮かべた。
 
 //The team waits in silence as the tram progresses. Intermittent fields of static momentarily interrupt the feed, but the connection remains sound. After a few minutes, Typhlo signals for Warren to stop, who acquiesces.//
 
-全員が黙ったまま、トラムの進行を待つ。ときどき映像にノイズが走るが、通信は途切れない。数分が経つ頃、タイフロがウォーレンに合図を送った。ウォーレンはトラムを停止させる。
+全員が黙ったまま、トラムの進行を待つ。ときどき映像にノイズが走るが、通信は途切れない。数分が経つ頃、ティフロがウォーレンに合図を送った。ウォーレンはトラムを停止させる。
 
 **Typhlo:** {{Obstruction ahead. We walk from here.}}
 
-**タイフロ:** {{前方ニ障害物アリ。ココカラハ歩ク。}}
+**ティフロ:** {{前方ニ障害物アリ。ココカラハ歩ク。}}
 
 //The doors slide open, and a light fog drifts into the compartment.//
 
@@ -1088,11 +1088,11 @@ M45A1自動けん銃6丁および予備マガジン _
 
 **Torres:** Whatever they're doing, we can't let it continue. Typhlo, got anything?
 
-**トレス:** これがなんであれ、即刻中断させねばならん。タイフロ、何かわかるか？
+**トレス:** これがなんであれ、即刻中断させねばならん。ティフロ、何かわかるか？
 
 **Typhlo:** {{Heart rates at... six beats per minute. Likely depend on retaining a circulatory system. Could bleed them out.}}
 
-**タイフロ:** {{心拍数ハ……毎分6回。コレデ循環系ヲ維持シテイマス。出血サセルコトハ可能ナヨウデス。}}
+**ティフロ:** {{心拍数ハ……毎分6回。コレデ循環系ヲ維持シテイマス。出血サセルコトハ可能ナヨウデス。}}
 
 //At this, Sebastian slices deep into the trunk beneath its orifice. Torrents of crimson blood rush from the wound -- the rest of the congregation whines and shivers as the wounded instance seizes and falls still. The deflated bulbs hang limply from its orifice.//
 
@@ -1100,11 +1100,11 @@ M45A1自動けん銃6丁および予備マガジン _
 
 **Torres:** Warren. Sebastian. You two handle them. Make it quick. I'll get on top of manually disconnecting these servers just in case they're still capable of sending out kill agents. I want Langford and Typhlo to dig through those files, see what you can see. Or... well, you know what I mean, Typh.
 
-**トレス:** ウォーレン、セバスチャン。そいつらをどうにかしろ。手早くやれよ。俺は念の為にサーバーを手動で切断する。もしかすると、まだ殺害エージェントを送信できる可能性があるかもしれない。ラングフォードとタイフロはそのファイルを掘り返せ。見られるものは全部見ておけよ。それか……まあ、言ってることはわかるだろ。タイフロ。
+**トレス:** ウォーレン、セバスチャン。そいつらをどうにかしろ。手早くやれよ。俺は念の為にサーバーを手動で切断する。もしかすると、まだ殺害エージェントを送信できる可能性があるかもしれない。ラングフォードとティフロはそのファイルを掘り返せ。見られるものは全部見ておけよ。それか……まあ、言ってることはわかるだろ。ティフロ。
 
 **Typhlo:** {{Offense not taken.}}
 
-**タイフロ:** {{ぱわはらハヤメテクダサイ。}}
+**ティフロ:** {{ぱわはらハヤメテクダサイ。}}
 
 **Torres:** And Nix, you make good on our way out.
 
@@ -1166,7 +1166,7 @@ M45A1自動けん銃6丁および予備マガジン _
 
 //Sebastian and Warren enter first, turning about to check the right and left flanks, respectively. Nix and Torres follow suit, sidearms held in a low-ready stance. As Dr. Langford crosses the threshold, he stumbles off balance, being caught and righted by Typhlo.//
 
-セバスチャンとウォーレンが先陣を切り、それぞれ右と左を確認する。ニクスとトレスがサイドアームをローレディに構えながら続く。ラングフォード博士が入口を跨ぐ。その瞬間、彼は体勢を崩した。タイフロが彼を素早く支える。
+セバスチャンとウォーレンが先陣を切り、それぞれ右と左を確認する。ニクスとトレスがサイドアームをローレディに構えながら続く。ラングフォード博士が入口を跨ぐ。その瞬間、彼は体勢を崩した。ティフロが彼を素早く支える。
 
 **Nix:** Another shift. Get used to the vertigo.
 
@@ -1186,11 +1186,11 @@ M45A1自動けん銃6丁および予備マガジン _
 
 **Torres:** Down it is. Typhlo?
 
-**トレス:** 下からだな。タイフロ。
+**トレス:** 下からだな。ティフロ。
 
 **Typhlo:** {{Hard to get a read on. I'm catching reverberations but it is fuzzy. The shape doesn't make sense. It is alone, I believe, but it is large.}}
 
-**タイフロ:** {{判別ガ難シイデス。反響音ハ聞き取レマシタガ、ぼやケテイマス。ソレニ、形モ奇妙デス。オソラク単体デショウガ、大キイデス。}}
+**ティフロ:** {{判別ガ難シイデス。反響音ハ聞き取レマシタガ、ぼやケテイマス。ソレニ、形モ奇妙デス。オソラク単体デショウガ、大キイデス。}}
 
 **Dr. Langford:** Only one? Should we... well, you, take care of it?
 
@@ -1202,7 +1202,7 @@ M45A1自動けん銃6丁および予備マガジン _
 
 **Typhlo:** {{You are welcome to find out. I will remember your bravery fondly.}}
 
-**タイフロ:** {{是非オ確カメニナッテクダサイ。貴方ノ勇敢サハ、後世ニ語リ継ギマショウ。}}
+**ティフロ:** {{是非オ確カメニナッテクダサイ。貴方ノ勇敢サハ、後世ニ語リ継ギマショウ。}}
 
 //Torres elicits an exasperated sigh. He silently signals for Sebastian to cover their rear, and takes point down the downward path. The curvature of the hallway is such that forward sight is restricted past 15 meters. Looking into portholes as they progress, it can be seen the team is moving past the personnel quarters. The porthole on the last is shattered. A bloodied labcoat hangs in shreds from its lip. Glancing inside, it becomes clear the occupant had used their bedding to barricade the door.//
 
@@ -1210,7 +1210,7 @@ M45A1自動けん銃6丁および予備マガジン _
 
 **Typhlo:** {{Tapping. Up ahead.}}
 
-**タイフロ:** {{こつこつ鳴ッテイル。前方。}}
+**ティフロ:** {{こつこつ鳴ッテイル。前方。}}
 
 //Rounding the next bend, a crimson web of thin tendrils coats the ceiling, extending for a length of several meters. It does not react to their presence. The squad carefully advances through to a four-way junction.//
 
@@ -1342,7 +1342,7 @@ M45A1自動けん銃6丁および予備マガジン _
 
 //The ceiling tile above Warren bursts open. None can react in time as a mass of veins and capillaries rapidly descend, spilling to the floor and raising up to take the approximate shape of a human. From its coils, an array of tendrils lash out and ensnare Warren. Dr. Langford is frozen. Nix and Typhlo raise their arms but cannot get a safe shot off on the entity. Warren screams as he tries to wrestle himself away.//
 
-ウォーレンの真上の天井タイルが弾け飛ぶ。反応する間もない。静脈と毛細血管の塊が落下し、床に広がった。それはやがて人間らしき形をとり、立ち上がる。その渦巻く体から、触手の束が鞭打ち、ウォーレンを絡め取る。ラングフォード博士が硬直する。ニクスとタイフロが銃を構えるが、誤射の危険性があった。ウォーレンが叫びながらもがく。
+ウォーレンの真上の天井タイルが弾け飛ぶ。反応する間もない。静脈と毛細血管の塊が落下し、床に広がった。それはやがて人間らしき形をとり、立ち上がる。その渦巻く体から、触手の束が鞭打ち、ウォーレンを絡め取る。ラングフォード博士が硬直する。ニクスとティフロが銃を構えるが、誤射の危険性があった。ウォーレンが叫びながらもがく。
 
 //Sebastian rushes forward, knife at the ready, as Torres lines up a shot with his sidearm. The bullet strikes the entity, causing it to loose its grip just as Sebastian lunges, cutting a long swath of blood vessels along its side.//
 
@@ -1390,7 +1390,7 @@ M45A1自動けん銃6丁および予備マガジン _
 
 //Warren continues to wrestle the entity as it climbs further up his leg. His hand slips from Sebastian's grasp; causing the human chain to rebound back with the force of their pulling. Nix grunts as she's thrown to the ground, Typhlo falling in her lap. Warren now clings only to the door handle. He glances down at the entity, then turns his gaze to the team.//
 
-ウォーレンと実体はもつれ合った。それは彼の脚をさらに這い上がってくる。そして、セバスチャンの手が滑った。彼の手はウォーレンから離れてしまう。力の行き場がなくなって、人間の鎖が後方に弾け飛んでしまう。ニクスが地面に投げ出されて呻き声を上げた。タイフロが彼女の上に倒れ込む。ウォーレンはかろうじて、ドアの取手だけにしがみついている。彼は実体を見下ろした。そして、隊員に顔を向ける。
+ウォーレンと実体はもつれ合った。それは彼の脚をさらに這い上がってくる。セバスチャンの手が滑った。彼の手はウォーレンから離れてしまう。力の行き場がなくなって、人間の鎖が後方に弾け飛んでしまう。ニクスが地面に投げ出されて呻き声を上げた。ティフロが彼女の上に倒れ込む。ウォーレンはかろうじて、ドアの取手だけにしがみついている。彼は実体を見下ろした。そして、隊員に顔を向ける。
 
 **Warren:** It's... it's no use. Tell mom I said--
 
@@ -1398,34 +1398,62 @@ M45A1自動けん銃6丁および予備マガジン _
 
 //Sebastian lets out a rage-laden roar and leaps into the shaft, falling past Warren and colliding into the tangle of veins, tearing into it with his knife. The vessels lose their grip on Warren as the struggling pair fall away deeper into the hallway.//
 
-
+セバスチャンは怒りに満ちた咆哮を上げた。彼はナイフを抜き、歪んだ廊下の中へと飛び込んでゆく。ウォーレンすら通り越してしまうと、絡み合った血管の塊をそのナイフで切り裂いた。セバスチャンと実体はもつれあい、さらに深くへと落ちていく。血管が、ウォーレンから離れた。
 
 [[div class="explo explo--threshold"]]
 //Sebastian falls, entangled with the beast. He grunts as the pair painfully rebound off the sides of the shaft. All around them, the repeating pattern of the hallway and equally-spaced cell doors whiz by.//
 
+そうして落ちていく最中、壁面に衝突し、跳ね返るたびに、セバスチャンは苦悶の声を上げた。ゴウ、と空気を切り裂く音を立てながら、両者は自己相似の廊下と、等間隔に並んだ独房のそばを通り過ぎていく。
+
 //The entity worms its veins around Sebastian's mask, prying it from his face -- it flies off into the endless expanse above them.//
+
+実体の血管がうねり、セバスチャンの覆面を引き剥がした。そしてそれは、無限に広がる空間の中へと消えていく。
+
 [[div class="explo explo--threshold"]]
 //Deeper still.//
+
+深く、そして深く。
 
 //Sebastian bites down hard on an artery as the tendrils work to strangle him, and is sprayed with a red mist. The entity loses its grip and latches onto the sides of the shaft as Sebastian continues to descend.//
 
+実体が彼を絡め取ろうとする最中、セバスチャンはその動脈に噛みつく。噴き出た血は、まるで赤い霧のようであった。彼は実体の拘束から離れた。実体は壁面に掴まる。セバスチャンはひとり落ちていく。
+
 //The walls fall away -- the setting dissolves into an inky black that presses in on all sides despite its seeming non-existence.//
+
+壁が消え失せた。周りに何かがあるとも思えない。それでもなお、墨汁じみた何かが圧しかかってくる。
+
 [[div class="explo explo--threshold"]]
 //Deeper still.//
 
+深く。そして深く。
+
 //The speed at which the fading light above retracts would indicate that Sebastian has reached terminal velocity. Despite this, there comes a woolly scraping as friction with the surrounding darkness tears away at clothing.//
 
+セバスチャンが終端速度に達した。はるか上にある明かりのすぼむ速度が、一定になったからだ。セバスチャンの衣服が引き裂かれていく。まるでやすりか何かに、体を擦り付けているかのようであった。
+
 //At skin.//
+
+皮膚も裂ける。
+
 [[div class="explo explo--threshold"]]
 //Deeper. Faster. Sebastian grunts and strains as he works to raise flayed arms over his head. Still, the surrounding space tightens. There is a resounding **crunch**. Sebastian screams as his body contorts, his limbs and torso caving inwards, covering the camera lens.//
 
+より深く、より速く。身悶えしながらも、苦悶の声を上げながらも、セバスチャンはすっかり皮のはげてしまった腕を懸命に上へ伸ばす。空間が潰れていく。**圧壊**の音が響いた。セバスチャンは絶叫を上げた。体が捻れて、両手両脚があらぬ方向に曲げられている。カメラの映像が、四肢に覆われてしまった。
+
 //A second **crunch**. Sebastian continues to scream.//
+
+2度目の**圧壊**。セバスチャンは叫び続ける。
 
 [[div class="explo explo--room"]]
 [[=]]
 **crunch**
 
+**圧壊**
+
 //Sebastian has stopped screaming. The sound of rushing wind is the only indicator that the perspective continues to descend.//
+
+絶叫が止んだ。風を切る音だけが、落下を示唆している。
+
 [[/=]]
 
 [[div class="explo explo--room"]]
@@ -1433,15 +1461,28 @@ M45A1自動けん銃6丁および予備マガジン _
 **crunch**
 //The perspective begins to clear as Sebastian's remains come apart in tatters.//
 
+セバスチャンの骸が、ばらばらに引き裂かれている。
+
 **crunch**
+
+**圧壊**
+
 //A crack forms across the lense.//
+
+レンズが罅割れる。
+
 [[/=]]
 
 [[div class="explo explo--room"]]
 [[=]]
 **crunch**
 
+**圧壊**
+
 The feed is lost.
+
+映像が途切れる。
+
 [[/=]]
 [[/div]]
 
@@ -1449,104 +1490,189 @@ The feed is lost.
 
 [[div class="explo-rising"]]
 //The//
+
+彼の
 [[/div]]
 [[/div]]
 
 [[div class="explo-rising"]]
 //clamoring of//
+
+不鮮明な
+
 [[/div]]
 [[/div]]
 
 [[div class="explo-rising"]]
 //his anguished screams//
+
+叫び声だけが
 [[/div]]
 [[/div]]
 
 [[div class="explo-rising"]]
 //reverberate upwards and out//
+
+名状し難い竪穴を
+
 [[/div]]
 [[/div]]
 
 [[div class="explo-rising"]]
 //through the impossible hallways and//
+
+反響し、轟音となって
+
 [[/div]]
 [[/div]]
 
 [[div class="explo-rising"]]
 //echo up into the corridor where the team tries//
+
+危険地帯にいるウォーレンを
+
 [[/div]]
 [[/div]]
 
 [[div class="explo-rising"]]
 //to pull Warren from his precarious position in the shaft.//
+
+救出しようとする部隊まで響いた。
+
 [[/div]]
 [[/div]]
 
 //With their collective might, they are successful in bringing Warren to safety.//
 
+彼らは力を合わせて、ウォーレンを安全地帯へと回収することに成功した。
+
 //Warren collapses on the ground, hyperventilating. He tears the mask from his face and vomits profusely. Nix works to fully disassemble the SRA's vital components, swearing repeatedly under her breath. She casts discarded materials one after another into the fractured hallway.//
+
+ウォーレンは過呼吸を起こしながら蹲った。そして覆面をとると、大量に嘔吐した。ニクスは消え入るように悪態をつきながら、現実錨の重要部品を分解し、それを一つずつ、やぶれた廊下へと捨てていく。
 
 **Nix:** This isn't good. Damnit, Captain, they have these things set up all around the site!
 
+**ニクス:** こりゃダメだわ。キャプテン、奴らこんなのをサイト全体に仕掛けてるんじゃないの！
+
 //Torres nods.//
+
+トレスが頷く。
 
 **Torres:** If the AOE spreads far enough, reaches the Exclusion Zone...
 
+**トレス:** 異常空間がこれ以上広がって、立入禁止区域へ差し掛かったら……
+
 //Dr. Langford stutters, unable to intelligibly speak.//
+
+ラングフォードは言葉を失っていた。彼の口からは無意味な音しか出てこない。
 
 **Typhlo:** {{That cannot be allowed to come to pass.}}
 
+**ティフロ:** {{あれハ絶対ニ外ヘ出シテハイケマセン。}}
+
 //Torres attempts to hail Command as Warren wipes his mouth. Typhlo extends a hand, helping him to his feet. Torres tries a second channel, then a third; each is a garble of static.//
+
+ウォーレンが口を拭いている間、トレスは司令部と連絡を取ろうとする。ティフロがウォーレンに手を貸して、彼を立ち上がらせた。トレスは2個目、3個目のチャネルも使って連絡を試みる。しかし、どれも不通だった。
 
 **Torres:** No dice. It's gonna be on us to stop this here and now.
 
+**トレス:** こうなっちまったからには、俺たちがこれを終わらせないといかんな。
+
 **Dr. Langford:** What if we can't? It's not like there will be a big "OFF" switch.
+
+**ラングフォード博士:** それができなかったらどうするんです？　どこかに電源ボタンがあるってわけでもないでしょうに。
 
 **Warren:** There's //always// a big "OFF" switch.
 
+**ウォーレン:** あるんだよ。でっかい電源ボタンが。
+
 //Warren affixes his mask.//
+
+ウォーレンが覆面を付け直す。
 
 **Warren:** On-site nuke. Bring the whole darn thing down.
 
+**ウォーレン:** 核爆弾があるだろ。それで全部おしまいにできる。
+
 //Nix tosses the empty shell of the SRA into the fractured hallway with a laugh.//
+
+ニクスが現実錨の外殻をやぶれた廊下へ投げ入れ、笑った。
 
 **Nix:** You really think we have those?
 
+**ニクス:** 本当にそんなのあると思ってるの？
+
 **Typhlo:** {{Site warheads are retained in files as a form of misinformation. We've not had those since the 80s, at least.}}
+
+**ティフロ:** {{さいと地下ノ核弾頭ハ、アル種ノかばーすとーりーノヨウナモノデス。80年代以降、ソノヨウナモノハ運用サレテイマセン。}}
 
 **Warren:** //(quietly)// Goddamnit, Seb. Got me again.
 
+**ウォーレン:** //(小声で)//ちくしょう、またやっちまった、アニキ……。
+
 **Torres:** You're on the right path though. We're not without our Hail Mary.
+
+**トレス:** あながち間違いというわけでもない。切り札は、あることにはある。
 
 //With this, Torres withdraws a small handheld device from a breast pocket. It is slender, and sports a single red button beneath a transparent guard.//
 
+そう言いながら、トレスは小さめの携帯デバイスを、胸ポケットから引っ張り出した。それは細ながく、また赤いボタンがひとつ、透明な蓋の下で存在を主張している。
+
 **Warren:** A detonator?
+
+**ウォーレン:** 起爆装置ですか？
 
 **Torres:** A transmitter. One whose "signal" is a quantum-entangled particle with that of a partner at Site-01. One push and this place has five minutes before everything in a ten kilometer radius is glassed.
 
+**トレス:** 発信機だ。量子もつれを利用して、サイト-01にある兄弟機へ信号を送ることができる。このボタンを押せば、5分と経たないうちに、周辺10キロメートルが消し炭になる。
+
 **Nix:** Orbital bombardment.
+
+**ニクス:** 軌道爆撃だね。
 
 **Warren:** Is that not functionally the same as an on-site nuke?
 
+**ウォーレン:** サイト地下の核爆弾と、役割的には同じですね？
+
 **Dr. Langford:** Well, if you want to consider the practicalities of it, then no. It may come as a shock to you, but not everyone is comfortable sitting on top of a literal nuke.
+
+**ラングフォード博士:** 実用性の面でいえば、ノーです。核弾頭が足元にあるとなれば、人は落ち着けないものです。あなたがどうかはわかりませんが。
 
 **Torres:** Even fewer would want to be the one to pull the trigger. Greater good can be a hard pill to swallow when self-preserva--
 
+**トレス:** そしてそれを喜んで起爆しようとする奴など、いないと言ってもいいだろう。認め難いものだよな。自己の存亡を前にすれば、より大きな善というものは--　　--
+
 //There comes a sound of pounding on tile, rapidly drawing near. From up around the main hallway there is a piercing chorus of screams from a dozen voices.//
+
+床面を叩くような音が急速に近づいてくる。中央廊下の向こうから十数人の甲高い悲鳴が響く。それはもはや、合唱じみていた。
 
 **Torres:** Shit!
 
+**トレス:** クソが！
+
 **Langford:** They're coming!
+
+**ラングフォード博士:** 奴ら来ますよ！
 
 **Typhlo:** {{Singular. **It's** coming.}}
 
+**ティフロ:** {{単体デス。奴ガ来マス。}}
+
 **Torres:** Either fucking way, move it!
+
+**トレス:** どっちでもいい！　対処するんだ！
 
 //The squad breaks out into a run down the main hallway. They round bend after bend, ignoring side-paths as they come across them: the cafeteria doors at the end of one hall lay forced open from within by a throng of twitching fingers that continuously branch and grow and branch again; a wing designated SL-2 cannot be sighted for the mass of hair that seems to grow from every surface, blotting out the lights within; the maintenance sublevel, choked by an over-abundance of twisting, knotted pipes.//
 
+部隊は中央廊下を駆ける。次々と角を曲がっていく。脇道には目もくれない。その突き当たり、カフェテリアのドアが内側からこじ開けられた。絶えず枝分かれし、痙攣しながらも成長する指の群れによって。そしてSL-2なる区画は、あらゆる表面から生える大量の髪の毛に覆われている。それは内部からの光を、そして視界を遮っている。メンテナンス用の地下フロアは、捩れ絡み合う無数の配管で埋め尽くされている。
+
 **Torres:** Fuckin' pipes.
 
+**トレス:** ひでえ配管だな。
+
 //The floor here transitions from smooth tile to rough metal railing. White walls fall away to grey concrete. The pounding and the wailing grow louder as the creature slowly gains on the squad. Dr. Langford, trailing behind and clearly winded, steals a backwards glance, catching an impression of the beast -- of broken, disjointed wrists splitting into too-many hands that smash into the ceiling, the walls, the floor; all crashing down with shattering force. Dr. Langford elicits a panicked whimper, desperately charging ahead to catch up to the others. A second glance. Grasping hands explode from palms, each finger itself becoming host to another in rapid succession.//
+
+床が滑らかなタイルから、ざらついた金属へと切り替わる。壁の白い塗装はもはや剥がれ落ちていて、コンクリートの灰色が剥き出しになっていた。床を叩くような音と、何者かの絶叫が大きくなっていく。怪物が部隊との距離を、ゆっくりと詰め始めている。ラングフォード博士は、隊列から遅れ始めていた。息も絶え絶えに、彼は振り向いてしまった。ひしゃげた手首から生える無数の手が、天井を、壁を、床を粉砕させんばかりの力で叩きつけている。ラングフォード博士はか細い悲鳴を漏らし、皆へ追いつこうと必死に前に駆ける。彼は再び、後ろを見てしまった。一つ一つの手の平から、まるで爆発でもしているかのように、新しい手が生まれ出て、その指の一本一本が、また新たな手となっていく。それらは、ラングフォード博士へと殺到する。
 
 [[div class="scp-image-block block-center" style="width: 100%"]]
 [[image http://scp-wiki.wikidot.com/local--files/scp-9001/abomination.webp]]
@@ -1554,57 +1680,109 @@ The feed is lost.
 
 //Gone now is the overhead fluorescence that bathed the halls above; their flight is now lit by individual bulbs whose fixtures swing from the tremorous force of the advancing behemoth. Each shatters in turn as it comes across them. Drawing nearer.//
 
+彼らの逃走を照らしているのは、今や剥き出しの電球だけだった。蛍光灯の光などという贅沢は、もはやここには届かない。迫り来る実体の引き起こす振動で、その一つ一つが振り子のように揺れている。実体が通るたびに、電球が順に爆散していく。それは、すぐそこまで来ている。
+
 //Up ahead, Torres passes through an open bulkhead, skidding to a stop at a control panel on the opposing side. He is followed by Warren, who brandishes his rifle. A klaxon rings out as Torres pulls a lever, and the bulkhead doors slowly emerge from either side to close in the middle. Nix follows through third, withdrawing her rifle. In a single motion she turns about, assumes a kneeling position, and fires over Dr. Langford and Typhlo in three-round bursts. Typhlo does not adjust her course or react as she races to join the others. Dr. Langford, however, flinches in surprise, trips, and stumbles hard to the ground. He rolls onto his back, groaning and clutching his forehead.//
+
+前方の開いた隔壁を、トレスが駆け抜ける。その勢いを殺しきれず、彼はブーツを滑らせながらも反対側の制御盤にたどり着く。小銃を構えたウォーレンが彼の背後へとやってくる。トレスがレバーを叩きつけた。けたたましい警報が鳴る。分厚い隔壁が唸りを上げながら、両側の壁面からせり出してくる。3番目にニクスが滑り込んだ。彼女は振り返ると同時に膝をつき、流れるような動きで銃を構える。三点バーストで放たれた銃弾が、ラングフォードとティフロの頭上を掠めていく。着弾の音に怯むことなく、ティフロはそのまま走り抜けた。他方でラングフォード博士は、その銃声に身がすくみ、足がもつれてしまう。彼は体勢を崩し、地面に勢いよく叩きつけられた。仰向けになると、彼は呻きながら、強打した頭を押さえた。
 
 //Typhlo rushes to Dr. Langford's side as he weakly attempts to scramble backwards. From the darkness before them, innumerable fingers extend and cling to scaffolding only to be subsumed and overcome by yet others. It becomes apparent in this moment, as its limbs fracture into fresh iterations, that the behemoth has not simply been chasing after them. It was growing. From within its center emerge several gaunt, howling faces who each hold wide their maws, birthing from within perfect replicas that repeat the process in kind. A dozen sets of lifeless eyes peer out from a thick tangle of hair. The squad's shots do little to deter their recursive germination.//
 
+逃げようともがくラングフォード博士のもとに、ティフロが駆け寄る。目の前の暗闇--　　--そこから無数の指が伸びては足場に絡みつき、さらに新しく生まれた指に飲み込まれ、覆われてゆく。その手足が分裂し、新たな姿かたちをとってゆく様を見れば、誰であろうと悟るだろう。あれはただ、迫ってきたのではなく、成長していたのだと。その中心から窶れた顔面が突き出る。苦しげに開かれた口、その仄暗い喉奥からまた同じ顔が生まれる。苦艱の声を上げながら、同じ顔が増殖していく。絡み合った髪の毛の奥深くから、十数対もの虚ろな瞳が、こちらを覗き込んでくる。隊員が銃撃をする。しかし、その無限再帰の増殖を止めるには、あまりにも心許ないものであった。
+
 //With the bulkhead doors a meter apart, and Dr. Langford too stunned to escape, Typhlo grips about his collar and waistband. She hurls him forward and just past the closing doors. In the moments before the doors fully seal, Typhlo is seized and pulled airborne. Untold numbers of clawing, skewering fingers dig into every perceivable surface. In less than a second, every bit of her is separated from the next in a fountain of viscera. The bulkhead seals.//
+
+あと数十センチで、隔壁が完全に閉じてしまう。しかしながら、ラングフォード博士は完全に呆けてしまっていた。ティフロが彼の襟首とベルトを掴み、閉まりゆく扉の向こうへ投げ飛ばす。扉が完全に閉鎖されるその瞬間、ティフロの体が宙に吊り上げられる。無数の指が、鉤爪が、杭となって彼女の体のありとあらゆるところに突き刺さり、食い込んでゆく。コンマ数秒で彼女の体は完全に引き裂かれる。臓物が宙を舞い、血の雨が降った。隔壁が、閉じる。
 
 //Dr. Langford alone yelps as the bulkhead is struck repeatedly with force from the opposite side.//
 
+隔壁の向こうから、凄まじい衝撃音が響く。一度とならず、何度でも。ラングフォード博士だけが、短い悲鳴をあげた。
+
 //The squad takes the opportunity to catch their breath -- now visible in dissolving clouds in the chill of the room. Warren helps Dr. Langford up from his place sprawled on the scaffolding. They're in a darkened antechamber, lit only by rotating emergency lights inlaid across the ceiling from one end to another -- where a second bulkhead now slowly opens.//
+
+部隊はようやく、息をつくことができた。部屋は冷え込み、吐く息が白い雲となっては消えていく。ウォーレンが、足元に倒れていたラングフォード博士を助け起こした。暗闇の中でも、ここが何かの控え室であることはわかる。天井の端から端まで、列をなして埋め込まれた非常灯が回転をはじめ、赤色の光が何度となく部屋の中を舐め回す。それが唯一の光源であった。そして、その光の照らす部屋の奥側で、2つ目の隔壁が、今、ゆっくりと開く--　　--
 
 **Torres:** Where the hell are we, Langford?
 
+**トレス:** ラングフォード、俺たちどこにいるんだ？
+
 //Red light spills in from the crack of the opening door.//
+
+隔壁の隙間から、赤い光が漏れた。
 
 [[div class="explo explo--room"]]
 
 **Dr. Langford:** We've... we've made it.
 
+**ラングフォード博士:** やった……たどり着いたんですよ。
+
 //The doors fully open to reveal the SCP-9001 production center. The space here is dark. The only source of light comes from a dozen terminals stretching across the eastern wall that makes up the bulk of the production apparatus. Isolated terminals atop several desks account for the remainder of the ancillary illumination. There is subtle movement in the darkness, accompanied by the sounds of frenetic typing and a haggard breathing.//
+
+隔壁が完全に開き切ると、そこはSCP-9001生成センターであった。暗闇の中に沈む部屋の中、十数台の端末が光を放っていた。東側の壁一面に広がる、生産装置の画面であった。そのほかには、机の上にいくらか置かれている端末が、わずかにあたりを照らしているに過ぎない。暗闇の奥で、何かが動いた。憔悴しきった、荒い呼吸の音に混じって、狂いじみたタイピング音が聞こえてくる。
 
 //Proceeding with caution, arms at the ready, Torres and Warren activate their torches. Splayed all about the floor is a collection of loose skin. Torres' light traces its way across the flesh of the abomination to where narrow limbs raise up from within its folds. Elongated fingers and toes multiply and iterate, extending towards various keypads throughout the command center, where it endlessly types a series of commands and prompts. The head of an aged male dangles upside-down in its center, supported by a willowy neck.//
 
+銃を構えながら、トレスとウォーレンは慎重に歩を進める。両名はライトをつけた。床一面に散らばる、弛みきった皮膚の塊が、眩い光で照らされる。悍ましい肉塊の上を、トレスのライトが滑っていく。肉襞の隙間から伸びる、何本もの細長い手足をとらえた。間延びしたかのような指先と足先が、自己増殖を繰り返しながら、司令室のあちこちにあるキーパッドへと伸びている。そして、無数のコマンドとプロンプトを際限なく打ち込んでいた。やがてライトが、その中央に向く。柳の枝めいたしなやかな首に支えられて、年老いた男の顔が、逆さまにぶら下がっていた。
+
 **Dr. Langford:** Dear God... Dr. Coleman?
+
+**ラングフォード博士:** そんな……コールマン博士？
 
 //The thing that had been Coleman strains its neck to turn and regard the approaching squad. It draws a rattling breath. Its lips purse. A sound that could be mistaken for "please" escapes its throat as Torres takes aim with his sidearm. It is struck between the eyes. The typing ceases.//
 
+かつてコールマンであったのだろう「それ」は、何かを軋ませながら首を捻り、近づいてくる部隊の方を向いた。「それ」の喉奥から、声にもならない息が漏れた。かろうじて残っている意識が、その唇を動かした。トレスが、サイドアームの照準を合わせた。「頼む」--　　--ただのか細い音だったが、そう言ったようにも思える。銃弾がその眉間を正確に撃ち抜いた。タイピングの音が、止んだ。
+
 **Torres:** Things are looking up, folks. That's one objective on a silver platter.
+
+**トレス:** 上等だ、諸君。棚から牡丹餅ってところか。
 
 //Nix shines his light across the room to a steel door on the far side. "ACCESS - L4 ONLY" is emblazoned across it in bold red letters.//
 
+ニクスは、部屋の対面にある鉄扉へとライトを向けた。それは赤い太字で「要レベル4クリアランス」と印字されている。
+
 **Torres:** What's in there?
+
+**トレス:** 中には何が？
 
 //Dr. Langford sighs.//
 
+ラングフォード博士がため息を漏らす。
+
 **Dr. Langford:** That would be our Kempelen facility.
+
+**ラングフォード博士:** ケンペレン施設があるはずです。
 
 **Nix:** Think we might be able to find Berryman in there?
 
+**ニクス:** ベリーマン居るかな、この中に。
+
 **Torres:** We'll find out in a minute. Warren: think you can extract SCP-9001?
+
+**トレス:** 今にわかるさ。ウォーレン、SCP-9001を回収できるか？
 
 **Warren:** Aye, chief.
 
+**ウォーレン:** アイアイ、キャプテン。
+
 //Warren clumsily scrambles over the remains of Dr. Coleman. He approaches one of the terminals and messily extracts Dr. Coleman's fleshy interfaces from the computer. The slimed tendrils slide out from the crevices with a sickening squelch. Warren withdraws a small fob and plugs it in. Torres motions for the others to follow him as he clambers over the bulk as well towards the opposite end of the room. Warren exclaims as the process completes, and rushes to join them.//
+
+ウォーレンがどうにかこうにかコールマン博士の亡骸を乗り越え、端末の1つへと駆け寄ると、コンピューターに突き刺さっている肉質のインターフェースを無造作に引き剥がした。粘液に塗れた触手が隙間から滑り出た。ぐじゅり、と吐き気を催すような水音を立てながら。彼は懐から小さな暗号キーを取り出して、ポートに挿し込んだ。その間、トレスは部屋の反対側へ向かいながら、同じように肉塊を乗り越えていきつつ、他の者に追従するよう手振りで示す。やがて処理の完了を知らせる音が鳴った。ウォーレンが声を上げて、急いで部隊へ合流する。
 
 //With Torres' access card, the door opens with a hiss. Bright lights within cause the team to wince as their eyes adjust.//
 
+トレスのアクセスカードを以て、空気が抜ける音とともに扉が開いた。眩い光が漏れる。隊員たちは思わず目を細めた。まだ光に順応できていない。
+
 //The door fully opens to reveal a massive, domed chamber; a twenty-sided room walled with stone columns that curve upwards, forming the dome, and a weaving pattern of interlocked stone tiles adorns the interior surface of the vaulted ceiling. The pale white of the fog outside is visible through a small circle of glass at the very top.//
+
+扉の向こうには、正二十面体の巨大なドーム状の空間が広がっていた。それぞれの角に立つ柱は、上に向かうにつれて緩やかに湾曲し、そのままドームの骨格となっている。その内側を、複雑に組み合わさった石のタイルが埋め尽くしていた。それはまるで織物のように複雑で、緻密な紋様を描いている。はるか頭上、ドームの頂点には、小さな円形の天窓があった。そのガラスの向こうに、外界の青白い霧が見える。
 
 //At the far side of the room is a double door of the same variety through which they had just entered. Lettering across the door reads "SUBJECT PERSEUS". On all other sides of the room, nestled between the columns, are recessed alcoves. Within each is a Berry canister, each containing a living human head suspended in the blue fluid. The caps of their skulls have been removed. Electrodes connect directly from grey matter to a series of wires that snake around furrows in the wall, leading them into an aperture leading to the SCP-9001 production center. As the squad maneuvers into the facility proper, it can be seen that with some regularity, the grey matter of certain instances has grown and refracted, bulging from their craniums. Some have grown to the point of fully subsuming the head in the solution, and others have cracked or shattered their canisters from sheer girth. Small screens attached to retractable arms are held before the eyes of each head within the canisters, all of which are blank.//
 
+部屋の最奥には、今しがた潜ってきたものと同じような両開きの扉がある。その扉には、「ペルセウス対象」なる文字が刻まれていた。その他の壁面、石柱と石柱の間には、等間隔で壁龕が設けられている。それぞれの内側には、円筒形のキャニスターが鎮座していた。中を覗き込んでみれば、青い液体の中に生きた人間の頭部が浮かんでいることがわかる。その頭頂部は切り取られ、剥き出しの灰白質には、直接電極が突き刺さっている。そこから伸びる無数のワイヤーは、壁に刻まれた溝を蛇のように這い、SCP-9001生成センターへとつながっているのであろう空隙へと伸びていた。隊員が空間の中へと慎重に歩みを進めるにつれ、さらなる異常が明らかとなる。キャニスターに収められている頭部、そのうちいくつかの個体においては、脳そのものが異常な増殖と変質を遂げ、頭蓋骨から溢れてしまっている。脳組織が頭部全体を飲み込むまでに肥大化しているものもおれば、膨れる脳の圧力に耐えきれなかったのか、キャニスターそのものが粉砕されているものもある。全てのキャニスターには、拡張式のアームが取り付けられている。それぞれの頭部の眼前には小さなスクリーンが掲げられていた。だが、その画面はどれひとつとして、何も映してはいなかった。
+
 //Underfoot, the floor is a mosaic, shards of glass and ceramic coalescing into a complex network of shapes and colors that makes the eyes water, polished to a shine. In the very centre of the room is a leather armchair and a wooden desk, atop of which is a tumbler and a bottle of Macallan, both empty. The room is a panopticon.//
+
+
 
 **Torres:** This is how you define "finite"?
 
@@ -1648,6 +1826,11 @@ The feed is lost.
 
 [[div class="berryman"]]
 [[span]]Dear, dear Doctor Langford. So you've come back to me.[[/span]]
+[[/div]]
+
+
+[[div class="berryman"]]
+[[span]]ああ、我が親愛なるラングフォード博士。ようやく[[/span]]
 [[/div]]
 
 **Dr. Langford:** B-Berryman?
