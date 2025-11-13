@@ -1993,11 +1993,15 @@ The feed is lost.
 
 **Dr. Berryman:** May I remind you that you were instrumental in the genesis of many of these methods, Dr. Langford. Your name is as embedded as mine in everything we've done, everything happening now, I just… //expanded// on them. They are all //our// methods.
 
-**ベリーマン博士:** その手法とやらを作る時には、あなたも非常に重要な役割を果たしていたわ。覚えてないのかしら？
+**ベリーマン博士:** ちょっと補足させてもらうけど、あなたもその手法とやらを作るには不可欠だったのよ、ラングフォード博士。あなたの名前も、我々の成果には深く刻まれているわ。私の名前と同じくらい、ね。私はただ、それらを発展させただけなの。結局、これって私たちの作った手法でしょ？
 
 **Dr. Langford:** That may be true, but it's irrelevant. That is all in the past. And what your methods are now, are a threat to consensus reality.
 
+**ラングフォード博士:** それはそうですが、この期に及んでそんなことないでしょう。あなたの手法は、合意現実への脅威となっているんですよ。
+
 **Dr. Berryman:** Reality as determined by mere consensus… really, Rob? So unambitious for the research partner I knew. Perhaps reality is determined by something more fundamental, more objective. Your Scranton Reality Anchor had its own expert opinion on what is real.
+
+**ベリーマン博士:** 合意とやらが、現実を決めている……本気で言ってるの？　ロバート？　
 
 **Dr. Langford:** I don't think the ordinary people you kidnapped would agree with its assessment.
 
