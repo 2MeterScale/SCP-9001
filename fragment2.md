@@ -798,7 +798,7 @@ M45A1自動けん銃6丁および予備マガジン _
 
 **Torres:** What? I didn't even-- ugh. We're live, folks. Check your mics.
 
-**トレス:** 何？　おれはまだ--　　--まあいい。お前ら生きてるな。マイクチェックしとけ。
+**トレス:** 何？　俺はまだ--　　--まあいい。お前ら生きてるな。マイクチェックしとけ。
 
 **Warren:** Check.
 
@@ -1394,7 +1394,7 @@ M45A1自動けん銃6丁および予備マガジン _
 
 **Warren:** It's... it's no use. Tell mom I said--
 
-**ウォーレン:** もうダメだ……おしまいだ。ママに伝えてくれ。おれは--　　--
+**ウォーレン:** もうダメだ……おしまいだ。ママに伝えてくれ。俺は--　　--
 
 //Sebastian lets out a rage-laden roar and leaps into the shaft, falling past Warren and colliding into the tangle of veins, tearing into it with his knife. The vessels lose their grip on Warren as the struggling pair fall away deeper into the hallway.//
 
@@ -1782,47 +1782,87 @@ The feed is lost.
 
 //Underfoot, the floor is a mosaic, shards of glass and ceramic coalescing into a complex network of shapes and colors that makes the eyes water, polished to a shine. In the very centre of the room is a leather armchair and a wooden desk, atop of which is a tumbler and a bottle of Macallan, both empty. The room is a panopticon.//
 
-
+緻密なモザイク模様が床面を埋め尽くしていた。輝きを放っていると錯覚するほどに磨き上げられたガラスや陶器の破片が、見る者の涙を誘うような複雑なネットワークを描いている。その中心に革張りのアームチェアと木机が、ポツンと置かれていた。机の上には空のタンブラーと、同じく空のマッカランが置いてある。とどのつまり、この部屋はパノプティコンなのだ。
 
 **Torres:** This is how you define "finite"?
 
+**トレス:** これが「有限」ってやつか？
+
 //Dr. Langford does not respond as Warren charges ahead to Berryman's desk, digging into the drawers and coming out with a ream of documents. Torres forges ahead, strolling past Berryman's desk towards the opposite door. Dr. Langford, close behind, leans down to pick up a small object. It is a hair brooch decorated with clusters of small, white flowers.//
+
+ウォーレンはベリーマンの机へと駆け寄り、引き出しを漁って書類の束を引っ張り出す。その間も、ラングフォード博士は上の空であった。トレスはそんな2人を意にも介さずに机の横を通り過ぎ、部屋の反対側にある扉へ落ち着き払った足取りで向かっていく。そのすぐ後ろにいたラングフォード博士が、ふと足をとめ、身を屈めて何か小さなものを拾い上げた。白く小さい花のいくらかあしらわれた、髪留めだった。
 
 //Five large metallic instruments are braced around the circumference of the door ahead -- Containment-Grade Scranton Reality Anchors. The collection is currently inactive. Warren, catching up, points to a pull cord that runs alongside the perimeter of the door.//
 
+前方の扉を取り囲むように、5基の金属製で大型な装置が設置されていた。オブジェクトの収容にも用いられるほどに上等なスクラントン現実錨--　　--現在は非稼働状態--　　--だ。追いついてきたウォーレンが、扉の周縁に沿って配置されているプルコードを指差した。
+
 **Warren:** Emergency cord for the SRAs. Wanna watch out that nobody catches on that accidentally. We don't need that kind of problem right now.
+
+**ウォーレン:** こいつを触ると、現実錨が起動しちまう。トチって引っかからないように注意してくれ。余計な面倒は御免だよ。
 
 //Torres nods, approaching a keypad inlaid into the door's center. He swipes his card on the door's keypad to no effect.//
 
+トレスは頷き、扉の中心部にあるキーパッドに自身のカードを読み込ませた。だが、何も起こらない。
+
 **Torres:** Damn. Must be keyed to Berryman exclusively.
+
+**トレス:** チキショウ。こりゃベリーマン専用か？
 
 //Nix strays off to the edge of the room, peering into one of the glass canisters. Warren jumps in front of Torres.//
 
+ニクスが部屋の端へ退き、キャニスターのひとつを観察している。ウォーレンがトレスの前へ割り込んだ。
+
 **Warren:** Let me see. I know some of the default emergency access codes. If she was the lazy type, she'd not have thought to reprogram them. You'd be surprised how many researchers lean on keycards.
+
+**ウォーレン:** ちょっと拝見。デフォルトの緊急アクセスコードがありましてね、もしベリーマンが不精者なら、そのコードがそのまま使われてるはずです。研究者の先生方は、キーカードに頼りっきりですからね。
 
 //Warren swiftly types, eliciting electronic buzzes with each wrong guess. Dr. Langford crosses his arms.//
 
+ウォーレンが素早くタイピングしていく。しかし、そのどれも正しいコードではなかった。ブザー音が何度も鳴る。ラングフォード博士は腕組みをしながら、その様子を見ていた。
+
 **Dr. Langford:** No, not Berryman. She wouldn't just leave something out of her control.
+
+**ラングフォード博士:** ベリーマンに限って、そんなことはしませんよ。何かを自分の制御の外に置くなんてことは。
 
 //Nix calls out from the other side of the room.//
 
+ニクスが部屋の反対側から呼びかける。
+
 **Nix:** Her file was a bit sparse. Any relatives? Names of pets? Could try the sentimental angle.
+
+**ニクス:** そんなこと言われてもねえ。血縁者は？　ペットとかいた？　何か感情的に重視していたものはある？
 
 **Dr. Langford:** Not that she'd mentioned, no. Used to feel bad for her, you know, not really having anybody, but after working with her so long it became clear the only thing she cared about was- oh... oh, goddamnit.
 
+**ラングフォード博士:** いや、いませんね。あまりこういうことは言いたくないんですが、本当にそういうのは何もないんですよ。一緒に仕事をしてからこっち、ベリーマンが大事にしていたものと言ったら--　　--そう、それだ。それだよ。
+
 //Dr. Langford steps forward, knocking Warren's hand from the keypad. He enters the code.//
+
+ラングフォードが前に出て、キーボードからウォーレンの手を退ける。そのまま彼はコードを入力した。
 
 **Dr. Langford:** Oh-seven-oh-four-one-seven. The date of Berryman's initial proposal.
 
+**ラングフォード博士:** ゼロ、ナナ、ゼロ、ヨン、イチ、ナナ。ベリーマンの最初の発表の日です。
+
 //A green light flashes, and the door opens. Langford gasps.//
+
+緑の閃光が走った。ドアが開く。ラングフォードは息を呑んだ。
 
 **Torres:** Ho-ly shit.
 
+**トレス:** おいマジかよ。
+
 **Warren:** I think we've found our source.
+
+**ウォーレン:** 発生源とご対面だね。
 
 //The door opens into an expansive, dark space, far larger than the entire building, let alone the domed chamber, should permit. On the other side of the doorway, a single glass canister rests atop a pedestal, set atop a platform with a circumference of 9 meters. Beyond this, the interior walls are non-existent. Instead, the area around the platform is a void of space, through which multiple iterations of the same platform can be seen. There is a clear pattern of void-space and platforms extending out as far as can be seen in all directions, both above and below the team's perspective. Langford moves as if to enter, and is halted by Nix.//
 
+扉が開いた。その先には、暗い空間が広がっていた。このドーム状の部屋は言わずもがな、建物全体よりも大きいとも思えるくらい、途方もなく広い空間だ。扉をくぐれば、直径およそ9メートルのプラットフォームが見えてくる。その中央の台座には、ガラスのキャニスターがぽつんと置かれていた。その周囲には、ただ虚無が広がっている。その虚無の中に、同じプラットフォームが無数に浮かんでいる。見上げても、見下ろしても、その虚無はどこまでも続いている。そして、プラットフォームは規則正しく配置されている。見える限り全ての方向に、果てしなく広がっていた。ラングフォード博士がそこに足を踏み入れようとしたものの、ニクスがそれを制した。
+
 //Torres draws his sidearm. As he moves to line up a shot, a voice is heard all about them.//
+
+トレスがサイドアームを抜いた。その照準をキャニスターに合わせた瞬間、辺り一体から声が響いた。
 
 [[div class="berryman"]]
 [[span]]Dear, dear Doctor Langford. So you've come back to me.[[/span]]
@@ -1830,70 +1870,130 @@ The feed is lost.
 
 
 [[div class="berryman"]]
-[[span]]ああ、我が親愛なるラングフォード博士。ようやく[[/span]]
+[[span]]ああ、我が親愛なるラングフォード博士。やっと戻ってきたのね。[[/span]]
 [[/div]]
 
 **Dr. Langford:** B-Berryman?
 
+**ラングフォード博士:** ベ、ベリーマン？
+
 //Nix is struck hard by an unseen force. She is sent flying, crashing into several canisters along the back wall. The gun in Torres' hand crumples, tearing off his left index finger. As he reels in pain, Warren is sent flying sideways, colliding with Torres.//
+
+ニクスが不可視の力で激しく弾き飛ばされた。その体は後方の壁に並ぶキャニスターに叩きつけられて、ガラスが砕け散る。同時に、トレスの手中でサイドアームが潰されて、彼の左人差し指が根本から吹き飛ぶ。その痛みに身を捩るトレスに、今度は横から吹き飛ばされたウォーレンが激突した。
 
 [[div class="berryman"]]
 [[span]]In a sense, yes. It's me.[[/span]]
 [[/div]]
 
+[[div class="berryman"]]
+[[span]]部分的には、そうね。私よ。[[/span]]
+[[/div]]
+
 **Dr. Langford:** Ava, please, stop! Whatever you're doing here, I'm begging you, it has to stop!
+
+**ラングフォード博士:** 何やってんですこんなところで！　もういいじゃないですか！　こんなこと、頼むからやめてくださいよ！
 
 [[div class="berryman"]]
 [[span]]Please, come in. It's alright. I just want to talk.[[/span]]
 [[/div]]
 
+[[div class="berryman"]]
+[[span]]こっち来てちょうだい。大丈夫。お話をするだけだから。[[/span]]
+[[/div]]
+
 //The door's threshold stretches -- the half-meter of space extending and being drawn into a long hallway. The space beyond becomes obscured by the presence of a spiraling light that shimmers with each word Dr. Berryman speaks. The visual transfixes Dr. Langford for several seconds. He then approaches it.//
+
+扉口が引き伸ばされていく。わずか半メートルほどだった空間が、今や長い廊下へと変貌してしまった。その奥には、螺旋を描く光があった。ベリーマン博士が声を発するたび、その光は優美に明滅する。ラングフォード博士は、その光景に魅入られてしまった。わずか数秒間ほどではあったが、彼は身動きすら取れなかった。やがて彼は、その光に向かって歩き始めた。
 
 **Nix:** Langford, don't!
 
+**ニクス:** やめて！　ラングフォード！
+
 //Dr. Langford does not respond and continues walking. Gravity shifts: he is lifted from the ground and pulled towards -- falls towards -- the void that contains the spiral. The visual field is subsumed by the fractal's intense coloration.//
+
+ラングフォード博士は応答せず、そのまま歩き続けている。重力が変わった。彼は地面から浮き、光を湛える虚無の中へと引かれていく--　　--否、落ちていく。映像は、フラクタルに飲み込まれた。
 
 [[div class="explo explo--threshold"]]
 
 //Light fills the field of view as it enters a dense region of the fractal; the duration of Dr. Langford's fall is indeterminate.[[footnote]]Subsequent viewings of the footage vary from a few minutes to several hours, with a corresponding change to filesize[[/footnote]] After a moment, the image resolves, revealing that he is lying on the carpet in an ordinary office. It contains a desk and several portable whiteboards bearing equations. Late afternoon sunlight streams in through a window, casting long shadows.//
 
+フラクタル密度の濃い領域に入ると、光が視界を埋め尽くした。ラングフォード博士の落下がどれだけ続いたかは、定かではない[[footnote]]この映像の再生時間は、再生のたびに変動する。その長さは数分から数時間であり、これに応じてファイルサイズも変化する。[[/footnote]]。やがて映像が鮮明になり、彼の姿が映し出される。ラングフォード博士は、普通のオフィスの絨毯の上に、横たわっていた。机があり、方程式の書かれた可動式ホワイトボードも数台置いてある。窓からは遅い午後の日差しが差し込み、室内に長い影を落としていた。
+
 **Dr. Langford:** Am... am I dead?
+
+**ラングフォード博士:** 死んだのか、僕は……？
 
 **Dr. Berryman:** Don't be daft, my dear fellow.
 
+**ベリーマン博士:** ほら、ボケっとしてないで。
+
 //Dr. Langford rolls over. A cabinet to the side is covered with a dense collection of flower bouquets and a leafless bonsai tree, which Dr. Berryman is watering. She has a pink dahlia flower pinned to her hair and is wearing a knee-length sundress with a lace pattern that seems to change as she moves. She sighs, puts down her spray bottle, and retrieves her labcoat from her chair, putting it on.//
+
+ラングフォード博士が身を起こした。その脇のキャビネットには、色とりどりの花束がぎっしりと飾られ、葉のない盆栽もひとつ置かれている。ベリーマン博士が霧吹きを吹いて、その盆栽に水を与えていた。彼女の髪にはピンクのダリアが挿してある。身に纏うのは膝丈のサンドレス。その微細なレース模様が、彼女の動きに合わせて微妙に変化して見える。彼女は小さくため息をついて、霧吹きを置くと、椅子にかけてあった白衣を手に取って、袖を通した。
 
 **Dr. Langford:** Dr. Berryman, is it really you?
 
+**ラングフォード博士:** ベリーマン博士、あなたなのですね。
+
 //Dr. Berryman smiles, although her eyes remain downcast.//
+
+ベリーマン博士は、伏し目がちに笑った。
 
 **Dr. Berryman:** Rob…
 
+**ベリーマン博士:** ロバート……
+
 //She crouches and offers Dr. Langford a hand. Dr. Langford rebuffs it and recoils away from her. She takes his hand anyway and helps him up, and he does not resist.//
+
+ベリーマン博士は屈んで、ラングフォード博士へ手を差し出す。ラングフォード博士はそれを即座に拒絶し、座ったまま後ずさった。ベリーマン博士はそれを気にすることなく手を差し出して彼を助け起こそうとする。ラングフォード博士は抵抗しない。
 
 **Dr. Berryman:** It's been so long, Dr. Langford. I'm not sure you'd believe me, but I really did miss you all this time.
 
+**ベリーマン博士:** 本当に久しぶり、ラングフォード博士。信じてくれるかはわからないんだけれど、私本当に寂しかったのよ。
+
 **Dr. Langford:** I don't.
+
+**ラングフォード博士:** 信じません。
 
 //Dr. Berryman tucks some hair behind her ear.//
 
+ベリーマン博士が髪をかきあげ、耳にかけた。
+
 **Dr. Berryman:** I'm sorry to hear that, but I can't say it's unexpected. What finally motivated you to come pay me a visit after all these years?
+
+**ベリーマン博士:** あら残念。でもいつかは来てくれるんじゃないかって思ってたのよ。それで、どうして今になってここに来ようと思ったわけ？
 
 //Dr. Langford gestures around them, although there are no fractal anomalies visible in the office besides Dr. Berryman's dress.//
 
+ラングフォード博士は周囲を指し示す。だがベリーマン博士のドレス以外に、異常なフラクタルは観察できない。
+
 **Dr. Langford:** Look around, Berryman. You should know better than me.
+
+**ラングフォード博士:** 周りを見てくださいよ。僕なんかよりもよくご存知でしょう。
 
 **Dr. Berryman:** I really don't.
 
+**ベリーマン博士:** わからないわ。本当に。
+
 //Dr. Langford sighs.//
+
+ラングフォード博士がため息を漏らす。
 
 **Dr. Langford:** The Foundation considers your research methods unsound, Dr. Berryman.
 
+**ラングフォード博士:** ベリーマン博士。あなたの手法は不健全だと、財団は思っています。
+
 **Dr. Berryman:** And you?
+
+**ベリーマン博士:** で、あなたは？
 
 **Dr. Langford:** I-- I…can't disagree.
 
+**ラングフォード博士:** その--　　--否定は……できません。
+
 **Dr. Berryman:** May I remind you that you were instrumental in the genesis of many of these methods, Dr. Langford. Your name is as embedded as mine in everything we've done, everything happening now, I just… //expanded// on them. They are all //our// methods.
+
+**ベリーマン博士:** その手法とやらを作る時には、あなたも非常に重要な役割を果たしていたわ。覚えてないのかしら？
 
 **Dr. Langford:** That may be true, but it's irrelevant. That is all in the past. And what your methods are now, are a threat to consensus reality.
 
