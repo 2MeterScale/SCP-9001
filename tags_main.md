@@ -1,0 +1,1 @@
+en エージェント・ラメント 共著 認識災害 リベラ博士 財団製 数学 神経 観測 pattern-screamer 現実改変 scp thaumiel 視覚

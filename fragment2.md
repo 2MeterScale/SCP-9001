@@ -2311,180 +2311,326 @@ z_{n+1} = z_n - \eta\frac{f(z_n)}{f'(z_n)} + c
 
 //Looking into the chamber, the interior space is seen to glisten and ripple. The far-distant copies of the interior begin to fall away into darkness as the space collapses within itself. The Berryman spiral is seen to twirl violently, losing complexity, taking on physical form.//
 
-
+室内を覗き込めば、内部空間がきらめき、波打っていることがわかる。遠方に見える無数の部屋が、次々と暗闇へ落ちていく。空間自体が、圧壊している。ベリーマン螺旋が激しく回転し、複雑性を失い、物理的な形を取り始める。
 
 //The facility quakes with a mighty rumble as Berryman manifests in three-dimensional space. Her body is contorted, sporting numerous, branching limbs. Her faces are contorted in pain. There comes a series of sickening squelches as Berryman's limbs, in turn, crunch and snap and flatten, beginning at their terminus and working towards her torso. Her many mouths wail as her heads, too, bind together into a single layer.//
 
+轟音とともに、施設が激しく揺れた。ベリーマンが三次元空間に姿を現す。その歪んだ体から、無数の腕が枝分かれしながら伸び、またいくつもの顔が苦痛に歪んでいる。何かの潰れる、水っぽい不快な音がした。彼女の腕は末端から順に潰れていき、折れ、平らになっていく。じきに胴体も潰れていった。複数の頭部も、平面の中へと押し込まれていく。無数の口が悲鳴を上げている。
+
 //Nix and Warren arrive at a stunned Langford's side. The three stare on as the Perseus chamber regains its walls, aligning with its natural state. Berryman's body is splayed against the interior wall as if superimposed as a 2d image. She continues to scream as all parts of her body at once are drawn to a singular point in their middle. She is rendered a single, shrieking point. With a {{pop}}, the point vanishes into non-existence. Her wailing does not cease.[[footnote]]Review of this footage would verify that despite a supposed continuation of Dr. Berryman's sustained vocalization, said vocalization does not in actuality exist. Dr. Berryman, at this point in time, does not verifiably exist.[[/footnote]]//
+
+呆然とするラングフォードの元にニクスとウォーレンが駆け寄った。3人は、ペルセウス室が通常の部屋に戻っていく。ベリーマンの身体が、まるで2次元の画像か何かのように、その内壁に張り付いていた。彼女は叫び続けている。その体のすべてが中央の一点へと引き寄せられていく。やがて彼女はただの点になった。ポン、という音とともにそれが消えてもなお、叫び声は止まらなかった。[[footnote]]この映像の検証段階においては、ベリーマン博士の持続的な発声が継続しているとされるにも関わらず、実際にはそのような発声は存在していないことが確認される。この時点において、ベリーマン博士は存在していない。[[/footnote]]
 
 //The area continues to quake and tremble.//
 
+この領域は、振動し続けている。
+
 **Nix:** Langford -- turn away. We've got to get out, now -- Torres called in the strike! We've got two minutes until this place is hot plasma!
 
+**ニクス:** こっちだラングフォード。早く逃げるよ。トレスが爆撃を要請した。あと2分でここは火の海だ！
+
 //Dr. Langford nods, and the trio rushes out towards the SCP-9001 production center. They rapidly scramble over Coleman's remains, and head into the antechamber where Nix had set down a Piton. There is a **{{beep}}** as they approach, and the space above the device crackles with energy. One by one, they pass through.//
+
+ラングフォード博士はうなずいた。3人はSCP-9001生成センターへと急ぐ。コールマンの死体を乗り越え、控え室へと向かう。ニクスによって、あらかじめペグが設置されている部屋だ。控えめなブザーの音が鳴った。マーテル式ペグを挟んだ向こう側の空間が、何かのエネルギーによってゆがめられた。一人ずつ、そこを抜けていく。
+
 **{{zip}}**
 [[/div]]
 
 //Nix, Warren, and Dr. Langford each appear in turn in the space just before the crematorium. The long hallway before them is filled to capacity by the massive frame of the abomination. Fresh heads flower from the mouths of its many faces as they take notice of the team's arrival.//
+
+ニクス、ウォーレン、そしてラングフォード博士は、火葬場の目の前に出た。すぐそばの長い廊下を、悍ましいものが埋めていた。夥しい数の頭、そのそれぞれの口からまた頭が生えている。それが、3名の到着に気づいた。
+
 **{{zip}}**
 [[/div]]
 
 //The three are back within the fog-laden server room. Fleshy strands of mycelium extend from the remains of the withered trunks, whipping senselessly all about the area. A single instance across the room slowly rears back up. Its orifice widens, bulb swelling.//
+
+霧中のサーバールームへと戻る。枯れ果てた幹から伸びる菌糸じみた糸が、至る所で無為に垂れ下がっていた。部屋の向こう側、幹のうち一本が背を向けたまま立ち上がった。その開口部が広がり、球根が膨らむ。
+
 **{{zip}}**
 [[/div]]
 
 //They've reappeared back at the tram platform where the video had begun, far outside the bounds of Site Romero-5. Distant tremors cause more cracks to form along the chamber's facade. Without a word, they make a break for the stairs.//
 
+そして、3名はサイト・ロメロ-5の遙か外側、トラム駅へとたどり着いた。動画の開始地点と同じ場所だ。遠く離れたところから地鳴りが伝わってきて、壁面にヒビが入っていく。特に言葉を交わすことなく、3名は階段へと向かった。
+
 //Emerging through the tunnel that obscures the tram's entrance, Dr. Langford collapses. The sky is alight with fire as the woods all about Site Romero-5 burn in the night. There is a flash across the sky. Streaks of light descend from the air -- the shockwave hits them next, arriving with a deafening **{{boom}}** as a heavy cloud of dust and wind sweeps the area, knocking all to the ground with its force.//
+
+トラムの入り口を隠していたトンネルから出るや否や、ラングフォード博士が倒れ込んだ。夜空が炎に照らされている。サイト・ロメロ-5周囲の森林がもえあがっているのだ。空に閃光が走る。光の筋が空から落ちてくる。そのとき、衝撃波がかれらを襲った。耳を聾するほどの爆音とともに、濃い砂塵嵐が一帯を覆った。全員が地面に倒れ伏した。
 
 //The trio watch on as the shadowy towers of the distant site are seen to crumble into the earth. It is Warren who speaks up first.//
 
+遠くで霞むサイトの塔が崩れて地に落ちる。3名がそれを見ているさなか、ウォーレンが沈黙を破った。
+
 **Warren:** "Get real"?
+
+**ウォーレン:** 『食らえ、これが現実だ』か？
 
 **Dr. Langford:** I... I thought it was clever.
 
+**ラングフォード博士:** その……なんか言わなきゃって思って……。
+
 //The three share a laugh as the approaching sound of wheels draws near.//
+
+3人が笑い合うなか、タイヤの音が近づいてくる。
 
 [[/div]]
 [[/div]] [!-- .explo-root --]
 
 The surviving members of the task force were picked up by an MTF Iota-10 patrol and returned to FOB Panloque. Following a delivery of footage and recovered assets, including the extracted SCP-9001, the three were debriefed and allowed rest.
 
-[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/scp-9001/planethand.webp|caption=The fissure containing the remains of SCP-9001-A|width=300px]]
+当該機動部隊の生存者は機動部隊イオタ-10の巡回隊によって回収され、前線基地パンロケへ帰還しました。施設より抽出されたSCP-9001を含む回収された各種資産と映像記録の提出後、3名は事情聴取を受け、休養を許可されました。
+
+[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/scp-9001/planethand.webp|caption=SCP-9001-A残骸を含む地割れ|width=300px]]
 
 Due to the combination of sustained orbital bombardment and seismic activity caused by the collapse of unstable spacetime in the site's subterranean sectors, Site Romero-5 would collapse into the earth, forming a massive fissure. MTF [[span class="hoverlink"]][[[task-forces#gamma-5|Gamma-5]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]Gamma-5 ("Red Herrings")[[/span]][[span class="hoverlink-text"]]Specialists in disinformation tactics and amnestic dispersal dedicated to preventing mass knowledge of anomalous events.[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/task-forces/Gamma5.png/small.jpg)"]]-[[/span]][[/span]][[/span]] was tasked with manufacturing a verifiable history and public record of the fissure, including the retroactive forging of geological, stratifical, and archeological studies that were each seeded with Third Order FCI designed to compel disinterest.
 
+継続した軌道爆撃、およびサイト地下セクターにおける不安定時空による地震により、サイト・ロメロ-5はほどなく倒壊し、巨大な地割れを形成しました。機動部隊[[span class="hoverlink"]][[[task-forces#gamma-5|ガンマ-5]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]Gamma-5 ("燻製ニシンの虚偽")[[/span]][[span class="hoverlink-text"]]異常な事象が周知されることを防ぐための、誤情報拡散および記憶処理実施におけるスペシャリスト集団。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/task-forces/Gamma5.png/small.jpg)"]]-[[/span]][[/span]][[/span]]は、この地割れに関する検証可能な歴史と公的記録のねつ造を任務として割り当てられました。これには、地質学、地層学、考古学的研究の遡及的偽造も含まれており、それらの研究には、それぞれ無関心を強制するよう設計された第3級FCIが仕込まれています。
+
 Hume readings of the area would return to baseline over the course of 48 hours. Cleanup measures would begin in earnest on 2025/08/13 under the direction of Doctor Leary.
 
-**Addendum - Recovered Documentation:**
+48時間の経過後、当該地域のヒューム値は標準値へ戻りました。事後処理は2025/08/13より、レーリー博士の指示の下で実施されます。
+
+**補遺 - 回収された文書:**
 
 During exploration of SCP-9001-A, the Task Force would acquire reams of research data and logs, including topographical analysis of the BL set which indicates regions of high-activity and delineating "dead" regions, shipping manifests outlining the transfer of D-Class personnel between 2019-2025, and handwritten notes authored by Dr. Ava Berryman. These have been transcribed and are reproduced below.
+
+SCP-9001-Aの探索中、機動部隊は大量の研究データとログを回収しました。これには高活性領域と失活領域のを示すベリーマン=ラングフォード集合のトポロジカル分析、2019年から2025年にかけてのDクラス職員移送を概説した輸送記録、およびエイヴァ・ベリーマン博士による手書きメモが含まれます。これらは転写され、以下に記録されています。
 
 [[div class="blockquote"]]
 //[NOTE:] This page is torn and the top half is missing.//
 
+[補足:] このページは破られており、上半分の行方はわかっていない。
+
 //[...]// obviously insufficient. I'm not going to be able to keep up with demand if my Berries keep rotting on the vine. The solution helps, but all it does is keep them alive. Immortality is of no use if their minds are flayed and atrophied. Whatever effects the active regions instill -- they're not simply wiped away by rebirth. The research is no good if I don't have a fresh supply.
+
+[……]は明らかに不足している。もし蔓に生っている「苺」がこれ以上爛熟するのであれば、需要に応えることはできなくなってしまう。例の溶液は確かによく効いている。だが、それはせいぜい被験体の生命維持くらいにしか役に立ってはくれない。精神に強い負担がかかって崩壊してしまっているならば、不死など無用の長物に過ぎない。認識災害を受けたことによる影響は、たとえ一度死んで復活したとしても幾らかは残り続ける。新鮮な供給がなければ、研究を進めることができない。
 
 Worse-still, we may need to flush our oldest subjects. Peculiar habit of moving their lips whenever someone is present in the facility. Starting to get under people's skin. It's childish, really. A bit asinine. These are grown men and women who can spend eight hours a day, six days a week beside a bank of severed human heads, but they're spooked by involuntary muscle movement?
 
+さらに悪いことに、最古参の被験体をいくらか処分する必要がありそうだ。施設に誰かがいるとき、それらはいつも唇を動かすという、奇妙な癖を身につけてしまった。職員たちも苛立ち始めている。実に幼稚で、馬鹿らしいとさえいえる。職員各位は1日8時間、週6日、人の生首の側で過ごすことができる成人男女なのだ。それが不随意な筋肉の運動に怯えるとは。
+
 At least Perseus continues to bear fruit. Its eyes have glazed over like some of the old-timers, but it continues to be receptive to fresh FCI. All these years and its mind resists deterioration. Not that its mind will be of much use if it's blinded. Frustrating to think of what could be accomplished were we able to have even a second Bender. Alas.
 
+少なくとも、ペルセウスは成果を出し続けている。古参被験体と同じく目は虚ろになっているが、新しいFCIに対する反応は維持している。これほど長年にわたって精神の劣化に抵抗し続けているとは驚きだ。もっとも、目が見えなくなってしまえば、その精神もあまり役には立たないだろうが。もう一体でも現実改変者がいれば何かできたかと思うと、実にもどかしく思えてくる。
+
 I feel a migraine coming on.
+
+頭痛がする。
+
 [[/div]]
 
 [[div class="blockquote"]]
 Commotion today. Units B-17, H-47, and K-43 showed unusual fMRI readouts. Beckett, fool that he is, suggested that we might have stumbled on a new First Order, stupidly forgetting that K-batch is our control group and is explicitly only exposed to dead regions. I'll never understand how he made it this far in life.
 
+今日は騒動があった。ユニットB-17、H-47、K-43が異常なfMRI値を示したのだ。愚か者のベケットは、我々が新たな第1級FCIを発見したのかもしれないと示唆した。K群は対照群であり、明確に失活領域のみに曝露されているという事実を間抜けにも忘れていたのだ。あの男がどうやってここまで生き延びてこられたのか、私には理解できない。
+
 I had them taken down and shipped off to bio for testing. Results came back by early evening: PET scans revealed TDP-43 aggregates -- heavy protein folding. The readings were skewed because their minds were systematically being reshaped. Decided to reinstate B-17 and monitor the situation. H-47 and K-43 have been placed in cold storage.
+
+私はそれらを検出プロセスから外し、検査のため生物学部門に送らせた。夕方早くに結果が戻ってきた。PETスキャンでTDP-43凝集体が確認された。重度のタンパク質折り畳み異常だ。彼らの精神が体系的に再形成されていたため、測定値が歪んだものと思われる。B-17の復帰を決定し、状況を監視することにした。H-47とK-43は冷凍保存に回した。
 
 No correlation between the BL regions they'd been exposed to over the last year. No clear demographical similarities between subjects.
 
+この変異と、過去1年間に曝露されたベリーマン=ラングフォード領域との相関関係は見られない。被験体間に明確な人口統計学的類似点もない。
+
 And as this day is only getting better, I noted physiological changes with Perseus. Vortex veins in the scelera have seemingly become more pronounced. Brain-state nominal, for now, but I might have to beg O5-8 for a replacement soon.
+
+さらに、ペルセウスに生理学的変化が確認された。強膜の渦静脈がより顕著になっているように見える。脳の状態は今のところ良好だが、間もなくO5-8に代替品を要請する必要があるかもしれない。実に儘ならぬ1日だ。
+
 [[/div]]
 
 [[div class="blockquote"]]
 Seven more Berries displaying the same protein folding.
 
+さらに7つの「苺」が同様のタンパク質折り畳み異常を示した。
+
 Perseus' situation continues to devolve. A vein in the right sclera has seemingly distended, breaching the iris of the right eye. Between recent mishaps and the state of our star pupil, migraines have started getting worse. Constant ringing in my ears.
+
+ペルセウスの状況は悪化の一途を辿っている。右眼球の強膜血管が膨張し、虹彩を侵食しているように見える。最近は悪運続きで、我らが優等生の状態も悪い。偏頭痛がひどくなってきた。耳鳴りも止まらない。
+
 [[/div]]
 
 [[div class="blockquote"]]
 New shipment today, so we're finally back at full capacity. No time to celebrate this, though.
 
+配送があった。やっとフルスペックで稼働ができる。これをお祝いできるほどの時間はないけれど。
+
 Beckett collapsed. Happened right in front of me as I exited Perseus' cell. He'd been across the room helping to install replacement subjects when he suddenly went down. Idiot likely caught a glimpse of one of the Kempelen screens. Shame it wasn't First Order.
 
+私がペルセウスの部屋から出てきたとき、私の目の前でベケットが倒れた。彼は部屋の向こう側で交代要員の設置を手伝っていたときに、突然崩れ落ちたのだ。愚かなことに、彼はケンペレン・スクリーンの1つを直視してしまったに違いない。第1級を見ていれば良かったのに。
+
 Coleman insists Beckett simply hasn't gotten much sleep lately. Few on the team have. There's this shrill sound audible in the production center and Kempelen facility. We've not identified the source, but it'd explain the tinnitus, at least.
+
+コールマン曰く、ベケットは睡眠不足だそうだ。実際、チームのほとんどが睡眠不足だ。生成センターとケンペレン施設で、何か甲高い音が聞こえるようになった。音の原因こそわからないが、この音が耳鳴りを起こしているとすれば、最低限説明はつく。
+
 [[/div]]
 
 [[div class="blockquote"]]
 Hyperoxia -- oxygen intoxication. Beckett is stable in medical right now, but it appears that his body is taking in an excessive amount of oxygen. Had Parsons run an CT and sure enough, his pulmonary vasculature seems to have nearly-doubled in complexity.
 
+ベケットは高酸素症、つまり酸素中毒らしい。彼の体は医務室で安定しているが、体が過剰な酸素を取り込んでいるようだ。パーソンズにCT検査を実施させたところ、案の定、彼の肺血管系の複雑さがほぼ倍になっていた。
+
 It's clear now. The affected Kempelen subjects were situated within line-of-sight of Perseus' cell door. Checked to make sure the SRA array is still functioning, and everything comes up clear. Whatever's happening, it's not reality-bending. Not exactly. Even if Perseus wasn't kept in check with SRAs, he wasn't a particularly strong bender in life -- he couldn't so much as will his shoes tied together.
 
+これですべてが明らかになった。影響を受けたケンペレン被験体たちは、ペルセウスの部屋のドアが見える位置にいた。SRAアレイがまだ機能しているかを確認したところ、それらはすべて正常であった。何が起きているにせよ、正確に言えば、これは現実改変ではない。たとえペルセウスがSRAで抑制されていなかったとしても、彼にこんなことができるとも思えない。彼は生前それほど強力な改変者ではない--　　--現実改変で靴紐を結ぶことすらままならないほどなのだから。
+
 I'm going to need to get tested myself.
+
+私自身も検査を受ける必要がある。
 [[/div]]
 
 [[div class="blockquote"]]
 By all rights, I should be dead.
 
+どうして私がまだ生きているのか、これがわからない。
+
 Myself and near everyone who'd been in the Kempelen facility over the last several weeks. I've got it worst of the bunch -- my bean is damn-near the shape of a pretzel. Despite this, I feel fine. Ran a battery of cognitive assessments. All clear. "The very picture of perfect mental health" -- Parsons was always bit of a kissass, but I'll take whatever reassurance I can.
+
+この数週間ケンペレン施設にいた私を含めたほぼ全員が、どうしてまだ生きているのだろうか。その中で私が一番ひどい状態だ。脳などほとんどプレッツェルの形になっている。それにも関わらず、体調は良好だ。認知機能検査を一通り実施したが、全て正常。「お手本のように完璧な精神状態」とは、パーソンズの言葉だ。良いお世辞だ。そんな言葉も、今となってはありがたい。
 
 In other news, Beckett's up and running, quite literally, with a fervent energy the layabout's not displayed before. As if his body's simply adjusted to the excess oxygen intake. Even had a bright idea, for once. On his suggestion, we fed some recently-discovered Second Orders through B-17's monitor. No effect. So we tried a First Order.
 
+他の変化もある。ベケットが文字通りに走り回っているのだ。あの怠け者が、今まで見たことのないほど熱心に働いている。まるで身体が過剰な酸素摂取に適応したかのようだ。珍しく良いアイデアまで出した。彼の提案で、最近発見した第2級をいくらかB-17のモニターに流してみた。効果なし。そこで第1級も試してみた。
+
 Nothing. It's become immune.
+
+何も起きない。免疫を獲得したのだ。
 [[/div]]
 
 [[div class="blockquote"]]
 Almost a decade of dead ends, of painstaking trial-and-error, of pathetic, minuscule baby-steps; all washed away in a matter of weeks.
 
+ほぼ10年間の行き詰まり、骨の折れる試行錯誤、哀れで微々たる歩み、それら全てが数週間で洗い流された。
+
 About a third of our Berries have been affected by Perseus. Of them, not a one has shown any susceptibility to FCIs of any order. The staff, too, can now safely look at SCP-9001 readouts. It goes beyond mere immunity though. The affected staff can now directly identify active regions when traversing generations of the fractal plane! Over one-hundred First-Orders located within an hour, as well as matching inoculant-zones. It feels so natural. Like scanning the beach with a metal detector. One only has to listen closely. The swirls and lines call out. The shapes are practically screaming.
+
+我らが「苺」の3分の1がペルセウスの影響を受けた。そのうち1つとして、いかなる等級のFCIにも感受性を示すものはない。職員も同様で、今やSCP-9001の出力を安全に視認できるようになっている。しかしそれは単なる免疫を超えていて、影響を受けている職員は、生成されたフラクタル平面を巡っているときに、活性領域を直接特定できるようになったのだ。1時間もしないで100を超える第1級が発見され、それぞれに対応する免疫領域も特定された。実に自然なことだ。金属探知機でビーチを探索していることと、よく似ている。ただ注意深く聞けば良いだけのことだったのだ。渦と線が呼びかけている。形が本当に叫んでいるのだ。
 
 Gone away are the brute-force methods of the past, Perseus has given us the keys to true progress: on-demand FCI production. And if that's not enough, Perseus delivers on a second front: I tested some of the older CCIs we have on-file; across the board, they've shown zero effect on my staff.
 
+過去の力任せな手法は去った。ペルセウスは我々に真の進歩への鍵を与えてくれた。オンデマンドでのFCI生産である。それだけでは不十分とでも言うように、ペルセウスは第二戦線でも成果を上げている。保存されている古いCCIをいくつか職員にテストしたが、効果が一切見られなかった。
+
 The implications for wider Foundation use is staggering! With a moment's exposure, agents can be granted immunity to cognitohazardous influence. This is lives saved -- in the field, in containment, in research and study -- Perseus is going to change the way we operate.
+
+財団全体に対する応用の可能性が、かなり広がった。現場においても、収容においても、研究と調査においても、一瞬の曝露で、エージェントに認識災害の影響への免疫を付与できる。これは命を救うということだ。ペルセウスは我々の活動方法を変えるだろう。
 
 To think I'd be the architect behind not one but two Thaumiel-class anomalies. Decided to shut down Perseus' SRA array. Wasted power. Without their constant humming, it's much easier to hear the pattern.
 
+1人でタウミエル級の異常を2つも設計することになるとは思わなかった。ペルセウスのSRAアレイを停止することにした。あの際限のない唸りさえなければ、形を聞き取るのがずっと楽になる。
+
 The only bad news is even this incredible development //still// doesn't solve Project NIETZSCHE. No matter -- we must be close now.
+
+唯一の悪い知らせは、この信じ難い発展をもってしても、NIETZSCHE計画の解決にはまだ至らないということだ。構わない。もう間近のはずだ。
+
 [[/div]]
 
 [[div class="blockquote"]]
 I've started cycling in some of our Level 2 and 3 staff into the Kempelen facility. Physical mutations. Three of my Level-5's have developed polydactyly. The fingers are fully-functional, and none have reported any pain, but it may be best to start limiting exposure. We're not quite prepared to publish our findings to Eight just yet --it would only take one word to shut us down entirely.
 
+レベル2とレベル3の職員をケンペレン施設にローテーションで配置し始めた。身体変異が起きている。レベル5職員のうち3名が多指症を発症した。指は完全に機能しており、痛みを訴える者もいないが、曝露を制限し始めた方がよいかもしれない。我々の発見をO5-8に発表する準備はまだ整っていない。結局のところ、あれは一言発するだけでこのすべてを停止できてしまうのだから。
+
 Or... would Eight's words even affect us? What is Perseus //actually// doing?
+
+だが、本当に停止できるのだろうか？　ペルセウスがやっていることの本質とは、何だ？
+
 [[/div]]
 
 [[div class="blockquote"]]
 The sound is omnipresent. Not just within the fractal plane, but in the walls, in the eyes of my staff. In my dreams. It calls. The Prima Materia. The Unus Mundus. The very bottom of everything. It's getting hard looking at certain surfaces -- the walls, countertops, the ordered lines on reams of paper.
 
+音が遍在している。フラクタル平面の中だけでなく、壁の中に、職員たちの目の中に。私の夢の中にも。それは呼んでいる。第一質料を。一つの世界を。あらゆるものの根源を。壁、作業台、紙束に印刷された整然とした線--　　--特定の表面を認識するのが困難になってきた。
+
 Staring into the depths of the fractal plane is the only thing that alleviates the headaches. Figure we should leave Perseus' door open. The site could go for some remodeling.
+
+フラクタル平面の深淵を見つめることだけが頭痛を和らげる。ペルセウスの扉は開けっ放しにしておくべきだろう。サイトには改装が必要だ。
 
 90% of the Berries now display protein-folding. Running out of subjects to verify my team's findings. Cannot afford to reach out, not yet. Too soon since last D-class shipment.
 
+「苺」の90%が現在タンパク質折り畳み異常を示している。チームの発見を検証する被験体が不足している。まだ外部に働きかけるわけにはいかない。前回のDクラス輸送から日が浅すぎる。
+
 There has to be another way we can source fresh subjects.
+
+新鮮な被験体を調達するための、別の方法があるはずだ。
+
 [[/div]]
 
 [[div class="blockquote"]]
 Mutations progress. To our benefit. Coleman has taken on the work of five people. Runs the production facility himself. Others off Berry-picking.
 
+我々にとって有益な方向に、変異が進行している。コールマンは5人分の仕事をこなすようになった。生産施設を一人で運営している。他の者たちは苺摘みに出ている。
+
 Parsons found Beckett in Data Storage. Seems he found a good use for himself.
+
+パーソンズがデータストレージでベケットを発見した。自分なりに有効活用法を見つけたらしい。
+
 [[/div]]
 
 [[div class="blockquote"]]
 Starting to get the hang of it. Expose them in doses, careful not to water them too much. Prune a bit off here and there when limbs begin to grow unruly. Pity they need me so. That they'd grow wild if left to their own devices.
 
+コツを掴み始めている。適量ずつ曝露させ、水をやりすぎないよう注意している。手足が手に負えなくなり始めたら、あちこち少しずつ剪定する。彼らがこれほど私を必要とするとは哀れなことだ。放っておけば野生化してしまうのだから。
+
 I always did have a green thumb. I'm even better with twelve.
+
+私はもともと園芸が得意だった。12本の指があれば、さらに上手になる。
+
 [[/div]]
 
 [[div class="blockquote"]]
 One of our new subjects chanced an escape. He wasn't able to get far.
 
+新しい被験体の一人が偶然逃走した。しかし遠くまでは行けなかった。
+
 Lost in the halls. Running in circles. Couldn't navigate the space.
+
+彼は廊下で迷っていた。同じ場所をぐるぐる回っている。空間を把握できないのだ。
 
 Not like we can.
 
+我々のようにはいかないのだ。
+
 He can be made to listen, though. Hear how we hear. Beckett could use some company.
+
+だが彼も聞けるようにできる。我々が聞くように聞けるようにできる。ベケットにも仲間が必要だろう。
+
 [[/div]]
 
 [[div class="blockquote"]]
 Calls coming in now from Site-01. Hard to hear over the sing, sing, singing. Its sound merely joined the chorus. The harmonious tune. It's hard not to sing along with the others.
 
+サイト-01から連絡が入っている。歌声、歌声、歌声に遮られて聞き取りにくい。その音もただ合唱に加わっただけだ。調和の取れた旋律。他の者たちと一緒に歌わずにいるのは難しい。
+
 Harder yet not to scream.
 
+叫ばずにいるのはさらに難しい。
+
 Let them come.
+
+来るなら来ればいい。
+
 [[/div]]
 
  _
 
 **Addendum:** On 2025-09-01, Dr. Langford filed a support ticket with IT. The ticket complained that any function he wrote would infinitely recurse until crashing with a RecursionError, even if obviously expected to terminate, while a high-pitched noise would be emitted from within the computer. Upgrading his outdated Python3 interpreter version, as suggested by IT, did not resolve the issue.
 
+**補遺:** 2025年9月1日、ラングフォード博士は情報技術部門にサポートチケットを提出しました。チケットにおいて、彼は、明らかに終了することが期待される関数であっても、彼の書いた関数が無限再帰してRecursionErrorでクラッシュし、同時にコンピューター内部から高音のノイズが発せられるという問題を報告しました。ITの提案により旧式のPython3インタープリターをアップグレードしましたが、問題は解決されませんでした。
+
 The following morning, Dr. Langford alerted site security that he had found a single bunch of carrot flowers growing from the chassis of his personal computer. After investigation, Site-15 was placed on lockdown for 6 hours, and all personnel were screened for fractal growths or obvious medical abnormalities before being allowed to leave the site. Dr. Langford was issued a new computer and desk; his old ones were contained for study.
+
+翌朝、ラングフォード博士はサイト警備部に対し、個人用コンピューターのフレームからニンジンの花が一房生えていることを発見したと報告しました。調査の結果、サイト-15は6時間にわたってロックダウンされ、全職員がフラクタル状増殖や明らかな医学的異常の有無をスクリーニングされた後、サイト退出を許可されました。ラングフォード博士には新しいコンピューターと机が支給され、旧機器は研究のため収容されました。
 
 Upon disassembly, it was found that a small amount of soil had been deposited into the chassis, from which the carrot flower had grown. A review of security footage over the last week revealed that this occurred several days prior, during landscaping endeavors on site grounds. Langford's office sits below ground level, and a flurry of dirt and particulate had blown through the open window above his desk. Langford himself would enter hours later, and nonchalantly brush off what dirt had not already fallen through the vents. Dr. Langford was informed of this, and reminded of the fact that carrot flowers grow naturally on Site-15's grounds.
 
+分解調査の結果、シャーシ内に少量の土壌が堆積しており、そこからニンジンの花が生長していたことが判明しました。過去1週間の監視映像の検証により、これは数日前、サイト敷地内の造園作業中に発生したものであることが明らかになりました。ラングフォード博士のオフィスは地下階にあり、机上の開いた窓から土埃や粒子状物質が舞い込んでいました。ラングフォード博士は数時間後にオフィスに入り、通気孔から落ちなかった土埃を何気なく払い落としていました。ラングフォード博士にはこの事実が伝えられ、ニンジンの花はサイト-15の敷地に自然に生育していることが再確認されました。
+
 Dr. Langford refused to accept this explanation, which in combination with his difficulty adapting to mandatory counselling following the events at Site Romero-5, indicated a need for further psychological resources.
 
+ラングフォード博士はこの説明を受け入れることを拒否しました。これは、サイト・ロメロ-5での事件後の義務的カウンセリングへの適応困難と相まって、さらなる心理的支援の必要性を示していました。
+
 During his first appointment with Dr. Glass, Dr. Langford was administered a Rorschach test and quickly became deeply agitated, necessitating sedation. It was later found that Dr. Langford had developed auditory-visual synesthesia regarding complex fractal imagery. Upon seeing such images, Dr. Langford subjectively experiences the distant sound of screaming.
+
+グラス博士との初回面談において、ラングフォード博士にロールシャッハ・テストが実施されましたが、深刻な動揺を示したため鎮静剤の投与が必要となりました。後の調査により、ラングフォード博士は複雑なフラクタル画像に関して聴覚・視覚共感覚を発症していることが判明しました。そのような画像を視認した際、ラングフォード博士は主観的に遠くからの叫び声を知覚します。
 
  _
 

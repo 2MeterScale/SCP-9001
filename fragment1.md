@@ -9,7 +9,7 @@
     background: Highlight; color: HighlightText;
 }
 :root {
-  --lgurl: url(https://scp-wiki.wikidot.com/local--files/scp-9001/analytics_dept_animated.svg);
+  --lgurl: url(https://scp-jp-storage.wdfiles.com/local--files/file:4294437-32-ufyn/analytics_dept_animated.svg);
 }
 #header h1 a::before { -webkit-text-stroke-width: 3px }
 #header h2 span::before { -webkit-text-stroke-width: 2px }

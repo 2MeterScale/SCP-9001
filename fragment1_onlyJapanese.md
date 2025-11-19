@@ -9,7 +9,7 @@
     background: Highlight; color: HighlightText;
 }
 :root {
-  --lgurl: url(https://scp-wiki.wikidot.com/local--files/scp-9001/analytics_dept_animated.svg);
+  --lgurl: url(https://scp-jp-storage.wdfiles.com/local--files/file:4294437-32-ufyn/analytics_dept_animated.svg);
 }
 #header h1 a::before { -webkit-text-stroke-width: 3px }
 #header h2 span::before { -webkit-text-stroke-width: 2px }
@@ -32,6 +32,9 @@ div.scp-image-block { border: solid 1px #666; box-shadow: 0px 1px 6px rgba(0, 0,
     color: rgb(var(--swatch-text-general));
     border-top: thin solid #666;
   }
+  :is(.image-caption,.scp-image-caption)>p {
+    color: rgb(var(--swatch-text-general));
+}
 }
 [[/module]]
 
@@ -66,7 +69,7 @@ div.scp-image-block { border: solid 1px #666; box-shadow: 0px 1px 6px rgba(0, 0,
 }
 
 #header-extra-div-1, #header-extra-div-2 {
-  background-image: url(https://scp-wiki.wikidot.com/local--files/scp-9001/thread.webp);
+  background-image: url(http://scp-jp-storage.wikidot.com/local--files/file:4294437-31-nmng/thread.webp);
   display: block;
   position: absolute;
   height: 10rem;
@@ -410,6 +413,7 @@ body { overflow-x: hidden }
 作成年: 2025
 初訳時参照リビジョン: 52
 元記事リンク: https://scp-wiki.wikidot.com/scp-9001
+[[include :scp-jp:credit:cc4]]
 [[include :scp-jp:info:end]]
 
 [[div class="blockquote classic curved"]]
@@ -429,7 +433,7 @@ body { overflow-x: hidden }
 　素晴らしいですわ。では次のスライドを。
 
 [[div class="scp-image-block block-center" style="width: 100%"]]
-[[image https://scp-wiki.wikidot.com/local--files/scp-9001/remember_us_cuneiform.webp]]
+[[image http://scp-jp-storage.wikidot.com/local--files/file:4294437-34-biub/remember_us_cuneiform.webp]]
 [[/div]]
 
 　ごめんあそばせ！　ちょっと驚かせちゃったかしら？　これが保護しているSCPに対するアクセス権をお持ちの方なら、もうピンと来てることでしょう。ですが何が何やらという方のために、少し補足させてもらいます。この画像の右上あたりにある楔形文字は、英語で言うところの「remember us」という意味で、このフレーズは両側を三点リーダで挟まれています。
@@ -441,7 +445,7 @@ body { overflow-x: hidden }
 　ですが、それも今日までです。次のスライドを。
 
 [[div class="scp-image-block block-center" style="width: 100%"]]
-[[image https://scp-wiki.wikidot.com/local--files/scp-9001/langfordfractal.webp]]
+[[image http://scp-jp-storage.wikidot.com/local--files/file:4294437-36-abyu/langfordfractal.webp]]
 [[/div]]
 
 　皆さま！　大丈夫！　大丈夫ですから！　管理官？　どうぞ冷静になって。誰も傷ついていませんよ。さっさと次のスライドに行きましょう。こんなもの見てられませんからね……
@@ -477,7 +481,7 @@ body { overflow-x: hidden }
 [[/table]]
 -----
 [[div class="scp-image-block block-center" style="width:100%;"]]
-[[image https://scp-wiki.wikidot.com/local--files/scp-9001/controlroom.webp alt=""]]
+[[image http://scp-jp-storage.wikidot.com/local--files/file:4294437-37-mom4/controlroom.webp alt=""]]
 [[div class="scp-image-caption"]]
 サイト・ロメロ-5。SCP-9001の生産拠点。
 [[/div]]
@@ -486,7 +490,7 @@ body { overflow-x: hidden }
 -----
 
 **特別収容プロトコル:** 四半期に1度、SCP-9001によって生成されたフラクタル的認識災害画像(FCI)は、各画像の効果を記述した研究データと共に、専用かつセキュアな光ファイバケーブルを通じて、保護サイト-7へ転送されます。
-これらのパッケージは、第2世代[[span class="hoverlink"]][[[aiad-homescreen|AIC]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]人工知能徴募員[[/span]][[span class="hoverlink-text"]]人工知能適用課(AIAD)によって開発された、意識をもつデジタル・エージェント。AICは、緩やかに定められた一連の「標準原則」に基づいて稼働する。この原則は、彼らが常に財団のプロトコルを遵守し、組織の利益に沿って行動することを保証するものである。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/aiad-homescreen/itlogo3.png/small.jpg)"]]-[[/span]][[/span]][[/span]]によって分析され、記述された効果を実際に確かめた後、その強度に応じてカタログ化されます。
+これらのパッケージは、第2世代[[span class="hoverlink"]][[[aiad-homescreen|AIC]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]人工知能徴募員[[/span]][[span class="hoverlink-text"]]人工知能適用課(AIAD)によって開発された、意識をもつデジタル・エージェント。AICは、緩やかに定められた一連の「標準原則」に基づいて稼働する。この原則は、彼らが常に財団のプロトコルを遵守し、組織の利益に沿って行動することを保証するものである。[[/span]][[span class="hoverlink-image" style="--src: url(http://scp-jp-storage.wdfiles.com/local--files/file%3A3995762-12-8zt0/itlogo3.png)"]]-[[/span]][[/span]][[/span]]によって分析され、記述された効果を実際に確かめた後、その強度に応じてカタログ化されます。
 
 カタログされたFCI、およびそれに対する免疫となる画像は、保護サイト-7のセキュアなデータ・ストレージ内の、隔離された外付けハードドライブに保管されます。
 第3級及び第2級FCIは、レベル3以上のクリアランスを持つ職員による請求のもと、研究、実験、実地使用、及びDクラス職員の調達を目的として利用されます。
@@ -512,9 +516,9 @@ body { overflow-x: hidden }
 
 [[div class="scp-image-block block-right" style="width: 300px"]]
 [[html]]
-<video autoplay muted loop width="300" playsinline poster="https://scp-wiki.wikidot.com/local--files/scp-9001/fractal-pentazoom-fallback.webp">
-<source src="https://scp-wiki.wikidot.com/local--files/scp-9001/fractal-pentazoom-vp8.webm" type="video/webm">
-<img src="https://scp-wiki.wikidot.com/local--files/scp-9001/fractal-pentazoom-fallback.webp" width="300" style="display: block">
+<video autoplay muted loop width="300" playsinline poster="http://scp-jp-storage.wikidot.com/local--files/file:4294437-38-4smb/fractal-pentazoom-fallback.webp">
+<source src="http://scp-jp-storage.wikidot.com/local--files/file:4294437-39-0b5v/fractal-pentazoom-vp8.webm" type="video/webm">
+<img src="http://scp-jp-storage.wikidot.com/local--files/file:4294437-38-4smb/fractal-pentazoom-fallback.webp" width="300" style="display: block">
 </video>
 <script>
   const video = document.querySelector("video")
@@ -589,12 +593,12 @@ SCP-9001
 
 2007年4月17日、エイヴァ・ベリーマン博士はHYDRA計画における「認識災害生成」についてのプレゼンテーションを行なった。このプレゼンテーションは、計画の実行に必要な技能を持つ人材を発掘することを目的としていた。本計画の存在を把握していないスタッフも、多数出席した。
 
-その出席者たちの中に、1人の男がいた。ロバート・ラングフォード博士は解析部門に所属する、計算機科学の研究者であった。当時は[[span class="hoverlink"]][[[scp-3334|CIRCE計画]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]CIRCE計画[[/span]][[span class="hoverlink-text"]]解析部門による、AI技術を用いた視覚的認識災害の検出を目的とした試み。本計画においては、人間の視覚システムをモデルとしたアーキテクチャである「畳み込みニューラルネットワーク」を活用していた。強化学習および自然言語処理の発展を受け、視覚的ミーム災害の分類も目的とすることになったため、MEDUSA計画が本計画を引き継いだ。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wikidot.com/local--files/scp-9001/circe.webp)"]]-[[/span]][[/span]][[/span]].の一環として、機械学習による認識災害の検出に取り組んでいた。
+その出席者たちの中に、1人の男がいた。ロバート・ラングフォード博士は解析部門に所属する、計算機科学の研究者であった。当時は[[span class="hoverlink"]][[[scp-3334|CIRCE計画]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]CIRCE計画[[/span]][[span class="hoverlink-text"]]解析部門による、AI技術を用いた視覚的認識災害の検出を目的とした試み。本計画においては、人間の視覚システムをモデルとしたアーキテクチャである「畳み込みニューラルネットワーク」を活用していた。強化学習および自然言語処理の発展を受け、視覚的ミーム災害の分類も目的とすることになったため、MEDUSA計画が本計画を引き継いだ。[[/span]][[span class="hoverlink-image" style="--src: url(http://scp-jp-storage.wikidot.com/local--files/file:4294437-40-8w7q/circe.webp)"]]-[[/span]][[/span]][[/span]]の一環として、機械学習による認識災害の検出に取り組んでいた。
 
 [[div class="blockquote" style="margin-bottom: 1rem"]]
 
 [[include component:image-block
-| name=https://scp-wiki.wikidot.com/local--files/scp-9001/langford.webp
+| name=http://scp-jp-storage.wikidot.com/local--files/file:4294437-41-a479/langford.webp
 | caption=ラングフォード博士。ベリーマン博士の研究室にて撮影。
 | width=300px
 ]]
@@ -690,6 +694,7 @@ z_{n+1}=z_n^2+c
 **ベリーマン博士:** その通り。
 
 **ラングフォード博士:** でもフラクタルでそれはできませんよ。羊ならわかりますが、無限に複雑なフラクタルじゃ……何もかもが違いますよ！
+
 **ベリーマン博士:** じゃあMKウルトラって知ってる？
 
 **ラングフォード博士:** アメリカCIAの、多数の人に幻覚剤を投与したプロジェクトですよね？
@@ -753,7 +758,7 @@ z_{n+1}=z_n^2+c
 
 [[include :scp-jp:component:image-block
 | align=center
-| name=https://scp-wiki.wikidot.com/local--files/scp-9001/romero5.webp
+| name=http://scp-jp-storage.wikidot.com/local--files/file:4294437-42-7unh/romero5.webp
 | caption=サイト・ロメロ-5
 | width=450px
 ]]
@@ -917,7 +922,7 @@ O5-8は任せてください。ポリシーが改定されるまで、全職員�
 [[/div]]
 
 [[div class="samples__image"]]
-[[image https://scp-wiki.wikidot.com/local--files/scp-9001/logbox3.webp]]
+[[image http://scp-jp-storage.wikidot.com/local--files/file:4294437-43-rhct/logbox3.webp]]
 [[/div]]
 [[div class="samples__desc"]]
 
@@ -926,7 +931,7 @@ O5-8は任せてください。ポリシーが改定されるまで、全職員�
 [[/div]]
 
 [[div class="samples__image"]]
-[[image https://scp-wiki.wikidot.com/local--files/scp-9001/logbox1.webp]]
+[[image http://scp-jp-storage.wikidot.com/local--files/file:4294437-48-khzc/logbox1.webp]]
 [[/div]]
 [[div class="samples__desc"]]
 
@@ -935,7 +940,7 @@ O5-8は任せてください。ポリシーが改定されるまで、全職員�
 [[/div]]
 
 [[div class="samples__image"]]
-[[image https://scp-wiki.wikidot.com/local--files/scp-9001/logboxblue1.webp]]
+[[image http://scp-jp-storage.wikidot.com/local--files/file:4294437-44-lh7b/logboxblue1.webp]]
 [[/div]]
 [[div class="samples__desc"]]
 
@@ -1137,7 +1142,7 @@ MEDUSAサービスが必要に応じて際限なく認識災害を検証し、�
 [[/div]]
 
 [[div class="samples__image"]]
-[[image https://scp-wiki.wikidot.com/local--files/scp-9001/logbox2.webp]]
+[[image http://scp-jp-storage.wikidot.com/local--files/file:4294437-45-mwpa/logbox2.webp]]
 [[/div]]
 [[div class="samples__desc"]]
 
@@ -1146,7 +1151,7 @@ MEDUSAサービスが必要に応じて際限なく認識災害を検証し、�
 [[/div]]
 
 [[div class="samples__image"]]
-[[image https://scp-wiki.wikidot.com/local--files/scp-9001/logbox5.webp]]
+[[image http://scp-jp-storage.wikidot.com/local--files/file:4294437-46-ia94/logbox5.webp]]
 [[/div]]
 [[div class="samples__desc"]]
 
@@ -1155,7 +1160,7 @@ MEDUSAサービスが必要に応じて際限なく認識災害を検証し、�
 [[/div]]
 
 [[div class="samples__image"]]
-[[image https://scp-wiki.wikidot.com/local--files/scp-9001/logboxblue2.webp]]
+[[image http://scp-jp-storage.wikidot.com/local--files/file:4294437-47-4jf5/logboxblue2.webp]]
 [[/div]]
 [[div class="samples__desc"]]
 
@@ -1171,7 +1176,7 @@ MEDUSAサービスが必要に応じて際限なく認識災害を検証し、�
 
 [[div class="classified-banner rotate"]]
 [[div class="classified-banner__dept"]]
-[[image https://scp-wiki.wikidot.com/local--files/scp-9001/analytics_dept_duo_animated.svg]]
+[[image https://scp-jp-storage.wdfiles.com/local--files/file:4294437-33-r08g/analytics_dept_duo_animated.svg]]
 [[/div]]
 
 [[div class="classified-banner__text"]]
@@ -1325,7 +1330,7 @@ NIETZSCHE計画は財団に対し、単に認識災害生成プロセスを改�
 『現実改変の強度評価(The Reality Bending Aptitude Assessment: RBAA)』内において、38の認識災害を公開した。この書籍は財団出版局より入手可能である。
 
 [[include :scp-jp:component:image-block
-| name=https://scp-wiki.wikidot.com/local--files/scp-9001/berrymans-tests-for-reality-bending-aptitude-2019-hardcover.webp
+| name=http://scp-jp-storage.wikidot.com/local--files/file:4294437-49-mf5w/berrymans-tests-for-reality-bending-aptitude-2019-hardcover.webp
 | caption=ベリーマン博士著『現実改変の強度評価』の表紙。ハードカバー。
 ]]
 
@@ -1335,7 +1340,7 @@ RBAAのコピーは、サイト-87、サイト-91、サイト-118、サイト-40
 
 **更新: 2015年02月11日**
 
-私の最初の一連の要請に対して、未だ返答はない。予定よりも早く、[[span class="hoverlink"]][[[secure-facility-dossier-site-120|サイト-120]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]サイト-120[[/span]][[span class="hoverlink-text"]]ポーランドにある財団サイト。奇跡術及び異常性の使用を受け入れる収容及び研究施設。スタッフに異常性保持者を含む。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/secure-facility-dossier-site-120/medium.jpg/small.jpg)"]]-[[/span]][[/span]][[/span]]に連絡を取ることにした。サイト-120は存在力学部門の本拠地であり、財団内で現実改変者の雇用数が最多の施設である。もし彼らが私の要請に同意すれば、RBAAが足場を築き、財団全体に広がるための雪玉効果を生み出すのに十分であると考えている。
+私の最初の一連の要請に対して、未だ返答はない。予定よりも早く、[[span class="hoverlink"]][[[secure-facility-dossier-site-120|サイト-120]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]サイト-120[[/span]][[span class="hoverlink-text"]]ポーランドにある財団サイト。奇跡術及び異常性の使用を受け入れる収容及び研究施設。スタッフに異常性保持者を含む。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-jp-storage.wdfiles.com/local--files/file%3A8957212-7-b92r/site120.jpg)"]]-[[/span]][[/span]][[/span]]に連絡を取ることにした。サイト-120は存在力学部門の本拠地であり、財団内で現実改変者の雇用数が最多の施設である。もし彼らが私の要請に同意すれば、RBAAが足場を築き、財団全体に広がるための雪玉効果を生み出すのに十分であると考えている。
 
 **更新: 2015年02月14日**
 
@@ -1366,7 +1371,7 @@ RBAAのコピーは、サイト-87、サイト-91、サイト-118、サイト-40
 
 [[div class="overwatch-order"]]
 [[div_ class="overwatch-order__logo"]]
-[[image https://scp-wiki.wikidot.com/local--files/scp-9001/overwatch-command-logo-1.webp alt=""]]
+[[image http://scp-jp-storage.wikidot.com/local--files/file:4294437-50-ixm5/overwatch-command-logo-1.webp alt=""]]
 [[/div]]
 
 [[div class="overwatch-order__content"]]
@@ -1551,7 +1556,7 @@ O5-8は、これが未だに問題であることが意外であると所感を�
 
 [[div class="ethics"]]
 [[div_ class="ethics__header"]]
-[[image https://scp-wiki.wikidot.com/local--files/scp-9001/ethics-committee-logo.webp alt="" style="filter: invert(1); max-width: 10rem; max-height: 10rem; aspect-ratio: 1;"]]
+[[image http://scp-jp-storage.wikidot.com/local--files/file:4294437-51-o7dl/ethics-committee-logo.webp alt="" style="filter: invert(1); max-width: 10rem; max-height: 10rem; aspect-ratio: 1;"]]
 **倫理委員会による覚書**
 [[/div]]
 
@@ -1686,7 +1691,7 @@ O5-8は、これが未だに問題であることが意外であると所感を�
 **ラングフォード博士:** 非常に恐縮な名称ではございますが、「ラングフォード集合」と呼ばれるアルゴリズムを介して、皆様のご存じのとおり、我々はすでに視覚的な認識災害についてはよく理解しています。ご覧のように、このアルゴリズムは、精神作用を持つように調整したフラクタル画像を生成するものです。我々はこの技術を「フラクタル的認識災害画像」と呼んでおり、サイト・ロメロ-5は財団全体に向けてこのFCIの生成と供給を行っています。デモンストレーションとして、皆様もよくご存知であろうものをまずお見せします……
 
 [[div class="scp-image-block block-center" style="width: 300px"]]
-[[image https://scp-wiki.wikidot.com/local--files/scp-9001/langfordfractal.webp]]
+[[image http://scp-jp-storage.wikidot.com/local--files/file:4294437-36-abyu/langfordfractal.webp]]
 [[/div]]
 
 **ラングフォード博士:** これは第3級FCIで、視認者は軽い目眩のような感覚を覚えるはずです。この部屋に現実改変者はおられますか？
@@ -1888,7 +1893,7 @@ O5-8の承認による
 [[/div]]
 
 [[div class="samples__image"]]
-[[image https://scp-wiki.wikidot.com/local--files/scp-9001/fractalwarning.webp]]
+[[image http://scp-jp-storage.wikidot.com/local--files/file:4294437-52-zier/fractalwarning.webp]]
 [[/div]]
 [[div class="samples__desc"]]
 
@@ -1897,7 +1902,7 @@ O5-8の承認による
 [[/div]]
 
 [[div class="samples__image"]]
-[[image https://scp-wiki.wikidot.com/local--files/scp-9001/fractalwarning2.webp]]
+[[image http://scp-jp-storage.wikidot.com/local--files/file:4294437-53-4m8k/fractalwarning2.webp]]
 [[/div]]
 [[div class="samples__desc"]]
 
@@ -1906,7 +1911,7 @@ O5-8の承認による
 [[/div]]
 
 [[div class="samples__image"]]
-[[image https://scp-wiki.wikidot.com/local--files/scp-9001/logboxblue3.webp]]
+[[image http://scp-jp-storage.wikidot.com/local--files/file:4294437-54-pbw7/logboxblue3.webp]]
 [[/div]]
 [[div class="samples__desc"]]
 

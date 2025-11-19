@@ -100,7 +100,7 @@ div.page-rate-widget-box { margin-bottom: 0.25rem }
 
 body { overflow-x: hidden }
 .berryman {
-  background-image: url(http://scp-wiki.wikidot.com/local--files/scp-9001/berrymanfractal.webp);
+  background-image: url(http://scp-jp-storage.wikidot.com/local--files/file:4294437-59-lvcj/berrymanfractal.webp);
   background-attachment: fixed;
   background-position: center;
   background-size: 100vw auto;
@@ -125,7 +125,7 @@ body { overflow-x: hidden }
   }
 }
 .berryman--angrier {
-  background-image: url(http://scp-wiki.wikidot.com/local--files/scp-9001/Berrymanspiral2.webp);
+  background-image: url(http://scp-jp-storage.wikidot.com/local--files/file:4294437-60-rz0e/Berrymanspiral2.webp);
 }
 
 .explo strong, .blockquote strong {
@@ -161,8 +161,8 @@ body { overflow-x: hidden }
 #footer { background: transparent }
 @media (min-width: 901px) {
   #container {
-    background-image: url(http://scp-wiki.wikidot.com/local--files/scp-9001/lichten.webp), url(
-http://scp-wiki.wikidot.com/local--files/scp-9001/lichten-flip.webp);
+    background-image: url(http://scp-jp-storage.wikidot.com/local--files/file:4294437-55-4uln/lichten.webp), url(
+http://scp-jp-storage.wikidot.com/local--files/file:4294437-56-079s/lichten-flip.webp);
     background-position: calc(50% - 40rem) calc(100% + 20rem), calc(50% + 40rem) calc(100% + 20rem);
     background-repeat: no-repeat;
     background-size: auto 100rem;
@@ -170,7 +170,7 @@ http://scp-wiki.wikidot.com/local--files/scp-9001/lichten-flip.webp);
 }
 @media (max-width: 900px) {
   .footnotes-footer {
-    background-image: url(http://scp-wiki.wikidot.com/local--files/scp-9001/lichten.webp), url(http://scp-wiki.wikidot.com/local--files/scp-9001/lichten-flip.webp);
+    background-image: url(http://scp-jp-storage.wikidot.com/local--files/file:4294437-55-4uln/lichten.webp), url(http://scp-jp-storage.wikidot.com/local--files/file:4294437-56-079s/lichten-flip.webp);
     background-position: calc(50% - 30vw) calc(100% + 20rem), calc(50% + 30vw) calc(100% + 20rem);
     background-repeat: no-repeat;
     background-size: auto 100rem;
@@ -186,6 +186,7 @@ http://scp-wiki.wikidot.com/local--files/scp-9001/lichten-flip.webp);
 作成年: 2025
 初訳時参照リビジョン: 52
 元記事リンク: https://scp-wiki.wikidot.com/scp-9001
+[[include :scp-jp:credit:cc4]]
 [[include :scp-jp:info:end]]
 
 -----
@@ -212,7 +213,7 @@ http://scp-wiki.wikidot.com/local--files/scp-9001/lichten-flip.webp);
 -----
 
 [[div class="scp-image-block block-center" style="width:100%;"]]
-[[image http://scp-wiki.wikidot.com/local--files/scp-9001/hammerdown.webp alt=""]]
+[[image http://scp-jp-storage.wikidot.com/local--files/file:4294437-57-a5w5/hammerdown.webp alt=""]]
 [[div class="scp-image-caption"]]
 機動部隊ニュー-7("下される鉄槌")の打撃部隊による、サイト・ロメロ-5に対する、初期の攻撃
 [[/div]]
@@ -223,24 +224,24 @@ http://scp-wiki.wikidot.com/local--files/scp-9001/lichten-flip.webp);
 [[div class="conprocs"]]
 [[span style="color: white; background: #f008; padding: 3px 5px 1px; border-radius: 3px; text-transform: uppercase; font-weight: bold; margin-left: -2.5px"]]緊急収容プロトコル:[[/span]]SCP-9001-Aの事象の地平面から3kmの位置に立入禁止区域が設定され、当該地域には多数のスクラントン現実錨が展開されています。本稿執筆時点において、現地における現実錨の備蓄は枯渇しており、サイト-118からの追加資材の輸送が進行中です。
 
-エージェント・トロイ・ラメントが当該地域の機動部隊総司令官に着任し、SRA展開領域外に設立された前線基地パンロケを拠点として活動しています。機動部隊 [[span class="hoverlink"]][[[task-forces#eta-10|エータ-10 ("シー・ノー・イーヴル")]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]イータ-10 ("シー・ノー・イーヴル")[[/span]][[span class="hoverlink-text"]]知覚災害の回避/収容を専門とする。イータ-10は、感覚知覚を介して発現・誘発される異常効果からエージェントを保護するため、特殊装備（「SCRAMBLE」ゴーグルなど）を使用する。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/task-forces/Eta10.png/small.jpg)"]]-[[/span]][[/span]][[/span]]、[[span class="hoverlink"]][[[task-forces#theta-90|シータ-90 ("角度研削者")]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]シータ-90 ("角度研削者")[[/span]][[span class="hoverlink-text"]]反復的、再帰的、無限的な領域など、局所的な地形が従来の時空理解と一致しない領域における、経験豊富な経路探索者および踏破者。シータ-90の専門家は、非敵対的なネクサスへの外交任務も担当する。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/task-forces/Theta90.png/small.jpg)"]]-[[/span]][[/span]][[/span]]、[[span class="hoverlink"]][[[task-forces#epsilon-11|イプシロン-11 ("九尾狐")]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]イプシロン-11 ("九尾狐")[[/span]][[span class="hoverlink-text"]]MTFネットワーク全体から選抜された専門家であり、敵対勢力や要注意団体による侵害や占拠を経験した財団サイトの統制を確立するために配備される。サイト-19での収容違反への対処で有名。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/task-forces/Epsilon11.png/small.jpg)"]]-[[/span]][[/span]][[/span]]、そして[[span class="hoverlink"]][[[task-forces#zeta-9|ゼータ-9 ("メクラネズミ")]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]ゼータ-9 ("メクラネズミ")[[/span]][[span class="hoverlink-text"]]地下または存在論的に不安定な領域の探査と地図作成を任務とする探査チーム。通常、第一次投入リソースとして配備されるゼータ-9は、死亡率の高さで悪名高い。それにもかかわらず、ゼータ-9の工作員はあらゆる種類の探査において最も有能であると多くの者に見なされている。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/task-forces/Zeta9.png/small.jpg)"]]-[[/span]][[/span]][[/span]]の工作員らが、区域の探索を目的とする特別チームとして編成されつつあります。機動部隊[[span class="hoverlink"]][[[task-forces#iota-10|イオタ-10 ("ポリ公")]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]イオタ-10 ("ポリ公")[[/span]][[span class="hoverlink-text"]]法執行機関および類似の機関に潜入している職員。公的な存在として、イオタ-10は通常、政府機関や地方警察と協力して情報収集を任務とする。イオタ-10はまた、民間における異常存在の早期警戒としても機能する。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/task-forces/Iota10.png/small.jpg)"]]-[[/span]][[/span]][[/span]]は、当該地域から民間人を迂回させる任務を負います。
+エージェント・トロイ・ラメントが当該地域の機動部隊総司令官に着任し、SRA展開領域外に設立された前線基地パンロケを拠点として活動しています。機動部隊 [[span class="hoverlink"]][[[task-forces#eta-10|エータ-10 ("シー・ノー・イーヴル")]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]イータ-10 ("シー・ノー・イーヴル")[[/span]][[span class="hoverlink-text"]]知覚災害の回避/収容を専門とする。イータ-10は、感覚知覚を介して発現・誘発される異常効果からエージェントを保護するため、特殊装備(〈SCRAMBLE〉ゴーグルなど)を使用する。[[/span]][[span class="hoverlink-image" style="--src: url(http://scp-jp.wdfiles.com/local--resized-images/task-forces/Eta10.png/small.jpg)"]]-[[/span]][[/span]][[/span]]、[[span class="hoverlink"]][[[task-forces#theta-90|シータ-90 ("角度研削者")]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]シータ-90 ("角度研削者")[[/span]][[span class="hoverlink-text"]]反復的、再帰的、無限的な領域など、局所的な地形が従来の時空理解と一致しない領域における、経験豊富な経路探索者および踏破者。シータ-90の専門家は、非敵対的なネクサスへの外交任務も担当する。[[/span]][[span class="hoverlink-image" style="--src: url(http://scp-jp-storage.wikidot.com/local--resized-images/file:7974444-30-el5k/Theta90.png/small.jpg)"]]-[[/span]][[/span]][[/span]]、[[span class="hoverlink"]][[[task-forces#epsilon-11|イプシロン-11 ("九尾狐")]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]イプシロン-11 ("九尾狐")[[/span]][[span class="hoverlink-text"]]MTFネットワーク全体から選抜された専門家であり、敵対勢力や要注意団体による侵害や占拠を経験した財団サイトの統制を確立するために配備される。サイト-19での収容違反への対処で有名。[[/span]][[span class="hoverlink-image" style="--src: url(http://scp-jp.wdfiles.com/local--resized-images/task-forces/Epsilon11.png/small.jpg)"]]-[[/span]][[/span]][[/span]]、そして[[span class="hoverlink"]][[[task-forces#zeta-9|ゼータ-9 ("メクラネズミ")]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]ゼータ-9 ("メクラネズミ")[[/span]][[span class="hoverlink-text"]]地下または存在論的に不安定な領域の探査と地図作成を任務とする探査チーム。通常、第1次投入リソースとして配備されるゼータ-9は、死亡率の高さで悪名高い。それにもかかわらず、ゼータ-9の工作員はあらゆる種類の探査において最も有能であると多くの者に見なされている。[[/span]][[span class="hoverlink-image" style="--src: url(http://scp-jp.wdfiles.com/local--resized-images/task-forces/Zeta9.png/small.jpg)"]]-[[/span]][[/span]][[/span]]の工作員らが、区域の探索を目的とする特別チームとして編成されつつあります。機動部隊[[span class="hoverlink"]][[[task-forces#iota-10|イオタ-10 ("ポリ公")]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]イオタ-10 ("ポリ公")[[/span]][[span class="hoverlink-text"]]法執行機関および類似の機関に潜入している職員。公的な存在として、イオタ-10は通常、政府機関や地方警察と協力して情報収集を任務とする。イオタ-10はまた、民間における異常存在の早期警戒としても機能する。[[/span]][[span class="hoverlink-image" style="--src: url(http://scp-jp.wdfiles.com/local--resized-images/task-forces/Iota10.png/small.jpg)"]]-[[/span]][[/span]][[/span]]は、当該地域から民間人を迂回させる任務を負います。
 
-立入禁止区域の境界線は、武装機動部隊[[span class="hoverlink"]][[[task-forces#nu-7|ニュー-7 ("下される鉄槌")]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]ニュー-7 ("下される鉄槌")[[/span]][[span class="hoverlink-text"]]兵士および戦闘/車両の専門家からなる大隊規模の連隊。財団施設が危険に晒された場合、または収容に圧倒的な戦力の行使が必要な場合に配備される。[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/task-forces/Nu7.png/small.jpg)"]]-[[/span]][[/span]][[/span]]によって確保されることになっており、同部隊は区域内の森林の計画的焼却を実行する任務を課せられています。
+立入禁止区域の境界線は、武装機動部隊[[span class="hoverlink"]][[[task-forces#nu-7|ニュー-7 ("下される鉄槌")]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]ニュー-7 ("下される鉄槌")[[/span]][[span class="hoverlink-text"]]兵士および戦闘/車両の専門家からなる大隊規模の連隊。財団施設が危険に晒された場合、または収容に圧倒的な戦力の行使が必要な場合に配備される。[[/span]][[span class="hoverlink-image" style="--src: url(http://scp-jp.wdfiles.com/local--resized-images/task-forces/Nu7.png/small.jpg)"]]-[[/span]][[/span]][[/span]]によって確保されることになっており、同部隊は区域内の森林の計画的焼却を実行する任務を課せられています。
 
-SRA境界線を越えようと試みる生命体は、即時終了されます。当該地域の影響を受けた生命体を研究目的での回収することは、許可されていません。それら生命体は立入区域内に投棄され、焼却処分を受ける必要があります。
+SRA境界線を越えようと試みる生命体は、即時終了されます。当該地域の影響を受けた生命体の研究を目的とした回収は、許可されていません。それらの生命体は立入区域内に投棄され、焼却処分を受ける必要があります。
 
 効果範囲が立入禁止区域を越えて拡大した場合、ZK-クラス:現実不全シナリオに備え、全世界の全職員に向けて通達が発せられます。
 [[/div]]
 
 **説明:** SCP-9001-Aは、非ユークリッド幾何学、空間的不整合、および複雑系の精巧な成長とフラクタル化を特徴とする、拡大領域です。
 
-SCP-9001-Aの発現は、サイト・ロメロ-5から出現する痕跡的な施設の形成、フラクタル構造を指向する局所的な地形および気象条件の変化、そしてその効果範囲内の生命体における生理学的変異の誘発といった形で現れます。
+SCP-9001-Aは、サイト・ロメロ-5から出現する痕跡的な施設の形成、フラクタル構造を指向する局所的な地形および気象条件の変化、そしてその効果範囲内の生命体における生理学的変異の誘発といった形で発現します。
 
-初期の観測において、直接接触が厳密に必須条件ではないと判断されたため、SCP-9001-Aが新たなシステムに感染する手段は現在のところ不明です。伝播は形而上学的、概念的、あるいは連想的な手段を介して発生する可能性があります。状況が急速に変化しているため、当該オブジェクトに対する研究において、最終的な結論は示されていません。
+初期の観測において、直接接触が厳密に必須条件ではないと判断されたため、SCP-9001-Aが新たな系に感染する手段は現在のところ不明です。伝播は形而上学的、概念的、あるいは連想的な手段を介して発生する可能性があります。状況が急速に変化しているため、当該オブジェクトに対する研究において、最終的な結論は示されていません。
 
 SCP-9001-Aは、特別工作員ソーンダースによる遭遇を経て、財団全体の注意を引くこととなりました。
 
-**発見:** 特別工作員ソーンダースは、ベリーマン博士のチームとの連絡途絶を受け、事態の調査のために派遣されました。ソーンダース特別工作員が選抜されたのは、彼女が地理的に近接していたこと[[footnote]]ソーンダース特別工作員は、サイト・ロメロ-5の南10kmに位置するウィロー・フォールズの町の警察に潜入していました。彼女は、10ヶ月間にわたって発生していた連続失踪事件の調査を任務としていました。[[/footnote]]、そして当該地域に唯一アクセス可能な道路沿いにおける標識に埋め込まれた防護認識災害を迂回できるだけの認知抵抗値（CRV）を有していたこと、その双方によります。
+**発見:** 特別工作員ソーンダースは、ベリーマン博士のチームとの連絡途絶を受け、事態の調査のために派遣されました。ソーンダース特別工作員が選抜されたのは、彼女が地理的に近接していたこと[[footnote]]ソーンダース特別工作員は、サイト・ロメロ-5の南10kmに位置するウィロー・フォールズの町の警察に潜入していました。彼女は、10ヶ月間にわたって発生していた連続失踪事件の調査を任務としていました。[[/footnote]]、そして当該地域に唯一アクセス可能な道路沿いにおける標識に埋め込まれた防護認識災害を迂回できるだけの認知抵抗値(CRV)を有していたこと、その双方によります。
 
 -----
 
@@ -250,11 +251,11 @@ SCP-9001-Aは、特別工作員ソーンダースによる遭遇を経て、財�
 
 ----
 
-やや斜めになっている画面には、特務工作員ソーンダースが映し出されている。彼女は仏頂面を浮かべながらハンドルを握っていた。鬱蒼とした木々が、さながら一個の塊のようになって窓の外を流れてゆく。その枝葉の隙間から夕陽の光が漏れ、車内をまだらな橙色に染め上げていた。ソーンダースはサンバイザーを下ろした。彼女の顔に、困惑の色が浮かぶ。
+やや斜めになっている画面には、特務工作員ソーンダースが映し出されている。彼女は仏頂面を浮かべながらハンドルを握っていた。鬱蒼とした木々が、さながら1個の塊のようになって窓の外を流れてゆく。その枝葉の隙間から夕陽の光が漏れ、車内をまだらな橙色に染め上げていた。ソーンダースはサンバイザーを下ろした。彼女の顔に、困惑の色が浮かぶ。
 
 彼女は司令部を呼び出し、自身がいるべき場所にいて、正しい道を走っているかの確認を要請した。この進入路はまっすぐな道のはずだった。だが、違う。いま、彼女は微妙なカーブが続く、長い道を走っている。やがて正しい、との返答を得ると、ソーンダースはやれやれと言わんばかりに目を顰めた。司令部の手際の悪さは今に始まったことではない、とでも言いたげな態度であった。
 
-司令部も、その不一致を記録す流。続けて彼女に対し周囲の異変についての報告を求めた。道が荒れ果て、アスファルトの両脇から野放図に草木が伸びている。それ以外、特筆すべきことはない。そう言い終わらないうちに、彼女は口篭って、訝しげな表情を浮かべながら身を乗り出した。
+司令部も、その不一致を記録する。続けて彼女に対し周囲の異変についての報告を求めた。道が荒れ果て、アスファルトの両脇から野放図に草木が伸びている。それ以外、特筆すべきことはない。そう言い終わらないうちに、彼女は口篭って、訝しげな表情を浮かべながら身を乗り出した。
 
 流れゆく木々の速度が緩やかに落ちてゆき、やがて車が止まる。ソーンダースはカメラに軽く一瞥をくれると、ギアをパーキングに入れた。映像がわずかに揺れる。彼女はヘルメットを装着し、車の外に出た。
 
@@ -264,13 +265,13 @@ SCP-9001-Aは、特別工作員ソーンダースによる遭遇を経て、財�
 
 エンジンの唸りが消える。鳥の囀りも、虫の鳴き声もない。ただどこかから聞こえる軋むような音がある以外は、静寂そのものであった。ソーンダースはこれを、まるで古い木の床板のようだと喩えた。行く先を遮っている木の根を踏みしめながら、彼女は歩みを進めてゆく。
 
-続く一キロメートルを、彼女は慎重な足取りで進む。GPS上の位置からすれば、サイトの建物が遠方に見えていてもおかしくはないところまで来ているはずだった。だが、道のうねりは激しくなるばかりである。続く道は左へ左へとさらに逸れていて、見通しが効かない。木の枝が天蓋じみて頭上を覆っている。わずかにその隙間から差し込む光も、厚い雲によって遮られてしまっている。辺りは薄暗い。
+続く1キロメートルを、彼女は慎重な足取りで進む。GPS上の位置からすれば、サイトの建物が遠方に見えていてもおかしくはないところまで来ているはずだった。だが、道のうねりは激しくなるばかりである。続く道は左へ左へとさらに逸れていて、見通しが効かない。木の枝が天蓋じみて頭上を覆っている。わずかにその隙間から差し込む光も、厚い雲によって遮られてしまっている。辺りは薄暗い。
 
 遠くから、けたたましいクラクションが響いた。ソーンダースは歩調を速める。曲がり道の先に、黒いセダンがあった。フロントガラスは蜘蛛の巣じみて砕け散っていた。それは道路から飛び出し、近くの木に正面から衝突したように見える。運転席のドアは半開きだった。ナンバープレートこそ見えなかったものの、この車両はサイトにいた研究員のものであると、司令部が特定した。
 
 ソーンダースが近づくにつれて、クラクションは小さくなっていく。車のすぐそばまで来たところで、その音は消えてなくなった。彼女はサイドアームの安全装置を外す。カチリ、と音がした。開いたドアの影に身を寄せ、息を殺す。彼女は一瞬で身を翻すと、銃口を車内に向けた。
 
-誰も、車内にはいなかった。事故で膨らんだのであろうエアバッグは、半ばしぼんだまま垂れ下がっている。ハンドルから運転席、それ以外の内装に至るまで、車内のあらゆる所に点々と血痕が散らばっている。ソーンダースは辺りを見回し、車の下も確認してから、ようやく銃をしまった。彼女はセンターコンソールに手を突っ込み、職員証を探し当てた。色からして、それはレベル三研究員のものだ。しかし、その表面は傷だらけで、特に顔写真の部分はひどく削られているように見える。文字などはもはや読めたものではない。
+誰も、車内にはいなかった。事故で膨らんだのであろうエアバッグは、半ばしぼんだまま垂れ下がっている。ハンドルから運転席、それ以外の内装に至るまで、車内のあらゆる所に点々と血痕が散らばっている。ソーンダースは辺りを見回し、車の下も確認してから、ようやく銃をしまった。彼女はセンターコンソールに手を突っ込み、職員証を探し当てた。色からして、それはレベル3研究員のものだ。しかし、その表面は傷だらけで、特に顔写真の部分はひどく削られているように見える。文字などはもはや読めたものではない。
 
 それをポケットに仕舞おうとした時、ソーンダースはふと視線をフロントガラスへやった。血塗られた手形が、内側から押し付けられている。それには指が9本あった。
 
@@ -290,7 +291,7 @@ SCP-9001-Aは、特別工作員ソーンダースによる遭遇を経て、財�
 
 低い地響きが走り、ソーンダースは地面に叩きつけられた。そのまま彼女は上を見た。すぐそばの建物が歪み、伸びていく。画面の左端からも飛び出たそれは、やがて別の施設と繋がる枝となる。枝に光の点がいくつも見えた。それはやがて大きくなり、新しい窓となる。遠くに見える建物もまた、同じように姿を変えていく。地鳴りはなお止まらない。
 
-静寂が訪れた。始まった時と同じように、その変化は唐突に終わった。ソーンダースは震える足で立ち上がる。目の前には、一つの巨大な構造物があった。つい先ほどまでは、施設が点在していた場所であった。司令部も衛星画像で確認をとる。いくらか雲がかかってしまっているものの、そこにはひと繋がりになった建物が写っていた。それは、螺旋を象っていた。
+静寂が訪れた。始まった時と同じように、その変化は唐突に終わった。ソーンダースは震える足で立ち上がる。目の前には、1つの巨大な構造物があった。つい先ほどまでは、施設が点在していた場所であった。司令部も衛星画像で確認をとる。いくらか雲がかかってしまっているものの、そこにはひと繋がりになった建物が写っていた。それは、螺旋を象っていた。
 
 もはや自分の手には負えない。ソーンダースはついに認めた。徒歩で引き返すより、オフロード車を探した方が賢明だと判断する。彼女は司令部と連絡をとり、車両格納庫の大まかな位置を確認した。フェンスに身を寄せながら、彼女は施設の外周を反時計回りに、慎重な足取りで進んでいく。窓の向こうを黒い影が横切った。彼女は歩を速める。
 
@@ -306,13 +307,13 @@ SCP-9001-Aは、特別工作員ソーンダースによる遭遇を経て、財�
 
 ソーンダースは前方の道に意識を集中させた。境界のフェンスを通過する。そのさなか、彼女は前を向いたまま、腕を後ろに突き出して、サイドアームを後ろに向かって3発撃った。人ならざる金切り声が上がる。ちらと後ろを振り向く。異形は振り落とされていた。ソーンダースは安堵のため息を漏らした。前を向く。道を塞ぐ巨大な影がある。ヘッドライトが毛皮の塊を照らしたコンマ5秒後、彼女は猛スピードでその獣に衝突した。
 
-ジープから、ソーンダースが放り出される。そのまま彼女は地面に叩きつけられて、いくらか転がったあと、静止した。巨大な鹿の体が、彼女の視界を覆った。それはもがきながらも、6本の足で立ちあがろうとしている。複雑に絡み合った角を持つ、その二つの頭が点を仰ぎ、弱々しい鳴き声をあげた。その巨体は崩れ落ち、動かなくなった。息絶えたようだ。何度となく、司令部がマイク越しにソーンダースの名を呼ぶ。しかし、応答はない。
+ジープから、ソーンダースが放り出される。そのまま彼女は地面に叩きつけられて、いくらか転がったあと、静止した。巨大な鹿の体が、彼女の視界を覆った。それはもがきながらも、6本の足で立ちあがろうとしている。複雑に絡み合った角を持つ、その2つの頭が点を仰ぎ、弱々しい鳴き声をあげた。その巨体は崩れ落ち、動かなくなった。息絶えたようだ。何度となく、司令部がマイク越しにソーンダースの名を呼ぶ。しかし、応答はない。
 
-ソーンダースの咳が、しばしの沈黙を破る。彼女はうめき声をあげ、仰向けとなった。視線を落とすと、左足から鋭く尖った骨が突き出しているのが見える。それが軋み、先端から二つにさけ、さらにその先が枝分かれしていく。ソーンダースは絶叫した。その悲鳴は近づいてくる者らの、合唱じみた慟哭にかき消されていく。ソーンダースは必死にあたりを見回す。数メートル先で、サイドアームが鈍く光っている。
+ソーンダースの咳が、しばしの沈黙を破る。彼女はうめき声をあげ、仰向けとなった。視線を落とすと、左足から鋭く尖った骨が突き出しているのが見える。それが軋み、先端から2つに裂け、さらにその先が枝分かれしていく。ソーンダースは絶叫した。その悲鳴は近づいてくる者らの、合唱じみた慟哭にかき消されていく。ソーンダースは必死にあたりを見回す。数メートル先で、サイドアームが鈍く光っている。
 
 助けは向かっている、と司令部の励ましの声を背に、彼女は銃へと這っていく。それでくる助けなど気休めだ、と彼女は一蹴した。救いはない、と彼女は断じる。このサイトごと地獄の業火で焼き払ってしまえ、と彼女は叫んだ。幾重にも重なった慟哭が近づいてくる。その一つ一つすら、幾重にも重なった、苦痛にあえぐ叫びのように聞こえる。銃を掴んだソーンダースは、近くの木に寄りかかり、そして、待った。
 
-霧の中、ジープの両脇から影が現れる。ヘッドライトの逆光を受け、その輪郭だけが浮かび上がっていた。複数に分かれた胴体、それぞれの体から伸びる夥しい数の腕--　　--名状し難い実体が、銃を構えるソーンダースへと殺到する。彼女は最も近い実体に向けて2発撃ち、その動きを止めた。3発目は実体に命中することなく、ジープのヘッドライトを一つ割った。立て続けに3発、別の個体に命中する。しかし、その前進は止まらない。
+霧の中、ジープの両脇から影が現れる。ヘッドライトの逆光を受け、その輪郭だけが浮かび上がっていた。複数に分かれた胴体、それぞれの体から伸びる夥しい数の腕--　　--名状し難い実体が、銃を構えるソーンダースへと殺到する。彼女は最も近い実体に向けて2発撃ち、その動きを止めた。3発目は実体に命中することなく、ジープのヘッドライトを1つ割った。立て続けに3発、別の個体に命中する。しかし、その前進は止まらない。
 
 距離が詰まるにつれ、ぼやけた輪郭が明確な像となってゆく。白衣を纏ったすぐそばの実体の顔が裂ける。その口の中には、幾重もの歯列があった。叫び声が放たれる。無数の手がカメラに向けられた。指先から新しい指が、まるで花のように咲き乱れた。最後の1発が撃たれた。カメラが地面へと向けられる。
 
@@ -344,9 +345,9 @@ SCP-9001-Aは、特別工作員ソーンダースによる遭遇を経て、財�
 
 ラメント司令官が手を差し出す。
 
-**ラメント司令官:** トロイ・ラメントだ。収容および復興スペシャリストの。
+**ラメント司令官:** トロイ・ラメント。収容および回収スペシャリストだ。
 
-ラングフォード博士は握手に応じる。ラメントは彼の返事を待った。奇妙な静けさが、二人の間を流れる。
+ラングフォード博士は握手に応じる。ラメントは彼の返事を待った。奇妙な静けさが、2人の間を流れる。
 
 **ラメント司令官:** そして君が……ロバート・ラングフォード？
 
@@ -466,11 +467,11 @@ SCP-9001-Aは、特別工作員ソーンダースによる遭遇を経て、財�
 
 **ラメント司令官:** 御託はいい。答えろ。
 
-**ラングフォード博士:** キャドバリー・チョコを一つ溶かし入れて、コーヒーフレッシュを半分だけ。チョコにミルクは含まれてますから。
+**ラングフォード博士:** キャドバリー・チョコを1つ溶かし入れて、コーヒーフレッシュを半分だけ。チョコにミルクは含まれてますから。
 
 **ラメント司令官:** 彼女の好きな小説は？
 
-**ラングフォード博士:** ニール・ステフェンソンの『スノウ・クラッシュ』。
+**ラングフォード博士:** ニール・スティーヴンスンの『スノウ・クラッシュ』。
 
 **ラメント司令官:** 趣味は？
 
@@ -506,19 +507,19 @@ SCP-9001-Aは、特別工作員ソーンダースによる遭遇を経て、財�
 ||~ チームメンバー ||
 || **ウォーレン・グッデン**、技術者、機動部隊ゼータ-9所属 ||
 || **セバスチャン・グッデン**、小銃手、機動部隊ゼータ-9所属 ||
-|| **ティフロ**、奪感者[[footnote]]侵襲的神経外科処置により、視覚、聴覚、味覚、嗅覚を剥奪された工作員。奪感者は、機械的拡張感覚器により、振動に対する鋭敏な感覚を獲得し、通常と異なる方法で外界を認識することができる。[[/footnote]]、 機動部隊エータ-10 ||
-|| **特殊工作員ニクス**、案内員、機動部隊シータ-90 ||
+|| **ティフロ**、奪感者[[footnote]]侵襲的神経外科処置により、視覚、聴覚、味覚、嗅覚を剥奪された工作員。奪感者は、機械的拡張感覚器により、振動に対する鋭敏な感覚を獲得し、通常と異なる方法で外界を認識することができる。[[/footnote]]、 機動部隊エータ-10所属 ||
+|| **特殊工作員ニクス**、案内員、機動部隊シータ-90所属 ||
 || **ロバート・ラングフォード博士**、交渉人 ||
 
 ||~ 装備 ||
 || M27歩兵用自動小銃4丁および予備マガジン _
-M45A1自動けん銃6丁および予備マガジン _
-マーテル型ペグ[[footnote]][[[SCP-1730]]]事件を受けて開発された、実験的技術。空間変異により、通常の手順では脱出が困難となる状況下において、設置されたペグを中継点とすることで、人員の二点間即時転送を可能にする装備。[[/footnote]] _
+M45A1自動拳銃6丁および予備マガジン _
+マーテル型ペグ[[footnote]][[[SCP-1730]]]事件を受けて開発された、実験的技術。空間変異により、通常の手順では脱出が困難となる状況下において、設置されたペグを中継点とすることで、人員の2点間即時転送を可能にする装備。[[/footnote]] _
 //ニクス:// M38選抜射手用小銃および予備マガジン _
 //ニクス:// プリズムコンパス _
 //ウォーレン:// 携帯用スクラントン現実錨 _
 //セバスチャン:// 24インチのマチェット _
-//トーレス:// 量子もつれリレーデバイス。H.E.C.O.R.[[footnote]](High Energy Concentration Orbital Railgun: 高エネルギー集中型軌道電磁砲)[[/footnote]]に接続されている。 ||
+//トレス:// 量子もつれリレーデバイス。H.E.C.O.R.[[footnote]](High Energy Concentration Orbital Railgun: 高エネルギー集中型軌道電磁砲)[[/footnote]]に接続されている。 ||
 
 -----
 
@@ -638,7 +639,7 @@ M45A1自動けん銃6丁および予備マガジン _
 
 **ウォーレン:** 直接？　そりゃちょっと変じゃないかい？
 
-**トレス:** もしそいつが心配性のVIPならば、考えうる話だ。一人の管理官が、専用の緊急避難路を確保している--　　--これは、奇妙でもなんでもない。
+**トレス:** もしそいつが心配性のVIPならば、考えうる話だ。1人の管理官が、専用の緊急避難路を確保している--　　--これは、奇妙でもなんでもない。
 
 **ラングフォード博士:** エレベーターが、ベリーマン博士のオフィスのすぐ近くにあります。それで行きたいところには大体行けるはずです。エレベーターが動かなくても、FCI生産施設は地下2階ですから、大した登山にはなりませんよ。お、来てくれましたね。
 
@@ -674,7 +675,7 @@ M45A1自動けん銃6丁および予備マガジン _
 
 **トレス:** こいつら、元は研究員か？　知っている顔はあるか、ラングフォード？
 
-ラングフォード博士が首を振った。ウォーレンは幹のうち一つに向かって、慎重に進む。
+ラングフォード博士が首を振った。ウォーレンは幹のうち1つに向かって、慎重に進む。
 
 **ウォーレン:** このガス……テラフォーミングでもしているのかな？
 
@@ -688,11 +689,11 @@ M45A1自動けん銃6丁および予備マガジン _
 
 **トレス:** ウォーレン、セバスチャン。そいつらをどうにかしろ。手早くやれよ。俺は念の為にサーバーを手動で切断する。もしかすると、まだ殺害エージェントを送信できる可能性があるかもしれない。ラングフォードとティフロはそのファイルを掘り返せ。見られるものは全部見ておけよ。それか……まあ、言ってることはわかるだろ。ティフロ。
 
-**ティフロ:** {{ぱわはらハヤメテクダサイ。}}
+**ティフロ:** {{イエ、オキニナサラズ。}}
 
 **トレス:** それとニクス。脱出経路は確保しておけ。
 
-ニクスは頷き、2本目のペグを取り出すと、菌糸に覆われていない床面に設置した。他の隊員たちも散開し、それぞれの作業に取り掛かる。幹の喉が切り裂かれるたびに苦痛のうめき声が響くほかは、静かな作業であった。セバスチャンが最後の一本を始末したとき、ラングフォード博士が声を上げた。
+ニクスは頷き、2本目のペグを取り出すと、菌糸に覆われていない床面に設置した。他の隊員たちも散開し、それぞれの作業に取り掛かる。幹の喉が切り裂かれるたびに苦痛のうめき声が響くほかは、静かな作業であった。セバスチャンが最後の1本を始末したとき、ラングフォード博士が声を上げた。
 
 **ラングフォード博士:** ちょっと、これ見てくださいよ。
 
@@ -704,7 +705,7 @@ M45A1自動けん銃6丁および予備マガジン _
 
 **ニクス:** 知ってるわ。この人は確かに財団関係者じゃない。例の動画を見たあと、ソーンダースの任務--　　--つまり、町の行方不明者捜索なんだけど--　　--について少し調べたの。この人はアーネスト・グラハム42歳。最初期の行方不明者のうちの1人ね。
 
-**トレス:** 次のDクラス移送は、一月だ。それまで待てなかったんだろうな。
+**トレス:** 次のDクラス移送は、1月だ。それまで待てなかったんだろうな。
 
 ラングフォードは顔をあげ、トレスを見た。
 
@@ -732,9 +733,9 @@ M45A1自動けん銃6丁および予備マガジン _
 
 **トレス:** 下からだな。ティフロ。
 
-**ティフロ:** {{判別ガ難シイデス。反響音ハ聞き取レマシタガ、ぼやケテイマス。ソレニ、形モ奇妙デス。オソラク単体デショウガ、大キイデス。}}
+**ティフロ:** {{判別ガ難シイデス。反響音ハアルニハアリマスガ、ぼやケテイマス。ソレニ、形モ奇妙デス。オソラク単体デショウガ、大キイデス。}}
 
-**ラングフォード博士:** 一体だけですか？　我々……つまりあなた方で、対処するんです？
+**ラングフォード博士:** 1体だけですか？　我々……つまりあなた方で、対処するんです？
 
 **セバスチャン:** そうだな。大きさはどれくらいだ？
 
@@ -746,7 +747,7 @@ M45A1自動けん銃6丁および予備マガジン _
 
 角を曲がった先の天井を、絡み合った細い触手の真紅の網が数メートルにわたって覆っている。それは部隊の接近に反応を示さない。隊員たちは慎重にその下を通り抜け、四辻の交差点に出た。
 
-左には、二重ロックのドアが長さに沿って点在する廊下が延びている。Dクラス独房だ。この地点の床は平坦だが、廊下の先で分岐しており、分岐したそれぞれの廊下も、さらに分岐している。軽度の錯視が生じており、中央の分岐部分を解釈することが困難である。いずれか一方の廊下群に視点を合わせると、それらは対向する分岐の廊下と空間的に重複していることがわかる。
+左方へと伸びる廊下には、Dクラス独房の二重ロック扉が点在していた。この地点の床は平坦だが、廊下の先で分岐しており、分岐したそれぞれの廊下も、さらに分岐している。軽度の錯視が生じており、中央の分岐部分を解釈することが困難である。いずれか一方の廊下群に視点を合わせると、それらは対向する分岐の廊下と空間的に重複していることがわかる。
 
 右には、廊下が5メートル先まで続き、重い鋼鉄製のドアで行き止まっている。標識によれば廃棄エリアである。赤いピクトグラムは「火災注意」を示している。火葬場だ。部隊は3つの経路を見比べる。
 
@@ -758,11 +759,11 @@ M45A1自動けん銃6丁および予備マガジン _
 
 **トレス:** 数分もすれば、SRAが空間を安定化してくれる。この間に廃棄エリアを探ろう。もしかすると、奴さんらが何かいいものを捨てているかもしれない。
 
-トレスに続いて、隊員が移動する。広報の様子が一瞬だけ画面に映った。真紅の網は消え去っている。
+トレスに続いて、隊員が移動する後方の様子が一瞬だけ画面に映った。真紅の網は消え去っている。
 
 火葬場へ通じる金属製のドアが、重い軋み音を上げながら内側へ開いた。室内には、病院用ストレッチャーが無造作に散乱している。その側面からは革製の拘束具が垂れ下がっていた。各ストレッチャーのヘッドレストと寝台は乾いた血で黒ずんでいる。血は脚部を伝い、床に固着している。血溜まりは自然にできたものではない--　　--それは床全体に、複雑な文様を描いて広がっていた。奥の炉では火が轟々と燃えている。
 
-左の壁面に据え付けられたカウンターには、多数の外科用器具が散乱している。刃の鈍った骨鋸が4本以上、青い液体の入ったガラス容器が数個。容器内の液体は、生物に由来する光沢を放っている。
+左の壁面に据え付けられたカウンターには、多数の外科用器具が散乱している。刃の鈍った骨鋸が4本以上、青い液体の入ったガラス容器が数個。容器内の液体は、生物的な光を放っている。
 
 **ウォーレン:** こりゃひどい。奴ら一体何を企んで--　　--
 
@@ -800,19 +801,19 @@ M45A1自動けん銃6丁および予備マガジン _
 
 **トレス:** どちらにせよ、財団はもうこいつらに用はない。本試験を中止する許可を出す。
 
-グッデン兄弟が素早く各容器のガラスを叩き割る。中の頭部の目が一瞬激しく動き回り、やがて静止する。最後の一つが砕かれると、廊下から甲高い警報音が響いてくる。
+グッデン兄弟が素早く各容器のガラスを叩き割る。中の頭部の目が一瞬激しく動き回り、やがて静止する。最後の1つが砕かれると、廊下から甲高い警報音が響いてくる。
 
 部隊は四辻へ駆け戻る。トレスが先頭だ。廃棄エリアを出た彼は腕を上げ、後続を急停止させた。目の前のSRAの筐体から、煙が噴き出している。その向こうの廊下--　　--先ほどまで規則的に分岐していた廊下は、今や絡み合う経路と不可能な分岐の万華鏡と化していた。SRAが大音量で、速く、甲高い警告音を鳴らしている。筐体が震え始める。チームの半数が叫び、悪態をつく。ウォーレンが装置へ駆け寄り、前面端末に素早く数字の列を打ち込む。
 
 警告音が止まる。装置上部から緑のライトが点灯する。SRAがシャットダウンし、静かなハム音が響く。前方の廊下は異常な状態のままだ。ウォーレンがチームの方を向き、大仰にお辞儀をする。彼は甲高い声を出す。
 
-**ウォーレン:** 「ワオ、ウォーリー！」「よくやった、ウォーリー！」「機転を効かせろ、ウォ--　　--」
+**ウォーレン:** 「ワオ、ウォーリー！」「よくやった、ウォーリー！」「流石の機転だ、ウォ--　　--」
 
 ウォーレンの真上の天井タイルが弾け飛ぶ。反応する間もない。静脈と毛細血管の塊が落下し、床に広がった。それはやがて人間らしき形をとり、立ち上がる。その渦巻く体から、触手の束が鞭打ち、ウォーレンを絡め取る。ラングフォード博士が硬直する。ニクスとティフロが銃を構えるが、誤射の危険性があった。ウォーレンが叫びながらもがく。
 
 セバスチャンがナイフを構えて突進する。同時に、トレスが拳銃で照準を合わせる。弾丸が実体に命中する。拘束が緩んだ。セバスチャンが飛び込み、側面の血管を切り裂く。
 
-平衡を崩した実体が、歪んだ廊下へ倒れ込む。ウォーレンを引きずったまま。両者が境界を超える。そして、廊下の向こうへと落ちていく。地面ではなく。重力すらも歪んでいた。
+バランスを崩した実体が、歪んだ廊下へ倒れ込む。ウォーレンを引きずったまま。両者が境界を超える。そして、廊下の向こうへと落ちていく。地面ではなく。重力すらも歪んでいた。
 
 [[div class="explo explo--threshold"]]
 
@@ -833,8 +834,6 @@ M45A1自動けん銃6丁および予備マガジン _
 **セバスチャン:** 大丈夫だからな！　//(うめく)//　捕まえた！　引き上げろ！
 
 彼はウォーレンを引き上げようとした。その時、実体が体を大きく広げた。血管が周囲の壁に食い込む。実体はウォーレンを離さない。その剛力で、セバスチャンは半メートルほど引き摺り込まれた。トレスも道連れになりそうだ。彼の半身が、境界を越える。
-
-**Torres:** Sunnuva bitch!
 
 **トレス:** こんちくしょう！
 
@@ -954,7 +953,7 @@ M45A1自動けん銃6丁および予備マガジン _
 
 彼らは力を合わせて、ウォーレンを安全地帯へと回収することに成功した。
 
-ウォーレンは過呼吸を起こしながら蹲った。そして覆面をとると、大量に嘔吐した。ニクスは消え入るように悪態をつきながら、現実錨の重要部品を分解し、それを一つずつ、やぶれた廊下へと捨てていく。
+ウォーレンは過呼吸を起こしながら蹲った。そして覆面をとると、大量に嘔吐した。ニクスは消え入るように悪態をつきながら、現実錨の重要部品を分解し、それを1つずつ、やぶれた廊下へと捨てていく。
 
 **ニクス:** こりゃダメだわ。キャプテン、奴らこんなのをサイト全体に仕掛けてるんじゃないの！
 
@@ -1019,7 +1018,7 @@ M45A1自動けん銃6丁および予備マガジン _
 床が滑らかなタイルから、ざらついた金属へと切り替わる。壁の白い塗装はもはや剥がれ落ちていて、コンクリートの灰色が剥き出しになっていた。床を叩くような音と、何者かの絶叫が大きくなっていく。怪物が部隊との距離を、ゆっくりと詰め始めている。ラングフォード博士は、隊列から遅れ始めていた。息も絶え絶えに、彼は振り向いてしまった。ひしゃげた手首から生える無数の手が、天井を、壁を、床を粉砕させんばかりの力で叩きつけている。ラングフォード博士はか細い悲鳴を漏らし、皆へ追いつこうと必死に前に駆ける。彼は再び、後ろを見てしまった。一つ一つの手の平から、まるで爆発でもしているかのように、新しい手が生まれ出て、その指の一本一本が、また新たな手となっていく。それらは、ラングフォード博士へと殺到する。
 
 [[div class="scp-image-block block-center" style="width: 100%"]]
-[[image http://scp-wiki.wikidot.com/local--files/scp-9001/abomination.webp]]
+[[image http://scp-jp-storage.wikidot.com/local--files/file:4294437-58-f91a/abomination.webp]]
 [[/div]]
 
 彼らの逃走を照らしているのは、今や剥き出しの電球だけだった。蛍光灯の光などという贅沢は、もはやここには届かない。迫り来る実体の引き起こす振動で、その一つ一つが振り子のように揺れている。実体が通るたびに、電球が順に爆散していく。それは、すぐそこまで来ている。
@@ -1030,7 +1029,7 @@ M45A1自動けん銃6丁および予備マガジン _
 
 あと数十センチで、隔壁が完全に閉じてしまう。しかしながら、ラングフォード博士は完全に呆けてしまっていた。ティフロが彼の襟首とベルトを掴み、閉まりゆく扉の向こうへ投げ飛ばす。扉が完全に閉鎖されるその瞬間、ティフロの体が宙に吊り上げられる。無数の指が、鉤爪が、杭となって彼女の体のありとあらゆるところに突き刺さり、食い込んでゆく。コンマ数秒で彼女の体は完全に引き裂かれる。臓物が宙を舞い、血の雨が降った。隔壁が、閉じる。
 
-隔壁の向こうから、凄まじい衝撃音が響く。一度とならず、何度でも。ラングフォード博士だけが、短い悲鳴をあげた。
+隔壁の向こうから、凄まじい衝撃音が響く。1度とならず、何度でも。ラングフォード博士だけが、短い悲鳴をあげた。
 
 部隊はようやく、息をつくことができた。部屋は冷え込み、吐く息が白い雲となっては消えていく。ウォーレンが、足元に倒れていたラングフォード博士を助け起こした。暗闇の中でも、ここが何かの控え室であることはわかる。天井の端から端まで、列をなして埋め込まれた非常灯が回転をはじめ、赤色の光が何度となく部屋の中を舐め回す。それが唯一の光源であった。そして、その光の照らす部屋の奥側で、2つ目の隔壁が、今、ゆっくりと開く--　　--
 
@@ -1114,7 +1113,7 @@ M45A1自動けん銃6丁および予備マガジン _
 
 扉が開いた。その先には、暗い空間が広がっていた。このドーム状の部屋は言わずもがな、建物全体よりも大きいとも思えるくらい、途方もなく広い空間だ。扉をくぐれば、直径およそ9メートルのプラットフォームが見えてくる。その中央の台座には、ガラスのキャニスターがぽつんと置かれていた。その周囲には、ただ虚無が広がっている。その虚無の中に、同じプラットフォームが無数に浮かんでいる。見上げても、見下ろしても、その虚無はどこまでも続いている。そして、プラットフォームは規則正しく配置されている。見える限り全ての方向に、果てしなく広がっていた。ラングフォード博士がそこに足を踏み入れようとしたものの、ニクスがそれを制した。
 
-トレスがサイドアームを抜いた。その照準をキャニスターに合わせた瞬間、辺り一体から声が響いた。
+トレスがサイドアームを抜いた。その照準をキャニスターに合わせた瞬間、辺り一帯から声が響いた。
 
 [[div class="berryman"]]
 [[span]]ああ、我が親愛なるラングフォード博士。やっと戻ってきたのね。[[/span]]
@@ -1164,7 +1163,7 @@ M45A1自動けん銃6丁および予備マガジン _
 
 ベリーマン博士が髪をかきあげ、耳にかけた。
 
-**ベリーマン博士:** あら残念。でもいつかは来てくれるんじゃないかって思ってたのよ。それで、どうして今になってここに来ようと思ったわけ？Berryman's dress.//
+**ベリーマン博士:** あら残念。でもいつかは来てくれるんじゃないかって思ってたのよ。それで、どうして今になってここに来ようと思ったわけ？
 
 ラングフォード博士は周囲を指し示す。だがベリーマン博士のドレス以外に、異常なフラクタルは観察できない。
 
@@ -1210,7 +1209,7 @@ M45A1自動けん銃6丁および予備マガジン _
 
 **ラングフォード博士:** ここまでという境界線を引くしかありませんでした。これ以上死人を出さないようにする好機だと思って、ぼくは--　　--
 
-**ベリーマン博士:** 本当にごめんなさい、ロバート。あなたともっとちゃんとお話をして、あなたをもっと大事にするべきだったわ。あなたがいなくなった後、あなたが秘密裏に進めていたものがようやく私のところに戻ってきたと、私が自分でこれを完成させるんだと、そう思ったの。そこから十年ほど、取れる手は全部取ったわ。
+**ベリーマン博士:** 本当にごめんなさい、ロバート。あなたともっとちゃんとお話をして、あなたをもっと大事にするべきだったわ。あなたがいなくなった後、あなたが秘密裏に進めていたものがようやく私のところに戻ってきたと、私が自分でこれを完成させるんだと、そう思ったの。そこから10年ほど、取れる手は全部取ったわ。
 
 **ラングフォード博士:** でも完成しなかった。そうでしょう？　アルゴリズムの中で見つかった、ただひとつのデータポイントじゃ、あなたは満足しません。それを再生産するには、フラクタル方程式が要ります。
 
@@ -1230,11 +1229,11 @@ M45A1自動けん銃6丁および予備マガジン _
 
 ベリーマン博士は、手で顔を覆った。
 
-**ベリーマン博士:** 全ての異常には仕組みがあるはずだと、今も確信してる。ただ、世の中には例外というものがあるのね。あまりに複雑で、選ばれた人にしか理解できないもの。訓練も、知識も、それだけでは足りない。生まれ持った洞察力が必要なものが。経験の非普遍性こそが普遍的なものだとしたら、あなたには私に見えないものが見えている。散々努力した挙句、私は結局現実を受け入れるしかなくなってしまったの。あなたの代わりはいない。私ではダメだったの。どんなチームを君でも、あなた1人には叶わなかった。結局のところ……あなたに頼るしかないのよ。
+**ベリーマン博士:** 全ての異常には仕組みがあるはずだと、今も確信してる。ただ、世の中には例外というものがあるのね。あまりに複雑で、選ばれた人にしか理解できないもの。訓練も、知識も、それだけでは足りない。生まれ持った洞察力が必要なものが。経験の非普遍性こそが普遍的なものだとしたら、あなたには私に見えないものが見えている。散々努力した挙句、私は結局現実を受け入れるしかなくなってしまったの。あなたの代わりはいない。私ではダメだったの。どんなチームを組んでも、あなた1人には叶わなかった。結局のところ……あなたに頼るしかないのよ。
 
 **ラングフォード博士:** 今度はぼくがあなたの助けになると、どうしてそう思うのです？
 
-ベリーマン博士は熱湯を2つのカップへと注いだ。片方はキャドバリー・チョコを溶かし入れて、コーヒーフレッシュを半分だけ入れたコーヒー。もう片方はレモンを絞り、ハチミツをたっぷり垂らしたアール・グレイ。彼女はそれを持ってラングフォード博士のもとへ歩み寄ると、彼にティーカップとソーサーを手渡す。すぐ横のデスクへベリーマン博士が腰をかけて、コーヒーカップを両手で包みこんだ。彼女はその中を覗き込んで、ため息をついた。
+ベリーマン博士は熱湯を2つのカップへと注いだ。片方はキャドバリー・チョコを溶かし入れて、コーヒーフレッシュを半分だけ入れたコーヒー。もう片方はレモンを絞り、ハチミツをたっぷり垂らしたアール・グレイ。彼女はそれを持ってラングフォード博士のもとへ歩み寄ると、彼にティーカップとソーサーを手渡す。それから、すぐ横のデスクへ腰かけて、コーヒーカップを両手で包みこんだ。彼女はその中を覗き込んで、ため息をついた。
 
 **ベリーマン博士:** 悪い思い出ばかりじゃなかったでしょ、ロバート。
 
@@ -1318,7 +1317,7 @@ z_{n+1} = z_n - \eta\frac{f(z_n)}{f'(z_n)} + c
 
 銃声。ガラスの割れる音。ベリーマンの螺旋はバチンと音を立てながら消失した。けたたましい金切り音とともに、ラングフォード博士が地面に落ちる。彼は這いながらペルセウス室から遠ざかる。
 
-ペルセウス対象を納めていたキャニスターは砕かれた。対象の頭部には、血の滲む穴が開いている。振り返ると、ラングフォード博士の目に映ったのは、地面に手をついているトレスの姿であった。彼は血まみれの手を震わせながら、ウォーレンの拳銃を取り落とした。銃が地面に落ちたその瞬間、トレスの体が勢いよく宙に引き上げられた。一瞬で、何の抵抗もできずに、彼は真っ二つに切断された。上半身と下半身が泣き別れになって、ドサリと地面に落ちた。腹部から血があふれる中、彼は胸ポケットから細長い装置を取り出す。彼は手を震わせながら、蓋を開き、露出したボタンを押した。やがて腕が力なく垂れ下がり、トレスは動かなくなった。
+ペルセウス対象を納めていたキャニスターは砕かれた。対象の頭部には、血の滲む穴が開いている。振り返ると、ラングフォード博士の目に映ったのは、地面に手をついているトレスの姿であった。彼は血まみれの手を震わせながら、ウォーレンの拳銃を取り落とした。銃が地面に落ちたその瞬間、トレスの体が勢いよく宙に引き上げられた。一瞬で、何の抵抗もできずに、彼は真っ2つに切断された。上半身と下半身が泣き別れになって、ドサリと地面に落ちた。腹部から血があふれる中、彼は胸ポケットから細長い装置を取り出す。彼は手を震わせながら、蓋を開き、露出したボタンを押した。やがて腕が力なく垂れ下がり、トレスは動かなくなった。
 
 ベリーマンの声は甲高く、より大きくなっていく。その中に怒りが滲み出る。ペルセウス室の中に螺旋が再び現れる。部屋中のガラスキャニスターが震え、壁龕から引きずり出されてゆく。何かの力が、ラングフォード博士に有無を言わせることなく彼を部屋の中へと引きずり込んだ。書類の切れ端や小物が次から次へ飛び交う中、彼はかろうじて扉の敷居に捕まった。
 
@@ -1332,7 +1331,7 @@ z_{n+1} = z_n - \eta\frac{f(z_n)}{f'(z_n)} + c
 [[span]]大舞台に出るんでしょ。そうしたいと言ったのはあなたよね。[[/span]]
 [[/div]]
 
-風が強まる。指が滑る。一秒。ラングフォード博士は仰ぎ見た。敷居をまたいでしまう。彼の左手が、外れる。
+風が強まる。指が滑る。1秒。ラングフォード博士は仰ぎ見た。敷居をまたいでしまう。彼の左手が、外れる。
 
 [[div class="berryman berryman--angrier"]]
 [[span]]これが、あなたの、チャンスなのよ。[[/span]]
@@ -1344,180 +1343,207 @@ z_{n+1} = z_n - \eta\frac{f(z_n)}{f'(z_n)} + c
 
 コードを引く。現実錨が起動する。ラングフォード博士は地面に強く打ち付けられた。風が止む。ベリーマン螺旋は苦痛に悶えた。
 
-//Looking into the chamber, the interior space is seen to glisten and ripple. The far-distant copies of the interior begin to fall away into darkness as the space collapses within itself. The Berryman spiral is seen to twirl violently, losing complexity, taking on physical form.//
+室内を覗き込めば、内部空間がきらめき、波打っていることがわかる。遠方に見える無数の部屋が、次々と暗闇へ落ちていく。空間自体が、圧壊している。ベリーマン螺旋が激しく回転し、複雑性を失い、物理的な形を取り始める。
 
-//The facility quakes with a mighty rumble as Berryman manifests in three-dimensional space. Her body is contorted, sporting numerous, branching limbs. Her faces are contorted in pain. There comes a series of sickening squelches as Berryman's limbs, in turn, crunch and snap and flatten, beginning at their terminus and working towards her torso. Her many mouths wail as her heads, too, bind together into a single layer.//
+轟音とともに、施設が激しく揺れた。ベリーマンが3次元空間に姿を現す。その歪んだ体から、無数の腕が枝分かれしながら伸び、またいくつもの顔が苦痛に歪んでいる。何かの潰れる、水っぽい不快な音がした。彼女の腕は末端から順に潰れていき、折れ、平らになっていく。じきに胴体も潰れていった。複数の頭部も、平面の中へと押し込まれていく。無数の口が悲鳴を上げている。
 
-//Nix and Warren arrive at a stunned Langford's side. The three stare on as the Perseus chamber regains its walls, aligning with its natural state. Berryman's body is splayed against the interior wall as if superimposed as a 2d image. She continues to scream as all parts of her body at once are drawn to a singular point in their middle. She is rendered a single, shrieking point. With a {{pop}}, the point vanishes into non-existence. Her wailing does not cease.[[footnote]]Review of this footage would verify that despite a supposed continuation of Dr. Berryman's sustained vocalization, said vocalization does not in actuality exist. Dr. Berryman, at this point in time, does not verifiably exist.[[/footnote]]//
+呆然とするラングフォードの元にニクスとウォーレンが駆け寄った。3人は、ペルセウス室が通常の部屋に戻っていく。ベリーマンの身体が、まるで2次元の画像か何かのように、その内壁に張り付いていた。彼女は叫び続けている。その体のすべてが中央の一点へと引き寄せられていく。やがて彼女はただの点になった。ポン、という音とともにそれが消えてもなお、叫び声は止まらなかった。[[footnote]]この映像の検証段階においては、ベリーマン博士の持続的な発声が継続しているとされるにも関わらず、実際にはそのような発声は存在していないことが確認される。この時点において、ベリーマン博士は存在していない。[[/footnote]]
 
-//The area continues to quake and tremble.//
+この領域は、振動し続けている。
 
-**Nix:** Langford -- turn away. We've got to get out, now -- Torres called in the strike! We've got two minutes until this place is hot plasma!
+**ニクス:** こっちだラングフォード。早く逃げるよ。トレスが爆撃を要請した。あと2分でここは火の海だ！
 
-//Dr. Langford nods, and the trio rushes out towards the SCP-9001 production center. They rapidly scramble over Coleman's remains, and head into the antechamber where Nix had set down a Piton. There is a **{{beep}}** as they approach, and the space above the device crackles with energy. One by one, they pass through.//
+ラングフォード博士はうなずいた。3人はSCP-9001生成センターへと急ぐ。コールマンの死体を乗り越え、控え室へと向かう。ニクスによって、あらかじめペグが設置されている部屋だ。控えめなブザーの音が鳴った。マーテル式ペグを挟んだ向こう側の空間が、何かのエネルギーによってゆがめられた。1人ずつ、そこを抜けていく。
+
 **{{zip}}**
 [[/div]]
 
-//Nix, Warren, and Dr. Langford each appear in turn in the space just before the crematorium. The long hallway before them is filled to capacity by the massive frame of the abomination. Fresh heads flower from the mouths of its many faces as they take notice of the team's arrival.//
+ニクス、ウォーレン、そしてラングフォード博士は、火葬場の目の前に出た。すぐそばの長い廊下を、悍ましいものが埋めていた。夥しい数の頭、そのそれぞれの口からまた頭が生えている。それが、3名の到着に気づいた。
+
 **{{zip}}**
 [[/div]]
 
-//The three are back within the fog-laden server room. Fleshy strands of mycelium extend from the remains of the withered trunks, whipping senselessly all about the area. A single instance across the room slowly rears back up. Its orifice widens, bulb swelling.//
+霧中のサーバールームへと戻る。枯れ果てた幹から伸びる菌糸じみた糸が、至る所で無為に垂れ下がっていた。部屋の向こう側、幹のうち1本が背を向けたまま立ち上がった。その開口部が広がり、球根が膨らむ。
+
 **{{zip}}**
 [[/div]]
 
-//They've reappeared back at the tram platform where the video had begun, far outside the bounds of Site Romero-5. Distant tremors cause more cracks to form along the chamber's facade. Without a word, they make a break for the stairs.//
+そして、3名はサイト・ロメロ-5の遙か外側、トラム駅へとたどり着いた。動画の開始地点と同じ場所だ。遠く離れたところから地鳴りが伝わってきて、壁面にヒビが入っていく。特に言葉を交わすことなく、3名は階段へと向かった。
 
-//Emerging through the tunnel that obscures the tram's entrance, Dr. Langford collapses. The sky is alight with fire as the woods all about Site Romero-5 burn in the night. There is a flash across the sky. Streaks of light descend from the air -- the shockwave hits them next, arriving with a deafening **{{boom}}** as a heavy cloud of dust and wind sweeps the area, knocking all to the ground with its force.//
+トラムの入り口を隠していたトンネルから出るや否や、ラングフォード博士が倒れ込んだ。夜空が炎に照らされている。サイト・ロメロ-5周囲の森林がもえあがっているのだ。空に閃光が走る。光の筋が空から落ちてくる。そのとき、衝撃波がかれらを襲った。耳を聾するほどの爆音とともに、濃い砂塵嵐が一帯を覆った。全員が地面に倒れ伏した。
 
-//The trio watch on as the shadowy towers of the distant site are seen to crumble into the earth. It is Warren who speaks up first.//
+遠くで霞むサイトの塔が崩れて地に落ちる。3名がそれを見ているさなか、ウォーレンが沈黙を破った。
 
-**Warren:** "Get real"?
+**ウォーレン:** 「食らえ、これが現実だ」、ねえ？
 
-**Dr. Langford:** I... I thought it was clever.
+**ラングフォード博士:** その……なんか言わなきゃって思って……。
 
-//The three share a laugh as the approaching sound of wheels draws near.//
+3人が笑い合うなか、タイヤの音が近づいてくる。
 
 [[/div]]
 [[/div]] [!-- .explo-root --]
 
-The surviving members of the task force were picked up by an MTF Iota-10 patrol and returned to FOB Panloque. Following a delivery of footage and recovered assets, including the extracted SCP-9001, the three were debriefed and allowed rest.
+当該機動部隊の生存者は機動部隊イオタ-10の巡回隊によって回収され、前線基地パンロケへ帰還しました。施設より抽出されたSCP-9001を含む回収された各種資産と映像記録の提出後、3名は事情聴取を受け、休養を許可されました。
 
-[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/scp-9001/planethand.webp|caption=The fissure containing the remains of SCP-9001-A|width=300px]]
+[[include component:image-block name=http://scp-jp-storage.wikidot.com/local--files/file:4294437-61-ghkm/planethand.webp|caption=SCP-9001-A残骸を含む地割れ|width=300px]]
 
-Due to the combination of sustained orbital bombardment and seismic activity caused by the collapse of unstable spacetime in the site's subterranean sectors, Site Romero-5 would collapse into the earth, forming a massive fissure. MTF [[span class="hoverlink"]][[[task-forces#gamma-5|Gamma-5]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]Gamma-5 ("Red Herrings")[[/span]][[span class="hoverlink-text"]]Specialists in disinformation tactics and amnestic dispersal dedicated to preventing mass knowledge of anomalous events.[[/span]][[span class="hoverlink-image" style="--src: url(https://scp-wiki.wdfiles.com/local--resized-images/task-forces/Gamma5.png/small.jpg)"]]-[[/span]][[/span]][[/span]] was tasked with manufacturing a verifiable history and public record of the fissure, including the retroactive forging of geological, stratifical, and archeological studies that were each seeded with Third Order FCI designed to compel disinterest.
+継続した軌道爆撃、およびサイト地下セクターにおける不安定時空による地震により、サイト・ロメロ-5はほどなく倒壊し、巨大な地割れを形成しました。機動部隊[[span class="hoverlink"]][[[task-forces#gamma-5|ガンマ-5]]]^^ⓘ^^[[span class="hoverlink-card"]][[span class="hoverlink-title"]]ガンマ-5("燻製ニシンの虚偽")[[/span]][[span class="hoverlink-text"]]異常な事象が周知されることを防ぐための、誤情報拡散および記憶処理実施におけるスペシャリスト集団。[[/span]][[span class="hoverlink-image" style="--src: url(http://scp-jp.wdfiles.com/local--resized-images/task-forces/Gamma5b.png/small.jpg)"]]-[[/span]][[/span]][[/span]]は、この地割れに関する検証可能な歴史と公的記録のねつ造を任務として割り当てられました。これには、地質学、地層学、考古学的研究の遡及的偽造も含まれており、それらの研究には、それぞれ無関心を強制するよう設計された第3級FCIが仕込まれています。
 
-Hume readings of the area would return to baseline over the course of 48 hours. Cleanup measures would begin in earnest on 2025/08/13 under the direction of Doctor Leary.
+48時間の経過後、当該地域のヒューム値は標準値へ戻りました。事後処理は2025/08/13より、レーリー博士の指示の下で実施されます。
 
-**Addendum - Recovered Documentation:**
+**補遺 - 回収された文書:**
 
-During exploration of SCP-9001-A, the Task Force would acquire reams of research data and logs, including topographical analysis of the BL set which indicates regions of high-activity and delineating "dead" regions, shipping manifests outlining the transfer of D-Class personnel between 2019-2025, and handwritten notes authored by Dr. Ava Berryman. These have been transcribed and are reproduced below.
+SCP-9001-Aの探索中、機動部隊は大量の研究データとログを回収しました。これには高活性領域と失活領域のを示すベリーマン=ラングフォード集合のトポロジカル分析、2019年から2025年にかけてのDクラス職員移送を概説した輸送記録、およびエイヴァ・ベリーマン博士による手書きメモが含まれます。これらは転写され、以下に記録されています。
 
 [[div class="blockquote"]]
-//[NOTE:] This page is torn and the top half is missing.//
 
-//[...]// obviously insufficient. I'm not going to be able to keep up with demand if my Berries keep rotting on the vine. The solution helps, but all it does is keep them alive. Immortality is of no use if their minds are flayed and atrophied. Whatever effects the active regions instill -- they're not simply wiped away by rebirth. The research is no good if I don't have a fresh supply.
+[補足:] このページは破られており、上半分の行方はわかっていない。
 
-Worse-still, we may need to flush our oldest subjects. Peculiar habit of moving their lips whenever someone is present in the facility. Starting to get under people's skin. It's childish, really. A bit asinine. These are grown men and women who can spend eight hours a day, six days a week beside a bank of severed human heads, but they're spooked by involuntary muscle movement?
+[……]は明らかに不足している。もし蔓に生っている「苺」がこれ以上爛熟するのであれば、需要に応えることはできなくなってしまう。例の溶液は確かによく効いている。だが、それはせいぜい被験体の生命維持くらいにしか役に立ってはくれない。精神に強い負担がかかって崩壊してしまっているならば、不死など無用の長物に過ぎない。認識災害を受けたことによる影響は、たとえ一度死んで復活したとしても幾らかは残り続ける。新鮮な供給がなければ、研究を進めることができない。
 
-At least Perseus continues to bear fruit. Its eyes have glazed over like some of the old-timers, but it continues to be receptive to fresh FCI. All these years and its mind resists deterioration. Not that its mind will be of much use if it's blinded. Frustrating to think of what could be accomplished were we able to have even a second Bender. Alas.
+さらに悪いことに、最古参の被験体をいくらか処分する必要がありそうだ。施設に誰かがいるとき、それらはいつも唇を動かすという、奇妙な癖を身につけてしまった。職員たちも苛立ち始めている。実に幼稚で、馬鹿らしいとさえいえる。職員各位は1日8時間、週6日、人の生首の側で過ごすことができる成人男女なのだ。それが不随意な筋肉の運動に怯えるとは。
 
-I feel a migraine coming on.
+少なくとも、ペルセウスは成果を出し続けている。古参被験体と同じく目は虚ろになっているが、新しいFCIに対する反応は維持している。これほど長年にわたって精神の劣化に抵抗し続けているとは驚きだ。もっとも、目が見えなくなってしまえば、その精神もあまり役には立たないだろうが。もう1体でも現実改変者がいれば何かできたかと思うと、実にもどかしく思えてくる。
+
+頭痛がする。
+
 [[/div]]
 
 [[div class="blockquote"]]
-Commotion today. Units B-17, H-47, and K-43 showed unusual fMRI readouts. Beckett, fool that he is, suggested that we might have stumbled on a new First Order, stupidly forgetting that K-batch is our control group and is explicitly only exposed to dead regions. I'll never understand how he made it this far in life.
 
-I had them taken down and shipped off to bio for testing. Results came back by early evening: PET scans revealed TDP-43 aggregates -- heavy protein folding. The readings were skewed because their minds were systematically being reshaped. Decided to reinstate B-17 and monitor the situation. H-47 and K-43 have been placed in cold storage.
+今日は騒動があった。ユニットB-17、H-47、K-43が異常なfMRI値を示したのだ。愚か者のベケットは、我々が新たな第1級FCIを発見したのかもしれないと示唆した。K群は対照群であり、明確に失活領域のみに曝露されているという事実を間抜けにも忘れていたのだ。あの男がどうやってここまで生き延びてこられたのか、私には理解できない。
 
-No correlation between the BL regions they'd been exposed to over the last year. No clear demographical similarities between subjects.
+私はそれらを検出プロセスから外し、検査のため生物学部門に送らせた。夕方早くに結果が戻ってきた。PETスキャンでTDP-43凝集体が確認された。重度のタンパク質折り畳み異常だ。彼らの精神が体系的に再形成されていたため、測定値が歪んだものと思われる。B-17の復帰を決定し、状況を監視することにした。H-47とK-43は冷凍保存に回した。
 
-And as this day is only getting better, I noted physiological changes with Perseus. Vortex veins in the scelera have seemingly become more pronounced. Brain-state nominal, for now, but I might have to beg O5-8 for a replacement soon.
+この変異と、過去1年間に曝露されたベリーマン=ラングフォード領域との相関関係は見られない。被験体間に明確な人口統計学的類似点もない。
+
+さらに、ペルセウスに生理学的変化が確認された。強膜の渦静脈がより顕著になっているように見える。脳の状態は今のところ良好だが、間もなくO5-8に代替品を要請する必要があるかもしれない。実に儘ならぬ1日だ。
+
 [[/div]]
 
 [[div class="blockquote"]]
-Seven more Berries displaying the same protein folding.
 
-Perseus' situation continues to devolve. A vein in the right sclera has seemingly distended, breaching the iris of the right eye. Between recent mishaps and the state of our star pupil, migraines have started getting worse. Constant ringing in my ears.
+さらに7つの「苺」が同様のタンパク質折り畳み異常を示した。
+
+ペルセウスの状況は悪化の一途を辿っている。右眼球の強膜血管が膨張し、虹彩を侵食しているように見える。最近は悪運続きで、我らが優等生の状態も悪い。偏頭痛がひどくなってきた。耳鳴りも止まらない。
+
 [[/div]]
 
 [[div class="blockquote"]]
-New shipment today, so we're finally back at full capacity. No time to celebrate this, though.
 
-Beckett collapsed. Happened right in front of me as I exited Perseus' cell. He'd been across the room helping to install replacement subjects when he suddenly went down. Idiot likely caught a glimpse of one of the Kempelen screens. Shame it wasn't First Order.
+配送があった。やっとフルスペックで稼働ができる。これをお祝いできるほどの時間はないけれど。
 
-Coleman insists Beckett simply hasn't gotten much sleep lately. Few on the team have. There's this shrill sound audible in the production center and Kempelen facility. We've not identified the source, but it'd explain the tinnitus, at least.
+私がペルセウスの部屋から出てきたとき、私の目の前でベケットが倒れた。彼は部屋の向こう側で交代要員の設置を手伝っていたときに、突然崩れ落ちたのだ。愚かなことに、彼はケンペレン・スクリーンの1つを直視してしまったに違いない。第1級を見ていれば良かったのに。
+
+コールマン曰く、ベケットは睡眠不足だそうだ。実際、チームのほとんどが睡眠不足だ。生成センターとケンペレン施設で、何か甲高い音が聞こえるようになった。音の原因こそわからないが、この音が耳鳴りを起こしているとすれば、最低限説明はつく。
+
 [[/div]]
 
 [[div class="blockquote"]]
-Hyperoxia -- oxygen intoxication. Beckett is stable in medical right now, but it appears that his body is taking in an excessive amount of oxygen. Had Parsons run an CT and sure enough, his pulmonary vasculature seems to have nearly-doubled in complexity.
 
-It's clear now. The affected Kempelen subjects were situated within line-of-sight of Perseus' cell door. Checked to make sure the SRA array is still functioning, and everything comes up clear. Whatever's happening, it's not reality-bending. Not exactly. Even if Perseus wasn't kept in check with SRAs, he wasn't a particularly strong bender in life -- he couldn't so much as will his shoes tied together.
+ベケットは高酸素症、つまり酸素中毒らしい。彼の体は医務室で安定しているが、体が過剰な酸素を取り込んでいるようだ。パーソンズにCT検査を実施させたところ、案の定、彼の肺血管系の複雑さがほぼ倍になっていた。
 
-I'm going to need to get tested myself.
+これですべてが明らかになった。影響を受けたケンペレン被験体たちは、ペルセウスの部屋のドアが見える位置にいた。SRAアレイがまだ機能しているかを確認したところ、それらはすべて正常であった。何が起きているにせよ、正確に言えば、これは現実改変ではない。たとえペルセウスがSRAで抑制されていなかったとしても、彼にこんなことができるとも思えない。彼は生前それほど強力な改変者ではない--　　--現実改変で靴紐を結ぶことすらままならないほどなのだから。
+
+私自身も検査を受ける必要がある。
 [[/div]]
 
 [[div class="blockquote"]]
-By all rights, I should be dead.
 
-Myself and near everyone who'd been in the Kempelen facility over the last several weeks. I've got it worst of the bunch -- my bean is damn-near the shape of a pretzel. Despite this, I feel fine. Ran a battery of cognitive assessments. All clear. "The very picture of perfect mental health" -- Parsons was always bit of a kissass, but I'll take whatever reassurance I can.
+どうして私がまだ生きているのか、これがわからない。
 
-In other news, Beckett's up and running, quite literally, with a fervent energy the layabout's not displayed before. As if his body's simply adjusted to the excess oxygen intake. Even had a bright idea, for once. On his suggestion, we fed some recently-discovered Second Orders through B-17's monitor. No effect. So we tried a First Order.
+この数週間ケンペレン施設にいた私を含めたほぼ全員は、どうしてまだ生きていられるのだろうか。その中で私が一番ひどい状態だ。脳などほとんどプレッツェルの形になっている。それにも関わらず、体調は良好だ。認知機能検査を一通り実施したが、全て正常。「お手本のように完璧な精神状態」とは、パーソンズの言葉だ。良いお世辞だ。そんな言葉も、今となってはありがたい。
 
-Nothing. It's become immune.
+他の変化もある。ベケットが文字通りに走り回っているのだ。あの怠け者が、今まで見たことのないほど熱心に働いている。まるで身体が過剰な酸素摂取に適応したかのようだ。珍しく良いアイデアまで出した。彼の提案で、最近発見した第2級をいくらかB-17のモニターに流してみた。効果なし。そこで第1級も試してみた。
+
+何も起きない。免疫を獲得したのだ。
 [[/div]]
 
 [[div class="blockquote"]]
-Almost a decade of dead ends, of painstaking trial-and-error, of pathetic, minuscule baby-steps; all washed away in a matter of weeks.
 
-About a third of our Berries have been affected by Perseus. Of them, not a one has shown any susceptibility to FCIs of any order. The staff, too, can now safely look at SCP-9001 readouts. It goes beyond mere immunity though. The affected staff can now directly identify active regions when traversing generations of the fractal plane! Over one-hundred First-Orders located within an hour, as well as matching inoculant-zones. It feels so natural. Like scanning the beach with a metal detector. One only has to listen closely. The swirls and lines call out. The shapes are practically screaming.
+ほぼ10年間の行き詰まり、骨の折れる試行錯誤、哀れで微々たる歩み、それら全てが数週間で洗い流された。
 
-Gone away are the brute-force methods of the past, Perseus has given us the keys to true progress: on-demand FCI production. And if that's not enough, Perseus delivers on a second front: I tested some of the older CCIs we have on-file; across the board, they've shown zero effect on my staff.
+我らが「苺」の3分の1がペルセウスの影響を受けた。そのうち1つとして、いかなる等級のFCIにも感受性を示すものはない。職員も同様で、今やSCP-9001の出力を安全に視認できるようになっている。しかしそれは単なる免疫を超えていて、影響を受けている職員は、生成されたフラクタル平面を巡っているときに、活性領域を直接特定できるようになったのだ。1時間もしないで100を超える第1級が発見され、それぞれに対応する免疫領域も特定された。実に自然なことだ。金属探知機でビーチを探索していることと、よく似ている。ただ注意深く聞けば良いだけのことだったのだ。渦と線が呼びかけている。形が本当に叫んでいるのだ。
 
-The implications for wider Foundation use is staggering! With a moment's exposure, agents can be granted immunity to cognitohazardous influence. This is lives saved -- in the field, in containment, in research and study -- Perseus is going to change the way we operate.
+過去の力任せな手法は去った。ペルセウスは我々に真の進歩への鍵を与えてくれた。オンデマンドでのFCI生産である。それだけでは不十分とでも言うように、ペルセウスは第二戦線でも成果を上げている。保存されている古いCCIをいくつか職員にテストしたが、効果が一切見られなかった。
 
-To think I'd be the architect behind not one but two Thaumiel-class anomalies. Decided to shut down Perseus' SRA array. Wasted power. Without their constant humming, it's much easier to hear the pattern.
+財団全体に対する応用の可能性が、かなり広がった。現場においても、収容においても、研究と調査においても、一瞬の曝露で、エージェントに認識災害の影響への免疫を付与できる。これは命を救うということだ。ペルセウスは我々の活動方法を変えるだろう。
 
-The only bad news is even this incredible development //still// doesn't solve Project NIETZSCHE. No matter -- we must be close now.
+1人でタウミエル級の異常を2つも設計することになるとは思わなかった。ペルセウスのSRAアレイを停止することにした。あの際限のない唸りさえなければ、形を聞き取るのがずっと楽になる。
+
+唯一の悪い知らせは、この信じ難い発展をもってしても、NIETZSCHE計画の解決にはまだ至らないということだ。構わない。もう間近のはずだ。
+
 [[/div]]
 
 [[div class="blockquote"]]
-I've started cycling in some of our Level 2 and 3 staff into the Kempelen facility. Physical mutations. Three of my Level-5's have developed polydactyly. The fingers are fully-functional, and none have reported any pain, but it may be best to start limiting exposure. We're not quite prepared to publish our findings to Eight just yet --it would only take one word to shut us down entirely.
 
-Or... would Eight's words even affect us? What is Perseus //actually// doing?
+レベル2とレベル3の職員をケンペレン施設にローテーションで配置し始めた。身体変異が起きている。レベル5職員のうち3名が多指症を発症した。指は完全に機能しており、痛みを訴える者もいないが、曝露を制限し始めた方がよいかもしれない。我々の発見をO5-8に発表する準備はまだ整っていない。結局のところ、あれは一言発するだけでこのすべてを停止できてしまうのだから。
+
+だが、本当に停止できるのだろうか？　ペルセウスがやっていることの本質とは、何だ？
+
 [[/div]]
 
 [[div class="blockquote"]]
-The sound is omnipresent. Not just within the fractal plane, but in the walls, in the eyes of my staff. In my dreams. It calls. The Prima Materia. The Unus Mundus. The very bottom of everything. It's getting hard looking at certain surfaces -- the walls, countertops, the ordered lines on reams of paper.
 
-Staring into the depths of the fractal plane is the only thing that alleviates the headaches. Figure we should leave Perseus' door open. The site could go for some remodeling.
+音が遍在している。フラクタル平面の中だけでなく、壁の中に、職員たちの目の中に。私の夢の中にも。それは呼んでいる。第一質料を。ひとつの世界を。あらゆるものの根源を。壁、作業台、紙束に印刷された整然とした線--　　--特定の表面を認識するのが困難になってきた。
 
-90% of the Berries now display protein-folding. Running out of subjects to verify my team's findings. Cannot afford to reach out, not yet. Too soon since last D-class shipment.
+フラクタル平面の深淵を見つめることだけが頭痛を和らげる。ペルセウスの扉は開けっ放しにしておくべきだろう。サイトには改装が必要だ。
 
-There has to be another way we can source fresh subjects.
+「苺」の90%が現在タンパク質折り畳み異常を示している。チームの発見を検証する被験体が不足している。まだ外部に働きかけるわけにはいかない。前回のDクラス輸送から日が浅すぎる。
+
+新鮮な被験体を調達するための、別の方法があるはずだ。
+
 [[/div]]
 
 [[div class="blockquote"]]
-Mutations progress. To our benefit. Coleman has taken on the work of five people. Runs the production facility himself. Others off Berry-picking.
 
-Parsons found Beckett in Data Storage. Seems he found a good use for himself.
+我々にとって有益な方向に、変異が進行している。コールマンは5人分の仕事をこなすようになった。生産施設を1人で運営している。他の者たちは苺摘みに出ている。
+
+パーソンズがデータストレージでベケットを発見した。自分なりに有効活用法を見つけたらしい。
+
 [[/div]]
 
 [[div class="blockquote"]]
-Starting to get the hang of it. Expose them in doses, careful not to water them too much. Prune a bit off here and there when limbs begin to grow unruly. Pity they need me so. That they'd grow wild if left to their own devices.
 
-I always did have a green thumb. I'm even better with twelve.
+コツを掴み始めている。適量ずつ曝露させ、水をやりすぎないよう注意している。手足が手に負えなくなり始めたら、あちこち少しずつ剪定する。彼らがこれほど私を必要とするとは哀れなことだ。放っておけば野生化してしまうのだから。
+
+私はもともと園芸が得意だった。12本の指があれば、さらに上手になる。
+
 [[/div]]
 
 [[div class="blockquote"]]
-One of our new subjects chanced an escape. He wasn't able to get far.
 
-Lost in the halls. Running in circles. Couldn't navigate the space.
+新しい被験体の1人が偶然逃走した。しかし遠くまでは行けなかった。
 
-Not like we can.
+彼は廊下で迷っていた。同じ場所をぐるぐる回っている。空間を把握できないのだ。
 
-He can be made to listen, though. Hear how we hear. Beckett could use some company.
+我々のようにはいかないのだ。
+
+だが彼も聞けるようにできる。我々が聞くように聞けるようにできる。ベケットにも仲間が必要だろう。
+
 [[/div]]
 
 [[div class="blockquote"]]
-Calls coming in now from Site-01. Hard to hear over the sing, sing, singing. Its sound merely joined the chorus. The harmonious tune. It's hard not to sing along with the others.
 
-Harder yet not to scream.
+サイト-01から連絡が入っている。歌声、歌声、歌声に遮られて聞き取りにくい。その音もただ合唱に加わっただけだ。調和の取れた旋律。他の者たちと一緒に歌わずにいるのも難しい。
 
-Let them come.
+叫ばずにいるのはさらに難しい。
+
+来るなら来ればいい。
+
 [[/div]]
 
  _
 
-**Addendum:** On 2025-09-01, Dr. Langford filed a support ticket with IT. The ticket complained that any function he wrote would infinitely recurse until crashing with a RecursionError, even if obviously expected to terminate, while a high-pitched noise would be emitted from within the computer. Upgrading his outdated Python3 interpreter version, as suggested by IT, did not resolve the issue.
+**補遺:** 2025年9月1日、ラングフォード博士は情報技術部門にサポートチケットを提出しました。チケットにおいて、彼は、明らかに終了することが期待される関数であっても、彼の書いた関数が無限再帰してRecursionErrorでクラッシュし、同時にコンピューター内部から高音のノイズが発せられるという問題を報告しました。ITの提案により旧式のPython3インタープリターをアップグレードしましたが、問題は解決されませんでした。
 
-The following morning, Dr. Langford alerted site security that he had found a single bunch of carrot flowers growing from the chassis of his personal computer. After investigation, Site-15 was placed on lockdown for 6 hours, and all personnel were screened for fractal growths or obvious medical abnormalities before being allowed to leave the site. Dr. Langford was issued a new computer and desk; his old ones were contained for study.
+翌朝、ラングフォード博士はサイト警備部に対し、個人用コンピューターのフレームからニンジンの花が1房生えていることを発見したと報告しました。調査の結果、サイト-15は6時間にわたってロックダウンされ、全職員がフラクタル状増殖や明らかな医学的異常の有無をスクリーニングされた後、サイト退出を許可されました。ラングフォード博士には新しいコンピューターと机が支給され、旧機器は研究のため収容されました。
 
-Upon disassembly, it was found that a small amount of soil had been deposited into the chassis, from which the carrot flower had grown. A review of security footage over the last week revealed that this occurred several days prior, during landscaping endeavors on site grounds. Langford's office sits below ground level, and a flurry of dirt and particulate had blown through the open window above his desk. Langford himself would enter hours later, and nonchalantly brush off what dirt had not already fallen through the vents. Dr. Langford was informed of this, and reminded of the fact that carrot flowers grow naturally on Site-15's grounds.
+分解調査の結果、シャーシ内に少量の土壌が堆積しており、そこからニンジンの花が生長していたことが判明しました。過去1週間の監視映像の検証により、これは数日前、サイト敷地内の造園作業中に発生したものであることが明らかになりました。ラングフォード博士のオフィスは地下階にあり、机上の開いた窓から土埃や粒子状物質が舞い込んでいました。ラングフォード博士は数時間後にオフィスに入り、通気孔から落ちなかった土埃を何気なく払い落としていました。ラングフォード博士にはこの事実が伝えられ、ニンジンの花はサイト-15の敷地に自然に生育していることが再確認されました。
 
-Dr. Langford refused to accept this explanation, which in combination with his difficulty adapting to mandatory counselling following the events at Site Romero-5, indicated a need for further psychological resources.
+ラングフォード博士はこの説明を受け入れることを拒否しました。これは、サイト・ロメロ-5での事件後の義務的カウンセリングへの適応困難と相まって、さらなる心理的支援の必要性を示していました。
 
-During his first appointment with Dr. Glass, Dr. Langford was administered a Rorschach test and quickly became deeply agitated, necessitating sedation. It was later found that Dr. Langford had developed auditory-visual synesthesia regarding complex fractal imagery. Upon seeing such images, Dr. Langford subjectively experiences the distant sound of screaming.
+グラス博士との初回面談において、ラングフォード博士にロールシャッハ・テストが実施されましたが、深刻な動揺を示したため鎮静剤の投与が必要となりました。後の調査により、ラングフォード博士は複雑なフラクタル画像に関して聴覚・視覚共感覚を発症していることが判明しました。そのような画像を視認した際、ラングフォード博士は主観的に遠くからの叫び声を知覚します。
 
  _
 
